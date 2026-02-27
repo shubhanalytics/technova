@@ -22,10 +22,12 @@ async function init(){
 function buildTabs(data){
   const cats = Array.from(new Set(data.map(i=>i.category).filter(Boolean))).sort();
   tabsContainer.innerHTML = '';
+  const counts = data.reduce((acc,it)=>{ const k = it.category||'Uncategorized'; acc[k]=(acc[k]||0)+1; return acc },{});
   const total = data.length;
   const allBtn = document.createElement('button'); allBtn.className='tab active'; allBtn.dataset.category='All'; allBtn.textContent=`All (${total})`; tabsContainer.appendChild(allBtn);
   for(const c of cats){
-    const b = document.createElement('button'); b.className='tab'; b.dataset.category = c; b.textContent = c; tabsContainer.appendChild(b);
+    const count = counts[c] || 0;
+    const b = document.createElement('button'); b.className='tab'; b.dataset.category = c; b.textContent = `${c} (${count})`; tabsContainer.appendChild(b);
   }
   tabs = Array.from(tabsContainer.querySelectorAll('.tab'));
 }
