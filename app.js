@@ -94,7 +94,9 @@ function render(){
   for(const it of filtered){
     const card = document.createElement('article'); card.className='card';
     const h = document.createElement('h3');
-    const a = document.createElement('a'); a.href = it.url; a.target='_blank'; a.rel='noopener noreferrer'; a.textContent = it.name;
+    const a = document.createElement('a'); a.href = it.url; a.target='_blank'; a.rel='noopener noreferrer';
+    const displayName = (it.name||'').replace(/^["\u201C\u201D'`]+|["\u201C\u201D'`]+$/g,'').trim();
+    a.textContent = displayName || it.name;
     h.appendChild(a);
     const desc = document.createElement('div'); desc.className='muted'; desc.textContent = it.description || '';
     const meta = document.createElement('div'); meta.className='meta';
