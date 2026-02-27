@@ -1,37 +1,39 @@
 :root{
   --max-w:1200px;
-  --accent:#2563eb;
-  --muted:#6b7280;
-  --bg:#f6f8fb;
-  --card-bg:#ffffff;
-  --glass: rgba(255,255,255,0.6);
+  --accent:#8b5cf6; /* violet accent */
+  --muted:#9aa4b2;
+  --bg-1:#071033; /* deep navy */
+  --bg-2:#081638; /* slightly lighter */
+  --card-bg:rgba(255,255,255,0.03);
+  --glass: rgba(255,255,255,0.04);
+  --glass-2: rgba(255,255,255,0.02);
+  --card-border: rgba(255,255,255,0.04);
 }
 *{box-sizing:border-box}
-body{font-family:Inter,Segoe UI,Arial,Helvetica,sans-serif;margin:0;background:var(--bg);color:#0f172a}
+.body-wrapper{font-family:Inter,Segoe UI,Arial,Helvetica,sans-serif;margin:0;color:#e6eef8}
 .container{max-width:var(--max-w);margin:28px auto;padding:0 18px}
-.site-header{background:linear-gradient(90deg,var(--accent),#1f7ae1);color:white;padding:26px 0;box-shadow:0 6px 18px rgba(15,23,42,0.08)}
-.logo{margin:0;font-size:36px;font-weight:800;letter-spacing:-1px;font-family:Inter,ui-sans-serif,system-ui,-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,"Helvetica Neue",Arial;display:flex;align-items:center;gap:12px}
-.logo .brand-accent{background:linear-gradient(90deg,#7c3aed,#06b6d4);-webkit-background-clip:text;background-clip:text;color:transparent}
-.tagline{margin:6px 0 0;color:rgba(255,255,255,0.95);font-weight:500}
+.site-header{background:linear-gradient(180deg,var(--bg-1),var(--bg-2));color:var(--muted);padding:34px 0;box-shadow:0 10px 30px rgba(2,6,23,0.6);position:relative;overflow:hidden;border-bottom:1px solid rgba(255,255,255,0.03)}
+.logo{margin:0;font-size:40px;font-weight:800;letter-spacing:-1px;font-family:Inter,ui-sans-serif,system-ui,-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,"Helvetica Neue",Arial;display:flex;align-items:center;gap:12px;color:var(--muted)}
+.logo .brand-accent{background:linear-gradient(90deg,#8b5cf6,#06b6d4);-webkit-background-clip:text;background-clip:text;color:transparent}
+.tagline{margin:8px 0 0;color:var(--muted);font-weight:600;opacity:0.95}
 .controls{display:flex;flex-direction:column;gap:14px;margin:20px 0}
 .tabs{display:flex;gap:8px;flex-wrap:wrap}
-.tab{background:transparent;border:1px solid rgba(15,23,42,0.06);padding:8px 14px;border-radius:999px;cursor:pointer;color:var(--muted);font-weight:600}
-.tab.active{background:var(--card-bg);color:var(--accent);border-color:transparent;box-shadow:0 4px 16px rgba(37,99,235,0.08)}
+.tab{background:transparent;border:1px solid var(--card-border);padding:8px 14px;border-radius:999px;cursor:pointer;color:var(--muted);font-weight:600}
+.tab.active{background:linear-gradient(90deg,rgba(139,92,246,0.12),rgba(6,182,212,0.06));color:var(--accent);border-color:transparent;box-shadow:0 8px 26px rgba(11,22,64,0.45)}
 .filters{display:flex;gap:10px;flex-wrap:wrap;align-items:center}
-#search{flex:1;min-width:200px;padding:10px 12px;border-radius:10px;border:1px solid rgba(15,23,42,0.06);box-shadow:inset 0 1px 0 rgba(15,23,42,0.02);font-size:15px}
-select{padding:10px;border-radius:10px;border:1px solid rgba(15,23,42,0.06);background:var(--card-bg)}
-.list{display:grid;grid-template-columns:repeat(auto-fill,minmax(260px,1fr));gap:14px;margin-top:14px}
-.card{background:var(--card-bg);padding:14px;border-radius:12px;border:1px solid rgba(15,23,42,0.04);box-shadow:0 6px 18px rgba(15,23,42,0.04);transition:transform .16s ease,box-shadow .16s ease}
-.card:hover{transform:translateY(-6px);box-shadow:0 18px 40px rgba(15,23,42,0.08)}
-.card h3{margin:0 0 8px;font-size:16px}
-.card a{color:var(--accent);text-decoration:none;font-weight:600}
-.card a:hover{color:#164ea6;text-decoration:underline}
+#search{flex:1;min-width:220px;padding:12px 14px;border-radius:12px;border:1px solid rgba(255,255,255,0.04);box-shadow:inset 0 1px 0 rgba(255,255,255,0.01);font-size:15px;background:rgba(255,255,255,0.02);color:var(--muted)}
+select{padding:10px;border-radius:10px;border:1px solid rgba(255,255,255,0.04);background:transparent;color:var(--muted)}
+.list{display:grid;grid-template-columns:repeat(auto-fill,minmax(260px,1fr));gap:18px;margin-top:18px}
+.card{background:linear-gradient(180deg, rgba(255,255,255,0.02), rgba(255,255,255,0.01));padding:16px;border-radius:14px;border:1px solid var(--card-border);box-shadow:0 10px 30px rgba(2,6,23,0.6);transition:transform .18s ease,box-shadow .18s ease}
+.card:hover{transform:translateY(-8px);box-shadow:0 26px 60px rgba(2,6,23,0.7)}
+.card h3{margin:0 0 8px;font-size:18px;color:#eaf2ff}
+.card a{color:var(--accent);text-decoration:none;font-weight:700}
+.card a:hover{color:#6b21a8;text-decoration:underline}
 .muted{color:var(--muted);font-size:13px}
-.meta{display:flex;gap:8px;flex-wrap:wrap;margin-top:10px}
-.meta{display:flex;gap:8px;flex-wrap:wrap;margin-top:10px;align-items:center}
+.meta{display:flex;gap:8px;flex-wrap:wrap;margin-top:12px;align-items:center}
 .meta > *{display:inline-flex;align-items:center}
-.pill{background:#eef2ff;color:var(--accent);padding:6px 10px;border-radius:999px;font-size:12px;font-weight:600;line-height:1}
-.pill.domain{background:#f0fdf4;color:#166534}
+.pill{background:linear-gradient(90deg,rgba(139,92,246,0.08),rgba(6,182,212,0.04));color:var(--accent);padding:6px 10px;border-radius:999px;font-size:12px;font-weight:700;line-height:1}
+.pill.domain{background:linear-gradient(90deg,rgba(16,185,129,0.06),rgba(16,185,129,0.03));color:#10b981}
 .footer{margin:28px 0;color:var(--muted);font-size:13px}
 
 /* small entrance animation */
@@ -50,6 +52,12 @@ select:focus{box-shadow:0 8px 24px rgba(37,99,235,0.08);outline:none}
 /* subtle gradient background stripes for depth */
 body::before{content:"";position:fixed;left:0;right:0;top:0;height:220px;background:linear-gradient(180deg,rgba(37,99,235,0.06),transparent);pointer-events:none}
 
+/* cosmic stars background */
+body::after{content:"";position:fixed;inset:0;background-image:radial-gradient(rgba(255,255,255,0.02) 1px, transparent 1px), radial-gradient(rgba(255,255,255,0.015) 1px, transparent 1px);background-size:180px 180px, 90px 90px;opacity:0.8;mix-blend-mode:overlay;pointer-events:none}
+
+/* dark page background */
+html,body{height:100%;background:linear-gradient(180deg,var(--bg-1),var(--bg-2));}
+
 /* responsive tweaks */
 @media (max-width:900px){.container{padding:0 12px}.list{grid-template-columns:repeat(auto-fill,minmax(220px,1fr))}}
-@media (max-width:600px){.controls{gap:10px}.filters{flex-direction:column;align-items:stretch}#search{width:100%}}
+@media (max-width:600px){.controls{gap:10px}.filters{flex-direction:column;align-items:stretch}#search{width:100%}.logo{font-size:28px}}
