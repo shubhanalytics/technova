@@ -13,10 +13,32 @@ const domainSelect = document.getElementById('domainSelect');
 async function init(){
   const res = await fetch(DATA_URL);
   items = await res.json();
+  initTheme();
   populateFilters(items);
   buildTabs(items);
   attachEvents();
   render();
+}
+
+// Theme toggle: light/dark with localStorage
+function initTheme(){
+  const btn = document.getElementById('themeToggle');
+  const saved = localStorage.getItem('technova:theme');
+  if(saved === 'light') document.documentElement.classList.add('light');
+  btn?.addEventListener('click', ()=>{
+    const isLight = document.documentElement.classList.toggle('light');
+    btn.setAttribute('aria-pressed', String(isLight));
+    localStorage.setItem('technova:theme', isLight ? 'light' : 'dark');
+  });
+}
+
+// sanitize URLs to avoid javascript: or data: XSS
+function safeUrl(u){
+  try{
+    const url = new URL(u, location.origin);
+    if(['http:','https:'].includes(url.protocol)) return url.href;
+  }catch(e){ /* ignore */ }
+  return '#';
 }
 
 function buildTabs(data){
@@ -132,7 +154,7 @@ function render(){
   for(const it of filtered){
     const card = document.createElement('article'); card.className='card';
     const h = document.createElement('h3');
-    const a = document.createElement('a'); a.href = it.url; a.target='_blank'; a.rel='noopener noreferrer';
+    const a = document.createElement('a'); a.href = safeUrl(it.url || ''); a.target='_blank'; a.rel='noopener noreferrer';
     const displayName = (it.name||'').replace(/^["\u201C\u201D'`]+|["\u201C\u201D'`]+$/g,'').trim();
     a.textContent = displayName || it.name;
     h.appendChild(a);
