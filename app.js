@@ -6,14 +6,26 @@ const searchEl = document.getElementById('search');
 const sectorSelect = document.getElementById('sectorSelect');
 const countrySelect = document.getElementById('countrySelect');
 const sortSelect = document.getElementById('sortSelect');
-const tabs = Array.from(document.querySelectorAll('.tab'));
+const tabsContainer = document.getElementById('categoryTabs');
+let tabs = [];
 
 async function init(){
   const res = await fetch(DATA_URL);
   items = await res.json();
   populateFilters(items);
+  buildTabs(items);
   attachEvents();
   render();
+}
+
+function buildTabs(data){
+  const cats = Array.from(new Set(data.map(i=>i.category).filter(Boolean))).sort();
+  tabsContainer.innerHTML = '';
+  const allBtn = document.createElement('button'); allBtn.className='tab active'; allBtn.dataset.category='All'; allBtn.textContent='All'; tabsContainer.appendChild(allBtn);
+  for(const c of cats){
+    const b = document.createElement('button'); b.className='tab'; b.dataset.category = c; b.textContent = c; tabsContainer.appendChild(b);
+  }
+  tabs = Array.from(tabsContainer.querySelectorAll('.tab'));
 }
 
 function populateFilters(data){
