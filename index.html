@@ -1,0 +1,47 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width,initial-scale=1" />
+    <title>technova — Discover tech at a glance</title>
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <header class="site-header">
+      <div class="container">
+        <h1 class="logo">technova</h1>
+        <p class="tagline">All tech names, one simple directory</p>
+      </div>
+    </header>
+
+    <main class="container">
+      <section class="controls">
+        <div class="tabs" role="tablist" aria-label="Categories">
+          <button class="tab active" data-category="All">All</button>
+          <button class="tab" data-category="Programming Language">Programming Languages</button>
+          <button class="tab" data-category="Tool">Tools</button>
+          <button class="tab" data-category="Framework">Frameworks</button>
+          <button class="tab" data-category="Startup">Startups</button>
+        </div>
+
+        <div class="filters">
+          <input id="search" placeholder="Search by name or description" />
+          <select id="sectorSelect"><option value="">All sectors</option></select>
+          <select id="countrySelect"><option value="">All countries</option></select>
+          <select id="sortSelect">
+            <option value="name_asc">Sort: Name ↑</option>
+            <option value="name_desc">Sort: Name ↓</option>
+            <option value="country_asc">Sort: Country ↑</option>
+          </select>
+        </div>
+      </section>
+
+      <section id="list" class="list"></section>
+      <footer class="footer">
+        <p>Simple directory — no login. Click any item to open its site.</p>
+      </footer>
+    </main>
+
+    <script src="app.js" type="module"></script>
+  </body>
+</html>
