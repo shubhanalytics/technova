@@ -28,6 +28,22 @@ select{padding:10px;border-radius:10px;border:1px solid rgba(15,23,42,0.06);back
 .pill{background:#eef2ff;color:var(--accent);padding:6px 10px;border-radius:999px;font-size:12px;font-weight:600}
 .footer{margin:28px 0;color:var(--muted);font-size:13px}
 
+/* small entrance animation */
+@keyframes fadeInUp {
+  from { opacity: 0; transform: translateY(8px); }
+  to { opacity: 1; transform: translateY(0); }
+}
+.card{animation: fadeInUp .28s ease both}
+
+/* focus / hover polish */
+#search:focus{box-shadow:0 6px 24px rgba(37,99,235,0.12);outline:none}
+.tab{transition:all .18s ease}
+select{transition:box-shadow .12s ease}
+select:focus{box-shadow:0 8px 24px rgba(37,99,235,0.08);outline:none}
+
+/* subtle gradient background stripes for depth */
+body::before{content:"";position:fixed;left:0;right:0;top:0;height:220px;background:linear-gradient(180deg,rgba(37,99,235,0.06),transparent);pointer-events:none}
+
 /* responsive tweaks */
 @media (max-width:900px){.container{padding:0 12px}.list{grid-template-columns:repeat(auto-fill,minmax(220px,1fr))}}
 @media (max-width:600px){.controls{gap:10px}.filters{flex-direction:column;align-items:stretch}#search{width:100%}}
