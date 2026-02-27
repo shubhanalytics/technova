@@ -576,6 +576,14 @@
     "description": ""
   },
   {
+    "name": "B",
+    "url": "https://github.com/wgibbs-rs/blang",
+    "category": "Programming Language",
+    "sector": "",
+    "country": "",
+    "description": ""
+  },
+  {
     "name": "Babbage",
     "url": "https://web.archive.org/web/20200223123838/http://www.cucumber.demon.co.uk:80/geccl/",
     "category": "Programming Language",
@@ -702,6 +710,14 @@
     "sector": "",
     "country": "",
     "description": ""
+  },
+  {
+    "name": "C",
+    "url": "https://www.c-language.org/",
+    "category": "Programming Language",
+    "sector": "Systems",
+    "country": "Worldwide",
+    "description": "Low-level systems programming language"
   },
   {
     "name": "C Shell (csh)",
@@ -1072,6 +1088,22 @@
     "description": ""
   },
   {
+    "name": "Component Pascal",
+    "url": "http://blackboxframework.org",
+    "category": "Programming Language",
+    "sector": "",
+    "country": "",
+    "description": ""
+  },
+  {
+    "name": "Computer programming",
+    "url": "https://en.wikibooks.org/wiki/Special:Search/Computer_programming",
+    "category": "Programming Language",
+    "sector": "",
+    "country": "",
+    "description": ""
+  },
+  {
     "name": "Computer Sciences Corporation",
     "url": "http://www.csc.com/",
     "category": "Programming Language",
@@ -1218,6 +1250,14 @@
   {
     "name": "Céu",
     "url": "http://www.ceu-lang.org/",
+    "category": "Programming Language",
+    "sector": "",
+    "country": "",
+    "description": ""
+  },
+  {
+    "name": "D",
+    "url": "http://dlang.org",
     "category": "Programming Language",
     "sector": "",
     "country": "",
@@ -1378,6 +1418,22 @@
   {
     "name": "DYNAMO",
     "url": "https://web.archive.org/web/20110309023917/http://hopl.murdoch.edu.au/showlanguage.prx?exp=61&language=DYNAMO",
+    "category": "Programming Language",
+    "sector": "",
+    "country": "",
+    "description": ""
+  },
+  {
+    "name": "e",
+    "url": "http://erights.org",
+    "category": "Programming Language",
+    "sector": "",
+    "country": "",
+    "description": ""
+  },
+  {
+    "name": "Ease",
+    "url": "https://books.google.com/books?id=8GssNAAACAAJ",
     "category": "Programming Language",
     "sector": "",
     "country": "",
@@ -1594,6 +1650,14 @@
   {
     "name": "Ezhil",
     "url": "http://ezhillang.org",
+    "category": "Programming Language",
+    "sector": "",
+    "country": "",
+    "description": ""
+  },
+  {
+    "name": "F",
+    "url": "http://www.fortran.com/F/index.html",
     "category": "Programming Language",
     "sector": "",
     "country": "",
@@ -2248,6 +2312,14 @@
     "description": ""
   },
   {
+    "name": "J",
+    "url": "http://www.jsoftware.com",
+    "category": "Programming Language",
+    "sector": "",
+    "country": "",
+    "description": ""
+  },
+  {
     "name": "J# (J sharp)",
     "url": "http://msdn2.microsoft.com/en-us/vjsharp/default.aspx",
     "category": "Programming Language",
@@ -2434,6 +2506,14 @@
   {
     "name": "Jython",
     "url": "https://www.jython.org/",
+    "category": "Programming Language",
+    "sector": "",
+    "country": "",
+    "description": ""
+  },
+  {
+    "name": "K",
+    "url": "http://kx.com",
     "category": "Programming Language",
     "sector": "",
     "country": "",
@@ -3640,6 +3720,14 @@
     "description": ""
   },
   {
+    "name": "P",
+    "url": "https://p-org.github.io/P/",
+    "category": "Programming Language",
+    "sector": "",
+    "country": "",
+    "description": ""
+  },
+  {
     "name": "P4",
     "url": "https://p4.org",
     "category": "Programming Language",
@@ -4016,6 +4104,14 @@
     "description": ""
   },
   {
+    "name": "programming languages",
+    "url": "https://www.google.com/search?as_eq=wikipedia&q=%22Programming+language%22",
+    "category": "Programming Language",
+    "sector": "",
+    "country": "",
+    "description": ""
+  },
+  {
     "name": "Prograph",
     "url": "http://www.mactech.com/articles/mactech/Vol.10/10.11/PrographCPXTutorial/",
     "category": "Programming Language",
@@ -4160,6 +4256,30 @@
     "description": ""
   },
   {
+    "name": "Quotations",
+    "url": "https://en.wikiquote.org/wiki/Special:Search/Programming_languages",
+    "category": "Programming Language",
+    "sector": "",
+    "country": "",
+    "description": ""
+  },
+  {
+    "name": "R",
+    "url": "https://www.r-project.org/",
+    "category": "Programming Language",
+    "sector": "Data Science",
+    "country": "Worldwide",
+    "description": "Statistical computing language"
+  },
+  {
+    "name": "Racket",
+    "url": "https://racket-lang.org/",
+    "category": "Programming Language",
+    "sector": "",
+    "country": "",
+    "description": ""
+  },
+  {
     "name": "Raku",
     "url": "https://raku.org/",
     "category": "Programming Language",
@@ -4240,6 +4360,14 @@
     "description": ""
   },
   {
+    "name": "Resources",
+    "url": "https://en.wikiversity.org/wiki/Special:Search/Programming_languages",
+    "category": "Programming Language",
+    "sector": "",
+    "country": "",
+    "description": ""
+  },
+  {
     "name": "REXX",
     "url": "https://en.wikibooks.org/wiki/Rexx_Programming",
     "category": "Programming Language",
@@ -4294,6 +4422,14 @@
     "sector": "Systems",
     "country": "Worldwide",
     "description": "Memory-safe systems programming language"
+  },
+  {
+    "name": "S",
+    "url": "https://web.archive.org/web/20181014111802/http://ect.bell-labs.com/sl/S/",
+    "category": "Programming Language",
+    "sector": "",
+    "country": "",
+    "description": ""
   },
   {
     "name": "S-Lang",
@@ -4848,6 +4984,14 @@
     "description": ""
   },
   {
+    "name": "t",
+    "url": "http://mumble.net/~jar/tproject",
+    "category": "Programming Language",
+    "sector": "",
+    "country": "",
+    "description": ""
+  },
+  {
     "name": "T-SQL (Transact-SQL)",
     "url": "https://docs.microsoft.com/en-us/sql/t-sql/language-reference",
     "category": "Programming Language",
@@ -4930,6 +5074,14 @@
   {
     "name": "Textbooks",
     "url": "https://en.wikibooks.org/wiki/Computer_Programming/Language_concepts",
+    "category": "Programming Language",
+    "sector": "",
+    "country": "",
+    "description": ""
+  },
+  {
+    "name": "their own page",
+    "url": "http://basic.mindteq.com/",
     "category": "Programming Language",
     "sector": "",
     "country": "",
@@ -5074,6 +5226,14 @@
   {
     "name": "UnrealScript",
     "url": "https://www.unrealengine.com/",
+    "category": "Programming Language",
+    "sector": "",
+    "country": "",
+    "description": ""
+  },
+  {
+    "name": "v",
+    "url": "https://vlang.io",
     "category": "Programming Language",
     "sector": "",
     "country": "",
@@ -6040,6 +6200,14 @@
     "description": ""
   },
   {
+    "name": "\"Fossil SCM - Lightweight self hosting web based distributed issue tracker Wiki and version control\"",
+    "url": "http://www.gcat.org.uk/blog/?p=560",
+    "category": "Tool",
+    "sector": "",
+    "country": "",
+    "description": ""
+  },
+  {
     "name": "\"geany.org\"",
     "url": "https://www.geany.org/documentation/releasenotes/",
     "category": "Tool",
@@ -6448,6 +6616,14 @@
     "description": ""
   },
   {
+    "name": "\"Patch #2 Released for V2.7.1\"",
+    "url": "http://www.exponentcms.org/news/patch-2-released-for-v2-7-1",
+    "category": "Tool",
+    "sector": "",
+    "country": "",
+    "description": ""
+  },
+  {
     "name": "\"Pelles C Download\"",
     "url": "http://www.smorgasbordet.com/pellesc/download.htm",
     "category": "Tool",
@@ -6578,6 +6754,14 @@
   {
     "name": "\"Prerequisites and system requirements\"",
     "url": "https://academy.jahia.com/documentation/system-administrator/jahia/8/installing-and-configuring-jahia/installing-configuring-and-troubleshooting-jahia/prerequisites-and-system-requirements",
+    "category": "Tool",
+    "sector": "",
+    "country": "",
+    "description": ""
+  },
+  {
+    "name": "\"processwire/processwire commits\"",
+    "url": "https://github.com/processwire/processwire/commits/master/",
     "category": "Tool",
     "sector": "",
     "country": "",
@@ -7256,6 +7440,14 @@
     "description": ""
   },
   {
+    "name": "\"Textpattern 4.9.1 released: security fixes, patches and tweaks\"",
+    "url": "https://textpattern.com/weblog/textpattern-491-released-security-fixes-patches-and-tweaks",
+    "category": "Tool",
+    "sector": "",
+    "country": "",
+    "description": ""
+  },
+  {
     "name": "\"TextWrangler\"",
     "url": "http://www.barebones.com/products/textwrangler",
     "category": "Tool",
@@ -7432,8 +7624,24 @@
     "description": ""
   },
   {
+    "name": "0-87142-021-X",
+    "url": "https://en.wikipedia.org/wiki/Special:BookSources/0-87142-021-X",
+    "category": "Tool",
+    "sector": "",
+    "country": "",
+    "description": ""
+  },
+  {
     "name": "10.1145/3563835.3567663",
     "url": "https://doi.org/10.1145%2F3563835.3567663",
+    "category": "Tool",
+    "sector": "",
+    "country": "",
+    "description": ""
+  },
+  {
+    "name": "2-clause BSD license",
+    "url": "https://en.wikipedia.org/wiki/BSD_licence",
     "category": "Tool",
     "sector": "",
     "country": "",
@@ -7448,6 +7656,14 @@
     "description": ""
   },
   {
+    "name": "2210.11124",
+    "url": "https://arxiv.org/abs/2210.11124",
+    "category": "Tool",
+    "sector": "",
+    "country": "",
+    "description": ""
+  },
+  {
     "name": "24SevenOffice",
     "url": "https://en.wikipedia.org/wiki/24SevenOffice",
     "category": "Tool",
@@ -7456,8 +7672,40 @@
     "description": ""
   },
   {
+    "name": "3D-Calc",
+    "url": "https://en.wikipedia.org/wiki/3D-Calc",
+    "category": "Tool",
+    "sector": "",
+    "country": "",
+    "description": ""
+  },
+  {
+    "name": "4680 OS",
+    "url": "https://en.wikipedia.org/wiki/4680_OS",
+    "category": "Tool",
+    "sector": "",
+    "country": "",
+    "description": ""
+  },
+  {
+    "name": "4690 OS",
+    "url": "https://en.wikipedia.org/wiki/4690_OS",
+    "category": "Tool",
+    "sector": "",
+    "country": "",
+    "description": ""
+  },
+  {
     "name": "86-DOS",
     "url": "https://en.wikipedia.org/wiki/86-DOS",
+    "category": "Tool",
+    "sector": "",
+    "country": "",
+    "description": ""
+  },
+  {
+    "name": "978-1-4503-9909-8",
+    "url": "https://en.wikipedia.org/wiki/Special:BookSources/978-1-4503-9909-8",
     "category": "Tool",
     "sector": "",
     "country": "",
@@ -8008,6 +8256,14 @@
     "description": ""
   },
   {
+    "name": "Articles with multiple maintenance issues",
+    "url": "https://en.wikipedia.org/wiki/Category:Articles_with_multiple_maintenance_issues",
+    "category": "Tool",
+    "sector": "",
+    "country": "",
+    "description": ""
+  },
+  {
     "name": "Articles with obsolete information from January 2020",
     "url": "https://en.wikipedia.org/wiki/Category:Articles_with_obsolete_information_from_January_2020",
     "category": "Tool",
@@ -8137,6 +8393,14 @@
   },
   {
     "name": "Auto-complete",
+    "url": "http://justaddwater.dk/2006/01/26/live-search-explained/",
+    "category": "Tool",
+    "sector": "",
+    "country": "",
+    "description": ""
+  },
+  {
+    "name": "Autocomplete",
     "url": "http://justaddwater.dk/2006/01/26/live-search-explained/",
     "category": "Tool",
     "sector": "",
@@ -8640,6 +8904,22 @@
     "description": ""
   },
   {
+    "name": "Cite Q",
+    "url": "https://en.wikipedia.org/wiki/Template:Cite_Q",
+    "category": "Tool",
+    "sector": "",
+    "country": "",
+    "description": ""
+  },
+  {
+    "name": "cite web",
+    "url": "https://en.wikipedia.org/wiki/Template:Cite_web",
+    "category": "Tool",
+    "sector": "",
+    "country": "",
+    "description": ""
+  },
+  {
     "name": "clarification needed",
     "url": "https://en.wikipedia.org/wiki/Wikipedia:Please_clarify",
     "category": "Tool",
@@ -9136,6 +9416,14 @@
     "description": ""
   },
   {
+    "name": "ContentBox Modular CMS",
+    "url": "https://en.wikipedia.org/wiki/ContentBox_Modular_CMS",
+    "category": "Tool",
+    "sector": "",
+    "country": "",
+    "description": ""
+  },
+  {
     "name": "Contentful",
     "url": "https://en.wikipedia.org/wiki/Contentful",
     "category": "Tool",
@@ -9202,6 +9490,14 @@
   {
     "name": "Crimson Editor",
     "url": "https://en.wikipedia.org/wiki/Crimson_Editor",
+    "category": "Tool",
+    "sector": "",
+    "country": "",
+    "description": ""
+  },
+  {
+    "name": "Cross-platform",
+    "url": "https://www.wikidata.org/wiki/Special:EntityPage/Q131308722",
     "category": "Tool",
     "sector": "",
     "country": "",
@@ -9584,6 +9880,14 @@
     "description": ""
   },
   {
+    "name": "Dynacalc",
+    "url": "https://en.wikipedia.org/wiki/OS-9",
+    "category": "Tool",
+    "sector": "",
+    "country": "",
+    "description": ""
+  },
+  {
     "name": "Dynadot",
     "url": "https://en.wikipedia.org/wiki/Dynadot",
     "category": "Tool",
@@ -9682,6 +9986,14 @@
   {
     "name": "Eddie",
     "url": "https://en.wikipedia.org/wiki/Eddie_(text_editor)",
+    "category": "Tool",
+    "sector": "",
+    "country": "",
+    "description": ""
+  },
+  {
+    "name": "edit",
+    "url": "https://en.wikipedia.org/w/index.php?title=List_of_programming_languages&action=edit&section=1",
     "category": "Tool",
     "sector": "",
     "country": "",
@@ -10072,6 +10384,14 @@
     "description": ""
   },
   {
+    "name": "Flash Builder",
+    "url": "https://www.adobe.com/products/flash-builder-family.html",
+    "category": "Tool",
+    "sector": "",
+    "country": "",
+    "description": ""
+  },
+  {
     "name": "Flat-file database",
     "url": "https://en.wikipedia.org/wiki/Flat-file_database",
     "category": "Tool",
@@ -10178,6 +10498,14 @@
   {
     "name": "Freenom",
     "url": "https://en.wikipedia.org/wiki/Freenom",
+    "category": "Tool",
+    "sector": "",
+    "country": "",
+    "description": ""
+  },
+  {
+    "name": "Freeware",
+    "url": "https://en.wiktionary.org/wiki/Special:Search/freeware",
     "category": "Tool",
     "sector": "",
     "country": "",
@@ -10664,6 +10992,14 @@
     "description": ""
   },
   {
+    "name": "GroupOffice",
+    "url": "https://en.wikipedia.org/wiki/GroupOffice",
+    "category": "Tool",
+    "sector": "",
+    "country": "",
+    "description": ""
+  },
+  {
     "name": "GTK#",
     "url": "https://gtk.org",
     "category": "Tool",
@@ -10858,6 +11194,14 @@
   {
     "name": "https://blog.spip.net/Mise-a-jour-corrective-sortie-de-SPIP-4-4-11.html",
     "url": "https://blog.spip.net/Mise-a-jour-corrective-sortie-de-SPIP-4-4-11.html",
+    "category": "Tool",
+    "sector": "",
+    "country": "",
+    "description": ""
+  },
+  {
+    "name": "https://en.wikipedia.org/w/index.php?title=Comparison_of_integrated_development_environments&oldid=1340590496",
+    "url": "https://en.wikipedia.org/w/index.php?title=List_of_programming_languages&action=edit&section=1",
     "category": "Tool",
     "sector": "",
     "country": "",
@@ -11072,6 +11416,14 @@
     "description": ""
   },
   {
+    "name": "improve it",
+    "url": "https://en.wikipedia.org/wiki/Special:EditPage/Comparison_of_integrated_development_environments",
+    "category": "Tool",
+    "sector": "",
+    "country": "",
+    "description": ""
+  },
+  {
     "name": "in-Step BLUE",
     "url": "https://en.wikipedia.org/wiki/In-Step_BLUE",
     "category": "Tool",
@@ -11202,6 +11554,14 @@
   {
     "name": "ISPConfig",
     "url": "https://en.wikipedia.org/wiki/ISPConfig",
+    "category": "Tool",
+    "sector": "",
+    "country": "",
+    "description": ""
+  },
+  {
+    "name": "Issue tracking system",
+    "url": "https://en.wikipedia.org/wiki/Issue_tracking_system",
     "category": "Tool",
     "sector": "",
     "country": "",
@@ -11354,6 +11714,14 @@
   {
     "name": "Julia extension",
     "url": "https://marketplace.visualstudio.com/items?itemName=julialang.language-julia",
+    "category": "Tool",
+    "sector": "",
+    "country": "",
+    "description": ""
+  },
+  {
+    "name": "JVM",
+    "url": "https://inside.java/2025/01/28/jvm-start-up/",
     "category": "Tool",
     "sector": "",
     "country": "",
@@ -11584,6 +11952,14 @@
     "description": ""
   },
   {
+    "name": "Leafpad",
+    "url": "https://en.wikipedia.org/wiki/Leafpad",
+    "category": "Tool",
+    "sector": "",
+    "country": "",
+    "description": ""
+  },
+  {
     "name": "Leo",
     "url": "https://en.wikipedia.org/wiki/Leo_(text_editor)",
     "category": "Tool",
@@ -11777,6 +12153,14 @@
   },
   {
     "name": "Lotus 1-2-3",
+    "url": "https://en.wikipedia.org/wiki/Lotus_123",
+    "category": "Tool",
+    "sector": "",
+    "country": "",
+    "description": ""
+  },
+  {
+    "name": "Lotus 123",
     "url": "https://en.wikipedia.org/wiki/Lotus_123",
     "category": "Tool",
     "sector": "",
@@ -13016,6 +13400,14 @@
     "description": ""
   },
   {
+    "name": "Oracle Solaris Studio",
+    "url": "http://www.oracle.com/technetwork/server-storage/developerstudio/overview",
+    "category": "Tool",
+    "sector": "",
+    "country": "",
+    "description": ""
+  },
+  {
     "name": "Oracle WebCenter Content",
     "url": "https://en.wikipedia.org/wiki/Oracle_WebCenter",
     "category": "Tool",
@@ -13314,6 +13706,14 @@
   {
     "name": "phpWebLog",
     "url": "https://en.wikipedia.org/wiki/PhpWebLog",
+    "category": "Tool",
+    "sector": "",
+    "country": "",
+    "description": ""
+  },
+  {
+    "name": "PhpWiki",
+    "url": "https://en.wikipedia.org/wiki/PhpWiki",
     "category": "Tool",
     "sector": "",
     "country": "",
@@ -13898,6 +14298,14 @@
   {
     "name": "Redmine",
     "url": "https://en.wikipedia.org/wiki/Redmine",
+    "category": "Tool",
+    "sector": "",
+    "country": "",
+    "description": ""
+  },
+  {
+    "name": "Refactoring",
+    "url": "http://c2.com/cgi/wiki?WhatIsRefactoring",
     "category": "Tool",
     "sector": "",
     "country": "",
@@ -14872,6 +15280,14 @@
     "description": ""
   },
   {
+    "name": "Textadept",
+    "url": "https://orbitalquark.github.io/textadept",
+    "category": "Tool",
+    "sector": "",
+    "country": "",
+    "description": ""
+  },
+  {
     "name": "TextEdit",
     "url": "https://en.wikipedia.org/wiki/TextEdit",
     "category": "Tool",
@@ -14898,6 +15314,14 @@
   {
     "name": "Textpattern",
     "url": "https://en.wikipedia.org/wiki/Textpattern",
+    "category": "Tool",
+    "sector": "",
+    "country": "",
+    "description": ""
+  },
+  {
+    "name": "TextWrangler",
+    "url": "https://en.wikipedia.org/wiki/TextWrangler",
     "category": "Tool",
     "sector": "",
     "country": "",
@@ -15346,6 +15770,14 @@
   {
     "name": "Version control system",
     "url": "http://betterexplained.com/articles/a-visual-guide-to-version-control/",
+    "category": "Tool",
+    "sector": "",
+    "country": "",
+    "description": ""
+  },
+  {
+    "name": "vi",
+    "url": "https://ex-vi.sourceforge.net/",
     "category": "Tool",
     "sector": "",
     "country": "",
