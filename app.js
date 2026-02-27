@@ -70,12 +70,22 @@ function attachEvents(){
   countrySelect.addEventListener('change', render);
   sortSelect.addEventListener('change', render);
   domainSelect.addEventListener('change', render);
-  tabs.forEach(t=>t.addEventListener('click', onTabClick));
+  // use event delegation on the tabs container so clicks always work
+  tabsContainer.addEventListener('click', onTabContainerClick);
 }
 
 function onTabClick(e){
   tabs.forEach(t=>t.classList.remove('active'));
   e.currentTarget.classList.add('active');
+  render();
+}
+
+function onTabContainerClick(e){
+  const btn = e.target.closest('.tab');
+  if(!btn || !tabsContainer.contains(btn)) return;
+  if(btn.disabled) return;
+  tabs.forEach(t=>t.classList.remove('active'));
+  btn.classList.add('active');
   render();
 }
 
