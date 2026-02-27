@@ -32,6 +32,23 @@ function buildTabs(data){
   tabs = Array.from(tabsContainer.querySelectorAll('.tab'));
 }
 
+function updateTabCounts(filtered){
+  const counts = filtered.reduce((acc,it)=>{ const k = it.category||'Uncategorized'; acc[k]=(acc[k]||0)+1; return acc },{});
+  const total = filtered.length;
+  tabs.forEach(t=>{
+    const cat = t.dataset.category;
+    if(!cat) return;
+    if(cat === 'All'){
+      t.textContent = `All (${total})`;
+    } else {
+      const cnt = counts[cat] || 0;
+      t.textContent = `${cat} (${cnt})`;
+      t.disabled = cnt === 0;
+      t.style.opacity = cnt ? '1' : '0.5';
+    }
+  });
+}
+
 function populateFilters(data){
   const sectors = Array.from(new Set(data.map(i=>i.sector).filter(Boolean))).sort();
   const countries = Array.from(new Set(data.map(i=>i.country).filter(Boolean))).sort();
@@ -80,6 +97,9 @@ function render(){
     }
     return true;
   });
+
+  // update tab counts to reflect current filters/search
+  updateTabCounts(filtered);
 
   if(sort === 'name_asc') filtered.sort((a,b)=>a.name.localeCompare(b.name));
   else if(sort === 'name_desc') filtered.sort((a,b)=>b.name.localeCompare(a.name));
