@@ -14,6 +14,7 @@ async function init(){
   const res = await fetch(DATA_URL);
   items = await res.json();
   initTheme();
+  initMotionToggle();
   populateFilters(items);
   buildTabs(items);
   attachEvents();
@@ -30,6 +31,20 @@ function initTheme(){
     btn.setAttribute('aria-pressed', String(isLight));
     localStorage.setItem('technova:theme', isLight ? 'light' : 'dark');
   });
+}
+
+// reduce-motion toggle
+function initMotionToggle(){
+  const key = 'technova:reduced-motion';
+  const saved = localStorage.getItem(key) === '1';
+  if(saved) document.documentElement.classList.add('reduced-motion');
+  // respect prefers-reduced-motion by default
+  if(window.matchMedia && window.matchMedia('(prefers-reduced-motion: reduce)').matches) document.documentElement.classList.add('reduced-motion');
+  // expose a global toggle via data attribute for now
+  window.toggleReducedMotion = ()=>{
+    const is = document.documentElement.classList.toggle('reduced-motion');
+    localStorage.setItem(key, is ? '1' : '0');
+  };
 }
 
 // sanitize URLs to avoid javascript: or data: XSS

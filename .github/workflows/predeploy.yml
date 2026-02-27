@@ -1,0 +1,19 @@
+name: Predeploy checks
+
+on:
+  push:
+    branches: [ main ]
+
+jobs:
+  security-and-tests:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.x'
+      - name: Run security checks
+        run: python scripts/security_checks.py
+      - name: Run tests
+        run: pytest -q

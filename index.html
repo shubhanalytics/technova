@@ -2,6 +2,8 @@
 <html lang="en">
   <head>
     <meta charset="utf-8" />
+    <!-- Content Security Policy: restrict sources; adjust when adding external services -->
+    <meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'self'; connect-src 'self' https:; img-src 'self' data: https:; style-src 'self' 'unsafe-inline' https://fonts.googleapis.com; font-src 'self' https://fonts.gstatic.com;">
     <meta name="viewport" content="width=device-width,initial-scale=1" />
     <title>technova — Discover tech at a glance</title>
     <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600;700&display=swap" rel="stylesheet">
@@ -32,6 +34,7 @@
 
         <div class="header-actions">
           <button id="themeToggle" class="theme-toggle" aria-pressed="false" title="Toggle light / dark theme">🌗</button>
+          <button id="motionToggle" class="theme-toggle" aria-pressed="false" title="Reduce motion" onclick="window.toggleReducedMotion && window.toggleReducedMotion()">⚡</button>
         </div>
 
         <p class="tagline">Your map to the tech universe</p>

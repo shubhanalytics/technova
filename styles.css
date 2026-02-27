@@ -28,6 +28,10 @@
 .logo-svg .orbit {transform: rotate(0deg);}
 .logo-svg .orbit {animation: orbit-anim 8s linear infinite;}
 @keyframes orbit-anim { from { transform: rotate(0deg); } to { transform: rotate(360deg); } }
+.reduced-motion .logo-svg .orbit,
+@media (prefers-reduced-motion: reduce){
+  .logo-svg .orbit{animation: none !important}
+}
 .brand-badge{background:rgba(255,255,255,0.03);padding:6px 10px;border-radius:999px;color:var(--muted);font-weight:600}
 .header-actions{margin-left:auto}
 .theme-toggle{background:transparent;border:1px solid var(--card-border);padding:6px 10px;border-radius:8px;color:var(--muted);cursor:pointer}
