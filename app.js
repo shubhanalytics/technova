@@ -8,6 +8,7 @@ const countrySelect = document.getElementById('countrySelect');
 const sortSelect = document.getElementById('sortSelect');
 const tabsContainer = document.getElementById('categoryTabs');
 let tabs = [];
+const domainSelect = document.getElementById('domainSelect');
 
 async function init(){
   const res = await fetch(DATA_URL);
@@ -21,7 +22,8 @@ async function init(){
 function buildTabs(data){
   const cats = Array.from(new Set(data.map(i=>i.category).filter(Boolean))).sort();
   tabsContainer.innerHTML = '';
-  const allBtn = document.createElement('button'); allBtn.className='tab active'; allBtn.dataset.category='All'; allBtn.textContent='All'; tabsContainer.appendChild(allBtn);
+  const total = data.length;
+  const allBtn = document.createElement('button'); allBtn.className='tab active'; allBtn.dataset.category='All'; allBtn.textContent=`All (${total})`; tabsContainer.appendChild(allBtn);
   for(const c of cats){
     const b = document.createElement('button'); b.className='tab'; b.dataset.category = c; b.textContent = c; tabsContainer.appendChild(b);
   }
@@ -31,11 +33,15 @@ function buildTabs(data){
 function populateFilters(data){
   const sectors = Array.from(new Set(data.map(i=>i.sector).filter(Boolean))).sort();
   const countries = Array.from(new Set(data.map(i=>i.country).filter(Boolean))).sort();
+  const domains = Array.from(new Set((data.map(i=>i.domains||[])).flat().filter(Boolean))).sort();
   for(const s of sectors){
     const o = document.createElement('option'); o.value = s; o.textContent = s; sectorSelect.appendChild(o);
   }
   for(const c of countries){
     const o = document.createElement('option'); o.value = c; o.textContent = c; countrySelect.appendChild(o);
+  }
+  for(const d of domains){
+    const o = document.createElement('option'); o.value = d; o.textContent = d; domainSelect.appendChild(o);
   }
 }
 
@@ -44,6 +50,7 @@ function attachEvents(){
   sectorSelect.addEventListener('change', render);
   countrySelect.addEventListener('change', render);
   sortSelect.addEventListener('change', render);
+  domainSelect.addEventListener('change', render);
   tabs.forEach(t=>t.addEventListener('click', onTabClick));
 }
 
@@ -59,6 +66,7 @@ function render(){
   const country = countrySelect.value;
   const activeTab = document.querySelector('.tab.active')?.dataset?.category || 'All';
   const sort = sortSelect.value;
+  const domain = domainSelect?.value;
 
   let filtered = items.filter(it=>{
     if(activeTab !== 'All' && it.category !== activeTab) return false;
@@ -74,6 +82,11 @@ function render(){
   if(sort === 'name_asc') filtered.sort((a,b)=>a.name.localeCompare(b.name));
   else if(sort === 'name_desc') filtered.sort((a,b)=>b.name.localeCompare(a.name));
   else if(sort === 'country_asc') filtered.sort((a,b)=> (a.country||'').localeCompare(b.country||''));
+  else if(sort === 'domain_asc') filtered.sort((a,b)=> {
+    const da = (a.domains && a.domains[0])||'';
+    const db = (b.domains && b.domains[0])||'';
+    return da.localeCompare(db);
+  });
 
   listEl.innerHTML = '';
   if(!filtered.length){ listEl.innerHTML = '<p class="muted">No results</p>'; return }
@@ -89,6 +102,7 @@ function render(){
     meta.appendChild(cat);
     if(it.sector){ const s = document.createElement('span'); s.className='muted'; s.textContent = it.sector; meta.appendChild(s); }
     if(it.country){ const c = document.createElement('span'); c.className='muted'; c.textContent = it.country; meta.appendChild(c); }
+    if(it.domains && it.domains.length){ const ds = document.createElement('span'); ds.className='pill domain'; ds.textContent = it.domains.join(', '); meta.appendChild(ds); }
     card.appendChild(h); card.appendChild(desc); card.appendChild(meta);
     listEl.appendChild(card);
   }

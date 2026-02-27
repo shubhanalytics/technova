@@ -16071,4 +16071,221 @@
     "country": "",
     "description": ""
   }
+  ,
+  {
+    "name": "Amazon Web Services (AWS)",
+    "url": "https://aws.amazon.com/",
+    "category": "Cloud",
+    "sector": "Cloud",
+    "country": "Worldwide",
+    "description": "Major cloud provider offering IaaS, PaaS, and ML services",
+    "domains": ["Cloud","Infrastructure","AI/ML"]
+  },
+  {
+    "name": "Microsoft Azure",
+    "url": "https://azure.microsoft.com/",
+    "category": "Cloud",
+    "sector": "Cloud",
+    "country": "Worldwide",
+    "description": "Microsoft's cloud platform with broad AI and enterprise services",
+    "domains": ["Cloud","Enterprise","AI/ML"]
+  },
+  {
+    "name": "Google Cloud Platform",
+    "url": "https://cloud.google.com/",
+    "category": "Cloud",
+    "sector": "Cloud",
+    "country": "Worldwide",
+    "description": "Google's cloud with ML/AI products (Vertex AI, BigQuery)",
+    "domains": ["Cloud","AI/ML","Analytics"]
+  },
+  {
+    "name": "IBM Cloud",
+    "url": "https://www.ibm.com/cloud",
+    "category": "Cloud",
+    "sector": "Cloud",
+    "country": "Worldwide",
+    "description": "IBM's enterprise cloud and AI offerings (Watson)",
+    "domains": ["Cloud","Enterprise","AI/ML"]
+  },
+  {
+    "name": "Oracle Cloud",
+    "url": "https://www.oracle.com/cloud/",
+    "category": "Cloud",
+    "sector": "Cloud",
+    "country": "Worldwide",
+    "description": "Oracle's cloud with database and analytics services",
+    "domains": ["Cloud","Database","Enterprise"]
+  },
+  {
+    "name": "Alibaba Cloud",
+    "url": "https://www.alibabacloud.com/",
+    "category": "Cloud",
+    "sector": "Cloud",
+    "country": "China/Worldwide",
+    "description": "Major Asia-focused cloud provider",
+    "domains": ["Cloud","Infrastructure"]
+  },
+  {
+    "name": "DigitalOcean",
+    "url": "https://www.digitalocean.com/",
+    "category": "Cloud",
+    "sector": "Cloud",
+    "country": "Worldwide",
+    "description": "Developer-focused cloud and hosting",
+    "domains": ["Cloud","SaaS"]
+  },
+  {
+    "name": "Linode",
+    "url": "https://www.linode.com/",
+    "category": "Cloud",
+    "sector": "Cloud",
+    "country": "Worldwide",
+    "description": "Cloud hosting provider for developers and SMBs",
+    "domains": ["Cloud","Hosting"]
+  },
+  {
+    "name": "Hetzner",
+    "url": "https://www.hetzner.com/",
+    "category": "Cloud",
+    "sector": "Cloud",
+    "country": "Germany/Worldwide",
+    "description": "European cloud and dedicated servers provider",
+    "domains": ["Cloud","Hosting"]
+  },
+  {
+    "name": "OpenAI",
+    "url": "https://openai.com/",
+    "category": "AI/ML",
+    "sector": "AI",
+    "country": "Worldwide",
+    "description": "Developers of GPT models and API for LLMs",
+    "domains": ["AI/ML","LLM","Research"]
+  },
+  {
+    "name": "Anthropic",
+    "url": "https://www.anthropic.com/",
+    "category": "AI/ML",
+    "sector": "AI",
+    "country": "Worldwide",
+    "description": "LLM research company (Claude)",
+    "domains": ["AI/ML","LLM"]
+  },
+  {
+    "name": "Cohere",
+    "url": "https://cohere.ai/",
+    "category": "AI/ML",
+    "sector": "AI",
+    "country": "Worldwide",
+    "description": "Embeddings and LLM APIs",
+    "domains": ["AI/ML","LLM","Embeddings"]
+  },
+  {
+    "name": "Hugging Face",
+    "url": "https://huggingface.co/",
+    "category": "AI/ML",
+    "sector": "AI",
+    "country": "Worldwide",
+    "description": "Model hub, transformers, datasets and inference APIs",
+    "domains": ["AI/ML","LLM","NLP"]
+  },
+  {
+    "name": "Mistral AI",
+    "url": "https://mistral.ai/",
+    "category": "AI/ML",
+    "sector": "AI",
+    "country": "Worldwide",
+    "description": "Provider of performant open and proprietary LLMs",
+    "domains": ["AI/ML","LLM"]
+  },
+  {
+    "name": "AI21 Labs",
+    "url": "https://www.ai21.com/",
+    "category": "AI/ML",
+    "sector": "AI",
+    "country": "Worldwide",
+    "description": "LLM company offering language models and APIs",
+    "domains": ["AI/ML","LLM"]
+  },
+  {
+    "name": "Stability AI",
+    "url": "https://stability.ai/",
+    "category": "AI/ML",
+    "sector": "AI",
+    "country": "Worldwide",
+    "description": "Open models for generative AI and research",
+    "domains": ["AI/ML","Generative"]
+  },
+  {
+    "name": "Google DeepMind / Google AI",
+    "url": "https://deepmind.com/",
+    "category": "AI/ML",
+    "sector": "AI",
+    "country": "Worldwide",
+    "description": "Research labs and applied AI from Google",
+    "domains": ["AI/ML","Research"]
+  },
+  {
+    "name": "Meta AI",
+    "url": "https://ai.meta.com/",
+    "category": "AI/ML",
+    "sector": "AI",
+    "country": "Worldwide",
+    "description": "Meta's AI research and LLM initiatives",
+    "domains": ["AI/ML","Research"]
+  },
+  {
+    "name": "Databricks",
+    "url": "https://databricks.com/",
+    "category": "AI/ML",
+    "sector": "Data",
+    "country": "Worldwide",
+    "description": "Unified data and AI platform (MLflow founder)",
+    "domains": ["AI/ML","Analytics","Data"]
+  },
+  {
+    "name": "Snowflake",
+    "url": "https://www.snowflake.com/",
+    "category": "Data",
+    "sector": "Data",
+    "country": "Worldwide",
+    "description": "Cloud data platform widely used for analytics and ML",
+    "domains": ["Data","Analytics","Cloud"]
+  },
+  {
+    "name": "TensorFlow",
+    "url": "https://www.tensorflow.org/",
+    "category": "ML Framework",
+    "sector": "AI",
+    "country": "Worldwide",
+    "description": "Open-source ML framework from Google",
+    "domains": ["AI/ML","Framework"]
+  },
+  {
+    "name": "PyTorch",
+    "url": "https://pytorch.org/",
+    "category": "ML Framework",
+    "sector": "AI",
+    "country": "Worldwide",
+    "description": "Open-source ML framework from Meta/FAIR",
+    "domains": ["AI/ML","Framework"]
+  },
+  {
+    "name": "scikit-learn",
+    "url": "https://scikit-learn.org/",
+    "category": "ML Library",
+    "sector": "AI",
+    "country": "Worldwide",
+    "description": "Classic ML library for Python",
+    "domains": ["AI/ML","Analytics"]
+  },
+  {
+    "name": "MLflow",
+    "url": "https://mlflow.org/",
+    "category": "MLOps",
+    "sector": "AI",
+    "country": "Worldwide",
+    "description": "Open-source platform for managing ML lifecycle",
+    "domains": ["AI/ML","MLOps"]
+  }
 ]
