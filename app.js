@@ -96,11 +96,11 @@ function render(){
   const activeTab = document.querySelector('.tab.active')?.dataset?.category || 'All';
   const sort = sortSelect.value;
   const domain = domainSelect?.value;
-
-  let filtered = items.filter(it=>{
-    if(activeTab !== 'All' && it.category !== activeTab) return false;
+  // items filtered by all controls except category (used to compute tab counts)
+  const filteredForCounts = items.filter(it=>{
     if(sector && it.sector !== sector) return false;
     if(country && it.country !== country) return false;
+    if(domain && !(it.domains||[]).includes(domain)) return false;
     if(q){
       const hay = (it.name + ' ' + (it.description||'')).toLowerCase();
       if(!hay.includes(q)) return false;
@@ -108,8 +108,14 @@ function render(){
     return true;
   });
 
-  // update tab counts to reflect current filters/search
-  updateTabCounts(filtered);
+  // apply category filter on top of the other filters for the visible list
+  let filtered = filteredForCounts.filter(it=>{
+    if(activeTab !== 'All' && it.category !== activeTab) return false;
+    return true;
+  });
+
+  // update tab counts based on filters excluding the active category so tabs remain selectable
+  updateTabCounts(filteredForCounts);
 
   if(sort === 'name_asc') filtered.sort((a,b)=>a.name.localeCompare(b.name));
   else if(sort === 'name_desc') filtered.sort((a,b)=>b.name.localeCompare(a.name));
