@@ -1,0 +1,47 @@
+total_rows: 1563
+official_count: 859
+other_count: 704
+
+Sample official (first 20):
+AI21 Labs -> https://www.ai21.com/
+Anthropic -> https://www.anthropic.com/
+Cohere -> https://cohere.ai/
+Databricks -> https://databricks.com/
+Google DeepMind / Google AI -> https://deepmind.com/
+Hugging Face -> https://huggingface.co/
+Meta AI -> https://ai.meta.com/
+Mistral AI -> https://mistral.ai/
+MLflow -> https://mlflow.org/
+OpenAI -> https://openai.com/
+PyTorch -> https://pytorch.org/
+scikit-learn -> https://scikit-learn.org/
+Stability AI -> https://stability.ai/
+TensorFlow -> https://www.tensorflow.org/
+Alibaba Cloud -> https://www.alibabacloud.com/
+Amazon Web Services (AWS) -> https://aws.amazon.com/
+DigitalOcean -> https://www.digitalocean.com/
+Google Cloud Platform -> https://cloud.google.com/
+Hetzner -> https://www.hetzner.com/
+IBM Cloud -> https://www.ibm.com/cloud
+
+Sample other (first 20):
+.QL -> http://semmle.com/
+ABAP -> https://community.sap.com/topics/abap
+ABC -> https://homepages.cwi.nl/~steven/abc/
+Accent (Rational Synergy) -> https://www.ibm.com/products/rational-synergy
+Action! -> https://sourceforge.net/projects/atari-action/
+ActionScript -> http://www.adobe.com/devnet/actionscript
+AdvPL -> http://tdn.totvs.com/pages/viewpage.action?pageId=27675886
+Agda -> https://wiki.portal.chalmers.se/agda
+Agilent VEE -> https://www.keysight.com/us/en/product/W4000D/vee-pro-9-33.html
+Agora -> http://soft.vub.ac.be/research/agora
+Alef -> http://doc.cat-v.org/plan_9/2nd_edition/papers/alef/ref
+Algebraic Logic Functional programming language -> http://www.informatik.uni-kiel.de/~mh/systems/ALF
+ALGOL -> http://www.masswerk.at/algol60/report.htm
+ALGOL 58 -> http://www.softwarepreservation.org/projects/ALGOL/algol58impl.html
+ALGOL 60 -> https://www.masswerk.at/algol60/report.htm
+Alice ML -> http://www.ps.uni-saarland.de/alice
+Alma-0 -> http://www.cwi.nl/en/alma
+AmbientTalk -> https://soft.vub.ac.be/amop
+Amiga E -> https://aminet.net/package/dev/e/amigae33a
+AngelScript -> https://angelcode.com/angelscript/
