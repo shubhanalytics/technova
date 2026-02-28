@@ -180,6 +180,8 @@ function render(){
         const displayName = (it.name||'').replace(/^['"\u201C\u201D`]+|['"\u201C\u201D`]+$/g,'').trim();
         a.textContent = displayName || it.name;
         h.appendChild(a);
+        // show launch year if available
+        if(it.year){ const y = document.createElement('span'); y.className = 'year'; y.textContent = `· ${it.year}`; h.appendChild(y); }
         const desc = document.createElement('div'); desc.className='muted'; desc.textContent = it.description || '';
         const meta = document.createElement('div'); meta.className='meta';
         // show category pill only when viewing 'All' (otherwise category is the active tab and redundant)
@@ -203,6 +205,7 @@ function render(){
           const displayName = (it.name||'').replace(/^['"\u201C\u201D`]+|['"\u201C\u201D`]+$/g,'').trim();
           a.textContent = displayName || it.name;
           h.appendChild(a);
+          if(it.year){ const y = document.createElement('span'); y.className = 'year'; y.textContent = `· ${it.year}`; h.appendChild(y); }
           const desc = document.createElement('div'); desc.className='muted'; desc.textContent = it.description || '';
           const meta = document.createElement('div'); meta.className='meta';
           // do not append category pill here (redundant) — subcategory is shown above

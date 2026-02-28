@@ -86,10 +86,13 @@ form textarea{min-height:110px}
 .card{background:var(--card-bg);padding:16px;border-radius:12px;border:1px solid var(--card-border);box-shadow:0 8px 18px rgba(11,18,32,0.04);transition:transform .18s ease,box-shadow .18s ease}
 .card:hover{transform:translateY(-4px);box-shadow:0 12px 28px rgba(11,18,32,0.06)}
 .card h3{margin:0 0 8px;font-size:18px;color:var(--text);line-height:1.2}
+.card h3{display:flex;align-items:baseline;gap:10px}
+.card h3 a{color:var(--text);text-decoration:none}
+.card h3 .year{color:var(--muted);font-size:13px;font-weight:600;margin-left:6px}
 .card a{color:var(--accent);text-decoration:none;font-weight:700}
 .card a:hover{color:#6b21a8;text-decoration:underline}
 .muted{color:var(--muted);font-size:13px}
-.meta{display:flex;gap:8px;flex-wrap:wrap;margin-top:12px;align-items:center}
+.meta{display:flex;gap:10px;flex-wrap:wrap;margin-top:14px;align-items:center}
 .meta > *{display:inline-flex;align-items:center}
 .pill{background:linear-gradient(90deg, rgba(138,180,255,0.12), rgba(46,163,242,0.06));color:var(--text);padding:6px 12px;border-radius:999px;font-size:12px;font-weight:700;line-height:1}
 .pill.domain{background:linear-gradient(90deg, rgba(16,185,129,0.10), rgba(16,185,129,0.04));color:#ffffff}
