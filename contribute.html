@@ -29,7 +29,11 @@
           </div>
         </div>
 
-        <nav class="site-nav" role="navigation" aria-label="Main navigation">
+        <button class="nav-toggle" id="navToggle" aria-controls="main-nav" aria-expanded="false" aria-label="Toggle navigation">
+          <span class="hamburger" aria-hidden="true"></span>
+        </button>
+
+        <nav class="site-nav" id="main-nav" role="navigation" aria-label="Main navigation">
           <a class="nav-link" href="index.html">Home</a>
           <a class="nav-link" href="about.html">About</a>
           <a class="nav-link active" href="contribute.html">Contribute</a>
@@ -92,6 +96,7 @@
       <p>Submissions are stored locally in your browser. To submit to the project, copy your saved JSON into a PR or contact the maintainers.</p>
     </footer>
 
+    <script src="scripts/nav.js" defer></script>
     <script src="scripts/contribute.js" defer></script>
   </body>
 </html>

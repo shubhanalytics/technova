@@ -39,6 +39,15 @@
 }
 .brand-badge{background:rgba(11,18,32,0.02);padding:6px 10px;border-radius:999px;color:var(--muted);font-weight:600}
 .site-nav{margin-left:auto;display:flex;gap:10px;align-items:center}
+.nav-toggle{display:none;align-items:center;justify-content:center;background:transparent;border:1px solid var(--card-border);padding:8px;border-radius:8px;color:var(--muted);cursor:pointer}
+.nav-toggle:focus{outline:3px solid rgba(139,92,246,0.12)}
+.nav-toggle .hamburger{display:inline-block;width:20px;height:2px;background:var(--text);position:relative;border-radius:2px}
+.nav-toggle .hamburger::before,.nav-toggle .hamburger::after{content:'';position:absolute;left:0;width:20px;height:2px;background:var(--text);transition:transform .22s ease,opacity .18s ease}
+.nav-toggle .hamburger::before{top:-6px}
+.nav-toggle .hamburger::after{top:6px}
+.nav-open .hamburger{background:transparent}
+.nav-open .hamburger::before{transform:rotate(45deg) translate(4px,4px)}
+.nav-open .hamburger::after{transform:rotate(-45deg) translate(4px,-4px)}
 .nav-link{color:var(--muted);text-decoration:none;padding:6px 10px;border-radius:8px;font-weight:600;transition:background .12s ease,color .12s ease}
 .nav-link:hover,.nav-link:focus{background:rgba(255,255,255,0.02);color:var(--accent);outline:none}
 .header-actions{margin-left:auto}
@@ -129,6 +138,9 @@ html,body{height:100%;background:linear-gradient(180deg,var(--bg-1),var(--bg-2))
   .list{grid-template-columns:repeat(auto-fill,minmax(220px,1fr))}
   .header-row{flex-direction:column;align-items:stretch;gap:10px;padding:8px}
   .site-nav{width:100%;justify-content:flex-start;gap:8px;overflow-x:auto;padding:8px 0}
+  .nav-toggle{display:inline-flex;margin-left:auto}
+  .site-nav{display:none;position:absolute;top:64px;right:12px;background:var(--card-bg);border:1px solid var(--card-border);padding:12px;border-radius:10px;flex-direction:column;min-width:200px;z-index:40}
+  .site-nav.open{display:flex}
   .nav-link{padding:10px 12px}
   .tabs{overflow-x:auto}
   .tab{white-space:nowrap}
