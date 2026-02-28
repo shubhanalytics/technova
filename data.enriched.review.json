@@ -1,0 +1,548 @@
+{
+  "summary": {
+    "total_kept": 53,
+    "missing_description": 0,
+    "missing_category": 0,
+    "non_https": 3,
+    "archive_or_book_or_search_links": 0,
+    "short_names": 0
+  },
+  "items": [
+    {
+      "name": "01.AI",
+      "url": "https://www.bloomberg.com/news/articles/2023-11-05/kai-fu-lee-s-open-source-01-ai-bests-llama-2-according-to-hugging-face",
+      "category": "Company",
+      "sector": "",
+      "country": "",
+      "description": "01.AI (Chinese: 零一万物; pinyin: Língyī Wànwù) is an artificial intelligence (AI) company based in Beijing, China. It focuses on developing open source products.",
+      "domains": [],
+      "flags": []
+    },
+    {
+      "name": "1X Technologies",
+      "url": "https://www.therobotreport.com/1x-technologies-acquires-kind-humanoid-accelerate-household-robots/",
+      "category": "Company",
+      "sector": "",
+      "country": "",
+      "description": "1X Technologies is a Norwegian-American robotics and artificial intelligence company developing general-purpose humanoid robots for home environments. The company is headquartered in Palo Alto, California, with main manufacturing operations in Hayward and additional manufacturing in Moss, Norway.",
+      "domains": [],
+      "flags": []
+    },
+    {
+      "name": "4Paradigm",
+      "url": "http://ir.4paradigm.com/en/upload/file/2024/0425/2024042503387.pdf",
+      "category": "Company",
+      "sector": "",
+      "country": "",
+      "description": "Phancy Group Co., Ltd. doing business as 4Paradigm (Chinese: 第四范式; pinyin: Dìsì Fànshì) is a Chinese company publicly listed in Hong Kong that focuses on providing artificial intelligence (AI) tools and applications in China.",
+      "domains": [],
+      "flags": [
+        "non_https"
+      ]
+    },
+    {
+      "name": "AAI Labs",
+      "url": "https://rekvizitai.vz.lt/en/company/taikomasis_dirbtinis_intelektas/",
+      "category": "Company",
+      "sector": "",
+      "country": "",
+      "description": "AAI Labs also known as Taikomasis dirbtinis intelektas is a Lithuanian artificial intelligence engineering and research company in Vilnius, Lithuania. Founded in 2018, the company develops applied artificial intelligence and machine learning solutions for public sector institutions and private enterprises. AAI Labs has participated in government technology (GovTech) initiatives and European innova",
+      "domains": [],
+      "flags": []
+    },
+    {
+      "name": "Adaption (company)",
+      "url": "https://techcrunch.com/2026/01/15/anthropic-taps-former-microsoft-india-md-to-lead-bengaluru-expansion/",
+      "category": "Company",
+      "sector": "",
+      "country": "",
+      "description": "Adaption is an artificial intelligence (AI) company based in San Francisco. the company was founded in 2025 by Sara Hooker and Sudip Roy, former Cohere executives. It specializes in creating AI capable of efficient, real-time learning, a concept it terms \"adaptable intelligence.\"",
+      "domains": [],
+      "flags": []
+    },
+    {
+      "name": "Adaptive ML",
+      "url": "https://pitchbook.com/profiles/company/539661-97#comparisons",
+      "category": "Company",
+      "sector": "",
+      "country": "",
+      "description": "Adaptive ML (often styled as Adaptive) is a private software company based in New York, United States and Paris, France. The company focuses on reinforcement learning (“RLOps”), providing tools that allow organizations to customize and operate open-source large language models for specific applications.",
+      "domains": [],
+      "flags": []
+    },
+    {
+      "name": "Agility Robotics",
+      "url": "https://www.axios.com/2024/03/14/humanoid-robot-army-agility-digit-amazon-warehouse",
+      "category": "Company",
+      "sector": "",
+      "country": "",
+      "description": "Agility Robotics, Inc. is a privately held American humanoid robotics and engineering company. The company was founded in 2015 as a spin-off from Oregon State University and currently provides automation solutions, based around its humanoid robot Digit.",
+      "domains": [],
+      "flags": []
+    },
+    {
+      "name": "AI automation testing tools",
+      "url": "https://aijourn.com/ai-meets-automation-a-deep-dive-into-todays-smartest-testing-tools/",
+      "category": "Company",
+      "sector": "",
+      "country": "",
+      "description": "AI automation testing tools are software platforms that leverage artificial intelligence — such as machine learning, computer vision, or natural-language processing — to assist or automate software testing tasks, including test creation, execution, maintenance, and validation. They aim to reduce manual scripting effort, make tests more resilient to application changes, and integrate with CI/CD wor",
+      "domains": [],
+      "flags": []
+    },
+    {
+      "name": "Akool",
+      "url": "https://www.inc.com/ben-sherry/how-ai-avatars-powered-this-startup-to-become-americas-fastest-growing-company/91220073",
+      "category": "Company",
+      "sector": "",
+      "country": "",
+      "description": "Akool Inc. is an American company founded in 2022 and headquartered in Palo Alto, California, that specializes in generative artificial intelligence research and technologies. The company creates products and models for generating videos, images, and various multimedia content.",
+      "domains": [],
+      "flags": []
+    },
+    {
+      "name": "Aleph Alpha",
+      "url": "https://rivalsense.co/intel/aleph-alpha/",
+      "category": "Company",
+      "sector": "",
+      "country": "",
+      "description": "Aleph Alpha GmbH is a German artificial intelligence (AI) startup company which develops large language models (LLM) which provide transparency of its sources used for the results generated. The company caters to enterprises and governmental agencies only.",
+      "domains": [],
+      "flags": []
+    },
+    {
+      "name": "Alice (company)",
+      "url": "https://en.globes.co.il/en/article-10-activefence-making-the-internet-a-safer-place-1001393373",
+      "category": "Company",
+      "sector": "",
+      "country": "",
+      "description": "Alice, formerly ActiveFence, is an Israeli-American artificial intelligence safety company. Founded in 2018 by Noam Schwartz, Alon Porat, Eyal Dykan and Iftach Orr, the company is co-headquartered in New York City and Tel Aviv, Israel. It assists technology companies track content such as disinformation, hate speech and child abuse.",
+      "domains": [],
+      "flags": []
+    },
+    {
+      "name": "All Turtles",
+      "url": "https://www.hrtechnologist.com/news/learning-development/edwin-launches-aibased-learning-product/",
+      "category": "Company",
+      "sector": "",
+      "country": "",
+      "description": "All Turtles is an AI startup studio based in San Francisco, Paris, and Tokyo. It \"specializes in developing practical AI products\".",
+      "domains": [],
+      "flags": []
+    },
+    {
+      "name": "Antavo",
+      "url": "https://www.entrepreneur.com/en-gb/technology/love-tech-and-loyalty-the-antavo-journey/489101",
+      "category": "Company",
+      "sector": "",
+      "country": "",
+      "description": "Antavo is a UK company marketing an AI-powered B2B loyalty platform to help companies develop and manage loyalty programs. It was founded in 2012 by Hungarian entrepreneurs Attila Kecsmár, Zsuzsa Kecsmár and Gábor Csarnai. Headquartered in London, its research base is in Szeged, Hungary.",
+      "domains": [],
+      "flags": []
+    },
+    {
+      "name": "Anysphere",
+      "url": "https://e.vnexpress.net/news/tech/personalities/4-mit-graduates-who-built-the-popular-ai-coding-tool-cursor-become-billionaires-4965462.html",
+      "category": "Company",
+      "sector": "",
+      "country": "",
+      "description": "Anysphere, Inc. is an American software company which offers Cursor, an AI-assisted software development service. Founded in 2022, the San Francisco-based startup achieved a US$29.3 billion valuation and surpassed US$1 billion in annual recurring revenue by late 2025.\nSeveral media outlets have described Cursor as a vibe coding app.",
+      "domains": [],
+      "flags": []
+    },
+    {
+      "name": "Art Recognition",
+      "url": "https://www.art-recognition.com/",
+      "category": "Company",
+      "sector": "",
+      "country": "",
+      "description": "Art Recognition is a Swiss technology company headquartered in Adliswil, within the Zurich metropolitan area, Switzerland.  Art Recognition specializes in the application of artificial intelligence (AI) for art authentication and the detection of art forgeries.",
+      "domains": [],
+      "flags": []
+    },
+    {
+      "name": "Artisan AI",
+      "url": "https://sfstandard.com/2025/04/07/the-real-person-behind-san-franciscos-hated-anti-human-ad-campaign/",
+      "category": "Company",
+      "sector": "",
+      "country": "",
+      "description": "Artisan AI, Inc., doing business as Artisan, is an American software company headquartered in San Francisco. It builds specialized AI agents known as \"Artisans\" for business automation.",
+      "domains": [],
+      "flags": []
+    },
+    {
+      "name": "Artisse AI",
+      "url": "https://www.standard.co.uk/news/tech/ai-fashion-models-virtual-tryon-diffusion-models-b1120382.html",
+      "category": "Company",
+      "sector": "",
+      "country": "",
+      "description": "Artisse AI is a Hong Kong-based technology company founded by William Wu. The company developed a mobile photography application using generative artificial intelligence to transform selfies into high-quality, personalized images. The app allows users to visualize themselves in various scenarios, outfits, and hairstyles, and they can adjust lighting and ambiance to match their preferences. The app",
+      "domains": [],
+      "flags": []
+    },
+    {
+      "name": "Astera Labs",
+      "url": "https://www.forbes.com/sites/amyfeldman/2022/08/16/with-data-centers-expanding-semiconductor-startup-astera-labs-is-on-track-for-100-million-in-revenue-this-year/",
+      "category": "Company",
+      "sector": "",
+      "country": "",
+      "description": "Astera Labs, Inc. is an American fabless semiconductor manufacturer and artificial intelligence company. The company specializes in designing high-speed connectivity solutions for data centers and AI infrastructure. The company has been listed on the Nasdaq since March 2024.",
+      "domains": [],
+      "flags": []
+    },
+    {
+      "name": "Australian Artificial Intelligence Institute",
+      "url": "http://www.inf.ufrgs.br/~alvares/CMP124SMA/BDI%20agents.pdf",
+      "category": "Company",
+      "sector": "",
+      "country": "",
+      "description": "The Australian Artificial Intelligence Institute (Australian AI Institute, AAII, or A2I2) was a government-funded research and development laboratory for investigating and commercialising artificial intelligence (AI), specifically intelligent software agents, from 1988 until 1999. Among its software and commercial projects which were produced by the AAII were a procedural reasoning system (PRS); d",
+      "domains": [],
+      "flags": [
+        "non_https"
+      ]
+    },
+    {
+      "name": "BabyX",
+      "url": "https://www.bloomberg.com/news/features/2017-09-07/this-startup-is-making-virtual-people-who-look-and-act-impossibly-real",
+      "category": "Company",
+      "sector": "",
+      "country": "",
+      "description": "BabyX is an interactive lifelike virtual infant created through the use of artificial intelligence by Mark Sagar, Creator and Director of the Laboratory for Animate Technologies located at the University of Auckland's Bioengineering Institute.\nCreated in 2013, BabyX is a virtual animated baby that learns and reacts like a human baby and was designed after the likeness of Sagar's own daughter when",
+      "domains": [],
+      "flags": []
+    },
+    {
+      "name": "Baichuan",
+      "url": "https://www.bloomberg.com/news/articles/2023-06-27/ai-is-next-tech-battle-for-us-and-china-on-chatgpt-frenzy",
+      "category": "Company",
+      "sector": "",
+      "country": "",
+      "description": "Baichuan AI (Baichuan; Chinese: 百川智能; pinyin: Bǎichuān Zhìnéng) is an artificial intelligence (AI) company based in Beijing, China. As of 2024, it has been dubbed one of China's \"AI Tiger\" companies by investors.",
+      "domains": [],
+      "flags": []
+    },
+    {
+      "name": "Berkshire Grey",
+      "url": "https://ir.berkshiregrey.com/sec-filings/all-sec-filings/content/0000950170-22-004932/0000950170-22-004932.pdf#page49",
+      "category": "Company",
+      "sector": "",
+      "country": "",
+      "description": "Berkshire Grey, Inc. is an American technology company based in Bedford, Massachusetts that develops integrated artificial intelligence (“AI\") and robotic solutions for e-commerce, retail replenishment, and logistics.  The company's systems automate pick, pack and sort operations.  \nBerkshire Grey was founded by a group of 20 PhD's in the fields of embedded systems to motion planning.",
+      "domains": [],
+      "flags": []
+    },
+    {
+      "name": "Black Duck Software",
+      "url": "https://techcrunch.com/2009/02/09/black-duck-software-gets-95-million-to-help-you-ship-better-software-more-quickly/",
+      "category": "Company",
+      "sector": "",
+      "country": "",
+      "description": "Black Duck Software is a private company headquartered near Boston, Massachusetts. Founded in 2002 by Doug Levin, it develops and markets software and services for application security.",
+      "domains": [],
+      "flags": []
+    },
+    {
+      "name": "Blue Prism",
+      "url": "https://investors.blueprism.com/sites/blueprism-ir-v2/files/Annual%20Report/annual-report-2020.pdf",
+      "category": "Company",
+      "sector": "",
+      "country": "",
+      "description": "Blue Prism, officially Blue Prism Group plc, is a British multinational software corporation that makes enterprise robotic process automation (RPA) software, business process management (BPM) Software, and provides AI services. In March 2022, Blue Prism was acquired by SS&C Technologies. It is headquartered in Warrington, UK. The company was listed on the London Stock Exchange AIM market until its",
+      "domains": [],
+      "flags": []
+    },
+    {
+      "name": "Brighter AI Technologies",
+      "url": "https://www.intel.com/content/www/us/en/partner/showcase/storefront/a5S3b000000BAX8EAO/brighter-ai-technologies-gmbh.html",
+      "category": "Company",
+      "sector": "",
+      "country": "",
+      "description": "Brighter AI Technologies GmbH or branded brighter AI is a German technology company that develops privacy-preserving image and video anonymization software based on deep learning. It builds tools intended to redact personally identifiable information (for example, faces and license plates) in images and video while preserving visual utility for analytics and machine-learning use cases.",
+      "domains": [],
+      "flags": []
+    },
+    {
+      "name": "Brilliant Labs",
+      "url": "https://www.forbes.com/sites/zinnialee/2024/01/15/meet-the-tiny-startup-aiming-to-take-on-apple-and-meta-with-ai-powered-smart-glasses/",
+      "category": "Company",
+      "sector": "",
+      "country": "",
+      "description": "Brilliant Labs is a Singapore-based technology company that produces open source eyewear featuring artificial intelligence (AI).\nBrilliant Labs was founded in 2019 in Hong Kong by Bobak Tavangar, a former Apple program lead. Tavangar said he saw the potential for integrating the capabilities of artificial intelligence into glasses to give consumers \"visual superpowers.\" The goal was to use an open",
+      "domains": [],
+      "flags": []
+    },
+    {
+      "name": "Butlr Technologies",
+      "url": "https://www.butlr.com",
+      "category": "Company",
+      "sector": "",
+      "country": "",
+      "description": "Butlr Technologies is an American technology company based in San Francisco, California, with a second office in Boston. It was founded by Honghao Deng and Jiani Zeng in 2019. Butlr Technologies provides software and hardware for gathering spatial intelligence. It also manufactures wireless sensors that use body heat to track location occupancy data and body movement.",
+      "domains": [],
+      "flags": []
+    },
+    {
+      "name": "Caper AI",
+      "url": "https://www.cnn.com/2019/12/23/tech/smart-shopping-cart/index.html",
+      "category": "Company",
+      "sector": "",
+      "country": "",
+      "description": "Caper is a software technology company that develops and deploys AI-powered automated checkout devices as well as AI-based software applications for retailers, grocers, convenience stores and other general merchandising store formats. Caper AI was established in 2016 by Lindon Gao, York Yang, Yilin Huang and Ahmed Beshry. It is headquartered in Manhattan, New York.\nIn October 2021, American retail",
+      "domains": [],
+      "flags": []
+    },
+    {
+      "name": "Cerence",
+      "url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/0001768267/000095017024130642/crnc-20240930.htm}}</ref>",
+      "category": "Company",
+      "sector": "",
+      "country": "",
+      "description": "Cerence Inc. is an American multinational software company that develops artificial intelligence (AI) assistant technology primarily for automobiles.",
+      "domains": [],
+      "flags": []
+    },
+    {
+      "name": "Chai AI",
+      "url": "https://yale-herald.com/2023/01/29/hello-sheila/",
+      "category": "Company",
+      "sector": "",
+      "country": "",
+      "description": "CHAI AI (also known as CHAI Research) is an American artificial intelligence (AI) company operating a chatbot platform. Founded in 2021 by William Beauchamp, CHAI's chatbots use large language models (LLMs). The company is headquartered in Palo Alto, California.",
+      "domains": [],
+      "flags": []
+    },
+    {
+      "name": "Civitai",
+      "url": "https://www.tandfonline.com/doi/full/10.1080/17579961.2024.2388914",
+      "category": "Company",
+      "sector": "",
+      "country": "",
+      "description": "Civitai is an online platform and marketplace for generative artificial intelligence (Gen AI) content, primarily focused on AI-generated images and models, and AI-generated videos.",
+      "domains": [],
+      "flags": []
+    },
+    {
+      "name": "ClothOff",
+      "url": "https://www.spiegel.de/international/zeitgeist/using-ai-to-humiliate-women-the-men-behind-deepfake-pornography-a-0de338f9-9cec-4ae8-a5ef-9a356b0a5bd4",
+      "category": "Company",
+      "sector": "",
+      "country": "",
+      "description": "ClothOff is an artificial intelligence company that makes pornographic images of women out of non-pornographic inputs. The company was launched in 2024 and is managed by a CEO pseudonymously known as Koltai. It has been involved in a number of lawsuits related to its users' generated images.",
+      "domains": [],
+      "flags": []
+    },
+    {
+      "name": "Cluely",
+      "url": "https://techcrunch.com/2025/04/21/columbia-student-suspended-over-interview-cheating-tool-raises-5-3m-to-cheat-on-everything/",
+      "category": "Company",
+      "sector": "",
+      "country": "",
+      "description": "Cluely is an artificial intelligence startup founded in 2025 that provides real-time AI assistance during virtual meetings and interviews. The company attracted significant controversy and media attention for its initial \"cheat on everything\" marketing campaign, before pivoting to position itself as a conventional AI meeting assistant.",
+      "domains": [],
+      "flags": []
+    },
+    {
+      "name": "Codesmith",
+      "url": "https://tech.co/news/codesmith-investment-test-prep-2016-10",
+      "category": "Company",
+      "sector": "",
+      "country": "",
+      "description": "Codesmith is a New York-based technology school specializing in software engineering, artificial intelligence and machine learning.\nCodesmith was founded by Will Sentance and Alex Zai in 2015.\nCodesmith's curriculum was inspired by the Socratic method employed at Oxford University and features both conceptual learning and practice-based methods such as pair programming. Codesmith also offers train",
+      "domains": [],
+      "flags": []
+    },
+    {
+      "name": "Cognition AI",
+      "url": "https://www.maginative.com/article/cognition-ai-raises-175m-at-2b-valuation-one-month-after-series-a/",
+      "category": "Company",
+      "sector": "",
+      "country": "",
+      "description": "Cognition AI, Inc. (also known as Cognition Labs), doing business as Cognition, is an artificial intelligence (AI) company headquartered in San Francisco in the U.S. state of California. The company developed Devin AI, an AI software developer.\nThe company is known for hiring competitive programmers such as Gennady Korotkevich and Andrew He.",
+      "domains": [],
+      "flags": []
+    },
+    {
+      "name": "Colloquis",
+      "url": "https://www.vice.com/en/article/a-history-of-smarterchild/",
+      "category": "Company",
+      "sector": "",
+      "country": "",
+      "description": "Colloquis, previously known as ActiveBuddy and Conversagent, was a company that created conversation-based interactive agents originally distributed via instant messaging platforms. The company had offices in New York, New York, and Sunnyvale, California.",
+      "domains": [],
+      "flags": []
+    },
+    {
+      "name": "Technology company",
+      "url": "https://fortune.com/global500/2020/",
+      "category": "Company",
+      "sector": "",
+      "country": "",
+      "description": "A technology company (or tech company) is a company that focuses primarily on the manufacturing, support, research and development of—most commonly computing, telecommunication and consumer electronics–based—technology-intensive products and services, which include businesses relating to digital electronics, software, optics, new energy, and Internet-related services such as cloud storage and e-co",
+      "domains": [],
+      "flags": []
+    },
+    {
+      "name": "Daylight Computer Co.",
+      "url": "https://daylightcomputer.com/",
+      "category": "Company",
+      "sector": "",
+      "country": "",
+      "description": "Daylight Computer Co. is a Public Benefit Company that designs and manufactures devices that do not emit blue light or flicker. Anjan Katta, the company's founder and CEO, stated that he started the company to reduce his personal eyestrain and the distraction that came with conventional devices.\nThe first device that the company has released is the Daylight DC-1, an electronic ink (E-ink) style ta",
+      "domains": [],
+      "flags": []
+    },
+    {
+      "name": "Ideals Solutions Group",
+      "url": "https://mnacommunity.com/",
+      "category": "Company",
+      "sector": "",
+      "country": "",
+      "description": "Ideals Solutions Group (stylized as Ideals; formerly iDeals Solutions Group) is a Ukrainian-founded SaaS company that provides secure collaboration platforms for mergers and acquisitions professionals, investment bankers, and corporate development teams. The company is best known for its flagship product, the Ideals Virtual Data Room (VDR), and operates globally with headquarters in Lucerne, Switz",
+      "domains": [],
+      "flags": []
+    },
+    {
+      "name": "KKday",
+      "url": "https://www.tatlerasia.com/people/ming-chen-eng",
+      "category": "Company",
+      "sector": "",
+      "country": "",
+      "description": "KKday is an online travel e-commerce platform focused on connecting independent travelers with authentic, curated local experiences, tours, activities, and attraction tickets.",
+      "domains": [],
+      "flags": []
+    },
+    {
+      "name": "Penta Security",
+      "url": "https://tracxn.com/d/companies/penta-security/___CMOAnQh8j8Yxe6RQPIzD2YBC4uj5yYzaxlmol8KVjo#about-the-company",
+      "category": "Company",
+      "sector": "",
+      "country": "",
+      "description": "Penta Security Inc. (Korean: 펜타시큐리티) is a South Korean global cybersecurity company that provides database encryption products, web application firewall(WAF) SaaS, WAF appliance, and cloud security products. Its headquarters is located in Seoul, South Korea, and it is considered as one of the country’s first-generation security firms.",
+      "domains": [],
+      "flags": []
+    },
+    {
+      "name": "Raspberry Shake",
+      "url": "https://elcapitalfinanciero.com/la-historia-del-panameno-creador-del-sensor-sismico-personal/",
+      "category": "Company",
+      "sector": "",
+      "country": "",
+      "description": "Raspberry Shake is a Panama-based company that designs and manufactures personal seismic and infrasonic sensors, utilizing Raspberry Pi hardware.",
+      "domains": [],
+      "flags": []
+    },
+    {
+      "name": "Reflect Orbital",
+      "url": "https://www.space.com/orbiting-mirror-boost-solar-power-production",
+      "category": "Company",
+      "sector": "",
+      "country": "",
+      "description": "Reflect Orbital, Inc is an American privately held space technology company headquartered in Hawthorne, California. Founded in 2021, the company designs and builds satellites with large-scale deployable mirrors to point sunlight onto Earth's surface. The stated goal is to provide responsive lighting after dark and to increase the effective hours of solar energy production. Investors in the company",
+      "domains": [],
+      "flags": []
+    },
+    {
+      "name": "Sharp Vision",
+      "url": "https://sharpvision.fr/",
+      "category": "Company",
+      "sector": "",
+      "country": "",
+      "description": "Sharp Vision is a French technology firm specializing in data analytics and digital regulatory tools for the gaming and telecommunications sectors. Founded in 2022 and headquartered in Paris, the company primarily provides software and monitoring services to state lotteries and regulatory authorities in West Africa, including Benin, Guinea, and Senegal. While it markets its services as tools for r",
+      "domains": [],
+      "flags": []
+    },
+    {
+      "name": "SMARTech",
+      "url": "https://www.wired.com/2007/04/did_ohio_electi/",
+      "category": "Company",
+      "sector": "",
+      "country": "",
+      "description": "SMARTech (a.k.a. SmarTech or Airnet) is an American Internet hosting company based in Chattanooga, Tennessee that hosted websites for the Republican National Committee (RNC), including gwb43.com, as well as hundreds of Republican Party or anti-Barack Obama websites. As of 2011, its president and CEO was Jeff Averbeck.",
+      "domains": [],
+      "flags": []
+    },
+    {
+      "name": "Speediance Life Technology Inc.",
+      "url": "https://athletechnews.com/speediance-launches-two-new-at-home-fitness-products/",
+      "category": "Company",
+      "sector": "",
+      "country": "",
+      "description": "Speediance Life Technology Inc. is a Chinese fitness technology company that designs and manufactures smart home gym equipment. Its product, Gym Monster, is a smart home gym that gives users up to 220 lb (100 kg) of resistance.",
+      "domains": [],
+      "flags": []
+    },
+    {
+      "name": "Sprint Ray",
+      "url": "https://www.dental-tribune.com/c/sprintray/news/single-appointment-3d-printing-of-inlays-and-onlays-with-midas/?time=1750840201",
+      "category": "Company",
+      "sector": "",
+      "country": "",
+      "description": "SprintRay Inc. is an American dental technology company headquartered in Los Angeles, California. Founded in 2014, it operates in the dental additive manufacturing sector, with a focus on 3D printing systems and materials used in clinical and laboratory dentistry.",
+      "domains": [],
+      "flags": []
+    },
+    {
+      "name": "Target IT",
+      "url": "https://desherkantha.com/news/technology/1f112357-eb45-6470-990d-4ab0a7c40deb",
+      "category": "Company",
+      "sector": "",
+      "country": "",
+      "description": "Target IT is an information technology company based in Bangladesh. Founded in 2026, it offers web development, software development, and digital services to domestic and international clients.",
+      "domains": [],
+      "flags": []
+    },
+    {
+      "name": "Tyto Robotics",
+      "url": "http://www.tytorobotics.com",
+      "category": "Company",
+      "sector": "",
+      "country": "",
+      "description": "Tyto Robotics (formerly known as RCbenchmark) is a Canadian aerospace technology company headquartered in Gatineau, Quebec that provides scientific testing equipment and software to global UAV manufacturers and researchers. Engineers and researchers use thrust stands manufactured by Tyto Robotics to test drone and UAV components such as propulsion systems, propellers, and Electronic Speed Controll",
+      "domains": [],
+      "flags": [
+        "non_https"
+      ]
+    },
+    {
+      "name": "Unicorn (finance)",
+      "url": "https://scholarship.law.bu.edu/faculty_scholarship/601",
+      "category": "Company",
+      "sector": "",
+      "country": "",
+      "description": "In business, a unicorn is a startup company valued at over US$1 billion which is privately owned and not listed on a share market. The term was first published in 2013, coined by venture capitalist Aileen Lee, choosing the mythical animal to represent the statistical rarity of such successful ventures.\nMany unicorns saw their valuations fall in 2022 as a result of an economic slowdown caused by th",
+      "domains": [],
+      "flags": []
+    },
+    {
+      "name": "Xelon",
+      "url": "https://www.itreseller.ch/Artikel/86322/Xelon_Virtuelles_Datacenter_as_a_Service.html",
+      "category": "Company",
+      "sector": "",
+      "country": "",
+      "description": "Xelon AG (formerly Xelon Hosting GmbH) is a Swiss cloud computing company headquartered in Zug, Switzerland.",
+      "domains": [],
+      "flags": []
+    },
+    {
+      "name": "Zuppa Geo Navigation",
+      "url": "https://www.youtube.com/watch?v=0F0-Oqhgq-Y",
+      "category": "Company",
+      "sector": "",
+      "country": "",
+      "description": "Zuppa is an Indian Deep tech drone company with capabilities in development and manufacturing of Drones, Autopilots for Unmanned Systems, Unmanned combat aerial vehicle, Vehicle tracking systems & Navigation systems for defence and commercial uses.\nIt is headquartered in Chennai, Tamil Nadu. Customers include the Indian Army, foreign governments, commercial enterprises and state and local governme",
+      "domains": [],
+      "flags": []
+    },
+    {
+      "name": "Respiro (company)",
+      "url": "https://www.globalasthmareport.org/",
+      "category": "Company",
+      "sector": "",
+      "country": "",
+      "description": "Respiro is a medical device startup based in Dubai, United Arab Emirates, founded in late 2025. The company is developing a wearable respiratory monitor designed to predict asthma attacks before patients experience symptoms, through continuous acoustic monitoring of lung sounds. As of early 2026, the company has no commercial product and remains in the research and development phase.",
+      "domains": [],
+      "flags": []
+    }
+  ]
+}

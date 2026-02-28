@@ -1,0 +1,2411 @@
+{
+  "total_enriched": 2124,
+  "kept": 53,
+  "removed_duplicates_to_base": 2006,
+  "removed_duplicate_within_enriched": 0,
+  "removed_wikipedia_category_or_list": 27,
+  "removed_invalid_url": 36,
+  "removed_generic_name": 2,
+  "samples_removed": [
+    {
+      "name": "All set index articles",
+      "url": "https://en.wikipedia.org/wiki/Category:All_set_index_articles",
+      "category": "Framework",
+      "sector": "",
+      "country": "",
+      "description": "",
+      "domains": [
+        "AI/ML"
+      ],
+      "_removed_reason": "duplicate_to_base"
+    },
+    {
+      "name": "Angular",
+      "url": "https://angular.io/",
+      "category": "Framework",
+      "sector": "Web",
+      "country": "Worldwide",
+      "description": "Full-featured front-end framework by Google",
+      "domains": [
+        "AI/ML"
+      ],
+      "_removed_reason": "duplicate_to_base"
+    },
+    {
+      "name": "Comparison of JavaScript-based web frameworks",
+      "url": "https://en.wikipedia.org/wiki/Comparison_of_JavaScript-based_web_frameworks",
+      "category": "Framework",
+      "sector": "",
+      "country": "",
+      "description": "",
+      "domains": [
+        "AI/ML"
+      ],
+      "_removed_reason": "duplicate_to_base"
+    },
+    {
+      "name": "Comparison of server-side web frameworks",
+      "url": "https://en.wikipedia.org/wiki/Comparison_of_server-side_web_frameworks",
+      "category": "Framework",
+      "sector": "",
+      "country": "",
+      "description": "",
+      "domains": [
+        "AI/ML"
+      ],
+      "_removed_reason": "duplicate_to_base"
+    },
+    {
+      "name": "Django",
+      "url": "https://www.djangoproject.com/",
+      "category": "Framework",
+      "sector": "Web",
+      "country": "Worldwide",
+      "description": "High-level Python web framework",
+      "domains": [
+        "AI/ML"
+      ],
+      "_removed_reason": "duplicate_to_base"
+    },
+    {
+      "name": "Express",
+      "url": "https://expressjs.com/",
+      "category": "Framework",
+      "sector": "Web",
+      "country": "Worldwide",
+      "description": "Minimal Node.js web framework",
+      "domains": [
+        "AI/ML"
+      ],
+      "_removed_reason": "duplicate_to_base"
+    },
+    {
+      "name": "Flask",
+      "url": "https://flask.palletsprojects.com/",
+      "category": "Framework",
+      "sector": "Web",
+      "country": "Worldwide",
+      "description": "Lightweight Python web microframework",
+      "domains": [
+        "AI/ML"
+      ],
+      "_removed_reason": "duplicate_to_base"
+    },
+    {
+      "name": "Laravel",
+      "url": "https://laravel.com/",
+      "category": "Framework",
+      "sector": "Web",
+      "country": "Worldwide",
+      "description": "PHP web framework",
+      "domains": [
+        "AI/ML"
+      ],
+      "_removed_reason": "duplicate_to_base"
+    },
+    {
+      "name": "Monitored short pages",
+      "url": "https://en.wikipedia.org/wiki/Category:Monitored_short_pages",
+      "category": "Framework",
+      "sector": "",
+      "country": "",
+      "description": "",
+      "domains": [
+        "AI/ML"
+      ],
+      "_removed_reason": "duplicate_to_base"
+    },
+    {
+      "name": "Next.js",
+      "url": "https://nextjs.org/",
+      "category": "Framework",
+      "sector": "Web",
+      "country": "Worldwide",
+      "description": "React framework for hybrid apps",
+      "domains": [
+        "AI/ML"
+      ],
+      "_removed_reason": "duplicate_to_base"
+    },
+    {
+      "name": "Nuxt",
+      "url": "https://nuxt.com/",
+      "category": "Framework",
+      "sector": "Web",
+      "country": "Worldwide",
+      "description": "Vue framework for server-side rendering",
+      "domains": [
+        "AI/ML"
+      ],
+      "_removed_reason": "duplicate_to_base"
+    },
+    {
+      "name": "React",
+      "url": "https://reactjs.org/",
+      "category": "Framework",
+      "sector": "Web",
+      "country": "Worldwide",
+      "description": "UI library for building web apps",
+      "domains": [
+        "AI/ML"
+      ],
+      "_removed_reason": "duplicate_to_base"
+    },
+    {
+      "name": "Ruby on Rails",
+      "url": "https://rubyonrails.org/",
+      "category": "Framework",
+      "sector": "Web",
+      "country": "Worldwide",
+      "description": "Opinionated Ruby web framework",
+      "domains": [
+        "AI/ML"
+      ],
+      "_removed_reason": "duplicate_to_base"
+    },
+    {
+      "name": "set index article",
+      "url": "https://en.wikipedia.org/wiki/Wikipedia:Set_index_articles",
+      "category": "Framework",
+      "sector": "",
+      "country": "",
+      "description": "",
+      "domains": [
+        "AI/ML"
+      ],
+      "_removed_reason": "duplicate_to_base"
+    },
+    {
+      "name": "Set index articles",
+      "url": "https://en.wikipedia.org/wiki/Category:Set_index_articles",
+      "category": "Framework",
+      "sector": "",
+      "country": "",
+      "description": "",
+      "domains": [
+        "AI/ML"
+      ],
+      "_removed_reason": "duplicate_to_base"
+    },
+    {
+      "name": "Spring",
+      "url": "https://spring.io/",
+      "category": "Framework",
+      "sector": "Enterprise",
+      "country": "Worldwide",
+      "description": "Java application framework",
+      "domains": [
+        "AI/ML"
+      ],
+      "_removed_reason": "duplicate_to_base"
+    },
+    {
+      "name": "Svelte",
+      "url": "https://svelte.dev/",
+      "category": "Framework",
+      "sector": "Web",
+      "country": "Worldwide",
+      "description": "Compile-time UI framework",
+      "domains": [
+        "AI/ML"
+      ],
+      "_removed_reason": "duplicate_to_base"
+    },
+    {
+      "name": "Vue.js",
+      "url": "https://vuejs.org/",
+      "category": "Framework",
+      "sector": "Web",
+      "country": "Worldwide",
+      "description": "Progressive JavaScript framework",
+      "domains": [
+        "AI/ML"
+      ],
+      "_removed_reason": "duplicate_to_base"
+    },
+    {
+      "name": "web frameworks",
+      "url": "https://web.archive.org/web/20150723163302/http://docforge.com/wiki/Web_application_framework",
+      "category": "Framework",
+      "sector": "",
+      "country": "",
+      "description": "",
+      "domains": [
+        "AI/ML"
+      ],
+      "_removed_reason": "duplicate_to_base"
+    },
+    {
+      "name": "\"Spreadsheet Interface Plan Falls Short of Perfect\"",
+      "url": "https://books.google.com/books?id=8GssNAAACAAJ",
+      "category": "Programming Language",
+      "sector": "",
+      "country": "",
+      "description": "",
+      "domains": [
+        "AI/ML"
+      ],
+      "_removed_reason": "duplicate_to_base"
+    },
+    {
+      "name": ".QL",
+      "url": "http://semmle.com/",
+      "category": "Programming Language",
+      "sector": "",
+      "country": "",
+      "description": "",
+      "domains": [
+        "AI/ML"
+      ],
+      "_removed_reason": "duplicate_to_base"
+    },
+    {
+      "name": "A+ (A plus)",
+      "url": "http://www.aplusdev.org/",
+      "category": "Programming Language",
+      "sector": "",
+      "country": "",
+      "description": "",
+      "domains": [
+        "AI/ML"
+      ],
+      "_removed_reason": "duplicate_to_base"
+    },
+    {
+      "name": "A-0 System",
+      "url": "https://web.archive.org/web/20130104114928/http://bitsavers.informatik.uni-stuttgart.de/pdf/mit/summer_session_1954/Digital_Computers_Advanced_Coding_Techniques_Summer_1954.pdf",
+      "category": "Programming Language",
+      "sector": "",
+      "country": "",
+      "description": "",
+      "domains": [
+        "AI/ML"
+      ],
+      "_removed_reason": "duplicate_to_base"
+    },
+    {
+      "name": "A.NET (A#/A sharp)",
+      "url": "http://www.asharp.martincarlisle.com",
+      "category": "Programming Language",
+      "sector": "",
+      "country": "",
+      "description": "",
+      "domains": [
+        "AI/ML"
+      ],
+      "_removed_reason": "duplicate_to_base"
+    },
+    {
+      "name": "ABAP",
+      "url": "https://community.sap.com/topics/abap",
+      "category": "Programming Language",
+      "sector": "",
+      "country": "",
+      "description": "",
+      "domains": [
+        "AI/ML"
+      ],
+      "_removed_reason": "duplicate_to_base"
+    },
+    {
+      "name": "ABC",
+      "url": "https://homepages.cwi.nl/~steven/abc/",
+      "category": "Programming Language",
+      "sector": "",
+      "country": "",
+      "description": "",
+      "domains": [
+        "AI/ML"
+      ],
+      "_removed_reason": "duplicate_to_base"
+    },
+    {
+      "name": "ACC",
+      "url": "https://www.openacc.org/get-started",
+      "category": "Programming Language",
+      "sector": "",
+      "country": "",
+      "description": "",
+      "domains": [
+        "AI/ML"
+      ],
+      "_removed_reason": "duplicate_to_base"
+    },
+    {
+      "name": "Accent (Rational Synergy)",
+      "url": "https://www.ibm.com/products/rational-synergy",
+      "category": "Programming Language",
+      "sector": "",
+      "country": "",
+      "description": "",
+      "domains": [
+        "AI/ML"
+      ],
+      "_removed_reason": "duplicate_to_base"
+    },
+    {
+      "name": "Action!",
+      "url": "https://sourceforge.net/projects/atari-action/",
+      "category": "Programming Language",
+      "sector": "",
+      "country": "",
+      "description": "",
+      "domains": [
+        "AI/ML"
+      ],
+      "_removed_reason": "duplicate_to_base"
+    },
+    {
+      "name": "ActionScript",
+      "url": "http://www.adobe.com/devnet/actionscript",
+      "category": "Programming Language",
+      "sector": "",
+      "country": "",
+      "description": "",
+      "domains": [
+        "AI/ML"
+      ],
+      "_removed_reason": "duplicate_to_base"
+    },
+    {
+      "name": "Ada",
+      "url": "https://www.adaic.org/",
+      "category": "Programming Language",
+      "sector": "",
+      "country": "",
+      "description": "",
+      "domains": [
+        "AI/ML"
+      ],
+      "_removed_reason": "duplicate_to_base"
+    },
+    {
+      "name": "Adenine (Haystack)",
+      "url": "http://haystack.csail.mit.edu/#projects",
+      "category": "Programming Language",
+      "sector": "",
+      "country": "",
+      "description": "",
+      "domains": [
+        "AI/ML"
+      ],
+      "_removed_reason": "duplicate_to_base"
+    },
+    {
+      "name": "AdvPL",
+      "url": "http://tdn.totvs.com/pages/viewpage.action?pageId=27675886",
+      "category": "Programming Language",
+      "sector": "",
+      "country": "",
+      "description": "",
+      "domains": [
+        "AI/ML"
+      ],
+      "_removed_reason": "duplicate_to_base"
+    },
+    {
+      "name": "Agda",
+      "url": "https://wiki.portal.chalmers.se/agda",
+      "category": "Programming Language",
+      "sector": "",
+      "country": "",
+      "description": "",
+      "domains": [
+        "AI/ML"
+      ],
+      "_removed_reason": "duplicate_to_base"
+    },
+    {
+      "name": "Agilent VEE",
+      "url": "https://www.keysight.com/us/en/product/W4000D/vee-pro-9-33.html",
+      "category": "Programming Language",
+      "sector": "",
+      "country": "",
+      "description": "",
+      "domains": [
+        "AI/ML"
+      ],
+      "_removed_reason": "duplicate_to_base"
+    },
+    {
+      "name": "Agora",
+      "url": "http://soft.vub.ac.be/research/agora",
+      "category": "Programming Language",
+      "sector": "",
+      "country": "",
+      "description": "",
+      "domains": [
+        "AI/ML"
+      ],
+      "_removed_reason": "duplicate_to_base"
+    },
+    {
+      "name": "AIMMS",
+      "url": "https://www.aimms.com/",
+      "category": "Programming Language",
+      "sector": "",
+      "country": "",
+      "description": "",
+      "domains": [
+        "AI/ML"
+      ],
+      "_removed_reason": "duplicate_to_base"
+    },
+    {
+      "name": "Aldor",
+      "url": "https://aldor.org",
+      "category": "Programming Language",
+      "sector": "",
+      "country": "",
+      "description": "",
+      "domains": [
+        "AI/ML"
+      ],
+      "_removed_reason": "duplicate_to_base"
+    },
+    {
+      "name": "Alef",
+      "url": "http://doc.cat-v.org/plan_9/2nd_edition/papers/alef/ref",
+      "category": "Programming Language",
+      "sector": "",
+      "country": "",
+      "description": "",
+      "domains": [
+        "AI/ML"
+      ],
+      "_removed_reason": "duplicate_to_base"
+    },
+    {
+      "name": "Algebraic Logic Functional programming language",
+      "url": "http://www.informatik.uni-kiel.de/~mh/systems/ALF",
+      "category": "Programming Language",
+      "sector": "",
+      "country": "",
+      "description": "",
+      "domains": [
+        "AI/ML"
+      ],
+      "_removed_reason": "duplicate_to_base"
+    },
+    {
+      "name": "ALGOL",
+      "url": "http://www.masswerk.at/algol60/report.htm",
+      "category": "Programming Language",
+      "sector": "",
+      "country": "",
+      "description": "",
+      "domains": [
+        "AI/ML"
+      ],
+      "_removed_reason": "duplicate_to_base"
+    },
+    {
+      "name": "ALGOL 58",
+      "url": "http://www.softwarepreservation.org/projects/ALGOL/algol58impl.html",
+      "category": "Programming Language",
+      "sector": "",
+      "country": "",
+      "description": "",
+      "domains": [
+        "AI/ML"
+      ],
+      "_removed_reason": "duplicate_to_base"
+    },
+    {
+      "name": "ALGOL 60",
+      "url": "https://www.masswerk.at/algol60/report.htm",
+      "category": "Programming Language",
+      "sector": "",
+      "country": "",
+      "description": "",
+      "domains": [
+        "AI/ML"
+      ],
+      "_removed_reason": "duplicate_to_base"
+    },
+    {
+      "name": "ALGOL 68",
+      "url": "http://algol68-lang.org",
+      "category": "Programming Language",
+      "sector": "",
+      "country": "",
+      "description": "",
+      "domains": [
+        "AI/ML"
+      ],
+      "_removed_reason": "duplicate_to_base"
+    },
+    {
+      "name": "ALGOL W",
+      "url": "https://web.archive.org/web/20100523150449/http://www.jampan.co.nz/~glyn/",
+      "category": "Programming Language",
+      "sector": "",
+      "country": "",
+      "description": "",
+      "domains": [
+        "AI/ML"
+      ],
+      "_removed_reason": "duplicate_to_base"
+    },
+    {
+      "name": "Alice ML",
+      "url": "http://www.ps.uni-saarland.de/alice",
+      "category": "Programming Language",
+      "sector": "",
+      "country": "",
+      "description": "",
+      "domains": [
+        "AI/ML"
+      ],
+      "_removed_reason": "duplicate_to_base"
+    },
+    {
+      "name": "Alma-0",
+      "url": "http://www.cwi.nl/en/alma",
+      "category": "Programming Language",
+      "sector": "",
+      "country": "",
+      "description": "",
+      "domains": [
+        "AI/ML"
+      ],
+      "_removed_reason": "duplicate_to_base"
+    },
+    {
+      "name": "AmbientTalk",
+      "url": "https://soft.vub.ac.be/amop",
+      "category": "Programming Language",
+      "sector": "",
+      "country": "",
+      "description": "",
+      "domains": [
+        "AI/ML"
+      ],
+      "_removed_reason": "duplicate_to_base"
+    },
+    {
+      "name": "Amiga E",
+      "url": "https://aminet.net/package/dev/e/amigae33a",
+      "category": "Programming Language",
+      "sector": "",
+      "country": "",
+      "description": "",
+      "domains": [
+        "AI/ML"
+      ],
+      "_removed_reason": "duplicate_to_base"
+    },
+    {
+      "name": "AMPL",
+      "url": "http://www.ampl.com",
+      "category": "Programming Language",
+      "sector": "",
+      "country": "",
+      "description": "",
+      "domains": [
+        "AI/ML"
+      ],
+      "_removed_reason": "duplicate_to_base"
+    },
+    {
+      "name": "Analitik",
+      "url": "http://dspace.nbuv.gov.ua/bitstream/handle/123456789/771/2-morozov.pdf",
+      "category": "Programming Language",
+      "sector": "",
+      "country": "",
+      "description": "",
+      "domains": [
+        "AI/ML"
+      ],
+      "_removed_reason": "duplicate_to_base"
+    },
+    {
+      "name": "AngelScript",
+      "url": "https://angelcode.com/angelscript/",
+      "category": "Programming Language",
+      "sector": "",
+      "country": "",
+      "description": "",
+      "domains": [
+        "AI/ML"
+      ],
+      "_removed_reason": "duplicate_to_base"
+    },
+    {
+      "name": "Apache Pig latin",
+      "url": "https://pig.apache.org",
+      "category": "Programming Language",
+      "sector": "",
+      "country": "",
+      "description": "",
+      "domains": [
+        "AI/ML"
+      ],
+      "_removed_reason": "duplicate_to_base"
+    },
+    {
+      "name": "Apex (Salesforce.com, Inc)",
+      "url": "https://www.salesforce.com/",
+      "category": "Programming Language",
+      "sector": "",
+      "country": "",
+      "description": "",
+      "domains": [
+        "AI/ML"
+      ],
+      "_removed_reason": "duplicate_to_base"
+    },
+    {
+      "name": "APL",
+      "url": "https://aplwiki.com/",
+      "category": "Programming Language",
+      "sector": "",
+      "country": "",
+      "description": "",
+      "domains": [
+        "AI/ML"
+      ],
+      "_removed_reason": "duplicate_to_base"
+    },
+    {
+      "name": "App Inventor for Android's visual block language (MIT App Inventor)",
+      "url": "http://appinventor.mit.edu",
+      "category": "Programming Language",
+      "sector": "",
+      "country": "",
+      "description": "",
+      "domains": [
+        "AI/ML"
+      ],
+      "_removed_reason": "duplicate_to_base"
+    },
+    {
+      "name": "AppleScript",
+      "url": "https://developer.apple.com/library/archive/documentation/AppleScript/Conceptual/AppleScriptLangGuide",
+      "category": "Programming Language",
+      "sector": "",
+      "country": "",
+      "description": "",
+      "domains": [
+        "AI/ML"
+      ],
+      "_removed_reason": "duplicate_to_base"
+    },
+    {
+      "name": "APT",
+      "url": "http://dl.acm.org/citation.cfm?id=808374&dl=ACM&coll=DL&CFID=203593322&CFTOKEN=45146083",
+      "category": "Programming Language",
+      "sector": "",
+      "country": "",
+      "description": "",
+      "domains": [
+        "AI/ML"
+      ],
+      "_removed_reason": "duplicate_to_base"
+    },
+    {
+      "name": "Arc",
+      "url": "http://arclanguage.org",
+      "category": "Programming Language",
+      "sector": "",
+      "country": "",
+      "description": "",
+      "domains": [
+        "AI/ML"
+      ],
+      "_removed_reason": "duplicate_to_base"
+    },
+    {
+      "name": "ARexx",
+      "url": "https://web.archive.org/web/20060114052122/http://members.cox.net/midian/tutorials/arexx1.htm",
+      "category": "Programming Language",
+      "sector": "",
+      "country": "",
+      "description": "",
+      "domains": [
+        "AI/ML"
+      ],
+      "_removed_reason": "duplicate_to_base"
+    },
+    {
+      "name": "Argus",
+      "url": "http://pmg.csail.mit.edu/~dcurtis/argus/argus-manual.pdf",
+      "category": "Programming Language",
+      "sector": "",
+      "country": "",
+      "description": "",
+      "domains": [
+        "AI/ML"
+      ],
+      "_removed_reason": "duplicate_to_base"
+    },
+    {
+      "name": "ArkTS",
+      "url": "http://developer.huawei.com/consumer/cn/arkts",
+      "category": "Programming Language",
+      "sector": "",
+      "country": "",
+      "description": "",
+      "domains": [
+        "AI/ML"
+      ],
+      "_removed_reason": "duplicate_to_base"
+    },
+    {
+      "name": "Articles with short description",
+      "url": "https://en.wikipedia.org/wiki/Category:Articles_with_short_description",
+      "category": "Programming Language",
+      "sector": "",
+      "country": "",
+      "description": "",
+      "domains": [
+        "AI/ML"
+      ],
+      "_removed_reason": "duplicate_to_base"
+    },
+    {
+      "name": "Assembly language",
+      "url": "https://www.ibm.com/support/knowledgecenter/SSLTBW_2.1.0/com.ibm.zos.v2r1.asma400/asmr102112.htm",
+      "category": "Programming Language",
+      "sector": "",
+      "country": "",
+      "description": "",
+      "domains": [
+        "AI/ML"
+      ],
+      "_removed_reason": "duplicate_to_base"
+    },
+    {
+      "name": "AssemblyScript",
+      "url": "http://www.assemblyscript.org",
+      "category": "Programming Language",
+      "sector": "",
+      "country": "",
+      "description": "",
+      "domains": [
+        "AI/ML"
+      ],
+      "_removed_reason": "duplicate_to_base"
+    },
+    {
+      "name": "ATS",
+      "url": "http://www.ats-lang.org",
+      "category": "Programming Language",
+      "sector": "",
+      "country": "",
+      "description": "",
+      "domains": [
+        "AI/ML"
+      ],
+      "_removed_reason": "duplicate_to_base"
+    },
+    {
+      "name": "AutoHotkey",
+      "url": "https://www.autohotkey.com/",
+      "category": "Programming Language",
+      "sector": "",
+      "country": "",
+      "description": "",
+      "domains": [
+        "AI/ML"
+      ],
+      "_removed_reason": "duplicate_to_base"
+    },
+    {
+      "name": "AutoIt",
+      "url": "https://www.autoitscript.com",
+      "category": "Programming Language",
+      "sector": "",
+      "country": "",
+      "description": "",
+      "domains": [
+        "AI/ML"
+      ],
+      "_removed_reason": "duplicate_to_base"
+    },
+    {
+      "name": "AutoLISP",
+      "url": "http://www.faqs.org/faqs/CAD/autolisp-faq/",
+      "category": "Programming Language",
+      "sector": "",
+      "country": "",
+      "description": "",
+      "domains": [
+        "AI/ML"
+      ],
+      "_removed_reason": "duplicate_to_base"
+    },
+    {
+      "name": "Averest",
+      "url": "http://www.averest.org/",
+      "category": "Programming Language",
+      "sector": "",
+      "country": "",
+      "description": "",
+      "domains": [
+        "AI/ML"
+      ],
+      "_removed_reason": "duplicate_to_base"
+    },
+    {
+      "name": "AWK",
+      "url": "http://pubs.opengroup.org/onlinepubs/9699919799/utilities/awk.html",
+      "category": "Programming Language",
+      "sector": "",
+      "country": "",
+      "description": "",
+      "domains": [
+        "AI/ML"
+      ],
+      "_removed_reason": "duplicate_to_base"
+    },
+    {
+      "name": "Axum",
+      "url": "http://msdn.microsoft.com/en-us/devlabs/dd795202.aspx",
+      "category": "Programming Language",
+      "sector": "",
+      "country": "",
+      "description": "",
+      "domains": [
+        "AI/ML"
+      ],
+      "_removed_reason": "duplicate_to_base"
+    },
+    {
+      "name": "Babbage",
+      "url": "https://web.archive.org/web/20200223123838/http://www.cucumber.demon.co.uk:80/geccl/",
+      "category": "Programming Language",
+      "sector": "",
+      "country": "",
+      "description": "",
+      "domains": [
+        "AI/ML"
+      ],
+      "_removed_reason": "duplicate_to_base"
+    },
+    {
+      "name": "Ballerina",
+      "url": "http://ballerina.io",
+      "category": "Programming Language",
+      "sector": "",
+      "country": "",
+      "description": "",
+      "domains": [
+        "AI/ML"
+      ],
+      "_removed_reason": "duplicate_to_base"
+    },
+    {
+      "name": "Bash",
+      "url": "http://www.gnu.org/software/bash/",
+      "category": "Programming Language",
+      "sector": "",
+      "country": "",
+      "description": "",
+      "domains": [
+        "AI/ML"
+      ],
+      "_removed_reason": "duplicate_to_base"
+    },
+    {
+      "name": "BASIC",
+      "url": "https://en.wikibooks.org/wiki/BASIC_Programming",
+      "category": "Programming Language",
+      "sector": "",
+      "country": "",
+      "description": "",
+      "domains": [
+        "AI/ML"
+      ],
+      "_removed_reason": "duplicate_to_base"
+    },
+    {
+      "name": "Batch file (Windows/MS-DOS)",
+      "url": "https://docs.microsoft.com/en-us/previous-versions/windows/it-pro/windows-xp/bb490869(v%3dtechnet.10)",
+      "category": "Programming Language",
+      "sector": "",
+      "country": "",
+      "description": "",
+      "domains": [
+        "AI/ML"
+      ],
+      "_removed_reason": "duplicate_to_base"
+    },
+    {
+      "name": "bc (basic calculator)",
+      "url": "https://doi.acm.org/10.1145/152923.152925",
+      "category": "Programming Language",
+      "sector": "",
+      "country": "",
+      "description": "",
+      "domains": [
+        "AI/ML"
+      ],
+      "_removed_reason": "duplicate_to_base"
+    },
+    {
+      "name": "BCPL",
+      "url": "http://www.cl.cam.ac.uk/users/mr/BCPL.html",
+      "category": "Programming Language",
+      "sector": "",
+      "country": "",
+      "description": "",
+      "domains": [
+        "AI/ML"
+      ],
+      "_removed_reason": "duplicate_to_base"
+    },
+    {
+      "name": "BeanShell",
+      "url": "https://github.com/beanshell/beanshell",
+      "category": "Programming Language",
+      "sector": "",
+      "country": "",
+      "description": "",
+      "domains": [
+        "AI/ML"
+      ],
+      "_removed_reason": "duplicate_to_base"
+    },
+    {
+      "name": "BETA",
+      "url": "http://beta.cs.au.dk",
+      "category": "Programming Language",
+      "sector": "",
+      "country": "",
+      "description": "",
+      "domains": [
+        "AI/ML"
+      ],
+      "_removed_reason": "duplicate_to_base"
+    },
+    {
+      "name": "BlackBox Component Builder",
+      "url": "http://blackboxframework.org",
+      "category": "Programming Language",
+      "sector": "",
+      "country": "",
+      "description": "",
+      "domains": [
+        "AI/ML"
+      ],
+      "_removed_reason": "duplicate_to_base"
+    },
+    {
+      "name": "BLISS",
+      "url": "http://pdp-10.trailing-edge.com/bb-m836d-bm/",
+      "category": "Programming Language",
+      "sector": "",
+      "country": "",
+      "description": "",
+      "domains": [
+        "AI/ML"
+      ],
+      "_removed_reason": "duplicate_to_base"
+    },
+    {
+      "name": "Blockly",
+      "url": "http://developers.google.com/blockly",
+      "category": "Programming Language",
+      "sector": "",
+      "country": "",
+      "description": "",
+      "domains": [
+        "AI/ML"
+      ],
+      "_removed_reason": "duplicate_to_base"
+    },
+    {
+      "name": "BlooP",
+      "url": "http://cgibin.erols.com/ziring/cgi-bin/cep/cep.pl?_key=BLooP",
+      "category": "Programming Language",
+      "sector": "",
+      "country": "",
+      "description": "",
+      "domains": [
+        "AI/ML"
+      ],
+      "_removed_reason": "duplicate_to_base"
+    },
+    {
+      "name": "Boo",
+      "url": "https://github.com/boo-lang",
+      "category": "Programming Language",
+      "sector": "",
+      "country": "",
+      "description": "",
+      "domains": [
+        "AI/ML"
+      ],
+      "_removed_reason": "duplicate_to_base"
+    },
+    {
+      "name": "Boomerang",
+      "url": "http://www.seas.upenn.edu/~harmony/",
+      "category": "Programming Language",
+      "sector": "",
+      "country": "",
+      "description": "",
+      "domains": [
+        "AI/ML"
+      ],
+      "_removed_reason": "duplicate_to_base"
+    },
+    {
+      "name": "Bosque",
+      "url": "https://www.microsoft.com/en-us/research/project/bosque-programming-language/",
+      "category": "Programming Language",
+      "sector": "",
+      "country": "",
+      "description": "",
+      "domains": [
+        "AI/ML"
+      ],
+      "_removed_reason": "duplicate_to_base"
+    },
+    {
+      "name": "C Shell (csh)",
+      "url": "http://cvsweb.netbsd.org/bsdweb.cgi/src/bin/csh/",
+      "category": "Programming Language",
+      "sector": "",
+      "country": "",
+      "description": "",
+      "domains": [
+        "AI/ML"
+      ],
+      "_removed_reason": "duplicate_to_base"
+    },
+    {
+      "name": "C++",
+      "url": "https://www.c-language.org/",
+      "category": "Programming Language",
+      "sector": "Systems",
+      "country": "Worldwide",
+      "description": "Low-level systems programming language",
+      "domains": [
+        "AI/ML"
+      ],
+      "_removed_reason": "duplicate_to_base"
+    },
+    {
+      "name": "C/AL",
+      "url": "http://www.microsoft.com/en-us/dynamics/erp-nav-overview.aspx",
+      "category": "Programming Language",
+      "sector": "",
+      "country": "",
+      "description": "",
+      "domains": [
+        "AI/ML"
+      ],
+      "_removed_reason": "duplicate_to_base"
+    },
+    {
+      "name": "Caché ObjectScript",
+      "url": "http://www.intersystems.com/cache",
+      "category": "Programming Language",
+      "sector": "",
+      "country": "",
+      "description": "",
+      "domains": [
+        "AI/ML"
+      ],
+      "_removed_reason": "duplicate_to_base"
+    },
+    {
+      "name": "Caml",
+      "url": "http://caml.inria.fr",
+      "category": "Programming Language",
+      "sector": "",
+      "country": "",
+      "description": "",
+      "domains": [
+        "AI/ML"
+      ],
+      "_removed_reason": "duplicate_to_base"
+    },
+    {
+      "name": "Carbon",
+      "url": "https://github.com/carbon-language",
+      "category": "Programming Language",
+      "sector": "",
+      "country": "",
+      "description": "",
+      "domains": [
+        "AI/ML"
+      ],
+      "_removed_reason": "duplicate_to_base"
+    },
+    {
+      "name": "Categorical",
+      "url": "https://docs.raku.org/language/operators#Operators",
+      "category": "Programming Language",
+      "sector": "",
+      "country": "",
+      "description": "",
+      "domains": [
+        "AI/ML"
+      ],
+      "_removed_reason": "duplicate_to_base"
+    },
+    {
+      "name": "Categories",
+      "url": "https://www.mediawiki.org/wiki/Extension:TimedMediaHandler",
+      "category": "Programming Language",
+      "sector": "",
+      "country": "",
+      "description": "",
+      "domains": [
+        "AI/ML"
+      ],
+      "_removed_reason": "duplicate_to_base"
+    },
+    {
+      "name": "Category:Programming languages",
+      "url": "https://en.wikipedia.org/wiki/Category:Programming_languages",
+      "category": "Programming Language",
+      "sector": "",
+      "country": "",
+      "description": "",
+      "domains": [
+        "AI/ML"
+      ],
+      "_removed_reason": "wikipedia_category_or_list"
+    },
+    {
+      "name": "Catrobat",
+      "url": "https://catrobat.org",
+      "category": "Programming Language",
+      "sector": "",
+      "country": "",
+      "description": "",
+      "domains": [
+        "AI/ML"
+      ],
+      "_removed_reason": "duplicate_to_base"
+    },
+    {
+      "name": "Cayenne (Lennart Augustsson)",
+      "url": "http://www.augustsson.net",
+      "category": "Programming Language",
+      "sector": "",
+      "country": "",
+      "description": "",
+      "domains": [
+        "AI/ML"
+      ],
+      "_removed_reason": "duplicate_to_base"
+    },
+    {
+      "name": "Cecil",
+      "url": "http://www.cs.washington.edu/research/projects/cecil/",
+      "category": "Programming Language",
+      "sector": "",
+      "country": "",
+      "description": "",
+      "domains": [
+        "AI/ML"
+      ],
+      "_removed_reason": "duplicate_to_base"
+    },
+    {
+      "name": "CEEMAC",
+      "url": "http://www.atarimagazines.com/creative/v9n1/54_A_structured_graphics_lan.php",
+      "category": "Programming Language",
+      "sector": "",
+      "country": "",
+      "description": "",
+      "domains": [
+        "AI/ML"
+      ],
+      "_removed_reason": "duplicate_to_base"
+    },
+    {
+      "name": "CESIL (Computer Education in Schools Instruction Language)",
+      "url": "https://drive.google.com/file/d/1Dlfi4pzwxK3AIMETYjPO6MeUnAcWac44/view",
+      "category": "Programming Language",
+      "sector": "",
+      "country": "",
+      "description": "",
+      "domains": [
+        "AI/ML"
+      ],
+      "_removed_reason": "duplicate_to_base"
+    },
+    {
+      "name": "Ceylon",
+      "url": "https://ceylon-lang.org",
+      "category": "Programming Language",
+      "sector": "",
+      "country": "",
+      "description": "",
+      "domains": [
+        "AI/ML"
+      ],
+      "_removed_reason": "duplicate_to_base"
+    },
+    {
+      "name": "CFEngine",
+      "url": "https://cfengine.com/",
+      "category": "Programming Language",
+      "sector": "",
+      "country": "",
+      "description": "",
+      "domains": [
+        "AI/ML"
+      ],
+      "_removed_reason": "duplicate_to_base"
+    },
+    {
+      "name": "Cg (High-Level Shader/Shading Language [HLSL])",
+      "url": "https://github.com/castano/cgc-opensrc",
+      "category": "Programming Language",
+      "sector": "",
+      "country": "",
+      "description": "",
+      "domains": [
+        "AI/ML"
+      ],
+      "_removed_reason": "duplicate_to_base"
+    },
+    {
+      "name": "Ch",
+      "url": "http://www.softintegration.com",
+      "category": "Programming Language",
+      "sector": "",
+      "country": "",
+      "description": "",
+      "domains": [
+        "AI/ML"
+      ],
+      "_removed_reason": "duplicate_to_base"
+    },
+    {
+      "name": "Chapel (Cascade High Productivity Language)",
+      "url": "https://chapel-lang.org/",
+      "category": "Programming Language",
+      "sector": "",
+      "country": "",
+      "description": "",
+      "domains": [
+        "AI/ML"
+      ],
+      "_removed_reason": "duplicate_to_base"
+    },
+    {
+      "name": "Charm",
+      "url": "http://charm.qu-bit.co.uk",
+      "category": "Programming Language",
+      "sector": "",
+      "country": "",
+      "description": "",
+      "domains": [
+        "AI/ML"
+      ],
+      "_removed_reason": "duplicate_to_base"
+    },
+    {
+      "name": "CHILL",
+      "url": "http://www.itu.int/rec/T-REC-Z.200/en",
+      "category": "Programming Language",
+      "sector": "",
+      "country": "",
+      "description": "",
+      "domains": [
+        "AI/ML"
+      ],
+      "_removed_reason": "duplicate_to_base"
+    },
+    {
+      "name": "CHIP-8",
+      "url": "https://bitbucket.org/csoren/fpga-chip8",
+      "category": "Programming Language",
+      "sector": "",
+      "country": "",
+      "description": "",
+      "domains": [
+        "AI/ML"
+      ],
+      "_removed_reason": "duplicate_to_base"
+    },
+    {
+      "name": "Chronological",
+      "url": "http://hopl.info/",
+      "category": "Programming Language",
+      "sector": "",
+      "country": "",
+      "description": "",
+      "domains": [
+        "AI/ML"
+      ],
+      "_removed_reason": "duplicate_to_base"
+    },
+    {
+      "name": "ChucK",
+      "url": "http://chuck.cs.princeton.edu",
+      "category": "Programming Language",
+      "sector": "",
+      "country": "",
+      "description": "",
+      "domains": [
+        "AI/ML"
+      ],
+      "_removed_reason": "duplicate_to_base"
+    },
+    {
+      "name": "Cilk (also Cilk++ and Cilk plus)",
+      "url": "https://cilk.mit.edu/",
+      "category": "Programming Language",
+      "sector": "",
+      "country": "",
+      "description": "",
+      "domains": [
+        "AI/ML"
+      ],
+      "_removed_reason": "duplicate_to_base"
+    },
+    {
+      "name": "Claire",
+      "url": "http://www.claire-language.com",
+      "category": "Programming Language",
+      "sector": "",
+      "country": "",
+      "description": "",
+      "domains": [
+        "AI/ML"
+      ],
+      "_removed_reason": "duplicate_to_base"
+    },
+    {
+      "name": "Clarion",
+      "url": "http://www.softvelocity.com",
+      "category": "Programming Language",
+      "sector": "",
+      "country": "",
+      "description": "",
+      "domains": [
+        "AI/ML"
+      ],
+      "_removed_reason": "duplicate_to_base"
+    },
+    {
+      "name": "classic",
+      "url": "https://learn.microsoft.com/en-us/previous-versions/visualstudio/visual-basic-6/visual-basic-6.0-documentation",
+      "category": "Programming Language",
+      "sector": "",
+      "country": "",
+      "description": "",
+      "domains": [
+        "AI/ML"
+      ],
+      "_removed_reason": "duplicate_to_base"
+    },
+    {
+      "name": "Clean",
+      "url": "https://clean.cs.ru.nl",
+      "category": "Programming Language",
+      "sector": "",
+      "country": "",
+      "description": "",
+      "domains": [
+        "AI/ML"
+      ],
+      "_removed_reason": "duplicate_to_base"
+    },
+    {
+      "name": "Clipper",
+      "url": "http://www.grafxsoft.com/clipper.htm",
+      "category": "Programming Language",
+      "sector": "",
+      "country": "",
+      "description": "",
+      "domains": [
+        "AI/ML"
+      ],
+      "_removed_reason": "duplicate_to_base"
+    },
+    {
+      "name": "CLIPS",
+      "url": "http://clipsrules.net",
+      "category": "Programming Language",
+      "sector": "",
+      "country": "",
+      "description": "",
+      "domains": [
+        "AI/ML"
+      ],
+      "_removed_reason": "duplicate_to_base"
+    },
+    {
+      "name": "Clojure",
+      "url": "https://clojure.org",
+      "category": "Programming Language",
+      "sector": "",
+      "country": "",
+      "description": "",
+      "domains": [
+        "AI/ML"
+      ],
+      "_removed_reason": "duplicate_to_base"
+    },
+    {
+      "name": "CLU",
+      "url": "http://pmg.csail.mit.edu/CLU.html",
+      "category": "Programming Language",
+      "sector": "",
+      "country": "",
+      "description": "",
+      "domains": [
+        "AI/ML"
+      ],
+      "_removed_reason": "duplicate_to_base"
+    },
+    {
+      "name": "CMS EXEC",
+      "url": "https://archive.today/20140417183004/http://publibfp.boulder.ibm.com/cgi-bin/bookmgr_OS390/BOOKS/HCSD7B00/CCONTENTS#5.1",
+      "category": "Programming Language",
+      "sector": "",
+      "country": "",
+      "description": "",
+      "domains": [
+        "AI/ML"
+      ],
+      "_removed_reason": "duplicate_to_base"
+    },
+    {
+      "name": "CMS-2",
+      "url": "https://archive.org/details/bitsavers_univacmilimmersReferenceManualfortheANUYK7andANUYK_23389579",
+      "category": "Programming Language",
+      "sector": "",
+      "country": "",
+      "description": "",
+      "domains": [
+        "AI/ML"
+      ],
+      "_removed_reason": "duplicate_to_base"
+    },
+    {
+      "name": "COBOL",
+      "url": "https://en.wikibooks.org/wiki/COBOL",
+      "category": "Programming Language",
+      "sector": "",
+      "country": "",
+      "description": "",
+      "domains": [
+        "AI/ML"
+      ],
+      "_removed_reason": "duplicate_to_base"
+    },
+    {
+      "name": "CobolScript",
+      "url": "https://web.archive.org/web/20010305215620/http://tampabay.bcentral.com/tampabay/stories/1999/11/29/newscolumn4.html",
+      "category": "Programming Language",
+      "sector": "",
+      "country": "",
+      "description": "",
+      "domains": [
+        "AI/ML"
+      ],
+      "_removed_reason": "duplicate_to_base"
+    },
+    {
+      "name": "Cobra",
+      "url": "http://cobra-language.com/",
+      "category": "Programming Language",
+      "sector": "",
+      "country": "",
+      "description": "",
+      "domains": [
+        "AI/ML"
+      ],
+      "_removed_reason": "duplicate_to_base"
+    },
+    {
+      "name": "CoffeeScript",
+      "url": "https://coffeescript.org/",
+      "category": "Programming Language",
+      "sector": "",
+      "country": "",
+      "description": "",
+      "domains": [
+        "AI/ML"
+      ],
+      "_removed_reason": "duplicate_to_base"
+    },
+    {
+      "name": "ColdFusion",
+      "url": "https://coldfusion.com/",
+      "category": "Programming Language",
+      "sector": "",
+      "country": "",
+      "description": "",
+      "domains": [
+        "AI/ML"
+      ],
+      "_removed_reason": "duplicate_to_base"
+    },
+    {
+      "name": "COMAL",
+      "url": "http://www.josvisser.nl/opencomal/",
+      "category": "Programming Language",
+      "sector": "",
+      "country": "",
+      "description": "",
+      "domains": [
+        "AI/ML"
+      ],
+      "_removed_reason": "duplicate_to_base"
+    },
+    {
+      "name": "COMIT",
+      "url": "https://www.bitsavers.org/pdf/mit/ctss/CTSS_ProgrammersGuide_Dec69.pdf",
+      "category": "Programming Language",
+      "sector": "",
+      "country": "",
+      "description": "",
+      "domains": [
+        "AI/ML"
+      ],
+      "_removed_reason": "duplicate_to_base"
+    },
+    {
+      "name": "Common Intermediate Language",
+      "url": "https://www.ecma-international.org/publications-and-standards/standards/ecma-335/",
+      "category": "Programming Language",
+      "sector": "",
+      "country": "",
+      "description": "",
+      "domains": [
+        "AI/ML"
+      ],
+      "_removed_reason": "duplicate_to_base"
+    },
+    {
+      "name": "Common Lisp",
+      "url": "http://common-lisp.net",
+      "category": "Programming Language",
+      "sector": "",
+      "country": "",
+      "description": "",
+      "domains": [
+        "AI/ML"
+      ],
+      "_removed_reason": "duplicate_to_base"
+    },
+    {
+      "name": "Comparison of programming languages",
+      "url": "https://en.wikipedia.org/wiki/Comparison_of_programming_languages",
+      "category": "Programming Language",
+      "sector": "",
+      "country": "",
+      "description": "",
+      "domains": [
+        "AI/ML"
+      ],
+      "_removed_reason": "duplicate_to_base"
+    },
+    {
+      "name": "COMPASS",
+      "url": "http://www.bitsavers.org/pdf/cdc/3x00/24bit/languages/60184200_COMPASS_Programming_Training_Manual_May67.pdf",
+      "category": "Programming Language",
+      "sector": "",
+      "country": "",
+      "description": "",
+      "domains": [
+        "AI/ML"
+      ],
+      "_removed_reason": "duplicate_to_base"
+    },
+    {
+      "name": "Computer Sciences Corporation",
+      "url": "http://www.csc.com/",
+      "category": "Programming Language",
+      "sector": "",
+      "country": "",
+      "description": "",
+      "domains": [
+        "AI/ML"
+      ],
+      "_removed_reason": "duplicate_to_base"
+    },
+    {
+      "name": "COMTRAN",
+      "url": "https://www.ancestry.co.uk/learn/library/article.aspx?article=1159",
+      "category": "Programming Language",
+      "sector": "",
+      "country": "",
+      "description": "",
+      "domains": [
+        "AI/ML"
+      ],
+      "_removed_reason": "duplicate_to_base"
+    },
+    {
+      "name": "Concurrent Pascal",
+      "url": "http://brinch-hansen.net/papers/1975a.pdf",
+      "category": "Programming Language",
+      "sector": "",
+      "country": "",
+      "description": "",
+      "domains": [
+        "AI/ML"
+      ],
+      "_removed_reason": "duplicate_to_base"
+    },
+    {
+      "name": "Constraint Handling Rules",
+      "url": "http://constraint-handling-rules.org",
+      "category": "Programming Language",
+      "sector": "",
+      "country": "",
+      "description": "",
+      "domains": [
+        "AI/ML"
+      ],
+      "_removed_reason": "duplicate_to_base"
+    },
+    {
+      "name": "CORAL",
+      "url": "http://history.dcs.ed.ac.uk/archive/os/deimos/ercm09/emas-2900/coral2.txt",
+      "category": "Programming Language",
+      "sector": "",
+      "country": "",
+      "description": "",
+      "domains": [
+        "AI/ML"
+      ],
+      "_removed_reason": "duplicate_to_base"
+    },
+    {
+      "name": "CorVision",
+      "url": "https://en.wiktionary.org/wiki/vesting",
+      "category": "Programming Language",
+      "sector": "",
+      "country": "",
+      "description": "",
+      "domains": [
+        "AI/ML"
+      ],
+      "_removed_reason": "duplicate_to_base"
+    },
+    {
+      "name": "COWSEL",
+      "url": "https://web.archive.org/web/20080906044133/http://hopl.murdoch.edu.au/showlanguage2.prx?exp=196",
+      "category": "Programming Language",
+      "sector": "",
+      "country": "",
+      "description": "",
+      "domains": [
+        "AI/ML"
+      ],
+      "_removed_reason": "duplicate_to_base"
+    },
+    {
+      "name": "CPL",
+      "url": "https://doi.org/10.1093%2Fcomjnl%2F6.2.134",
+      "category": "Programming Language",
+      "sector": "",
+      "country": "",
+      "description": "",
+      "domains": [
+        "AI/ML"
+      ],
+      "_removed_reason": "duplicate_to_base"
+    },
+    {
+      "name": "Cryptol",
+      "url": "http://www.cryptol.net",
+      "category": "Programming Language",
+      "sector": "",
+      "country": "",
+      "description": "",
+      "domains": [
+        "AI/ML"
+      ],
+      "_removed_reason": "duplicate_to_base"
+    },
+    {
+      "name": "Crystal",
+      "url": "https://crystal-lang.org/",
+      "category": "Programming Language",
+      "sector": "",
+      "country": "",
+      "description": "",
+      "domains": [
+        "AI/ML"
+      ],
+      "_removed_reason": "duplicate_to_base"
+    },
+    {
+      "name": "Csound",
+      "url": "http://csound.com",
+      "category": "Programming Language",
+      "sector": "",
+      "country": "",
+      "description": "",
+      "domains": [
+        "AI/ML"
+      ],
+      "_removed_reason": "duplicate_to_base"
+    },
+    {
+      "name": "Cuneiform",
+      "url": "http://cuneiform-lang.org/",
+      "category": "Programming Language",
+      "sector": "",
+      "country": "",
+      "description": "",
+      "domains": [
+        "AI/ML"
+      ],
+      "_removed_reason": "duplicate_to_base"
+    },
+    {
+      "name": "Curl",
+      "url": "https://www.curl.com",
+      "category": "Programming Language",
+      "sector": "",
+      "country": "",
+      "description": "",
+      "domains": [
+        "AI/ML"
+      ],
+      "_removed_reason": "duplicate_to_base"
+    },
+    {
+      "name": "Curry",
+      "url": "http://www.curry-lang.org",
+      "category": "Programming Language",
+      "sector": "",
+      "country": "",
+      "description": "",
+      "domains": [
+        "AI/ML"
+      ],
+      "_removed_reason": "duplicate_to_base"
+    },
+    {
+      "name": "Cybil",
+      "url": "https://dl.acm.org/doi/10.1145/988327.988331",
+      "category": "Programming Language",
+      "sector": "",
+      "country": "",
+      "description": "",
+      "domains": [
+        "AI/ML"
+      ],
+      "_removed_reason": "duplicate_to_base"
+    },
+    {
+      "name": "Cyclone",
+      "url": "http://cyclone.thelanguage.org",
+      "category": "Programming Language",
+      "sector": "",
+      "country": "",
+      "description": "",
+      "domains": [
+        "AI/ML"
+      ],
+      "_removed_reason": "duplicate_to_base"
+    },
+    {
+      "name": "Cypher Query Language",
+      "url": "https://neo4j.com/docs/cypher-manual/current/",
+      "category": "Programming Language",
+      "sector": "",
+      "country": "",
+      "description": "",
+      "domains": [
+        "AI/ML"
+      ],
+      "_removed_reason": "duplicate_to_base"
+    },
+    {
+      "name": "Cython",
+      "url": "https://cython.org",
+      "category": "Programming Language",
+      "sector": "",
+      "country": "",
+      "description": "",
+      "domains": [
+        "AI/ML"
+      ],
+      "_removed_reason": "duplicate_to_base"
+    },
+    {
+      "name": "Céu",
+      "url": "http://www.ceu-lang.org/",
+      "category": "Programming Language",
+      "sector": "",
+      "country": "",
+      "description": "",
+      "domains": [
+        "AI/ML"
+      ],
+      "_removed_reason": "duplicate_to_base"
+    },
+    {
+      "name": "Dart",
+      "url": "https://dart.dev/",
+      "category": "Programming Language",
+      "sector": "Mobile",
+      "country": "Worldwide",
+      "description": "Language optimized for UI, used with Flutter",
+      "domains": [
+        "AI/ML"
+      ],
+      "_removed_reason": "duplicate_to_base"
+    },
+    {
+      "name": "Darwin",
+      "url": "https://doi.org/10.1093%2Fbioinformatics%2F16.2.101",
+      "category": "Programming Language",
+      "sector": "",
+      "country": "",
+      "description": "",
+      "domains": [
+        "AI/ML"
+      ],
+      "_removed_reason": "duplicate_to_base"
+    },
+    {
+      "name": "DataFlex",
+      "url": "http://www.DataAccess.com/DataFlex",
+      "category": "Programming Language",
+      "sector": "",
+      "country": "",
+      "description": "",
+      "domains": [
+        "AI/ML"
+      ],
+      "_removed_reason": "duplicate_to_base"
+    },
+    {
+      "name": "Datalog",
+      "url": "https://www.iana.org/assignments/media-types/application/vnd.datalog",
+      "category": "Programming Language",
+      "sector": "",
+      "country": "",
+      "description": "",
+      "domains": [
+        "AI/ML"
+      ],
+      "_removed_reason": "duplicate_to_base"
+    },
+    {
+      "name": "DATATRIEVE",
+      "url": "https://vmssoftware.com/products/datatrieve/",
+      "category": "Programming Language",
+      "sector": "",
+      "country": "",
+      "description": "",
+      "domains": [
+        "AI/ML"
+      ],
+      "_removed_reason": "duplicate_to_base"
+    },
+    {
+      "name": "dBase",
+      "url": "http://www.dbase.com",
+      "category": "Programming Language",
+      "sector": "",
+      "country": "",
+      "description": "",
+      "domains": [
+        "AI/ML"
+      ],
+      "_removed_reason": "duplicate_to_base"
+    },
+    {
+      "name": "dc",
+      "url": "http://packages.debian.org/search?keywords=dc&searchon=names&exact=1&suite=all&section=all",
+      "category": "Programming Language",
+      "sector": "",
+      "country": "",
+      "description": "",
+      "domains": [
+        "AI/ML"
+      ],
+      "_removed_reason": "duplicate_to_base"
+    },
+    {
+      "name": "DCL (DIGITAL Command Language)",
+      "url": "https://vmssoftware.com/docs/VSI_DCL_DICT_VOL_I.pdf",
+      "category": "Programming Language",
+      "sector": "",
+      "country": "",
+      "description": "",
+      "domains": [
+        "AI/ML"
+      ],
+      "_removed_reason": "duplicate_to_base"
+    },
+    {
+      "name": "Definitions",
+      "url": "https://en.wiktionary.org/wiki/programming_language",
+      "category": "Programming Language",
+      "sector": "",
+      "country": "",
+      "description": "",
+      "domains": [
+        "AI/ML"
+      ],
+      "_removed_reason": "duplicate_to_base"
+    },
+    {
+      "name": "Delphi",
+      "url": "https://www.embarcadero.com/products/delphi",
+      "category": "Programming Language",
+      "sector": "",
+      "country": "",
+      "description": "",
+      "domains": [
+        "AI/ML"
+      ],
+      "_removed_reason": "duplicate_to_base"
+    },
+    {
+      "name": "Delphi Community",
+      "url": "https://www.embarcadero.com/products/delphi",
+      "category": "Programming Language",
+      "sector": "",
+      "country": "",
+      "description": "",
+      "domains": [
+        "AI/ML"
+      ],
+      "_removed_reason": "duplicate_to_base"
+    },
+    {
+      "name": "DIBOL",
+      "url": "https://archive.org/details/dibol_pro_tool_kit_v10",
+      "category": "Programming Language",
+      "sector": "",
+      "country": "",
+      "description": "",
+      "domains": [
+        "AI/ML"
+      ],
+      "_removed_reason": "duplicate_to_base"
+    },
+    {
+      "name": "DinkC",
+      "url": "http://www.rtsoft.com/dink",
+      "category": "Programming Language",
+      "sector": "",
+      "country": "",
+      "description": "",
+      "domains": [
+        "AI/ML"
+      ],
+      "_removed_reason": "duplicate_to_base"
+    },
+    {
+      "name": "Dog",
+      "url": "http://www.kamvar.org/",
+      "category": "Programming Language",
+      "sector": "",
+      "country": "",
+      "description": "",
+      "domains": [
+        "AI/ML"
+      ],
+      "_removed_reason": "duplicate_to_base"
+    },
+    {
+      "name": "domain-specific languages",
+      "url": "http://catb.org/~esr/writings/taoup/html/minilanguageschapter.html",
+      "category": "Programming Language",
+      "sector": "",
+      "country": "",
+      "description": "",
+      "domains": [
+        "AI/ML"
+      ],
+      "_removed_reason": "duplicate_to_base"
+    },
+    {
+      "name": "Draco",
+      "url": "http://www.retroarchive.org/cpm/cdrom/CPM/DRACO/DRACO123.MSG",
+      "category": "Programming Language",
+      "sector": "",
+      "country": "",
+      "description": "",
+      "domains": [
+        "AI/ML"
+      ],
+      "_removed_reason": "duplicate_to_base"
+    },
+    {
+      "name": "DRAKON",
+      "url": "https://drakon.su/start",
+      "category": "Programming Language",
+      "sector": "",
+      "country": "",
+      "description": "",
+      "domains": [
+        "AI/ML"
+      ],
+      "_removed_reason": "duplicate_to_base"
+    },
+    {
+      "name": "DrRacket",
+      "url": "https://racket-lang.org/",
+      "category": "Programming Language",
+      "sector": "",
+      "country": "",
+      "description": "",
+      "domains": [
+        "AI/ML"
+      ],
+      "_removed_reason": "duplicate_to_base"
+    },
+    {
+      "name": "Dylan",
+      "url": "https://opendylan.org/",
+      "category": "Programming Language",
+      "sector": "",
+      "country": "",
+      "description": "",
+      "domains": [
+        "AI/ML"
+      ],
+      "_removed_reason": "duplicate_to_base"
+    },
+    {
+      "name": "DYNAMO",
+      "url": "https://web.archive.org/web/20110309023917/http://hopl.murdoch.edu.au/showlanguage.prx?exp=61&language=DYNAMO",
+      "category": "Programming Language",
+      "sector": "",
+      "country": "",
+      "description": "",
+      "domains": [
+        "AI/ML"
+      ],
+      "_removed_reason": "duplicate_to_base"
+    },
+    {
+      "name": "Easy PL/I",
+      "url": "https://www.ibm.com/products/pli-compiler-zos",
+      "category": "Programming Language",
+      "sector": "",
+      "country": "",
+      "description": "",
+      "domains": [
+        "AI/ML"
+      ],
+      "_removed_reason": "duplicate_to_base"
+    },
+    {
+      "name": "EASYTRIEVE PLUS",
+      "url": "https://www.broadcom.com/products/mainframe/application-development/easytrieve-report-generator",
+      "category": "Programming Language",
+      "sector": "",
+      "country": "",
+      "description": "",
+      "domains": [
+        "AI/ML"
+      ],
+      "_removed_reason": "duplicate_to_base"
+    },
+    {
+      "name": "ECMAScript",
+      "url": "https://www.ecma-international.org/publications-and-standards/standards/ecma-262/",
+      "category": "Programming Language",
+      "sector": "",
+      "country": "",
+      "description": "",
+      "domains": [
+        "AI/ML"
+      ],
+      "_removed_reason": "duplicate_to_base"
+    },
+    {
+      "name": "Edinburgh IMP",
+      "url": "http://history.dcs.ed.ac.uk/archive/apps/quine/self.txt",
+      "category": "Programming Language",
+      "sector": "",
+      "country": "",
+      "description": "",
+      "domains": [
+        "AI/ML"
+      ],
+      "_removed_reason": "duplicate_to_base"
+    },
+    {
+      "name": "EGL",
+      "url": "https://www.eclipse.org/edt/",
+      "category": "Programming Language",
+      "sector": "",
+      "country": "",
+      "description": "",
+      "domains": [
+        "AI/ML"
+      ],
+      "_removed_reason": "duplicate_to_base"
+    },
+    {
+      "name": "Eiffel",
+      "url": "http://eiffel.org",
+      "category": "Programming Language",
+      "sector": "",
+      "country": "",
+      "description": "",
+      "domains": [
+        "AI/ML"
+      ],
+      "_removed_reason": "duplicate_to_base"
+    },
+    {
+      "name": "ELAN",
+      "url": "https://www.cs.ru.nl/elan",
+      "category": "Programming Language",
+      "sector": "",
+      "country": "",
+      "description": "",
+      "domains": [
+        "AI/ML"
+      ],
+      "_removed_reason": "duplicate_to_base"
+    },
+    {
+      "name": "Elixir",
+      "url": "https://elixir-lang.org",
+      "category": "Programming Language",
+      "sector": "",
+      "country": "",
+      "description": "",
+      "domains": [
+        "AI/ML"
+      ],
+      "_removed_reason": "duplicate_to_base"
+    },
+    {
+      "name": "Elm",
+      "url": "https://elm-lang.org/",
+      "category": "Programming Language",
+      "sector": "",
+      "country": "",
+      "description": "",
+      "domains": [
+        "AI/ML"
+      ],
+      "_removed_reason": "duplicate_to_base"
+    },
+    {
+      "name": "Emacs Lisp",
+      "url": "https://www.gnu.org/software/emacs/",
+      "category": "Programming Language",
+      "sector": "",
+      "country": "",
+      "description": "",
+      "domains": [
+        "AI/ML"
+      ],
+      "_removed_reason": "duplicate_to_base"
+    },
+    {
+      "name": "Emerald",
+      "url": "http://www.emeraldprogramminglanguage.org",
+      "category": "Programming Language",
+      "sector": "",
+      "country": "",
+      "description": "",
+      "domains": [
+        "AI/ML"
+      ],
+      "_removed_reason": "duplicate_to_base"
+    },
+    {
+      "name": "Epigram",
+      "url": "https://web.archive.org/web/20120717070845/http://www.e-pig.org/darcs/Pig09/web/",
+      "category": "Programming Language",
+      "sector": "",
+      "country": "",
+      "description": "",
+      "domains": [
+        "AI/ML"
+      ],
+      "_removed_reason": "duplicate_to_base"
+    },
+    {
+      "name": "EPL (Easy Programming Language)",
+      "url": "http://epl.eyuyan.com/",
+      "category": "Programming Language",
+      "sector": "",
+      "country": "",
+      "description": "",
+      "domains": [
+        "AI/ML"
+      ],
+      "_removed_reason": "duplicate_to_base"
+    },
+    {
+      "name": "Erlang",
+      "url": "https://www.erlang.org",
+      "category": "Programming Language",
+      "sector": "",
+      "country": "",
+      "description": "",
+      "domains": [
+        "AI/ML"
+      ],
+      "_removed_reason": "duplicate_to_base"
+    },
+    {
+      "name": "es",
+      "url": "http://doc.cat-v.org/plan_9/4th_edition/papers/rc",
+      "category": "Programming Language",
+      "sector": "",
+      "country": "",
+      "description": "",
+      "domains": [
+        "AI/ML"
+      ],
+      "_removed_reason": "duplicate_to_base"
+    },
+    {
+      "name": "Escher",
+      "url": "http://mentalmodels4life.net/software/",
+      "category": "Programming Language",
+      "sector": "",
+      "country": "",
+      "description": "",
+      "domains": [
+        "AI/ML"
+      ],
+      "_removed_reason": "duplicate_to_base"
+    },
+    {
+      "name": "esoteric programming languages",
+      "url": "https://esolangs.org/wiki/Main_Page",
+      "category": "Programming Language",
+      "sector": "",
+      "country": "",
+      "description": "",
+      "domains": [
+        "AI/ML"
+      ],
+      "_removed_reason": "duplicate_to_base"
+    },
+    {
+      "name": "ESPOL",
+      "url": "http://www.ianjoyner.name/Burroughs.html",
+      "category": "Programming Language",
+      "sector": "",
+      "country": "",
+      "description": "",
+      "domains": [
+        "AI/ML"
+      ],
+      "_removed_reason": "duplicate_to_base"
+    },
+    {
+      "name": "Esterel",
+      "url": "http://www-sop.inria.fr/meije/esterel/esterel-eng.html",
+      "category": "Programming Language",
+      "sector": "",
+      "country": "",
+      "description": "",
+      "domains": [
+        "AI/ML"
+      ],
+      "_removed_reason": "duplicate_to_base"
+    },
+    {
+      "name": "Etoys",
+      "url": "http://www.squeakland.org/",
+      "category": "Programming Language",
+      "sector": "",
+      "country": "",
+      "description": "",
+      "domains": [
+        "AI/ML"
+      ],
+      "_removed_reason": "duplicate_to_base"
+    },
+    {
+      "name": "Euclid",
+      "url": "http://portal.acm.org/citation.cfm?id=954666.971189",
+      "category": "Programming Language",
+      "sector": "",
+      "country": "",
+      "description": "",
+      "domains": [
+        "AI/ML"
+      ],
+      "_removed_reason": "duplicate_to_base"
+    },
+    {
+      "name": "Euler",
+      "url": "https://github.com/pkimpel/retro-b5500/tree/master/source/EULER",
+      "category": "Programming Language",
+      "sector": "",
+      "country": "",
+      "description": "",
+      "domains": [
+        "AI/ML"
+      ],
+      "_removed_reason": "duplicate_to_base"
+    },
+    {
+      "name": "Euphoria",
+      "url": "http://openeuphoria.org",
+      "category": "Programming Language",
+      "sector": "",
+      "country": "",
+      "description": "",
+      "domains": [
+        "AI/ML"
+      ],
+      "_removed_reason": "duplicate_to_base"
+    },
+    {
+      "name": "EusLisp Robot Programming Language",
+      "url": "http://staff.aist.go.jp/t.matsui/eus/",
+      "category": "Programming Language",
+      "sector": "",
+      "country": "",
+      "description": "",
+      "domains": [
+        "AI/ML"
+      ],
+      "_removed_reason": "duplicate_to_base"
+    },
+    {
+      "name": "executable",
+      "url": "http://whatis.techtarget.com/fileformat/EXE-Executable-file-program",
+      "category": "Programming Language",
+      "sector": "",
+      "country": "",
+      "description": "",
+      "domains": [
+        "AI/ML"
+      ],
+      "_removed_reason": "duplicate_to_base"
+    },
+    {
+      "name": "Executable UML",
+      "url": "http://executableumlbook.com",
+      "category": "Programming Language",
+      "sector": "",
+      "country": "",
+      "description": "",
+      "domains": [
+        "AI/ML"
+      ],
+      "_removed_reason": "duplicate_to_base"
+    },
+    {
+      "name": "Ezhil",
+      "url": "http://ezhillang.org",
+      "category": "Programming Language",
+      "sector": "",
+      "country": "",
+      "description": "",
+      "domains": [
+        "AI/ML"
+      ],
+      "_removed_reason": "duplicate_to_base"
+    }
+  ]
+}
