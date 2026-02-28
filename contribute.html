@@ -1,0 +1,86 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width,initial-scale=1" />
+    <title>Contribute — technova</title>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <header class="site-header">
+      <a class="sr-only" href="#main">Skip to content</a>
+      <div class="container header-row">
+        <div class="brand-row">
+          <div class="logo-wrap" aria-hidden="true">
+            <svg class="logo-svg" width="40" height="40" viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg">
+              <defs>
+                <linearGradient id="g1b" x1="0" x2="1" y1="0" y2="1">
+                  <stop offset="0%" stop-color="#8b5cf6" />
+                  <stop offset="100%" stop-color="#06b6d4" />
+                </linearGradient>
+              </defs>
+              <circle cx="24" cy="24" r="10" fill="url(#g1b)" opacity="0.95"></circle>
+            </svg>
+          </div>
+          <div>
+            <h1 class="logo"><span class="brand-accent">technova</span></h1>
+            <p class="tagline">Your map to the tech universe</p>
+          </div>
+        </div>
+
+        <nav class="site-nav" role="navigation" aria-label="Main navigation">
+          <a class="nav-link" href="index.html">Home</a>
+          <a class="nav-link" href="about.html">About</a>
+          <a class="nav-link active" href="contribute.html">Contribute</a>
+        </nav>
+      </div>
+    </header>
+
+    <main id="main" class="container">
+      <article class="content">
+        <h2>Contribute a site</h2>
+        <p>Thanks for contributing! Please provide accurate details and a working URL. Submissions are saved locally and can be pasted into a PR or emailed to the maintainers for review.</p>
+
+        <form id="contribForm" novalidate>
+          <label for="siteName">Site name (required)</label>
+          <input id="siteName" name="siteName" required />
+
+          <label for="siteUrl">Site URL (required)</label>
+          <input id="siteUrl" name="siteUrl" type="url" placeholder="https://example.com" required />
+
+          <label for="category">Category</label>
+          <input id="category" name="category" placeholder="e.g. AI, Infrastructure" />
+
+          <label for="subcategory">Subcategory</label>
+          <input id="subcategory" name="subcategory" placeholder="e.g. ML frameworks" />
+
+          <label for="owner">Owner / Organization</label>
+          <input id="owner" name="owner" />
+
+          <label for="email">Contact email</label>
+          <input id="email" name="email" type="email" />
+
+          <label for="twitter">Twitter profile</label>
+          <input id="twitter" name="twitter" placeholder="https://twitter.com/username" />
+
+          <label for="notes">Notes (optional)</label>
+          <textarea id="notes" name="notes" rows="4"></textarea>
+
+          <div class="form-actions">
+            <button id="submitBtn" class="btn" type="submit">Submit</button>
+            <button id="clearBtn" class="btn btn-secondary" type="button">Clear</button>
+          </div>
+        </form>
+
+        <div id="result" aria-live="polite"></div>
+      </article>
+    </main>
+
+    <footer class="footer container">
+      <p>Submissions are stored locally in your browser. To submit to the project, copy your saved JSON into a PR or contact the maintainers.</p>
+    </footer>
+
+    <script src="scripts/contribute.js" defer></script>
+  </body>
+</html>
