@@ -165,23 +165,54 @@ function render(){
 
   listEl.innerHTML = '';
   if(!filtered.length){ listEl.innerHTML = '<p class="muted">No results</p>'; return }
+  // group items by category -> subcategory
+  function getSubcategory(it){
+    if(it.domains && it.domains.length){
+      const d = it.domains[0];
+      if(d === 'AI/ML' && it.category === 'Framework') return 'ML frameworks';
+      return d;
+    }
+    if(it.subcategory) return it.subcategory;
+    return 'General';
+  }
 
+  const grouped = {};
   for(const it of filtered){
-    const card = document.createElement('article'); card.className='card';
-    const h = document.createElement('h3');
-    const a = document.createElement('a'); a.href = safeUrl(it.url || ''); a.target='_blank'; a.rel='noopener noreferrer';
-    const displayName = (it.name||'').replace(/^["\u201C\u201D'`]+|["\u201C\u201D'`]+$/g,'').trim();
-    a.textContent = displayName || it.name;
-    h.appendChild(a);
-    const desc = document.createElement('div'); desc.className='muted'; desc.textContent = it.description || '';
-    const meta = document.createElement('div'); meta.className='meta';
-    const cat = document.createElement('span'); cat.className='pill'; cat.textContent = it.category;
-    meta.appendChild(cat);
-    if(it.sector){ const s = document.createElement('span'); s.className='muted'; s.textContent = it.sector; meta.appendChild(s); }
-    if(it.country){ const c = document.createElement('span'); c.className='muted'; c.textContent = it.country; meta.appendChild(c); }
-    if(it.domains && it.domains.length){ const ds = document.createElement('span'); ds.className='pill domain'; ds.textContent = it.domains.join(', '); meta.appendChild(ds); }
-    card.appendChild(h); card.appendChild(desc); card.appendChild(meta);
-    listEl.appendChild(card);
+    const cat = it.category || 'Uncategorized';
+    const sub = getSubcategory(it) || 'General';
+    grouped[cat] = grouped[cat] || {};
+    grouped[cat][sub] = grouped[cat][sub] || [];
+    grouped[cat][sub].push(it);
+  }
+
+  // render grouped structure. If activeTab !== 'All' we only show that category
+  const catsToRender = (activeTab === 'All') ? Object.keys(grouped).sort() : [activeTab];
+  for(const catName of catsToRender){
+    if(!grouped[catName]) continue;
+    if(activeTab === 'All'){
+      const catH = document.createElement('h2'); catH.textContent = catName; catH.style.marginTop = '18px'; listEl.appendChild(catH);
+    }
+    const subs = Object.keys(grouped[catName]).sort();
+    for(const subName of subs){
+      const subHeading = document.createElement('h3'); subHeading.textContent = subName; subHeading.className='muted'; subHeading.style.marginTop = '12px'; listEl.appendChild(subHeading);
+      for(const it of grouped[catName][subName]){
+        const card = document.createElement('article'); card.className='card';
+        const h = document.createElement('h3');
+        const a = document.createElement('a'); a.href = safeUrl(it.url || ''); a.target='_blank'; a.rel='noopener noreferrer';
+        const displayName = (it.name||'').replace(/^['"\u201C\u201D`]+|['"\u201C\u201D`]+$/g,'').trim();
+        a.textContent = displayName || it.name;
+        h.appendChild(a);
+        const desc = document.createElement('div'); desc.className='muted'; desc.textContent = it.description || '';
+        const meta = document.createElement('div'); meta.className='meta';
+        const cspan = document.createElement('span'); cspan.className='pill'; cspan.textContent = it.category;
+        meta.appendChild(cspan);
+        if(it.sector){ const s = document.createElement('span'); s.className='muted'; s.textContent = it.sector; meta.appendChild(s); }
+        if(it.country){ const c = document.createElement('span'); c.className='muted'; c.textContent = it.country; meta.appendChild(c); }
+        if(it.domains && it.domains.length){ const ds = document.createElement('span'); ds.className='pill domain'; ds.textContent = it.domains.join(', '); meta.appendChild(ds); }
+        card.appendChild(h); card.appendChild(desc); card.appendChild(meta);
+        listEl.appendChild(card);
+      }
+    }
   }
 }
 
