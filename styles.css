@@ -1,8 +1,9 @@
 :root{
   --max-w:1200px;
-  --accent:#06b6d4; /* teal accent for better contrast */
-  --muted:#d8ecfb; /* lighter muted text for readability */
-  --bg-1:#041024; /* deep navy */
+  --accent:#06B6D4; /* primary teal accent */
+  --accent-2:#8B5CF6; /* secondary accent */
+  --muted:#CFEFF7; /* light muted text */
+  --bg-1:#041428; /* deep teal-ish navy */
   --bg-2:#072033; /* slightly lighter */
   --card-bg:rgba(255,255,255,0.02);
   --glass: rgba(255,255,255,0.03);
