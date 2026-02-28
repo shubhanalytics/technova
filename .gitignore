@@ -1,0 +1,7 @@
+# Ignore local backup files
+*.bak
+
+# Node / Python envs
+.venv/
+__pycache__/
+.DS_Store
