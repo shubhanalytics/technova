@@ -15,10 +15,10 @@
 .site-header{background:linear-gradient(180deg,var(--bg-1),var(--bg-2));color:var(--muted);padding:34px 0;box-shadow:0 10px 30px rgba(2,6,23,0.6);position:relative;overflow:hidden;border-bottom:1px solid rgba(255,255,255,0.03)}
 .logo{margin:0;font-size:40px;font-weight:800;letter-spacing:-1px;font-family:Inter,ui-sans-serif,system-ui,-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,"Helvetica Neue",Arial;display:flex;align-items:center;gap:12px;color:var(--muted)}
 .logo .brand-accent{background:linear-gradient(90deg,#8b5cf6,#06b6d4);-webkit-background-clip:text;background-clip:text;color:transparent}
-.tagline{margin:8px 0 0;color:var(--muted);font-weight:600;opacity:0.95;margin-left:56px}
+.tagline{margin:4px 0 0;color:var(--muted);font-weight:600;opacity:0.95}
 
 /* header layout refinements */
-.header-row{display:flex;flex-direction:column;gap:10px}
+.header-row{display:flex;flex-direction:row;align-items:center;gap:18px}
 .brand-row{display:flex;align-items:center;gap:14px}
 .logo-wrap{display:inline-flex;align-items:center}
 .logo-svg{transform-origin:24px 24px}
@@ -33,7 +33,13 @@
   .logo-svg .orbit{animation: none !important}
 }
 .brand-badge{background:rgba(255,255,255,0.03);padding:6px 10px;border-radius:999px;color:var(--muted);font-weight:600}
+.site-nav{margin-left:24px;display:flex;gap:12px;align-items:center}
+.nav-link{color:var(--muted);text-decoration:none;padding:8px 12px;border-radius:8px;font-weight:600;transition:background .12s ease,color .12s ease}
+.nav-link:hover,.nav-link:focus{background:rgba(255,255,255,0.02);color:var(--accent);outline:none}
 .header-actions{margin-left:auto}
+
+/* accessibility helpers */
+.sr-only{position:absolute!important;left:-10000px!important;top:auto!important;width:1px!important;height:1px!important;overflow:hidden!important}
 .theme-toggle{background:transparent;border:1px solid var(--card-border);padding:6px 10px;border-radius:8px;color:var(--muted);cursor:pointer}
 .theme-toggle:focus{outline:3px solid rgba(139,92,246,0.12)}
 .controls{display:flex;flex-direction:column;gap:14px;margin:20px 0}
@@ -88,5 +94,10 @@ html.light{
 }
 
 /* responsive tweaks */
-@media (max-width:900px){.container{padding:0 12px}.list{grid-template-columns:repeat(auto-fill,minmax(220px,1fr))}}
+@media (max-width:900px){
+  .container{padding:0 12px}
+  .list{grid-template-columns:repeat(auto-fill,minmax(220px,1fr))}
+  .header-row{flex-direction:column;align-items:stretch;gap:10px}
+  .site-nav{width:100%;justify-content:flex-start;gap:8px}
+}
 @media (max-width:600px){.controls{gap:10px}.filters{flex-direction:column;align-items:stretch}#search{width:100%}.logo{font-size:28px}}

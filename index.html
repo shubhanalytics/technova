@@ -11,6 +11,7 @@
   </head>
   <body>
     <header class="site-header">
+      <a class="sr-only" href="#main">Skip to content</a>
       <div class="container header-row">
         <div class="brand-row">
           <!-- Animated SVG logo -->
@@ -28,19 +29,27 @@
               </g>
             </svg>
           </div>
-          <h1 class="logo"><span class="brand-accent">technova</span></h1>
+          <div>
+            <h1 class="logo"><span class="brand-accent">technova</span></h1>
+            <p class="tagline">Your map to the tech universe</p>
+          </div>
         </div>
+
+        <nav class="site-nav" role="navigation" aria-label="Main navigation">
+          <a class="nav-link" href="#">Home</a>
+          <a class="nav-link" href="#">Explore</a>
+          <a class="nav-link" href="#">About</a>
+          <a class="nav-link" href="#">Contribute</a>
+        </nav>
 
         <div class="header-actions">
           <button id="themeToggle" class="theme-toggle" aria-pressed="false" title="Toggle light / dark theme">🌗</button>
           <button id="motionToggle" class="theme-toggle" aria-pressed="false" title="Reduce motion" onclick="window.toggleReducedMotion && window.toggleReducedMotion()">⚡</button>
         </div>
-
-        <p class="tagline">Your map to the tech universe</p>
       </div>
     </header>
 
-    <main class="container">
+    <main id="main" class="container">
       <section class="controls">
         <div class="tabs" id="categoryTabs" role="tablist" aria-label="Categories">
           <!-- tabs generated from data.json -->
