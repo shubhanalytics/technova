@@ -1,0 +1,3256 @@
+[
+  {
+    "item": {
+      "name": "OpenAI",
+      "url": "https://openai.com/",
+      "category": "AI/ML",
+      "sector": "AI",
+      "country": "Worldwide",
+      "description": "Developers of GPT models and API for LLMs",
+      "domains": [
+        "AI/ML",
+        "LLM",
+        "Research"
+      ]
+    },
+    "status": "HTTPError 403 + fallback HTTPError: HTTP Error 403: Forbidden"
+  },
+  {
+    "item": {
+      "name": "Linode",
+      "url": "https://www.linode.com/",
+      "category": "Cloud",
+      "sector": "Cloud",
+      "country": "Worldwide",
+      "description": "Cloud hosting provider for developers and SMBs",
+      "domains": [
+        "Cloud",
+        "Hosting",
+        "AI/ML"
+      ]
+    },
+    "status": "HTTPError 403 + fallback HTTPError: HTTP Error 403: Forbidden"
+  },
+  {
+    "item": {
+      "name": "Microsoft Azure",
+      "url": "https://azure.microsoft.com/",
+      "category": "Cloud",
+      "sector": "Cloud",
+      "country": "Worldwide",
+      "description": "Microsoft's cloud platform with broad AI and enterprise services",
+      "domains": [
+        "Cloud",
+        "Enterprise",
+        "AI/ML"
+      ]
+    },
+    "status": "Error: TimeoutError: The read operation timed out"
+  },
+  {
+    "item": {
+      "name": "A+ (A plus)",
+      "url": "http://www.aplusdev.org/",
+      "category": "Programming Language",
+      "sector": "",
+      "country": "",
+      "description": "",
+      "domains": [
+        "AI/ML"
+      ]
+    },
+    "status": "HTTPError 404 + fallback HTTPError: HTTP Error 404: Not Found"
+  },
+  {
+    "item": {
+      "name": "ABC",
+      "url": "https://homepages.cwi.nl/~steven/abc/",
+      "category": "Programming Language",
+      "sector": "",
+      "country": "",
+      "description": "",
+      "domains": [
+        "AI/ML"
+      ]
+    },
+    "status": "URLError: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1028)"
+  },
+  {
+    "item": {
+      "name": "ActionScript",
+      "url": "http://www.adobe.com/devnet/actionscript",
+      "category": "Programming Language",
+      "sector": "",
+      "country": "",
+      "description": "",
+      "domains": [
+        "AI/ML"
+      ]
+    },
+    "status": "Error: TimeoutError: timed out"
+  },
+  {
+    "item": {
+      "name": "AdvPL",
+      "url": "http://tdn.totvs.com/pages/viewpage.action?pageId=27675886",
+      "category": "Programming Language",
+      "sector": "",
+      "country": "",
+      "description": "",
+      "domains": [
+        "AI/ML"
+      ]
+    },
+    "status": "HTTPError 403 + fallback HTTPError: HTTP Error 403: Forbidden"
+  },
+  {
+    "item": {
+      "name": "Agilent VEE",
+      "url": "https://www.keysight.com/us/en/product/W4000D/vee-pro-9-33.html",
+      "category": "Programming Language",
+      "sector": "",
+      "country": "",
+      "description": "",
+      "domains": [
+        "AI/ML"
+      ]
+    },
+    "status": "HTTPError 403 + fallback HTTPError: HTTP Error 403: Forbidden"
+  },
+  {
+    "item": {
+      "name": "Algebraic Logic Functional programming language",
+      "url": "http://www.informatik.uni-kiel.de/~mh/systems/ALF",
+      "category": "Programming Language",
+      "sector": "",
+      "country": "",
+      "description": "",
+      "domains": [
+        "AI/ML"
+      ]
+    },
+    "status": "URLError: timed out"
+  },
+  {
+    "item": {
+      "name": "Alma-0",
+      "url": "http://www.cwi.nl/en/alma",
+      "category": "Programming Language",
+      "sector": "",
+      "country": "",
+      "description": "",
+      "domains": [
+        "AI/ML"
+      ]
+    },
+    "status": "URLError: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1028)"
+  },
+  {
+    "item": {
+      "name": "AmbientTalk",
+      "url": "https://soft.vub.ac.be/amop",
+      "category": "Programming Language",
+      "sector": "",
+      "country": "",
+      "description": "",
+      "domains": [
+        "AI/ML"
+      ]
+    },
+    "status": "URLError: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1028)"
+  },
+  {
+    "item": {
+      "name": "APT",
+      "url": "http://dl.acm.org/citation.cfm?id=808374&dl=ACM&coll=DL&CFID=203593322&CFTOKEN=45146083",
+      "category": "Programming Language",
+      "sector": "",
+      "country": "",
+      "description": "",
+      "domains": [
+        "AI/ML"
+      ]
+    },
+    "status": "HTTPError 403 + fallback HTTPError: HTTP Error 403: Forbidden"
+  },
+  {
+    "item": {
+      "name": "Averest",
+      "url": "http://www.averest.org/",
+      "category": "Programming Language",
+      "sector": "",
+      "country": "",
+      "description": "",
+      "domains": [
+        "AI/ML"
+      ]
+    },
+    "status": "Error: TimeoutError: timed out"
+  },
+  {
+    "item": {
+      "name": "Batch file (Windows/MS-DOS)",
+      "url": "https://docs.microsoft.com/en-us/previous-versions/windows/it-pro/windows-xp/bb490869(v%3dtechnet.10)",
+      "category": "Programming Language",
+      "sector": "",
+      "country": "",
+      "description": "",
+      "domains": [
+        "AI/ML"
+      ]
+    },
+    "status": "HTTPError 404 + fallback HTTPError: HTTP Error 404: Not Found"
+  },
+  {
+    "item": {
+      "name": "bc (basic calculator)",
+      "url": "https://doi.acm.org/10.1145/152923.152925",
+      "category": "Programming Language",
+      "sector": "",
+      "country": "",
+      "description": "",
+      "domains": [
+        "AI/ML"
+      ]
+    },
+    "status": "HTTPError 403 + fallback HTTPError: HTTP Error 403: Forbidden"
+  },
+  {
+    "item": {
+      "name": "BETA",
+      "url": "http://beta.cs.au.dk",
+      "category": "Programming Language",
+      "sector": "",
+      "country": "",
+      "description": "",
+      "domains": [
+        "AI/ML"
+      ]
+    },
+    "status": "URLError: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self-signed certificate in certificate chain (_ssl.c:1028)"
+  },
+  {
+    "item": {
+      "name": "Caché ObjectScript",
+      "url": "http://www.intersystems.com/cache",
+      "category": "Programming Language",
+      "sector": "",
+      "country": "",
+      "description": "",
+      "domains": [
+        "AI/ML"
+      ]
+    },
+    "status": "Error: TimeoutError: timed out"
+  },
+  {
+    "item": {
+      "name": "Cayenne (Lennart Augustsson)",
+      "url": "http://www.augustsson.net",
+      "category": "Programming Language",
+      "sector": "",
+      "country": "",
+      "description": "",
+      "domains": [
+        "AI/ML"
+      ]
+    },
+    "status": "URLError: timed out"
+  },
+  {
+    "item": {
+      "name": "Clean",
+      "url": "https://clean.cs.ru.nl",
+      "category": "Programming Language",
+      "sector": "",
+      "country": "",
+      "description": "",
+      "domains": [
+        "AI/ML"
+      ]
+    },
+    "status": "URLError: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self-signed certificate in certificate chain (_ssl.c:1028)"
+  },
+  {
+    "item": {
+      "name": "Clipper",
+      "url": "http://www.grafxsoft.com/clipper.htm",
+      "category": "Programming Language",
+      "sector": "",
+      "country": "",
+      "description": "",
+      "domains": [
+        "AI/ML"
+      ]
+    },
+    "status": "Error: ConnectionResetError: [WinError 10054] An existing connection was forcibly closed by the remote host"
+  },
+  {
+    "item": {
+      "name": "CLU",
+      "url": "http://pmg.csail.mit.edu/CLU.html",
+      "category": "Programming Language",
+      "sector": "",
+      "country": "",
+      "description": "",
+      "domains": [
+        "AI/ML"
+      ]
+    },
+    "status": "HTTPError 403 + fallback HTTPError: HTTP Error 403: Forbidden"
+  },
+  {
+    "item": {
+      "name": "ColdFusion",
+      "url": "https://coldfusion.com/",
+      "category": "Programming Language",
+      "sector": "",
+      "country": "",
+      "description": "",
+      "domains": [
+        "AI/ML"
+      ]
+    },
+    "status": "URLError: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'coldfusion.com'. (_ssl.c:1028)"
+  },
+  {
+    "item": {
+      "name": "COMTRAN",
+      "url": "https://www.ancestry.co.uk/learn/library/article.aspx?article=1159",
+      "category": "Programming Language",
+      "sector": "",
+      "country": "",
+      "description": "",
+      "domains": [
+        "AI/ML"
+      ]
+    },
+    "status": "HTTPError 403 + fallback HTTPError: HTTP Error 403: Forbidden"
+  },
+  {
+    "item": {
+      "name": "CPL",
+      "url": "https://doi.org/10.1093%2Fcomjnl%2F6.2.134",
+      "category": "Programming Language",
+      "sector": "",
+      "country": "",
+      "description": "",
+      "domains": [
+        "AI/ML"
+      ]
+    },
+    "status": "HTTPError 403 + fallback HTTPError: HTTP Error 403: Forbidden"
+  },
+  {
+    "item": {
+      "name": "Cryptol",
+      "url": "http://www.cryptol.net",
+      "category": "Programming Language",
+      "sector": "",
+      "country": "",
+      "description": "",
+      "domains": [
+        "AI/ML"
+      ]
+    },
+    "status": "URLError: timed out"
+  },
+  {
+    "item": {
+      "name": "Cybil",
+      "url": "https://dl.acm.org/doi/10.1145/988327.988331",
+      "category": "Programming Language",
+      "sector": "",
+      "country": "",
+      "description": "",
+      "domains": [
+        "AI/ML"
+      ]
+    },
+    "status": "HTTPError 403 + fallback HTTPError: HTTP Error 403: Forbidden"
+  },
+  {
+    "item": {
+      "name": "Darwin",
+      "url": "https://doi.org/10.1093%2Fbioinformatics%2F16.2.101",
+      "category": "Programming Language",
+      "sector": "",
+      "country": "",
+      "description": "",
+      "domains": [
+        "AI/ML"
+      ]
+    },
+    "status": "HTTPError 403 + fallback HTTPError: HTTP Error 403: Forbidden"
+  },
+  {
+    "item": {
+      "name": "DATATRIEVE",
+      "url": "https://vmssoftware.com/products/datatrieve/",
+      "category": "Programming Language",
+      "sector": "",
+      "country": "",
+      "description": "",
+      "domains": [
+        "AI/ML"
+      ]
+    },
+    "status": "HTTPError 404 + fallback HTTPError: HTTP Error 404: Not Found"
+  },
+  {
+    "item": {
+      "name": "Dog",
+      "url": "http://www.kamvar.org/",
+      "category": "Programming Language",
+      "sector": "",
+      "country": "",
+      "description": "",
+      "domains": [
+        "AI/ML"
+      ]
+    },
+    "status": "URLError: [Errno 11002] getaddrinfo failed"
+  },
+  {
+    "item": {
+      "name": "domain-specific languages",
+      "url": "http://catb.org/~esr/writings/taoup/html/minilanguageschapter.html",
+      "category": "Programming Language",
+      "sector": "",
+      "country": "",
+      "description": "",
+      "domains": [
+        "AI/ML"
+      ]
+    },
+    "status": "Error: TimeoutError: timed out"
+  },
+  {
+    "item": {
+      "name": "Dylan",
+      "url": "https://opendylan.org/",
+      "category": "Programming Language",
+      "sector": "",
+      "country": "",
+      "description": "",
+      "domains": [
+        "AI/ML"
+      ]
+    },
+    "status": "URLError: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1028)"
+  },
+  {
+    "item": {
+      "name": "ELAN",
+      "url": "https://www.cs.ru.nl/elan",
+      "category": "Programming Language",
+      "sector": "",
+      "country": "",
+      "description": "",
+      "domains": [
+        "AI/ML"
+      ]
+    },
+    "status": "URLError: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self-signed certificate in certificate chain (_ssl.c:1028)"
+  },
+  {
+    "item": {
+      "name": "esoteric programming languages",
+      "url": "https://esolangs.org/wiki/Main_Page",
+      "category": "Programming Language",
+      "sector": "",
+      "country": "",
+      "description": "",
+      "domains": [
+        "AI/ML"
+      ]
+    },
+    "status": "URLError: _ssl.c:1011: The handshake operation timed out"
+  },
+  {
+    "item": {
+      "name": "ESPOL",
+      "url": "http://www.ianjoyner.name/Burroughs.html",
+      "category": "Programming Language",
+      "sector": "",
+      "country": "",
+      "description": "",
+      "domains": [
+        "AI/ML"
+      ]
+    },
+    "status": "URLError: [Errno 11001] getaddrinfo failed"
+  },
+  {
+    "item": {
+      "name": "Etoys",
+      "url": "http://www.squeakland.org/",
+      "category": "Programming Language",
+      "sector": "",
+      "country": "",
+      "description": "",
+      "domains": [
+        "AI/ML"
+      ]
+    },
+    "status": "URLError: [Errno 11001] getaddrinfo failed"
+  },
+  {
+    "item": {
+      "name": "Euclid",
+      "url": "http://portal.acm.org/citation.cfm?id=954666.971189",
+      "category": "Programming Language",
+      "sector": "",
+      "country": "",
+      "description": "",
+      "domains": [
+        "AI/ML"
+      ]
+    },
+    "status": "HTTPError 403 + fallback HTTPError: HTTP Error 403: Forbidden"
+  },
+  {
+    "item": {
+      "name": "EusLisp Robot Programming Language",
+      "url": "http://staff.aist.go.jp/t.matsui/eus/",
+      "category": "Programming Language",
+      "sector": "",
+      "country": "",
+      "description": "",
+      "domains": [
+        "AI/ML"
+      ]
+    },
+    "status": "HTTPError 404 + fallback HTTPError: HTTP Error 404: Not Found"
+  },
+  {
+    "item": {
+      "name": "FLOW-MATIC (B0)",
+      "url": "http://portal.acm.org/citation.cfm?id=954666.971189",
+      "category": "Programming Language",
+      "sector": "",
+      "country": "",
+      "description": "",
+      "domains": [
+        "AI/ML"
+      ]
+    },
+    "status": "HTTPError 403 + fallback HTTPError: HTTP Error 403: Forbidden"
+  },
+  {
+    "item": {
+      "name": "Generational",
+      "url": "https://merd.sourceforge.net/pixel/language-study/diagram.html",
+      "category": "Programming Language",
+      "sector": "",
+      "country": "",
+      "description": "",
+      "domains": [
+        "AI/ML"
+      ]
+    },
+    "status": "HTTPError 404 + fallback HTTPError: HTTP Error 404: Not Found"
+  },
+  {
+    "item": {
+      "name": "GOM",
+      "url": "http://www.catb.org/~esr/mad/",
+      "category": "Programming Language",
+      "sector": "",
+      "country": "",
+      "description": "",
+      "domains": [
+        "AI/ML"
+      ]
+    },
+    "status": "URLError: timed out"
+  },
+  {
+    "item": {
+      "name": "GRASS",
+      "url": "http://dl.acm.org/citation.cfm?id=808374&dl=ACM&coll=DL&CFID=203593322&CFTOKEN=45146083",
+      "category": "Programming Language",
+      "sector": "",
+      "country": "",
+      "description": "",
+      "domains": [
+        "AI/ML"
+      ]
+    },
+    "status": "HTTPError 403 + fallback HTTPError: HTTP Error 403: Forbidden"
+  },
+  {
+    "item": {
+      "name": "Hermes",
+      "url": "https://doi.org/10.1145%2F142137.142148",
+      "category": "Programming Language",
+      "sector": "",
+      "country": "",
+      "description": "",
+      "domains": [
+        "AI/ML"
+      ]
+    },
+    "status": "HTTPError 403 + fallback HTTPError: HTTP Error 403: Forbidden"
+  },
+  {
+    "item": {
+      "name": "Janus (concurrent constraint programming language)",
+      "url": "https://www.researchgate.net/publication/221321646",
+      "category": "Programming Language",
+      "sector": "",
+      "country": "",
+      "description": "",
+      "domains": [
+        "AI/ML"
+      ]
+    },
+    "status": "HTTPError 403 + fallback HTTPError: HTTP Error 403: Forbidden"
+  },
+  {
+    "item": {
+      "name": "JEAN",
+      "url": "https://archive.today/20130105104243/http://www3.interscience.wiley.com/journal/113444330/abstract?CRETRY=1&SRETRY=0",
+      "category": "Programming Language",
+      "sector": "",
+      "country": "",
+      "description": "",
+      "domains": [
+        "AI/ML"
+      ]
+    },
+    "status": "URLError: timed out"
+  },
+  {
+    "item": {
+      "name": "JScript",
+      "url": "https://learn.microsoft.com/en-us/previous-versions/hbxc2t98(v=vs.85)",
+      "category": "Programming Language",
+      "sector": "",
+      "country": "",
+      "description": "",
+      "domains": [
+        "AI/ML"
+      ]
+    },
+    "status": "HTTPError 404 + fallback HTTPError: HTTP Error 404: Not Found"
+  },
+  {
+    "item": {
+      "name": "Klerer-May System",
+      "url": "https://doi.org/10.1093%2Fcomjnl%2F8.2.103",
+      "category": "Programming Language",
+      "sector": "",
+      "country": "",
+      "description": "",
+      "domains": [
+        "AI/ML"
+      ]
+    },
+    "status": "HTTPError 403 + fallback HTTPError: HTTP Error 403: Forbidden"
+  },
+  {
+    "item": {
+      "name": "Lasso",
+      "url": "http://www.lassosoft.com",
+      "category": "Programming Language",
+      "sector": "",
+      "country": "",
+      "description": "",
+      "domains": [
+        "AI/ML"
+      ]
+    },
+    "status": "HTTPError 500 + fallback HTTPError: HTTP Error 500: Internal Server Error"
+  },
+  {
+    "item": {
+      "name": "Lingo",
+      "url": "https://helpx.adobe.com/director/topics/scripting-dictionary.html",
+      "category": "Programming Language",
+      "sector": "",
+      "country": "",
+      "description": "",
+      "domains": [
+        "AI/ML"
+      ]
+    },
+    "status": "Error: TimeoutError: The read operation timed out"
+  },
+  {
+    "item": {
+      "name": "LISA",
+      "url": "https://www.ice.rwth-aachen.de/cms/ice/Forschung/Abgeschlossene-Projekte/~bjxdmd/LISA/lidx/1/",
+      "category": "Programming Language",
+      "sector": "",
+      "country": "",
+      "description": "",
+      "domains": [
+        "AI/ML"
+      ]
+    },
+    "status": "URLError: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1028)"
+  },
+  {
+    "item": {
+      "name": "Lustre",
+      "url": "http://www-verimag.imag.fr/Synchrone-main.html?lang=en",
+      "category": "Programming Language",
+      "sector": "",
+      "country": "",
+      "description": "",
+      "domains": [
+        "AI/ML"
+      ]
+    },
+    "status": "URLError: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1028)"
+  },
+  {
+    "item": {
+      "name": "LYaPAS",
+      "url": "http://wiki.tsu.ru/wiki/index.php/Закревский,_Аркадий_Дмитриевич",
+      "category": "Programming Language",
+      "sector": "",
+      "country": "",
+      "description": "",
+      "domains": [
+        "AI/ML"
+      ]
+    },
+    "status": "Error: UnicodeEncodeError: 'ascii' codec can't encode characters in position 21-30: ordinal not in range(128)"
+  },
+  {
+    "item": {
+      "name": "Magik",
+      "url": "http://www.ge-energy.com/products_and_services/products/geospatial_systems_and_mobile_workforce/index.jsp",
+      "category": "Programming Language",
+      "sector": "",
+      "country": "",
+      "description": "",
+      "domains": [
+        "AI/ML"
+      ]
+    },
+    "status": "HTTPError 404 + fallback HTTPError: HTTP Error 404: Not Found"
+  },
+  {
+    "item": {
+      "name": "Magma",
+      "url": "http://magma.maths.usyd.edu.au",
+      "category": "Programming Language",
+      "sector": "",
+      "country": "",
+      "description": "",
+      "domains": [
+        "AI/ML"
+      ]
+    },
+    "status": "HTTPError 401 + fallback HTTPError: HTTP Error 401: Unauthorized"
+  },
+  {
+    "item": {
+      "name": "MATLAB",
+      "url": "https://www.mathworks.com/products/matlab.html",
+      "category": "Programming Language",
+      "sector": "Scientific",
+      "country": "Worldwide",
+      "description": "Numeric computing environment",
+      "domains": [
+        "AI/ML"
+      ]
+    },
+    "status": "HTTPError 403 + fallback HTTPError: HTTP Error 403: Forbidden"
+  },
+  {
+    "item": {
+      "name": "Maude system",
+      "url": "http://maude.cs.uiuc.edu/",
+      "category": "Programming Language",
+      "sector": "",
+      "country": "",
+      "description": "",
+      "domains": [
+        "AI/ML"
+      ]
+    },
+    "status": "HTTPError 404 + fallback HTTPError: HTTP Error 404: Not Found"
+  },
+  {
+    "item": {
+      "name": "MaxScript",
+      "url": "https://www.autodesk.com/products/3ds-max/overview",
+      "category": "Programming Language",
+      "sector": "",
+      "country": "",
+      "description": "",
+      "domains": [
+        "AI/ML"
+      ]
+    },
+    "status": "Error: TimeoutError: The read operation timed out"
+  },
+  {
+    "item": {
+      "name": "Maya (MEL)",
+      "url": "https://www.autodesk.com/products/maya/overview",
+      "category": "Programming Language",
+      "sector": "",
+      "country": "",
+      "description": "",
+      "domains": [
+        "AI/ML"
+      ]
+    },
+    "status": "Error: TimeoutError: The read operation timed out"
+  },
+  {
+    "item": {
+      "name": "MIMIC",
+      "url": "http://stinet.dtic.mil/oai/oai?verb=getRecord&metadataPrefix=html&identifier=AD0656301",
+      "category": "Programming Language",
+      "sector": "",
+      "country": "",
+      "description": "",
+      "domains": [
+        "AI/ML"
+      ]
+    },
+    "status": "URLError: [Errno 11001] getaddrinfo failed"
+  },
+  {
+    "item": {
+      "name": "Model 204",
+      "url": "http://www.rocketsoftware.com/brand/rocket-m204",
+      "category": "Programming Language",
+      "sector": "",
+      "country": "",
+      "description": "",
+      "domains": [
+        "AI/ML"
+      ]
+    },
+    "status": "HTTPError 403 + fallback HTTPError: HTTP Error 403: Forbidden"
+  },
+  {
+    "item": {
+      "name": "Mortran",
+      "url": "http://www.slac.stanford.edu/exp/e871/documentation/offline/mortran2.html",
+      "category": "Programming Language",
+      "sector": "",
+      "country": "",
+      "description": "",
+      "domains": [
+        "AI/ML"
+      ]
+    },
+    "status": "URLError: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1028)"
+  },
+  {
+    "item": {
+      "name": "Mouse",
+      "url": "http://users.encs.concordia.ca/~grogono/Mouse/mouse.html",
+      "category": "Programming Language",
+      "sector": "",
+      "country": "",
+      "description": "",
+      "domains": [
+        "AI/ML"
+      ]
+    },
+    "status": "HTTPError 404 + fallback HTTPError: HTTP Error 404: Not Found"
+  },
+  {
+    "item": {
+      "name": "MPD",
+      "url": "http://www.cs.arizona.edu/mpd/",
+      "category": "Programming Language",
+      "sector": "",
+      "country": "",
+      "description": "",
+      "domains": [
+        "AI/ML"
+      ]
+    },
+    "status": "HTTPError 404 + fallback HTTPError: HTTP Error 404: Not Found"
+  },
+  {
+    "item": {
+      "name": "MuPAD",
+      "url": "https://www.mathworks.com/discovery/mupad.html",
+      "category": "Programming Language",
+      "sector": "",
+      "country": "",
+      "description": "",
+      "domains": [
+        "AI/ML"
+      ]
+    },
+    "status": "HTTPError 403 + fallback HTTPError: HTTP Error 403: Forbidden"
+  },
+  {
+    "item": {
+      "name": "Napier88",
+      "url": "http://www-ppg.dcs.st-and.ac.uk/Languages/Napier88/",
+      "category": "Programming Language",
+      "sector": "",
+      "country": "",
+      "description": "",
+      "domains": [
+        "AI/ML"
+      ]
+    },
+    "status": "URLError: [Errno 11001] getaddrinfo failed"
+  },
+  {
+    "item": {
+      "name": "NewLISP",
+      "url": "http://www.newlisp.org",
+      "category": "Programming Language",
+      "sector": "",
+      "country": "",
+      "description": "",
+      "domains": [
+        "AI/ML"
+      ]
+    },
+    "status": "URLError: [Errno 11002] getaddrinfo failed"
+  },
+  {
+    "item": {
+      "name": "NewtonScript",
+      "url": "http://waltersmith.us/wp-content/uploads/2005/12/Self-intro.htm",
+      "category": "Programming Language",
+      "sector": "",
+      "country": "",
+      "description": "",
+      "domains": [
+        "AI/ML"
+      ]
+    },
+    "status": "HTTPError 404 + fallback HTTPError: HTTP Error 404: Not Found"
+  },
+  {
+    "item": {
+      "name": "NWScript",
+      "url": "https://www.mobygames.com/game-group/neverwinter-nights-series",
+      "category": "Programming Language",
+      "sector": "",
+      "country": "",
+      "description": "",
+      "domains": [
+        "AI/ML"
+      ]
+    },
+    "status": "HTTPError 403 + fallback HTTPError: HTTP Error 403: Forbidden"
+  },
+  {
+    "item": {
+      "name": "Obliq",
+      "url": "http://www.cc.gatech.edu/gvu/people/Phd/Krishna/VO/VOHome.html",
+      "category": "Programming Language",
+      "sector": "",
+      "country": "",
+      "description": "",
+      "domains": [
+        "AI/ML"
+      ]
+    },
+    "status": "HTTPError 404 + fallback HTTPError: HTTP Error 404: Not Found"
+  },
+  {
+    "item": {
+      "name": "OptimJ",
+      "url": "http://www.ateji.com/",
+      "category": "Programming Language",
+      "sector": "",
+      "country": "",
+      "description": "",
+      "domains": [
+        "AI/ML"
+      ]
+    },
+    "status": "HTTPError 404 + fallback HTTPError: HTTP Error 404: Not Found"
+  },
+  {
+    "item": {
+      "name": "PILOT",
+      "url": "https://rpilot.sourceforge.net/pilot.html",
+      "category": "Programming Language",
+      "sector": "",
+      "country": "",
+      "description": "",
+      "domains": [
+        "AI/ML"
+      ]
+    },
+    "status": "HTTPError 404 + fallback HTTPError: HTTP Error 404: Not Found"
+  },
+  {
+    "item": {
+      "name": "PL/M",
+      "url": "https://www.drdobbs.com/architecture-and-design/gary-kildall-and-collegial-entrepreneurs/184410428",
+      "category": "Programming Language",
+      "sector": "",
+      "country": "",
+      "description": "",
+      "domains": [
+        "AI/ML"
+      ]
+    },
+    "status": "URLError: [Errno 11001] getaddrinfo failed"
+  },
+  {
+    "item": {
+      "name": "PL360",
+      "url": "https://doi.org/10.1145%2F321439.321442",
+      "category": "Programming Language",
+      "sector": "",
+      "country": "",
+      "description": "",
+      "domains": [
+        "AI/ML"
+      ]
+    },
+    "status": "HTTPError 403 + fallback HTTPError: HTTP Error 403: Forbidden"
+  },
+  {
+    "item": {
+      "name": "PLEX",
+      "url": "https://doi.org/10.1145%2F1238844.1238850",
+      "category": "Programming Language",
+      "sector": "",
+      "country": "",
+      "description": "",
+      "domains": [
+        "AI/ML"
+      ]
+    },
+    "status": "HTTPError 403 + fallback HTTPError: HTTP Error 403: Forbidden"
+  },
+  {
+    "item": {
+      "name": "Plus",
+      "url": "http://doi.acm.org/10.1145/800234.807062",
+      "category": "Programming Language",
+      "sector": "",
+      "country": "",
+      "description": "",
+      "domains": [
+        "AI/ML"
+      ]
+    },
+    "status": "HTTPError 403 + fallback HTTPError: HTTP Error 403: Forbidden"
+  },
+  {
+    "item": {
+      "name": "POP-2",
+      "url": "http://www-robotics.cs.umass.edu/Popplestone/pop_development.html",
+      "category": "Programming Language",
+      "sector": "",
+      "country": "",
+      "description": "",
+      "domains": [
+        "AI/ML"
+      ]
+    },
+    "status": "URLError: [Errno 11001] getaddrinfo failed"
+  },
+  {
+    "item": {
+      "name": "PROMAL",
+      "url": "http://www.lyonlabs.org/commodore/onrequest/PROMAL/",
+      "category": "Programming Language",
+      "sector": "",
+      "country": "",
+      "description": "",
+      "domains": [
+        "AI/ML"
+      ]
+    },
+    "status": "URLError: [WinError 10061] No connection could be made because the target machine actively refused it"
+  },
+  {
+    "item": {
+      "name": "PROSE modeling language",
+      "url": "http://www.rand.org/pubs/reports/R438.html",
+      "category": "Programming Language",
+      "sector": "",
+      "country": "",
+      "description": "",
+      "domains": [
+        "AI/ML"
+      ]
+    },
+    "status": "HTTPError 403 + fallback HTTPError: HTTP Error 403: Forbidden"
+  },
+  {
+    "item": {
+      "name": "Rocq",
+      "url": "https://rocq-prover.org",
+      "category": "Programming Language",
+      "sector": "",
+      "country": "",
+      "description": "",
+      "domains": [
+        "AI/ML"
+      ]
+    },
+    "status": "URLError: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1028)"
+  },
+  {
+    "item": {
+      "name": "RTL/2",
+      "url": "https://doi.org/10.1002%2Fspe.4380100904",
+      "category": "Programming Language",
+      "sector": "",
+      "country": "",
+      "description": "",
+      "domains": [
+        "AI/ML"
+      ]
+    },
+    "status": "HTTPError 403 + fallback HTTPError: HTTP Error 403: Forbidden"
+  },
+  {
+    "item": {
+      "name": "S3",
+      "url": "http://www.columbia.edu/kermit/archive",
+      "category": "Programming Language",
+      "sector": "",
+      "country": "",
+      "description": "",
+      "domains": [
+        "AI/ML"
+      ]
+    },
+    "status": "HTTPError 403 + fallback HTTPError: HTTP Error 403: Forbidden"
+  },
+  {
+    "item": {
+      "name": "SequenceL",
+      "url": "http://texasmulticore.com",
+      "category": "Programming Language",
+      "sector": "",
+      "country": "",
+      "description": "",
+      "domains": [
+        "AI/ML"
+      ]
+    },
+    "status": "URLError: [Errno 11001] getaddrinfo failed"
+  },
+  {
+    "item": {
+      "name": "SIGNAL",
+      "url": "https://www.irisa.fr/espresso/",
+      "category": "Programming Language",
+      "sector": "",
+      "country": "",
+      "description": "",
+      "domains": [
+        "AI/ML"
+      ]
+    },
+    "status": "URLError: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1028)"
+  },
+  {
+    "item": {
+      "name": "SiMPLE",
+      "url": "http://www.simplecodeworks.com/website.html",
+      "category": "Programming Language",
+      "sector": "",
+      "country": "",
+      "description": "",
+      "domains": [
+        "AI/ML"
+      ]
+    },
+    "status": "URLError: [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1028)"
+  },
+  {
+    "item": {
+      "name": "Simula",
+      "url": "http://www.simula67.info",
+      "category": "Programming Language",
+      "sector": "",
+      "country": "",
+      "description": "",
+      "domains": [
+        "AI/ML"
+      ]
+    },
+    "status": "URLError: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1028)"
+  },
+  {
+    "item": {
+      "name": "Simulink",
+      "url": "https://www.mathworks.com/products/simulink.html",
+      "category": "Programming Language",
+      "sector": "",
+      "country": "",
+      "description": "",
+      "domains": [
+        "AI/ML"
+      ]
+    },
+    "status": "HTTPError 403 + fallback HTTPError: HTTP Error 403: Forbidden"
+  },
+  {
+    "item": {
+      "name": "SKILL",
+      "url": "http://www.cadence.com",
+      "category": "Programming Language",
+      "sector": "",
+      "country": "",
+      "description": "",
+      "domains": [
+        "AI/ML"
+      ]
+    },
+    "status": "HTTPError 403 + fallback HTTPError: HTTP Error 403: Forbidden"
+  },
+  {
+    "item": {
+      "name": "SP/k",
+      "url": "http://doi.acm.org/10.1145/359581.359586",
+      "category": "Programming Language",
+      "sector": "",
+      "country": "",
+      "description": "",
+      "domains": [
+        "AI/ML"
+      ]
+    },
+    "status": "HTTPError 403 + fallback HTTPError: HTTP Error 403: Forbidden"
+  },
+  {
+    "item": {
+      "name": "Speedcode",
+      "url": "https://doi.org/10.1147%2Frd.255.0535",
+      "category": "Programming Language",
+      "sector": "",
+      "country": "",
+      "description": "",
+      "domains": [
+        "AI/ML"
+      ]
+    },
+    "status": "HTTPError 418 + fallback HTTPError: HTTP Error 418: Unknown Code"
+  },
+  {
+    "item": {
+      "name": "Stateflow",
+      "url": "http://www.mathworks.com/products/stateflow?s_cid=wiki_stateflow_2",
+      "category": "Programming Language",
+      "sector": "",
+      "country": "",
+      "description": "",
+      "domains": [
+        "AI/ML"
+      ]
+    },
+    "status": "HTTPError 403 + fallback HTTPError: HTTP Error 403: Forbidden"
+  },
+  {
+    "item": {
+      "name": "Swift (Apple programming language)",
+      "url": "https://www.swift.org/",
+      "category": "Programming Language",
+      "sector": "",
+      "country": "",
+      "description": "",
+      "domains": [
+        "AI/ML"
+      ]
+    },
+    "status": "URLError: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self-signed certificate in certificate chain (_ssl.c:1028)"
+  },
+  {
+    "item": {
+      "name": "TIE",
+      "url": "http://cadence.com",
+      "category": "Programming Language",
+      "sector": "",
+      "country": "",
+      "description": "",
+      "domains": [
+        "AI/ML"
+      ]
+    },
+    "status": "HTTPError 403 + fallback HTTPError: HTTP Error 403: Forbidden"
+  },
+  {
+    "item": {
+      "name": "Tom",
+      "url": "http://tom.loria.fr",
+      "category": "Programming Language",
+      "sector": "",
+      "country": "",
+      "description": "",
+      "domains": [
+        "AI/ML"
+      ]
+    },
+    "status": "URLError: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1028)"
+  },
+  {
+    "item": {
+      "name": "Uniface",
+      "url": "https://www.rocketsoftware.com/welcome-uniface",
+      "category": "Programming Language",
+      "sector": "",
+      "country": "",
+      "description": "",
+      "domains": [
+        "AI/ML"
+      ]
+    },
+    "status": "HTTPError 403 + fallback HTTPError: HTTP Error 403: Forbidden"
+  },
+  {
+    "item": {
+      "name": "UnrealScript",
+      "url": "https://www.unrealengine.com/",
+      "category": "Programming Language",
+      "sector": "",
+      "country": "",
+      "description": "",
+      "domains": [
+        "AI/ML"
+      ]
+    },
+    "status": "HTTPError 403 + fallback HTTPError: HTTP Error 403: Forbidden"
+  },
+  {
+    "item": {
+      "name": "Visual DialogScript",
+      "url": "http://www.dialogscript.com/",
+      "category": "Programming Language",
+      "sector": "",
+      "country": "",
+      "description": "",
+      "domains": [
+        "AI/ML"
+      ]
+    },
+    "status": "URLError: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.dialogscript.com'. (_ssl.c:1028)"
+  },
+  {
+    "item": {
+      "name": "XC",
+      "url": "http://www.xmos.com/",
+      "category": "Programming Language",
+      "sector": "",
+      "country": "",
+      "description": "",
+      "domains": [
+        "AI/ML"
+      ]
+    },
+    "status": "HTTPError 406 + fallback HTTPError: HTTP Error 406: Not Acceptable"
+  },
+  {
+    "item": {
+      "name": "XMOS architecture",
+      "url": "http://www.xmos.com/",
+      "category": "Programming Language",
+      "sector": "",
+      "country": "",
+      "description": "",
+      "domains": [
+        "AI/ML"
+      ]
+    },
+    "status": "HTTPError 406 + fallback HTTPError: HTTP Error 406: Not Acceptable"
+  },
+  {
+    "item": {
+      "name": "XOTcl",
+      "url": "http://media.wu-wien.ac.at/",
+      "category": "Programming Language",
+      "sector": "",
+      "country": "",
+      "description": "",
+      "domains": [
+        "AI/ML"
+      ]
+    },
+    "status": "URLError: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'media.wu-wien.ac.at'. (_ssl.c:1028)"
+  },
+  {
+    "item": {
+      "name": "ZOPL",
+      "url": "http://geac.com",
+      "category": "Programming Language",
+      "sector": "",
+      "country": "",
+      "description": "",
+      "domains": [
+        "AI/ML"
+      ]
+    },
+    "status": "URLError: timed out"
+  },
+  {
+    "item": {
+      "name": "Canva",
+      "url": "https://www.canva.com/",
+      "category": "Startup",
+      "sector": "Design",
+      "country": "Australia",
+      "description": "Online design and publishing tool",
+      "domains": [
+        "AI/ML"
+      ]
+    },
+    "status": "HTTPError 403 + fallback HTTPError: HTTP Error 403: Forbidden"
+  },
+  {
+    "item": {
+      "name": "Coinbase",
+      "url": "https://www.coinbase.com/",
+      "category": "Startup",
+      "sector": "Crypto/Fintech",
+      "country": "USA",
+      "description": "Cryptocurrency exchange",
+      "domains": [
+        "AI/ML"
+      ]
+    },
+    "status": "HTTPError 403 + fallback HTTPError: HTTP Error 403: Forbidden"
+  },
+  {
+    "item": {
+      "name": "DoorDash",
+      "url": "https://www.doordash.com/",
+      "category": "Startup",
+      "sector": "Delivery",
+      "country": "USA",
+      "description": "On-demand food delivery",
+      "domains": [
+        "AI/ML"
+      ]
+    },
+    "status": "HTTPError 403 + fallback HTTPError: HTTP Error 403: Forbidden"
+  },
+  {
+    "item": {
+      "name": "OpenAI",
+      "url": "https://www.openai.com/",
+      "category": "Startup",
+      "sector": "AI",
+      "country": "USA",
+      "description": "AI research and products",
+      "domains": [
+        "AI/ML"
+      ]
+    },
+    "status": "HTTPError 403 + fallback HTTPError: HTTP Error 403: Forbidden"
+  },
+  {
+    "item": {
+      "name": "\"2.0:admin:install - Dotclear Documentation\"",
+      "url": "https://dotclear.org/documentation/2.0/admin/install#prerequisites",
+      "category": "Tool",
+      "sector": "",
+      "country": "",
+      "description": "",
+      "domains": [
+        "AI/ML"
+      ]
+    },
+    "status": "Error: TimeoutError: The read operation timed out"
+  },
+  {
+    "item": {
+      "name": "\"Account for Your Time\"",
+      "url": "http://www.project.net/project-time-tracking",
+      "category": "Tool",
+      "sector": "",
+      "country": "",
+      "description": "",
+      "domains": [
+        "AI/ML"
+      ]
+    },
+    "status": "URLError: [Errno 11001] getaddrinfo failed"
+  },
+  {
+    "item": {
+      "name": "\"Database Support Strategy (Community.SupportStrategy.DatabaseSupportStrategy) - XWiki\"",
+      "url": "https://dev.xwiki.org/xwiki/bin/view/Community/SupportStrategy/DatabaseSupportStrategy",
+      "category": "Tool",
+      "sector": "",
+      "country": "",
+      "description": "",
+      "domains": [
+        "AI/ML"
+      ]
+    },
+    "status": "HTTPError 403 + fallback HTTPError: HTTP Error 403: Forbidden"
+  },
+  {
+    "item": {
+      "name": "\"Forest: Structural Code Editing with Multiple Cursors\"",
+      "url": "https://doi.org/10.1145/3563835.3567663",
+      "category": "Tool",
+      "sector": "",
+      "country": "",
+      "description": "",
+      "domains": [
+        "AI/ML"
+      ]
+    },
+    "status": "HTTPError 403 + fallback HTTPError: HTTP Error 403: Forbidden"
+  },
+  {
+    "item": {
+      "name": "\"Java Headless CMS Built on Java Technology\"",
+      "url": "https://dotcms.com/product/technology/",
+      "category": "Tool",
+      "sector": "",
+      "country": "",
+      "description": "",
+      "domains": [
+        "AI/ML"
+      ]
+    },
+    "status": "HTTPError 404 + fallback HTTPError: HTTP Error 404: Not Found"
+  },
+  {
+    "item": {
+      "name": "\"Leafpad\"",
+      "url": "http://lxde.org/lxde",
+      "category": "Tool",
+      "sector": "",
+      "country": "",
+      "description": "",
+      "domains": [
+        "AI/ML"
+      ]
+    },
+    "status": "HTTPError 404 + fallback HTTPError: HTTP Error 404: Not Found"
+  },
+  {
+    "item": {
+      "name": "\"LTS 2023.19 / LTS 2023-HF19\"",
+      "url": "https://doc.nuxeo.com/nxdoc/nuxeo-server-release-notes-2023-19/",
+      "category": "Tool",
+      "sector": "",
+      "country": "",
+      "description": "",
+      "domains": [
+        "AI/ML"
+      ]
+    },
+    "status": "HTTPError 404 + fallback HTTPError: HTTP Error 404: Not Found"
+  },
+  {
+    "item": {
+      "name": "\"Mac Basics: TextEdit\"",
+      "url": "http://support.apple.com/kb/ht2523",
+      "category": "Tool",
+      "sector": "",
+      "country": "",
+      "description": "",
+      "domains": [
+        "AI/ML"
+      ]
+    },
+    "status": "HTTPError 404 + fallback HTTPError: HTTP Error 404: Not Found"
+  },
+  {
+    "item": {
+      "name": "\"Nucleus CMS: Pure Publishing\"",
+      "url": "http://nucleuscms.org/index.php?itemid=3060",
+      "category": "Tool",
+      "sector": "",
+      "country": "",
+      "description": "",
+      "domains": [
+        "AI/ML"
+      ]
+    },
+    "status": "Error: TimeoutError: timed out"
+  },
+  {
+    "item": {
+      "name": "\"Pelles C Download\"",
+      "url": "http://www.smorgasbordet.com/pellesc/download.htm",
+      "category": "Tool",
+      "sector": "",
+      "country": "",
+      "description": "",
+      "domains": [
+        "AI/ML"
+      ]
+    },
+    "status": "Error: ConnectionResetError: [WinError 10054] An existing connection was forcibly closed by the remote host"
+  },
+  {
+    "item": {
+      "name": "\"Peygir Project and Team Management System\"",
+      "url": "https://peygir.com/",
+      "category": "Tool",
+      "sector": "",
+      "country": "",
+      "description": "",
+      "domains": [
+        "AI/ML"
+      ]
+    },
+    "status": "URLError: timed out"
+  },
+  {
+    "item": {
+      "name": "\"Practical cost management with Twproject\"",
+      "url": "https://archive.today/20130604085514/http://blog.twproject.com/2013/06/03/practical-project-cost-management-with-teamwork/",
+      "category": "Tool",
+      "sector": "",
+      "country": "",
+      "description": "",
+      "domains": [
+        "AI/ML"
+      ]
+    },
+    "status": "URLError: timed out"
+  },
+  {
+    "item": {
+      "name": "\"Prerequisites and system requirements\"",
+      "url": "https://academy.jahia.com/documentation/system-administrator/jahia/8/installing-and-configuring-jahia/installing-configuring-and-troubleshooting-jahia/prerequisites-and-system-requirements",
+      "category": "Tool",
+      "sector": "",
+      "country": "",
+      "description": "",
+      "domains": [
+        "AI/ML"
+      ]
+    },
+    "status": "URLError: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self-signed certificate in certificate chain (_ssl.c:1028)"
+  },
+  {
+    "item": {
+      "name": "\"Products\"",
+      "url": "http://www.projectlibre.org/products#block-projectlibre-enterprise",
+      "category": "Tool",
+      "sector": "",
+      "country": "",
+      "description": "",
+      "domains": [
+        "AI/ML"
+      ]
+    },
+    "status": "HTTPError 404 + fallback HTTPError: HTTP Error 404: Not Found"
+  },
+  {
+    "item": {
+      "name": "\"Project Budget\"",
+      "url": "http://www.projectlibre.org/comment/1808#comment-1808",
+      "category": "Tool",
+      "sector": "",
+      "country": "",
+      "description": "",
+      "domains": [
+        "AI/ML"
+      ]
+    },
+    "status": "HTTPError 404 + fallback HTTPError: HTTP Error 404: Not Found"
+  },
+  {
+    "item": {
+      "name": "\"ProjectLibre:open source replacement of MS Project\"",
+      "url": "http://www.projectsatwork.com/content/tools/275877.cfm",
+      "category": "Tool",
+      "sector": "",
+      "country": "",
+      "description": "",
+      "domains": [
+        "AI/ML"
+      ]
+    },
+    "status": "HTTPError 404 + fallback HTTPError: HTTP Error 404: Not Found"
+  },
+  {
+    "item": {
+      "name": "\"Required software - EPrints Documentation\"",
+      "url": "http://wiki.eprints.org/w/Required_software",
+      "category": "Tool",
+      "sector": "",
+      "country": "",
+      "description": "",
+      "domains": [
+        "AI/ML"
+      ]
+    },
+    "status": "HTTPError 429 + fallback HTTPError: HTTP Error 429: Too Many Requests"
+  },
+  {
+    "item": {
+      "name": "\"System 2.0 (4.1/5.5) 800K Disk Contents (9/93)\"",
+      "url": "http://support.apple.com/kb/TA30234",
+      "category": "Tool",
+      "sector": "",
+      "country": "",
+      "description": "",
+      "domains": [
+        "AI/ML"
+      ]
+    },
+    "status": "HTTPError 404 + fallback HTTPError: HTTP Error 404: Not Found"
+  },
+  {
+    "item": {
+      "name": "\"System Requirements - Pimcore\"",
+      "url": "https://pimcore.com/docs/pimcore/current/Development_Documentation/Installation_and_Upgrade/System_Requirements.html",
+      "category": "Tool",
+      "sector": "",
+      "country": "",
+      "description": "",
+      "domains": [
+        "AI/ML"
+      ]
+    },
+    "status": "HTTPError 403 + fallback HTTPError: HTTP Error 403: Forbidden"
+  },
+  {
+    "item": {
+      "name": "\"Technology & system requirements\"",
+      "url": "https://docs.nopcommerce.com/en/installation-and-upgrading/technology-and-system-requirements.html",
+      "category": "Tool",
+      "sector": "",
+      "country": "",
+      "description": "",
+      "domains": [
+        "AI/ML"
+      ]
+    },
+    "status": "HTTPError 403 + fallback HTTPError: HTTP Error 403: Forbidden"
+  },
+  {
+    "item": {
+      "name": "\"Tested software versions\"",
+      "url": "https://documentation.opencms.org/opencms-documentation/server-installation/tested-software-versions/index.html",
+      "category": "Tool",
+      "sector": "",
+      "country": "",
+      "description": "",
+      "domains": [
+        "AI/ML"
+      ]
+    },
+    "status": "HTTPError 404 + fallback HTTPError: HTTP Error 404: Not Found"
+  },
+  {
+    "item": {
+      "name": "\"À propos de nous - nopCommerce\"",
+      "url": "https://www.nopcommerce.com/fr/about-us",
+      "category": "Tool",
+      "sector": "",
+      "country": "",
+      "description": "",
+      "domains": [
+        "AI/ML"
+      ]
+    },
+    "status": "HTTPError 403 + fallback HTTPError: HTTP Error 403: Forbidden"
+  },
+  {
+    "item": {
+      "name": "10.1145/3563835.3567663",
+      "url": "https://doi.org/10.1145%2F3563835.3567663",
+      "category": "Tool",
+      "sector": "",
+      "country": "",
+      "description": "",
+      "domains": [
+        "AI/ML"
+      ]
+    },
+    "status": "HTTPError 403 + fallback HTTPError: HTTP Error 403: Forbidden"
+  },
+  {
+    "item": {
+      "name": "ACiDDraw",
+      "url": "http://acid.org",
+      "category": "Tool",
+      "sector": "",
+      "country": "",
+      "description": "",
+      "domains": [
+        "AI/ML"
+      ]
+    },
+    "status": "URLError: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1028)"
+  },
+  {
+    "item": {
+      "name": "Adobe",
+      "url": "https://www.adobe.com/",
+      "category": "Tool",
+      "sector": "",
+      "country": "",
+      "description": "",
+      "domains": [
+        "AI/ML"
+      ]
+    },
+    "status": "Error: TimeoutError: The read operation timed out"
+  },
+  {
+    "item": {
+      "name": "Adobe Animate",
+      "url": "http://adobe.com/products/animate.html",
+      "category": "Tool",
+      "sector": "",
+      "country": "",
+      "description": "",
+      "domains": [
+        "AI/ML"
+      ]
+    },
+    "status": "Error: TimeoutError: The read operation timed out"
+  },
+  {
+    "item": {
+      "name": "Adobe Dreamweaver",
+      "url": "https://www.adobe.com/products/dreamweaver.html",
+      "category": "Tool",
+      "sector": "",
+      "country": "",
+      "description": "",
+      "domains": [
+        "AI/ML"
+      ]
+    },
+    "status": "Error: TimeoutError: The read operation timed out"
+  },
+  {
+    "item": {
+      "name": "Adobe Experience Manager",
+      "url": "https://www.adobe.com/experience-cloud.html",
+      "category": "Tool",
+      "sector": "",
+      "country": "",
+      "description": "",
+      "domains": [
+        "AI/ML"
+      ]
+    },
+    "status": "Error: TimeoutError: The read operation timed out"
+  },
+  {
+    "item": {
+      "name": "Adobe Flash Builder",
+      "url": "https://www.adobe.com/products/flash-builder-family.html",
+      "category": "Tool",
+      "sector": "",
+      "country": "",
+      "description": "",
+      "domains": [
+        "AI/ML"
+      ]
+    },
+    "status": "Error: TimeoutError: The read operation timed out"
+  },
+  {
+    "item": {
+      "name": "Adobe Systems",
+      "url": "https://www.adobe.com/",
+      "category": "Tool",
+      "sector": "",
+      "country": "",
+      "description": "",
+      "domains": [
+        "AI/ML"
+      ]
+    },
+    "status": "Error: TimeoutError: The read operation timed out"
+  },
+  {
+    "item": {
+      "name": "Altitude3.Net",
+      "url": "http://altitude3.net",
+      "category": "Tool",
+      "sector": "",
+      "country": "",
+      "description": "",
+      "domains": [
+        "AI/ML"
+      ]
+    },
+    "status": "URLError: timed out"
+  },
+  {
+    "item": {
+      "name": "Appcelerator",
+      "url": "https://www.appcelerator.com",
+      "category": "Tool",
+      "sector": "",
+      "country": "",
+      "description": "",
+      "domains": [
+        "AI/ML"
+      ]
+    },
+    "status": "URLError: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.appcelerator.com'. (_ssl.c:1028)"
+  },
+  {
+    "item": {
+      "name": "Aptana Studio",
+      "url": "http://www.aptana.com",
+      "category": "Tool",
+      "sector": "",
+      "country": "",
+      "description": "",
+      "domains": [
+        "AI/ML"
+      ]
+    },
+    "status": "HTTPError 403 + fallback HTTPError: HTTP Error 403: Forbidden"
+  },
+  {
+    "item": {
+      "name": "Atari ST",
+      "url": "http://www.atari.st/",
+      "category": "Tool",
+      "sector": "",
+      "country": "",
+      "description": "",
+      "domains": [
+        "AI/ML"
+      ]
+    },
+    "status": "URLError: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1028)"
+  },
+  {
+    "item": {
+      "name": "Auto-complete",
+      "url": "http://justaddwater.dk/2006/01/26/live-search-explained/",
+      "category": "Tool",
+      "sector": "",
+      "country": "",
+      "description": "",
+      "domains": [
+        "AI/ML"
+      ]
+    },
+    "status": "Error: TimeoutError: timed out"
+  },
+  {
+    "item": {
+      "name": "Bazaar",
+      "url": "https://bazaar.canonical.com/",
+      "category": "Tool",
+      "sector": "",
+      "country": "",
+      "description": "",
+      "domains": [
+        "AI/ML"
+      ]
+    },
+    "status": "URLError: [Errno 11001] getaddrinfo failed"
+  },
+  {
+    "item": {
+      "name": "Bluehost",
+      "url": "http://bluehost.com",
+      "category": "Tool",
+      "sector": "",
+      "country": "",
+      "description": "",
+      "domains": [
+        "AI/ML"
+      ]
+    },
+    "status": "HTTPError 403 + fallback HTTPError: HTTP Error 403: Forbidden"
+  },
+  {
+    "item": {
+      "name": "Bolt (CMS)",
+      "url": "https://docs.bolt.cm/4.0/getting-started/requirements",
+      "category": "Tool",
+      "sector": "",
+      "country": "",
+      "description": "",
+      "domains": [
+        "AI/ML"
+      ]
+    },
+    "status": "URLError: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1028)"
+  },
+  {
+    "item": {
+      "name": "BON",
+      "url": "https://www.bon-method.com",
+      "category": "Tool",
+      "sector": "",
+      "country": "",
+      "description": "",
+      "domains": [
+        "AI/ML"
+      ]
+    },
+    "status": "URLError: [Errno 11001] getaddrinfo failed"
+  },
+  {
+    "item": {
+      "name": "Borland Kylix",
+      "url": "http://www.borland.com/kylix/",
+      "category": "Tool",
+      "sector": "",
+      "country": "",
+      "description": "",
+      "domains": [
+        "AI/ML"
+      ]
+    },
+    "status": "HTTPError 404 + fallback HTTPError: HTTP Error 404: Not Found"
+  },
+  {
+    "item": {
+      "name": "BSD",
+      "url": "https://cgit.freebsd.org/src/plain/share/misc/bsd-family-tree",
+      "category": "Tool",
+      "sector": "",
+      "country": "",
+      "description": "",
+      "domains": [
+        "AI/ML"
+      ]
+    },
+    "status": "HTTPError 503 + fallback HTTPError: HTTP Error 503: Backend fetch failed"
+  },
+  {
+    "item": {
+      "name": "BSD 3-clause",
+      "url": "https://cgit.freebsd.org/src/plain/share/misc/bsd-family-tree",
+      "category": "Tool",
+      "sector": "",
+      "country": "",
+      "description": "",
+      "domains": [
+        "AI/ML"
+      ]
+    },
+    "status": "HTTPError 503 + fallback HTTPError: HTTP Error 503: Backend fetch failed"
+  },
+  {
+    "item": {
+      "name": "Budget management",
+      "url": "http://www.loscostos.info/financial-accounting/accounting-systems.html",
+      "category": "Tool",
+      "sector": "",
+      "country": "",
+      "description": "",
+      "domains": [
+        "AI/ML"
+      ]
+    },
+    "status": "HTTPError 404 + fallback HTTPError: HTTP Error 404: Not Found"
+  },
+  {
+    "item": {
+      "name": "C1 CMS",
+      "url": "https://cms.orckestra.com/",
+      "category": "Tool",
+      "sector": "",
+      "country": "",
+      "description": "",
+      "domains": [
+        "AI/ML"
+      ]
+    },
+    "status": "URLError: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'cms.orckestra.com'. (_ssl.c:1028)"
+  },
+  {
+    "item": {
+      "name": "CIRA",
+      "url": "https://cira.ca",
+      "category": "Tool",
+      "sector": "",
+      "country": "",
+      "description": "",
+      "domains": [
+        "AI/ML"
+      ]
+    },
+    "status": "HTTPError 403 + fallback HTTPError: HTTP Error 403: Forbidden"
+  },
+  {
+    "item": {
+      "name": "Click analytics",
+      "url": "https://topwebsiteworth.com/",
+      "category": "Tool",
+      "sector": "",
+      "country": "",
+      "description": "",
+      "domains": [
+        "AI/ML"
+      ]
+    },
+    "status": "Error: TimeoutError: The read operation timed out"
+  },
+  {
+    "item": {
+      "name": "Click tracking",
+      "url": "https://doi.org/10.1145%2F2529995.2529996",
+      "category": "Tool",
+      "sector": "",
+      "country": "",
+      "description": "",
+      "domains": [
+        "AI/ML"
+      ]
+    },
+    "status": "HTTPError 403 + fallback HTTPError: HTTP Error 403: Forbidden"
+  },
+  {
+    "item": {
+      "name": "Code completion",
+      "url": "https://doi.org/10.1109%2FASE.2008.42",
+      "category": "Tool",
+      "sector": "",
+      "country": "",
+      "description": "",
+      "domains": [
+        "AI/ML"
+      ]
+    },
+    "status": "HTTPError 418 + fallback HTTPError: HTTP Error 418: Unknown Code"
+  },
+  {
+    "item": {
+      "name": "Codelobster",
+      "url": "https://codelobster.com",
+      "category": "Tool",
+      "sector": "",
+      "country": "",
+      "description": "",
+      "domains": [
+        "AI/ML"
+      ]
+    },
+    "status": "URLError: [Errno 11002] getaddrinfo failed"
+  },
+  {
+    "item": {
+      "name": "CodeWarrior",
+      "url": "https://www.nxp.com/design/software/development-software/codewarrior-development-tools:CW_HOME",
+      "category": "Tool",
+      "sector": "",
+      "country": "",
+      "description": "",
+      "domains": [
+        "AI/ML"
+      ]
+    },
+    "status": "HTTPError 404 + fallback HTTPError: HTTP Error 404: Not Found"
+  },
+  {
+    "item": {
+      "name": "command line interface",
+      "url": "http://www.patersontech.com/Dos/Softalk/Softalk.html",
+      "category": "Tool",
+      "sector": "",
+      "country": "",
+      "description": "",
+      "domains": [
+        "AI/ML"
+      ]
+    },
+    "status": "Error: RemoteDisconnected: Remote end closed connection without response"
+  },
+  {
+    "item": {
+      "name": "command-line interface",
+      "url": "http://www.patersontech.com/Dos/Softalk/Softalk.html",
+      "category": "Tool",
+      "sector": "",
+      "country": "",
+      "description": "",
+      "domains": [
+        "AI/ML"
+      ]
+    },
+    "status": "Error: RemoteDisconnected: Remote end closed connection without response"
+  },
+  {
+    "item": {
+      "name": "Component content management system (CCMS)",
+      "url": "http://www.ibmpressbooks.com/bookstore/product.asp?isbn=0132480522",
+      "category": "Tool",
+      "sector": "",
+      "country": "",
+      "description": "",
+      "domains": [
+        "AI/ML"
+      ]
+    },
+    "status": "URLError: timed out"
+  },
+  {
+    "item": {
+      "name": "Day",
+      "url": "https://www.adobe.com/",
+      "category": "Tool",
+      "sector": "",
+      "country": "",
+      "description": "",
+      "domains": [
+        "AI/ML"
+      ]
+    },
+    "status": "Error: TimeoutError: The read operation timed out"
+  },
+  {
+    "item": {
+      "name": "DNN",
+      "url": "http://dnncommunity.org/",
+      "category": "Tool",
+      "sector": "",
+      "country": "",
+      "description": "",
+      "domains": [
+        "AI/ML"
+      ]
+    },
+    "status": "HTTPError 403 + fallback HTTPError: HTTP Error 403: Forbidden"
+  },
+  {
+    "item": {
+      "name": "Document management system",
+      "url": "https://d-nb.info/gnd/4303691-0",
+      "category": "Tool",
+      "sector": "",
+      "country": "",
+      "description": "",
+      "domains": [
+        "AI/ML"
+      ]
+    },
+    "status": "URLError: timed out"
+  },
+  {
+    "item": {
+      "name": "Dolphin Smalltalk",
+      "url": "http://www.object-arts.com",
+      "category": "Tool",
+      "sector": "",
+      "country": "",
+      "description": "",
+      "domains": [
+        "AI/ML"
+      ]
+    },
+    "status": "URLError: timed out"
+  },
+  {
+    "item": {
+      "name": "Domain Technologie Control",
+      "url": "http://www.gplhost.com/software-dtc.html",
+      "category": "Tool",
+      "sector": "",
+      "country": "",
+      "description": "",
+      "domains": [
+        "AI/ML"
+      ]
+    },
+    "status": "HTTPError 404 + fallback HTTPError: HTTP Error 404: Not Found"
+  },
+  {
+    "item": {
+      "name": "Drupal",
+      "url": "https://www.drupal.org/",
+      "category": "Tool",
+      "sector": "",
+      "country": "",
+      "description": "",
+      "domains": [
+        "AI/ML"
+      ]
+    },
+    "status": "HTTPError 403 + fallback HTTPError: HTTP Error 403: Forbidden"
+  },
+  {
+    "item": {
+      "name": "DynaRoad",
+      "url": "http://www.dynaroad.com/",
+      "category": "Tool",
+      "sector": "",
+      "country": "",
+      "description": "",
+      "domains": [
+        "AI/ML"
+      ]
+    },
+    "status": "URLError: [Errno 11002] getaddrinfo failed"
+  },
+  {
+    "item": {
+      "name": "EasyOffice",
+      "url": "http://desktoppub.about.com/cs/software/gr/easyofficefree.htm",
+      "category": "Tool",
+      "sector": "",
+      "country": "",
+      "description": "",
+      "domains": [
+        "AI/ML"
+      ]
+    },
+    "status": "URLError: [Errno 11001] getaddrinfo failed"
+  },
+  {
+    "item": {
+      "name": "EDLIN",
+      "url": "https://www.microsoft.com/resources/documentation/windows/xp/all/proddocs/en-us/edlin_line.mspx?mfr=true",
+      "category": "Tool",
+      "sector": "",
+      "country": "",
+      "description": "",
+      "domains": [
+        "AI/ML"
+      ]
+    },
+    "status": "HTTPError 403 + fallback HTTPError: HTTP Error 403: Forbidden"
+  },
+  {
+    "item": {
+      "name": "EDT (Univac)",
+      "url": "http://manuals.ts.fujitsu.com/index.php?id=1-2-3389-15556",
+      "category": "Tool",
+      "sector": "",
+      "country": "",
+      "description": "",
+      "domains": [
+        "AI/ML"
+      ]
+    },
+    "status": "HTTPError 502 + fallback HTTPError: HTTP Error 502: Bad Gateway"
+  },
+  {
+    "item": {
+      "name": "Flash",
+      "url": "http://adobe.com/products/flashruntimes.html",
+      "category": "Tool",
+      "sector": "",
+      "country": "",
+      "description": "",
+      "domains": [
+        "AI/ML"
+      ]
+    },
+    "status": "Error: TimeoutError: The read operation timed out"
+  },
+  {
+    "item": {
+      "name": "Framework",
+      "url": "http://www.framework.com",
+      "category": "Tool",
+      "sector": "",
+      "country": "",
+      "description": "",
+      "domains": [
+        "AI/ML"
+      ]
+    },
+    "status": "URLError: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1028)"
+  },
+  {
+    "item": {
+      "name": "i-MSCP",
+      "url": "http://i-mscp.net",
+      "category": "Tool",
+      "sector": "",
+      "country": "",
+      "description": "",
+      "domains": [
+        "AI/ML"
+      ]
+    },
+    "status": "HTTPError 404 + fallback HTTPError: HTTP Error 404: Not Found"
+  },
+  {
+    "item": {
+      "name": "INRIA",
+      "url": "https://www.inria.fr/en",
+      "category": "Tool",
+      "sector": "",
+      "country": "",
+      "description": "",
+      "domains": [
+        "AI/ML"
+      ]
+    },
+    "status": "URLError: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1028)"
+  },
+  {
+    "item": {
+      "name": "IPM",
+      "url": "http://www.ipm.ac.ir",
+      "category": "Tool",
+      "sector": "",
+      "country": "",
+      "description": "",
+      "domains": [
+        "AI/ML"
+      ]
+    },
+    "status": "URLError: timed out"
+  },
+  {
+    "item": {
+      "name": "Jahia",
+      "url": "http://jahia.com",
+      "category": "Tool",
+      "sector": "",
+      "country": "",
+      "description": "",
+      "domains": [
+        "AI/ML"
+      ]
+    },
+    "status": "URLError: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self-signed certificate in certificate chain (_ssl.c:1028)"
+  },
+  {
+    "item": {
+      "name": "Jira",
+      "url": "https://www.atlassian.com/software/jira",
+      "category": "Tool",
+      "sector": "",
+      "country": "",
+      "description": "",
+      "domains": [
+        "AI/ML"
+      ]
+    },
+    "status": "Error: TimeoutError: The read operation timed out"
+  },
+  {
+    "item": {
+      "name": "KISA",
+      "url": "http://www.kisa.or.kr/eng/main.jsp",
+      "category": "Tool",
+      "sector": "",
+      "country": "",
+      "description": "",
+      "domains": [
+        "AI/ML"
+      ]
+    },
+    "status": "HTTPError 400 + fallback HTTPError: HTTP Error 403: Forbidden"
+  },
+  {
+    "item": {
+      "name": "Lotus Symphony",
+      "url": "https://www.techrepublic.com/pictures/dinosaur-sightings-lotus-symphony-30/1/",
+      "category": "Tool",
+      "sector": "",
+      "country": "",
+      "description": "",
+      "domains": [
+        "AI/ML"
+      ]
+    },
+    "status": "HTTPError 403 + fallback HTTPError: HTTP Error 403: Forbidden"
+  },
+  {
+    "item": {
+      "name": "LXDE",
+      "url": "https://www.lxde.org/",
+      "category": "Tool",
+      "sector": "",
+      "country": "",
+      "description": "",
+      "domains": [
+        "AI/ML"
+      ]
+    },
+    "status": "URLError: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.lxde.org'. (_ssl.c:1028)"
+  },
+  {
+    "item": {
+      "name": "Maemo",
+      "url": "https://maemo.org",
+      "category": "Tool",
+      "sector": "",
+      "country": "",
+      "description": "",
+      "domains": [
+        "AI/ML"
+      ]
+    },
+    "status": "URLError: [WinError 10061] No connection could be made because the target machine actively refused it"
+  },
+  {
+    "item": {
+      "name": "Meridian Systems",
+      "url": "http://www.meridiansystems.com/",
+      "category": "Tool",
+      "sector": "",
+      "country": "",
+      "description": "",
+      "domains": [
+        "AI/ML"
+      ]
+    },
+    "status": "URLError: timed out"
+  },
+  {
+    "item": {
+      "name": "Microsoft Azure",
+      "url": "https://azure.microsoft.com/",
+      "category": "Tool",
+      "sector": "Cloud",
+      "country": "USA",
+      "description": "Cloud platform",
+      "domains": [
+        "AI/ML"
+      ]
+    },
+    "status": "Error: TimeoutError: The read operation timed out"
+  },
+  {
+    "item": {
+      "name": "Microsoft Azure SQL",
+      "url": "https://azure.microsoft.com/en-us/products/azure-sql/",
+      "category": "Tool",
+      "sector": "",
+      "country": "",
+      "description": "",
+      "domains": [
+        "AI/ML"
+      ]
+    },
+    "status": "Error: TimeoutError: The read operation timed out"
+  },
+  {
+    "item": {
+      "name": "Microsoft Team Foundation Server",
+      "url": "https://azure.microsoft.com/en-us/services/devops/server/",
+      "category": "Tool",
+      "sector": "",
+      "country": "",
+      "description": "",
+      "domains": [
+        "AI/ML"
+      ]
+    },
+    "status": "Error: TimeoutError: The read operation timed out"
+  },
+  {
+    "item": {
+      "name": "MySQL",
+      "url": "https://www.mysql.com/",
+      "category": "Tool",
+      "sector": "",
+      "country": "",
+      "description": "",
+      "domains": [
+        "AI/ML"
+      ]
+    },
+    "status": "HTTPError 403 + fallback HTTPError: HTTP Error 403: Forbidden"
+  },
+  {
+    "item": {
+      "name": "MyWorkPLAN",
+      "url": "http://www.workplan.com",
+      "category": "Tool",
+      "sector": "",
+      "country": "",
+      "description": "",
+      "domains": [
+        "AI/ML"
+      ]
+    },
+    "status": "HTTPError 403 + fallback HTTPError: HTTP Error 403: Forbidden"
+  },
+  {
+    "item": {
+      "name": "Namecheap",
+      "url": "http://www.namecheap.com",
+      "category": "Tool",
+      "sector": "",
+      "country": "",
+      "description": "",
+      "domains": [
+        "AI/ML"
+      ]
+    },
+    "status": "HTTPError 403 + fallback HTTPError: HTTP Error 403: Forbidden"
+  },
+  {
+    "item": {
+      "name": "NameSilo",
+      "url": "https://www.namesilo.com/",
+      "category": "Tool",
+      "sector": "",
+      "country": "",
+      "description": "",
+      "domains": [
+        "AI/ML"
+      ]
+    },
+    "status": "HTTPError 403 + fallback HTTPError: HTTP Error 403: Forbidden"
+  },
+  {
+    "item": {
+      "name": "NetSuite",
+      "url": "https://www.netsuite.com",
+      "category": "Tool",
+      "sector": "",
+      "country": "",
+      "description": "",
+      "domains": [
+        "AI/ML"
+      ]
+    },
+    "status": "HTTPError 403 + fallback HTTPError: HTTP Error 403: Forbidden"
+  },
+  {
+    "item": {
+      "name": "Network Solutions",
+      "url": "http://networksolutions.com",
+      "category": "Tool",
+      "sector": "",
+      "country": "",
+      "description": "",
+      "domains": [
+        "AI/ML"
+      ]
+    },
+    "status": "HTTPError 403 + fallback HTTPError: HTTP Error 403: Forbidden"
+  },
+  {
+    "item": {
+      "name": "NeXTSTEP",
+      "url": "http://openstep.bfx.re/",
+      "category": "Tool",
+      "sector": "",
+      "country": "",
+      "description": "",
+      "domains": [
+        "AI/ML"
+      ]
+    },
+    "status": "URLError: [WinError 10054] An existing connection was forcibly closed by the remote host"
+  },
+  {
+    "item": {
+      "name": "Nintendo Wii",
+      "url": "http://wii.com/",
+      "category": "Tool",
+      "sector": "",
+      "country": "",
+      "description": "",
+      "domains": [
+        "AI/ML"
+      ]
+    },
+    "status": "URLError: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'wii.com'. (_ssl.c:1028)"
+  },
+  {
+    "item": {
+      "name": "nopCommerce",
+      "url": "https://www.nopcommerce.com/",
+      "category": "Tool",
+      "sector": "",
+      "country": "",
+      "description": "",
+      "domains": [
+        "AI/ML"
+      ]
+    },
+    "status": "HTTPError 403 + fallback HTTPError: HTTP Error 403: Forbidden"
+  },
+  {
+    "item": {
+      "name": "NPM",
+      "url": "https://www.npmjs.com/",
+      "category": "Tool",
+      "sector": "Developer Tools",
+      "country": "Worldwide",
+      "description": "Node package manager",
+      "domains": [
+        "AI/ML"
+      ]
+    },
+    "status": "HTTPError 403 + fallback HTTPError: HTTP Error 403: Forbidden"
+  },
+  {
+    "item": {
+      "name": "Onepager pro",
+      "url": "https://www.onepager.com/products/onepager.php",
+      "category": "Tool",
+      "sector": "",
+      "country": "",
+      "description": "",
+      "domains": [
+        "AI/ML"
+      ]
+    },
+    "status": "HTTPError 403 + fallback HTTPError: HTTP Error 403: Forbidden"
+  },
+  {
+    "item": {
+      "name": "OpenCart",
+      "url": "http://www.opencart.com/",
+      "category": "Tool",
+      "sector": "",
+      "country": "",
+      "description": "",
+      "domains": [
+        "AI/ML"
+      ]
+    },
+    "status": "HTTPError 403 + fallback HTTPError: HTTP Error 403: Forbidden"
+  },
+  {
+    "item": {
+      "name": "PHPEclipse",
+      "url": "http://www.phpeclipse.com/",
+      "category": "Tool",
+      "sector": "",
+      "country": "",
+      "description": "",
+      "domains": [
+        "AI/ML"
+      ]
+    },
+    "status": "HTTPError 500 + fallback HTTPError: HTTP Error 500: Internal Server Error"
+  },
+  {
+    "item": {
+      "name": "PHProjekt",
+      "url": "http://www.phprojekt.com/",
+      "category": "Tool",
+      "sector": "",
+      "country": "",
+      "description": "",
+      "domains": [
+        "AI/ML"
+      ]
+    },
+    "status": "URLError: [Errno 11001] getaddrinfo failed"
+  },
+  {
+    "item": {
+      "name": "Pivotal Tracker",
+      "url": "http://pivotal.io/labs",
+      "category": "Tool",
+      "sector": "",
+      "country": "",
+      "description": "",
+      "domains": [
+        "AI/ML"
+      ]
+    },
+    "status": "URLError: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1028)"
+  },
+  {
+    "item": {
+      "name": "project management software",
+      "url": "http://projectmanagementhistory.com/The_Harmonogram.html",
+      "category": "Tool",
+      "sector": "",
+      "country": "",
+      "description": "",
+      "domains": [
+        "AI/ML"
+      ]
+    },
+    "status": "URLError: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self-signed certificate (_ssl.c:1028)"
+  },
+  {
+    "item": {
+      "name": "Project Team Builder",
+      "url": "http://www.pmi.org/",
+      "category": "Tool",
+      "sector": "",
+      "country": "",
+      "description": "",
+      "domains": [
+        "AI/ML"
+      ]
+    },
+    "status": "HTTPError 403 + fallback HTTPError: HTTP Error 403: Forbidden"
+  },
+  {
+    "item": {
+      "name": "Project.net",
+      "url": "http://www.project.net",
+      "category": "Tool",
+      "sector": "",
+      "country": "",
+      "description": "",
+      "domains": [
+        "AI/ML"
+      ]
+    },
+    "status": "URLError: [Errno 11001] getaddrinfo failed"
+  },
+  {
+    "item": {
+      "name": "Register.com",
+      "url": "https://www.register.com/",
+      "category": "Tool",
+      "sector": "",
+      "country": "",
+      "description": "",
+      "domains": [
+        "AI/ML"
+      ]
+    },
+    "status": "HTTPError 403 + fallback HTTPError: HTTP Error 403: Forbidden"
+  },
+  {
+    "item": {
+      "name": "registrars",
+      "url": "https://www.icann.org/registrar-reports/accredited-list.html",
+      "category": "Tool",
+      "sector": "",
+      "country": "",
+      "description": "",
+      "domains": [
+        "AI/ML"
+      ]
+    },
+    "status": "Error: TimeoutError: The read operation timed out"
+  },
+  {
+    "item": {
+      "name": "Retail",
+      "url": "http://appleinsider.com/articles/11/07/20/apple_initiates_mass_discontinuation_of_boxed_retail_software",
+      "category": "Tool",
+      "sector": "",
+      "country": "",
+      "description": "",
+      "domains": [
+        "AI/ML"
+      ]
+    },
+    "status": "HTTPError 403 + fallback HTTPError: HTTP Error 403: Forbidden"
+  },
+  {
+    "item": {
+      "name": "SAP Business ByDesign",
+      "url": "https://www.sap.com/products/erp/business-bydesign.html",
+      "category": "Tool",
+      "sector": "",
+      "country": "",
+      "description": "",
+      "domains": [
+        "AI/ML"
+      ]
+    },
+    "status": "HTTPError 403 + fallback HTTPError: HTTP Error 403: Forbidden"
+  },
+  {
+    "item": {
+      "name": "SAP BusinessObjects",
+      "url": "https://www.sap.com/products/businessobjects.html",
+      "category": "Tool",
+      "sector": "Business Intelligence",
+      "country": "Germany",
+      "description": "Business intelligence suite",
+      "domains": [
+        "AI/ML"
+      ]
+    },
+    "status": "HTTPError 403 + fallback HTTPError: HTTP Error 403: Forbidden"
+  },
+  {
+    "item": {
+      "name": "Sellerdeck",
+      "url": "https://www.sellerdeck.co.uk/",
+      "category": "Tool",
+      "sector": "",
+      "country": "",
+      "description": "",
+      "domains": [
+        "AI/ML"
+      ]
+    },
+    "status": "HTTPError 403 + fallback HTTPError: HTTP Error 403: Forbidden"
+  },
+  {
+    "item": {
+      "name": "Sheetster",
+      "url": "http://www.sheetster.com/",
+      "category": "Tool",
+      "sector": "",
+      "country": "",
+      "description": "",
+      "domains": [
+        "AI/ML"
+      ]
+    },
+    "status": "URLError: [Errno 11002] getaddrinfo failed"
+  },
+  {
+    "item": {
+      "name": "source code",
+      "url": "https://d-nb.info/gnd/4488209-9",
+      "category": "Tool",
+      "sector": "",
+      "country": "",
+      "description": "",
+      "domains": [
+        "AI/ML"
+      ]
+    },
+    "status": "URLError: timed out"
+  },
+  {
+    "item": {
+      "name": "spreadsheets",
+      "url": "http://www.kingsoftstore.com/spreadsheets.html",
+      "category": "Tool",
+      "sector": "",
+      "country": "",
+      "description": "",
+      "domains": [
+        "AI/ML"
+      ]
+    },
+    "status": "URLError: [Errno 11001] getaddrinfo failed"
+  },
+  {
+    "item": {
+      "name": "SQL Azure",
+      "url": "https://azure.microsoft.com/en-us/products/azure-sql/",
+      "category": "Tool",
+      "sector": "",
+      "country": "",
+      "description": "",
+      "domains": [
+        "AI/ML"
+      ]
+    },
+    "status": "Error: TimeoutError: The read operation timed out"
+  },
+  {
+    "item": {
+      "name": "Stack Overflow",
+      "url": "https://stackoverflow.com/",
+      "category": "Tool",
+      "sector": "Community",
+      "country": "Worldwide",
+      "description": "Q&A for programmers",
+      "domains": [
+        "AI/ML"
+      ]
+    },
+    "status": "HTTPError 403 + fallback HTTPError: HTTP Error 403: Forbidden"
+  },
+  {
+    "item": {
+      "name": "STOIC",
+      "url": "http://maben.homeip.net/static//S100/cromemco/code/disks/174%20CPM%20Users%20vols%2020-24/index.html",
+      "category": "Tool",
+      "sector": "",
+      "country": "",
+      "description": "",
+      "domains": [
+        "AI/ML"
+      ]
+    },
+    "status": "HTTPError 404 + fallback HTTPError: HTTP Error 404: Not Found"
+  },
+  {
+    "item": {
+      "name": "Symbian",
+      "url": "http://symbian.nokia.com",
+      "category": "Tool",
+      "sector": "",
+      "country": "",
+      "description": "",
+      "domains": [
+        "AI/ML"
+      ]
+    },
+    "status": "URLError: [Errno 11001] getaddrinfo failed"
+  },
+  {
+    "item": {
+      "name": "System Software 6",
+      "url": "https://support.apple.com/kb/TA31885",
+      "category": "Tool",
+      "sector": "",
+      "country": "",
+      "description": "",
+      "domains": [
+        "AI/ML"
+      ]
+    },
+    "status": "HTTPError 404 + fallback HTTPError: HTTP Error 404: Not Found"
+  },
+  {
+    "item": {
+      "name": "T/Maker",
+      "url": "http://www.broderbund.com",
+      "category": "Tool",
+      "sector": "",
+      "country": "",
+      "description": "",
+      "domains": [
+        "AI/ML"
+      ]
+    },
+    "status": "HTTPError 403 + fallback HTTPError: HTTP Error 403: Forbidden"
+  },
+  {
+    "item": {
+      "name": "Tableau",
+      "url": "https://www.tableau.com/",
+      "category": "Tool",
+      "sector": "Business Intelligence",
+      "country": "USA",
+      "description": "Interactive data visualization",
+      "domains": [
+        "AI/ML"
+      ]
+    },
+    "status": "HTTPError 403 + fallback HTTPError: HTTP Error 403: Forbidden"
+  },
+  {
+    "item": {
+      "name": "TeachText",
+      "url": "http://support.apple.com/kb/TA30234?viewlocale=en_US",
+      "category": "Tool",
+      "sector": "",
+      "country": "",
+      "description": "",
+      "domains": [
+        "AI/ML"
+      ]
+    },
+    "status": "HTTPError 404 + fallback HTTPError: HTTP Error 404: Not Found"
+  },
+  {
+    "item": {
+      "name": "Teamcenter",
+      "url": "http://www.ugs.com/",
+      "category": "Tool",
+      "sector": "",
+      "country": "",
+      "description": "",
+      "domains": [
+        "AI/ML"
+      ]
+    },
+    "status": "URLError: [WinError 10061] No connection could be made because the target machine actively refused it"
+  },
+  {
+    "item": {
+      "name": "the original",
+      "url": "http://marketplace.eclipse.org/content/aonixadt-ada-development-toolkit-gnat-and-objectada",
+      "category": "Tool",
+      "sector": "",
+      "country": "",
+      "description": "",
+      "domains": [
+        "AI/ML"
+      ]
+    },
+    "status": "HTTPError 404 + fallback HTTPError: HTTP Error 404: Not Found"
+  },
+  {
+    "item": {
+      "name": "Tom's Planner",
+      "url": "http://tomsplanner.com",
+      "category": "Tool",
+      "sector": "",
+      "country": "",
+      "description": "",
+      "domains": [
+        "AI/ML"
+      ]
+    },
+    "status": "URLError: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1028)"
+  },
+  {
+    "item": {
+      "name": "Tru64 UNIX",
+      "url": "http://h30097.www3.hp.com/",
+      "category": "Tool",
+      "sector": "",
+      "country": "",
+      "description": "",
+      "domains": [
+        "AI/ML"
+      ]
+    },
+    "status": "URLError: [Errno 11001] getaddrinfo failed"
+  },
+  {
+    "item": {
+      "name": "U++ TheIDE",
+      "url": "http://www.ultimatepp.org",
+      "category": "Tool",
+      "sector": "",
+      "country": "",
+      "description": "",
+      "domains": [
+        "AI/ML"
+      ]
+    },
+    "status": "URLError: timed out"
+  },
+  {
+    "item": {
+      "name": "Umbraco",
+      "url": "https://umbraco.com/",
+      "category": "Tool",
+      "sector": "",
+      "country": "",
+      "description": "",
+      "domains": [
+        "AI/ML"
+      ]
+    },
+    "status": "HTTPError 403 + fallback HTTPError: HTTP Error 403: Forbidden"
+  },
+  {
+    "item": {
+      "name": "VisualWorks",
+      "url": "http://www.cincomsmalltalk.com",
+      "category": "Tool",
+      "sector": "",
+      "country": "",
+      "description": "",
+      "domains": [
+        "AI/ML"
+      ]
+    },
+    "status": "URLError: timed out"
+  },
+  {
+    "item": {
+      "name": "Vpmi",
+      "url": "http://www.vcsonline.com",
+      "category": "Tool",
+      "sector": "",
+      "country": "",
+      "description": "",
+      "domains": [
+        "AI/ML"
+      ]
+    },
+    "status": "URLError: timed out"
+  },
+  {
+    "item": {
+      "name": "Web.com",
+      "url": "http://web.com",
+      "category": "Tool",
+      "sector": "",
+      "country": "",
+      "description": "",
+      "domains": [
+        "AI/ML"
+      ]
+    },
+    "status": "HTTPError 403 + fallback HTTPError: HTTP Error 403: Forbidden"
+  },
+  {
+    "item": {
+      "name": "Widget toolkit",
+      "url": "http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.45.9491",
+      "category": "Tool",
+      "sector": "",
+      "country": "",
+      "description": "",
+      "domains": [
+        "AI/ML"
+      ]
+    },
+    "status": "URLError: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1028)"
+  },
+  {
+    "item": {
+      "name": "Wine",
+      "url": "https://www.winehq.org/",
+      "category": "Tool",
+      "sector": "",
+      "country": "",
+      "description": "",
+      "domains": [
+        "AI/ML"
+      ]
+    },
+    "status": "HTTPError 403 + fallback HTTPError: HTTP Error 403: Forbidden"
+  },
+  {
+    "item": {
+      "name": "Workfront",
+      "url": "http://workfront.com",
+      "category": "Tool",
+      "sector": "",
+      "country": "",
+      "description": "",
+      "domains": [
+        "AI/ML"
+      ]
+    },
+    "status": "Error: TimeoutError: The read operation timed out"
+  },
+  {
+    "item": {
+      "name": "Workspace.com",
+      "url": "http://www.workspace.com/index-home.html",
+      "category": "Tool",
+      "sector": "",
+      "country": "",
+      "description": "",
+      "domains": [
+        "AI/ML"
+      ]
+    },
+    "status": "HTTPError 404 + fallback HTTPError: HTTP Error 404: Not Found"
+  },
+  {
+    "item": {
+      "name": "www.xemacs.org/Documentation/index.%20html",
+      "url": "http://www.xemacs.org/Documentation/index.%20html",
+      "category": "Tool",
+      "sector": "",
+      "country": "",
+      "description": "",
+      "domains": [
+        "AI/ML"
+      ]
+    },
+    "status": "HTTPError 404 + fallback HTTPError: HTTP Error 404: Not Found"
+  },
+  {
+    "item": {
+      "name": "XWiki",
+      "url": "http://www.xwiki.org/",
+      "category": "Tool",
+      "sector": "",
+      "country": "",
+      "description": "",
+      "domains": [
+        "AI/ML"
+      ]
+    },
+    "status": "HTTPError 403 + fallback HTTPError: HTTP Error 403: Forbidden"
+  },
+  {
+    "item": {
+      "name": "Zesty.io",
+      "url": "http://www.cmswire.com/d/zestyio-o001524",
+      "category": "Tool",
+      "sector": "",
+      "country": "",
+      "description": "",
+      "domains": [
+        "AI/ML"
+      ]
+    },
+    "status": "HTTPError 403 + fallback HTTPError: HTTP Error 403: Forbidden"
+  }
+]
