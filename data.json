@@ -304,17 +304,6 @@
     ]
   },
   {
-    "name": "All set index articles",
-    "url": "https://en.wikipedia.org/wiki/Category:All_set_index_articles",
-    "category": "Framework",
-    "sector": "",
-    "country": "",
-    "description": "",
-    "domains": [
-      "AI/ML"
-    ]
-  },
-  {
     "name": "Angular",
     "url": "https://angular.io/",
     "category": "Framework",
@@ -326,45 +315,12 @@
     ]
   },
   {
-    "name": "Comparison of JavaScript-based web frameworks",
-    "url": "https://en.wikipedia.org/wiki/Comparison_of_JavaScript-based_web_frameworks",
-    "category": "Framework",
-    "sector": "",
-    "country": "",
-    "description": "",
-    "domains": [
-      "AI/ML"
-    ]
-  },
-  {
-    "name": "Comparison of server-side web frameworks",
-    "url": "https://en.wikipedia.org/wiki/Comparison_of_server-side_web_frameworks",
-    "category": "Framework",
-    "sector": "",
-    "country": "",
-    "description": "",
-    "domains": [
-      "AI/ML"
-    ]
-  },
-  {
     "name": "Django",
     "url": "https://www.djangoproject.com/",
     "category": "Framework",
     "sector": "Web",
     "country": "Worldwide",
     "description": "High-level Python web framework",
-    "domains": [
-      "AI/ML"
-    ]
-  },
-  {
-    "name": "Express",
-    "url": "https://expressjs.com/",
-    "category": "Framework",
-    "sector": "Web",
-    "country": "Worldwide",
-    "description": "Minimal Node.js web framework",
     "domains": [
       "AI/ML"
     ]
@@ -387,17 +343,6 @@
     "sector": "Web",
     "country": "Worldwide",
     "description": "PHP web framework",
-    "domains": [
-      "AI/ML"
-    ]
-  },
-  {
-    "name": "Monitored short pages",
-    "url": "https://en.wikipedia.org/wiki/Category:Monitored_short_pages",
-    "category": "Framework",
-    "sector": "",
-    "country": "",
-    "description": "",
     "domains": [
       "AI/ML"
     ]
@@ -447,28 +392,6 @@
     ]
   },
   {
-    "name": "set index article",
-    "url": "https://en.wikipedia.org/wiki/Wikipedia:Set_index_articles",
-    "category": "Framework",
-    "sector": "",
-    "country": "",
-    "description": "",
-    "domains": [
-      "AI/ML"
-    ]
-  },
-  {
-    "name": "Set index articles",
-    "url": "https://en.wikipedia.org/wiki/Category:Set_index_articles",
-    "category": "Framework",
-    "sector": "",
-    "country": "",
-    "description": "",
-    "domains": [
-      "AI/ML"
-    ]
-  },
-  {
     "name": "Spring",
     "url": "https://spring.io/",
     "category": "Framework",
@@ -502,28 +425,6 @@
     ]
   },
   {
-    "name": "web frameworks",
-    "url": "https://web.archive.org/web/20150723163302/http://docforge.com/wiki/Web_application_framework",
-    "category": "Framework",
-    "sector": "",
-    "country": "",
-    "description": "",
-    "domains": [
-      "AI/ML"
-    ]
-  },
-  {
-    "name": "\"Spreadsheet Interface Plan Falls Short of Perfect\"",
-    "url": "https://books.google.com/books?id=8GssNAAACAAJ",
-    "category": "Programming Language",
-    "sector": "",
-    "country": "",
-    "description": "",
-    "domains": [
-      "AI/ML"
-    ]
-  },
-  {
     "name": ".QL",
     "url": "http://semmle.com/",
     "category": "Programming Language",
@@ -537,17 +438,6 @@
   {
     "name": "A+ (A plus)",
     "url": "http://www.aplusdev.org/",
-    "category": "Programming Language",
-    "sector": "",
-    "country": "",
-    "description": "",
-    "domains": [
-      "AI/ML"
-    ]
-  },
-  {
-    "name": "A-0 System",
-    "url": "https://web.archive.org/web/20130104114928/http://bitsavers.informatik.uni-stuttgart.de/pdf/mit/summer_session_1954/Digital_Computers_Advanced_Coding_Techniques_Summer_1954.pdf",
     "category": "Programming Language",
     "sector": "",
     "country": "",
@@ -788,17 +678,6 @@
     ]
   },
   {
-    "name": "ALGOL W",
-    "url": "https://web.archive.org/web/20100523150449/http://www.jampan.co.nz/~glyn/",
-    "category": "Programming Language",
-    "sector": "",
-    "country": "",
-    "description": "",
-    "domains": [
-      "AI/ML"
-    ]
-  },
-  {
     "name": "Alice ML",
     "url": "http://www.ps.uni-saarland.de/alice",
     "category": "Programming Language",
@@ -845,17 +724,6 @@
   {
     "name": "AMPL",
     "url": "http://www.ampl.com",
-    "category": "Programming Language",
-    "sector": "",
-    "country": "",
-    "description": "",
-    "domains": [
-      "AI/ML"
-    ]
-  },
-  {
-    "name": "Analitik",
-    "url": "http://dspace.nbuv.gov.ua/bitstream/handle/123456789/771/2-morozov.pdf",
     "category": "Programming Language",
     "sector": "",
     "country": "",
@@ -953,41 +821,8 @@
     ]
   },
   {
-    "name": "ARexx",
-    "url": "https://web.archive.org/web/20060114052122/http://members.cox.net/midian/tutorials/arexx1.htm",
-    "category": "Programming Language",
-    "sector": "",
-    "country": "",
-    "description": "",
-    "domains": [
-      "AI/ML"
-    ]
-  },
-  {
-    "name": "Argus",
-    "url": "http://pmg.csail.mit.edu/~dcurtis/argus/argus-manual.pdf",
-    "category": "Programming Language",
-    "sector": "",
-    "country": "",
-    "description": "",
-    "domains": [
-      "AI/ML"
-    ]
-  },
-  {
     "name": "ArkTS",
     "url": "http://developer.huawei.com/consumer/cn/arkts",
-    "category": "Programming Language",
-    "sector": "",
-    "country": "",
-    "description": "",
-    "domains": [
-      "AI/ML"
-    ]
-  },
-  {
-    "name": "Articles with short description",
-    "url": "https://en.wikipedia.org/wiki/Category:Articles_with_short_description",
     "category": "Programming Language",
     "sector": "",
     "country": "",
@@ -1096,17 +931,6 @@
     ]
   },
   {
-    "name": "Babbage",
-    "url": "https://web.archive.org/web/20200223123838/http://www.cucumber.demon.co.uk:80/geccl/",
-    "category": "Programming Language",
-    "sector": "",
-    "country": "",
-    "description": "",
-    "domains": [
-      "AI/ML"
-    ]
-  },
-  {
     "name": "Ballerina",
     "url": "http://ballerina.io",
     "category": "Programming Language",
@@ -1120,17 +944,6 @@
   {
     "name": "Bash",
     "url": "http://www.gnu.org/software/bash/",
-    "category": "Programming Language",
-    "sector": "",
-    "country": "",
-    "description": "",
-    "domains": [
-      "AI/ML"
-    ]
-  },
-  {
-    "name": "BASIC",
-    "url": "https://en.wikibooks.org/wiki/BASIC_Programming",
     "category": "Programming Language",
     "sector": "",
     "country": "",
@@ -1283,17 +1096,6 @@
     ]
   },
   {
-    "name": "C++",
-    "url": "https://www.c-language.org/",
-    "category": "Programming Language",
-    "sector": "Systems",
-    "country": "Worldwide",
-    "description": "Low-level systems programming language",
-    "domains": [
-      "AI/ML"
-    ]
-  },
-  {
     "name": "C/AL",
     "url": "http://www.microsoft.com/en-us/dynamics/erp-nav-overview.aspx",
     "category": "Programming Language",
@@ -1351,17 +1153,6 @@
   {
     "name": "Categories",
     "url": "https://www.mediawiki.org/wiki/Extension:TimedMediaHandler",
-    "category": "Programming Language",
-    "sector": "",
-    "country": "",
-    "description": "",
-    "domains": [
-      "AI/ML"
-    ]
-  },
-  {
-    "name": "Category:Programming languages",
-    "url": "https://en.wikipedia.org/wiki/Category:Programming_languages",
     "category": "Programming Language",
     "sector": "",
     "country": "",
@@ -1646,39 +1437,6 @@
     ]
   },
   {
-    "name": "CMS-2",
-    "url": "https://archive.org/details/bitsavers_univacmilimmersReferenceManualfortheANUYK7andANUYK_23389579",
-    "category": "Programming Language",
-    "sector": "",
-    "country": "",
-    "description": "",
-    "domains": [
-      "AI/ML"
-    ]
-  },
-  {
-    "name": "COBOL",
-    "url": "https://en.wikibooks.org/wiki/COBOL",
-    "category": "Programming Language",
-    "sector": "",
-    "country": "",
-    "description": "",
-    "domains": [
-      "AI/ML"
-    ]
-  },
-  {
-    "name": "CobolScript",
-    "url": "https://web.archive.org/web/20010305215620/http://tampabay.bcentral.com/tampabay/stories/1999/11/29/newscolumn4.html",
-    "category": "Programming Language",
-    "sector": "",
-    "country": "",
-    "description": "",
-    "domains": [
-      "AI/ML"
-    ]
-  },
-  {
     "name": "Cobra",
     "url": "http://cobra-language.com/",
     "category": "Programming Language",
@@ -1723,17 +1481,6 @@
     ]
   },
   {
-    "name": "COMIT",
-    "url": "https://www.bitsavers.org/pdf/mit/ctss/CTSS_ProgrammersGuide_Dec69.pdf",
-    "category": "Programming Language",
-    "sector": "",
-    "country": "",
-    "description": "",
-    "domains": [
-      "AI/ML"
-    ]
-  },
-  {
     "name": "Common Intermediate Language",
     "url": "https://www.ecma-international.org/publications-and-standards/standards/ecma-335/",
     "category": "Programming Language",
@@ -1756,28 +1503,6 @@
     ]
   },
   {
-    "name": "Comparison of programming languages",
-    "url": "https://en.wikipedia.org/wiki/Comparison_of_programming_languages",
-    "category": "Programming Language",
-    "sector": "",
-    "country": "",
-    "description": "",
-    "domains": [
-      "AI/ML"
-    ]
-  },
-  {
-    "name": "COMPASS",
-    "url": "http://www.bitsavers.org/pdf/cdc/3x00/24bit/languages/60184200_COMPASS_Programming_Training_Manual_May67.pdf",
-    "category": "Programming Language",
-    "sector": "",
-    "country": "",
-    "description": "",
-    "domains": [
-      "AI/ML"
-    ]
-  },
-  {
     "name": "Computer Sciences Corporation",
     "url": "http://www.csc.com/",
     "category": "Programming Language",
@@ -1791,17 +1516,6 @@
   {
     "name": "COMTRAN",
     "url": "https://www.ancestry.co.uk/learn/library/article.aspx?article=1159",
-    "category": "Programming Language",
-    "sector": "",
-    "country": "",
-    "description": "",
-    "domains": [
-      "AI/ML"
-    ]
-  },
-  {
-    "name": "Concurrent Pascal",
-    "url": "http://brinch-hansen.net/papers/1975a.pdf",
     "category": "Programming Language",
     "sector": "",
     "country": "",
@@ -1835,17 +1549,6 @@
   {
     "name": "CorVision",
     "url": "https://en.wiktionary.org/wiki/vesting",
-    "category": "Programming Language",
-    "sector": "",
-    "country": "",
-    "description": "",
-    "domains": [
-      "AI/ML"
-    ]
-  },
-  {
-    "name": "COWSEL",
-    "url": "https://web.archive.org/web/20080906044133/http://hopl.murdoch.edu.au/showlanguage2.prx?exp=196",
     "category": "Programming Language",
     "sector": "",
     "country": "",
@@ -2053,28 +1756,6 @@
     ]
   },
   {
-    "name": "dc",
-    "url": "http://packages.debian.org/search?keywords=dc&searchon=names&exact=1&suite=all&section=all",
-    "category": "Programming Language",
-    "sector": "",
-    "country": "",
-    "description": "",
-    "domains": [
-      "AI/ML"
-    ]
-  },
-  {
-    "name": "DCL (DIGITAL Command Language)",
-    "url": "https://vmssoftware.com/docs/VSI_DCL_DICT_VOL_I.pdf",
-    "category": "Programming Language",
-    "sector": "",
-    "country": "",
-    "description": "",
-    "domains": [
-      "AI/ML"
-    ]
-  },
-  {
     "name": "Definitions",
     "url": "https://en.wiktionary.org/wiki/programming_language",
     "category": "Programming Language",
@@ -2099,17 +1780,6 @@
   {
     "name": "Delphi Community",
     "url": "https://www.embarcadero.com/products/delphi",
-    "category": "Programming Language",
-    "sector": "",
-    "country": "",
-    "description": "",
-    "domains": [
-      "AI/ML"
-    ]
-  },
-  {
-    "name": "DIBOL",
-    "url": "https://archive.org/details/dibol_pro_tool_kit_v10",
     "category": "Programming Language",
     "sector": "",
     "country": "",
@@ -2152,17 +1822,6 @@
     ]
   },
   {
-    "name": "Draco",
-    "url": "http://www.retroarchive.org/cpm/cdrom/CPM/DRACO/DRACO123.MSG",
-    "category": "Programming Language",
-    "sector": "",
-    "country": "",
-    "description": "",
-    "domains": [
-      "AI/ML"
-    ]
-  },
-  {
     "name": "DRAKON",
     "url": "https://drakon.su/start",
     "category": "Programming Language",
@@ -2187,17 +1846,6 @@
   {
     "name": "Dylan",
     "url": "https://opendylan.org/",
-    "category": "Programming Language",
-    "sector": "",
-    "country": "",
-    "description": "",
-    "domains": [
-      "AI/ML"
-    ]
-  },
-  {
-    "name": "DYNAMO",
-    "url": "https://web.archive.org/web/20110309023917/http://hopl.murdoch.edu.au/showlanguage.prx?exp=61&language=DYNAMO",
     "category": "Programming Language",
     "sector": "",
     "country": "",
@@ -2319,17 +1967,6 @@
   {
     "name": "Emerald",
     "url": "http://www.emeraldprogramminglanguage.org",
-    "category": "Programming Language",
-    "sector": "",
-    "country": "",
-    "description": "",
-    "domains": [
-      "AI/ML"
-    ]
-  },
-  {
-    "name": "Epigram",
-    "url": "https://web.archive.org/web/20120717070845/http://www.e-pig.org/darcs/Pig09/web/",
     "category": "Programming Language",
     "sector": "",
     "country": "",
@@ -2515,17 +2152,6 @@
     ]
   },
   {
-    "name": "F*",
-    "url": "http://www.fortran.com/F/index.html",
-    "category": "Programming Language",
-    "sector": "",
-    "country": "",
-    "description": "",
-    "domains": [
-      "AI/ML"
-    ]
-  },
-  {
     "name": "Factor",
     "url": "http://factorcode.org/",
     "category": "Programming Language",
@@ -2581,39 +2207,6 @@
     ]
   },
   {
-    "name": "Fjölnir",
-    "url": "http://www.hi.is/~snorri/087133-03/fjolnir.zip",
-    "category": "Programming Language",
-    "sector": "",
-    "country": "",
-    "description": "",
-    "domains": [
-      "AI/ML"
-    ]
-  },
-  {
-    "name": "FL",
-    "url": "http://theory.stanford.edu/~aiken/publications/trs/RJ7100.pdf",
-    "category": "Programming Language",
-    "sector": "",
-    "country": "",
-    "description": "",
-    "domains": [
-      "AI/ML"
-    ]
-  },
-  {
-    "name": "Flavors",
-    "url": "http://www.softwarepreservation.org/projects/LISP/MIT/nnnfla1-20040122.pdf",
-    "category": "Programming Language",
-    "sector": "",
-    "country": "",
-    "description": "",
-    "domains": [
-      "AI/ML"
-    ]
-  },
-  {
     "name": "Flix",
     "url": "https://flix.dev/",
     "category": "Programming Language",
@@ -2638,39 +2231,6 @@
   {
     "name": "FOCAL (Formulating On-Line Calculations in Algebraic Language/FOrmula CALculator)",
     "url": "http://www.pdp8.net/lang/focal/misc.shtml",
-    "category": "Programming Language",
-    "sector": "",
-    "country": "",
-    "description": "",
-    "domains": [
-      "AI/ML"
-    ]
-  },
-  {
-    "name": "FOCUS",
-    "url": "https://web.archive.org/web/20050721023822/http://www.informationbuilders.com/products/focus/overview.html",
-    "category": "Programming Language",
-    "sector": "",
-    "country": "",
-    "description": "",
-    "domains": [
-      "AI/ML"
-    ]
-  },
-  {
-    "name": "FOIL",
-    "url": "https://web.archive.org/web/20100612151949/http://music.calarts.edu/~david/writings/software.html",
-    "category": "Programming Language",
-    "sector": "",
-    "country": "",
-    "description": "",
-    "domains": [
-      "AI/ML"
-    ]
-  },
-  {
-    "name": "FORMAC",
-    "url": "https://web.archive.org/web/20060903201804/http://hopl.murdoch.edu.au/showlanguage.prx?exp=158&language=FORMAC",
     "category": "Programming Language",
     "sector": "",
     "country": "",
@@ -2845,17 +2405,6 @@
     ]
   },
   {
-    "name": "GEORGE",
-    "url": "http://members.iinet.net.au/~dgreen/deuce/GEORGEProgrammingManual.pdf",
-    "category": "Programming Language",
-    "sector": "",
-    "country": "",
-    "description": "",
-    "domains": [
-      "AI/ML"
-    ]
-  },
-  {
     "name": "Gleam",
     "url": "https://gleam.run/",
     "category": "Programming Language",
@@ -2957,28 +2506,6 @@
   {
     "name": "Gosu",
     "url": "https://gosu-lang.github.io/",
-    "category": "Programming Language",
-    "sector": "",
-    "country": "",
-    "description": "",
-    "domains": [
-      "AI/ML"
-    ]
-  },
-  {
-    "name": "GOTRAN (IBM 1620)",
-    "url": "https://web.archive.org/web/20040604102203/http://www.computerhistory.org/projects/ibm_1620/",
-    "category": "Programming Language",
-    "sector": "",
-    "country": "",
-    "description": "",
-    "domains": [
-      "AI/ML"
-    ]
-  },
-  {
-    "name": "GPSS",
-    "url": "https://web.archive.org/web/20191204140955/http://www.wolverinesoftware.com/",
     "category": "Programming Language",
     "sector": "",
     "country": "",
@@ -3208,17 +2735,6 @@
     ]
   },
   {
-    "name": "Hope",
-    "url": "https://web.archive.org/web/20130801064002/http://www.hopemachine.co.uk/",
-    "category": "Programming Language",
-    "sector": "",
-    "country": "",
-    "description": "",
-    "domains": [
-      "AI/ML"
-    ]
-  },
-  {
     "name": "Hopscotch",
     "url": "https://www.gethopscotch.com",
     "category": "Programming Language",
@@ -3241,30 +2757,8 @@
     ]
   },
   {
-    "name": "Hume",
-    "url": "https://web.archive.org/web/20120722084226/http://www-fp.cs.st-andrews.ac.uk/hume/index.shtml",
-    "category": "Programming Language",
-    "sector": "",
-    "country": "",
-    "description": "",
-    "domains": [
-      "AI/ML"
-    ]
-  },
-  {
     "name": "Hy",
     "url": "http://hylang.org",
-    "category": "Programming Language",
-    "sector": "",
-    "country": "",
-    "description": "",
-    "domains": [
-      "AI/ML"
-    ]
-  },
-  {
-    "name": "HyperTalk",
-    "url": "https://web.archive.org/web/20110721232234/http://pantechnicon.runrev.info/pmwiki.php?n=HyperCard.HomePage",
     "category": "Programming Language",
     "sector": "",
     "country": "",
@@ -3287,17 +2781,6 @@
   {
     "name": "IBM Informix-4GL",
     "url": "https://help.hcl-software.com/hclinformix/15.0/1infocenter/4gl.html",
-    "category": "Programming Language",
-    "sector": "",
-    "country": "",
-    "description": "",
-    "domains": [
-      "AI/ML"
-    ]
-  },
-  {
-    "name": "IBM RPG",
-    "url": "https://www.redbooks.ibm.com/redbooks/pdfs/sg245402.pdf",
     "category": "Programming Language",
     "sector": "",
     "country": "",
@@ -3342,17 +2825,6 @@
   {
     "name": "Inform",
     "url": "https://ganelson.github.io/inform-website/",
-    "category": "Programming Language",
-    "sector": "",
-    "country": "",
-    "description": "",
-    "domains": [
-      "AI/ML"
-    ]
-  },
-  {
-    "name": "Instruction List",
-    "url": "https://www.plcsystems.ru/catalog/Mitsubishi/doc/FX1S%20FX1N%20FX2N%28C%29%20FX3U%20Beginner%27s%20Manual.pdf",
     "category": "Programming Language",
     "sector": "",
     "country": "",
@@ -3494,17 +2966,6 @@
     ]
   },
   {
-    "name": "JavaFX Script",
-    "url": "http://javafx.com/",
-    "category": "Programming Language",
-    "sector": "",
-    "country": "",
-    "description": "",
-    "domains": [
-      "AI/ML"
-    ]
-  },
-  {
     "name": "JavaScript",
     "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript",
     "category": "Programming Language",
@@ -3516,30 +2977,8 @@
     ]
   },
   {
-    "name": "JCL",
-    "url": "https://share.confex.com/share/117/webprogram/Handout/Session9939/SHARE%209939%20PDSE%20v1.pdf",
-    "category": "Programming Language",
-    "sector": "",
-    "country": "",
-    "description": "",
-    "domains": [
-      "AI/ML"
-    ]
-  },
-  {
     "name": "JEAN",
     "url": "https://archive.today/20130105104243/http://www3.interscience.wiley.com/journal/113444330/abstract?CRETRY=1&SRETRY=0",
-    "category": "Programming Language",
-    "sector": "",
-    "country": "",
-    "description": "",
-    "domains": [
-      "AI/ML"
-    ]
-  },
-  {
-    "name": "Jess",
-    "url": "https://web.archive.org/web/20111229025816/http://www.jessrules.com/",
     "category": "Programming Language",
     "sector": "",
     "country": "",
@@ -3560,41 +2999,8 @@
     ]
   },
   {
-    "name": "JOSS",
-    "url": "https://www.youtube.com/watch?v=AIWZ_pbLYqQ&t=6s",
-    "category": "Programming Language",
-    "sector": "",
-    "country": "",
-    "description": "",
-    "domains": [
-      "AI/ML"
-    ]
-  },
-  {
     "name": "Joule",
     "url": "http://www.erights.org/history/joule/",
-    "category": "Programming Language",
-    "sector": "",
-    "country": "",
-    "description": "",
-    "domains": [
-      "AI/ML"
-    ]
-  },
-  {
-    "name": "JOVIAL",
-    "url": "http://jovial.com/documents/p203-schwartz-jovial.pdf",
-    "category": "Programming Language",
-    "sector": "",
-    "country": "",
-    "description": "",
-    "domains": [
-      "AI/ML"
-    ]
-  },
-  {
-    "name": "Joy",
-    "url": "https://web.archive.org/web/20120907202347/https://www.latrobe.edu.au/phimvt/joy.html",
     "category": "Programming Language",
     "sector": "",
     "country": "",
@@ -3659,30 +3065,8 @@
     ]
   },
   {
-    "name": "Kaleidoscope",
-    "url": "https://constraints.cs.washington.edu/cip/kaleidoscope-asi.pdf",
-    "category": "Programming Language",
-    "sector": "",
-    "country": "",
-    "description": "",
-    "domains": [
-      "AI/ML"
-    ]
-  },
-  {
     "name": "Karel",
     "url": "https://xkarel.sourceforge.net/",
-    "category": "Programming Language",
-    "sector": "",
-    "country": "",
-    "description": "",
-    "domains": [
-      "AI/ML"
-    ]
-  },
-  {
-    "name": "KEE",
-    "url": "https://web.archive.org/web/20070919092727/http://hopl.murdoch.edu.au/showlanguage.prx?exp=1154",
     "category": "Programming Language",
     "sector": "",
     "country": "",
@@ -3716,17 +3100,6 @@
   {
     "name": "Klerer-May System",
     "url": "https://doi.org/10.1093%2Fcomjnl%2F8.2.103",
-    "category": "Programming Language",
-    "sector": "",
-    "country": "",
-    "description": "",
-    "domains": [
-      "AI/ML"
-    ]
-  },
-  {
-    "name": "Knowledge Interchange Format",
-    "url": "https://web.archive.org/web/20070212094221/http://www.ksl.stanford.edu/knowledge-sharing/kif/",
     "category": "Programming Language",
     "sector": "",
     "country": "",
@@ -3791,28 +3164,6 @@
     ]
   },
   {
-    "name": "KRYPTON",
-    "url": "https://cse.buffalo.edu/~rapaport/Papers/Papers.by.Others/woods.schmolze.92.pdf",
-    "category": "Programming Language",
-    "sector": "",
-    "country": "",
-    "description": "",
-    "domains": [
-      "AI/ML"
-    ]
-  },
-  {
-    "name": "KUKA Robot Language",
-    "url": "http://robot.zaab.org/wp-content/uploads/2014/04/KRL-Reference-Guide-v4_1.pdf",
-    "category": "Programming Language",
-    "sector": "",
-    "country": "",
-    "description": "",
-    "domains": [
-      "AI/ML"
-    ]
-  },
-  {
     "name": "Kv (Kivy)",
     "url": "https://kivy.org/",
     "category": "Programming Language",
@@ -3846,17 +3197,6 @@
     ]
   },
   {
-    "name": "Language H",
-    "url": "https://academic.oup.com/comjnl/article/5/3/158/424294",
-    "category": "Programming Language",
-    "sector": "",
-    "country": "",
-    "description": "",
-    "domains": [
-      "AI/ML"
-    ]
-  },
-  {
     "name": "LANSA",
     "url": "https://lansa.com/",
     "category": "Programming Language",
@@ -3879,30 +3219,8 @@
     ]
   },
   {
-    "name": "LC-3",
-    "url": "https://web.archive.org/web/20150917050850/https://www.haverford.edu/computer-science/resources/hera",
-    "category": "Programming Language",
-    "sector": "",
-    "country": "",
-    "description": "",
-    "domains": [
-      "AI/ML"
-    ]
-  },
-  {
     "name": "Lean",
     "url": "http://lean-lang.org",
-    "category": "Programming Language",
-    "sector": "",
-    "country": "",
-    "description": "",
-    "domains": [
-      "AI/ML"
-    ]
-  },
-  {
-    "name": "Learn how and when to remove these messages",
-    "url": "https://www.google.com/search?as_eq=wikipedia&q=%22Programming+language%22",
     "category": "Programming Language",
     "sector": "",
     "country": "",
@@ -3936,17 +3254,6 @@
   {
     "name": "LilyPond",
     "url": "https://lilypond.org",
-    "category": "Programming Language",
-    "sector": "",
-    "country": "",
-    "description": "",
-    "domains": [
-      "AI/ML"
-    ]
-  },
-  {
-    "name": "Limbo",
-    "url": "https://web.archive.org/web/20250207231314/http://www.vitanuova.com/inferno/limbo.html",
     "category": "Programming Language",
     "sector": "",
     "country": "",
@@ -4013,83 +3320,6 @@
   {
     "name": "Lisp",
     "url": "http://paulgraham.com/bel.html",
-    "category": "Programming Language",
-    "sector": "",
-    "country": "",
-    "description": "",
-    "domains": [
-      "AI/ML"
-    ]
-  },
-  {
-    "name": "List of hello world programs",
-    "url": "https://en.wikibooks.org/wiki/List_of_hello_world_programs",
-    "category": "Programming Language",
-    "sector": "",
-    "country": "",
-    "description": "",
-    "domains": [
-      "AI/ML"
-    ]
-  },
-  {
-    "name": "List of markup languages",
-    "url": "https://en.wikipedia.org/wiki/List_of_markup_languages",
-    "category": "Programming Language",
-    "sector": "",
-    "country": "",
-    "description": "",
-    "domains": [
-      "AI/ML"
-    ]
-  },
-  {
-    "name": "List of open-source programming languages",
-    "url": "https://en.wikipedia.org/wiki/List_of_open-source_programming_languages",
-    "category": "Programming Language",
-    "sector": "",
-    "country": "",
-    "description": "",
-    "domains": [
-      "AI/ML"
-    ]
-  },
-  {
-    "name": "List of programming languages for artificial intelligence",
-    "url": "https://en.wikipedia.org/wiki/List_of_programming_languages_for_artificial_intelligence",
-    "category": "Programming Language",
-    "sector": "",
-    "country": "",
-    "description": "",
-    "domains": [
-      "AI/ML"
-    ]
-  },
-  {
-    "name": "List of stylesheet languages",
-    "url": "https://en.wikipedia.org/wiki/List_of_stylesheet_languages",
-    "category": "Programming Language",
-    "sector": "",
-    "country": "",
-    "description": "",
-    "domains": [
-      "AI/ML"
-    ]
-  },
-  {
-    "name": "Lists of programming languages",
-    "url": "https://en.wikipedia.org/wiki/Category:Lists_of_programming_languages",
-    "category": "Programming Language",
-    "sector": "",
-    "country": "",
-    "description": "",
-    "domains": [
-      "AI/ML"
-    ]
-  },
-  {
-    "name": "Little b",
-    "url": "https://web.archive.org/web/20051102195348/http://www.littleb.org/",
     "category": "Programming Language",
     "sector": "",
     "country": "",
@@ -4297,17 +3527,6 @@
     ]
   },
   {
-    "name": "Macsyma",
-    "url": "https://web.archive.org/web/20060404231043/http://www.ma.utexas.edu/pipermail/maxima/2003/005861.html",
-    "category": "Programming Language",
-    "sector": "",
-    "country": "",
-    "description": "",
-    "domains": [
-      "AI/ML"
-    ]
-  },
-  {
     "name": "Magik",
     "url": "http://www.ge-energy.com/products_and_services/products/geospatial_systems_and_mobile_workforce/index.jsp",
     "category": "Programming Language",
@@ -4352,17 +3571,6 @@
     ]
   },
   {
-    "name": "MARK-IV",
-    "url": "https://archive.org/details/TNM_Mark_IV_File_Management_System_for_IBM_360_-__20180209_0291/page/n3/mode/2up",
-    "category": "Programming Language",
-    "sector": "",
-    "country": "",
-    "description": "",
-    "domains": [
-      "AI/ML"
-    ]
-  },
-  {
     "name": "markup languages",
     "url": "https://www.britannica.com/technology/markup-language",
     "category": "Programming Language",
@@ -4376,17 +3584,6 @@
   {
     "name": "MASM Microsoft Assembly x86",
     "url": "https://docs.microsoft.com/en-us/cpp/assembler/masm/microsoft-macro-assembler-reference",
-    "category": "Programming Language",
-    "sector": "",
-    "country": "",
-    "description": "",
-    "domains": [
-      "AI/ML"
-    ]
-  },
-  {
-    "name": "MATH-MATIC",
-    "url": "https://web.archive.org/web/20141226040230/http://archive.computerhistory.org/resources/text/Knuth_Don_X4100/PDF_index/k-7-pdf/k-7-u2310-UNIVAC-MATH-MATIC-ARITH-MATIC.pdf",
     "category": "Programming Language",
     "sector": "",
     "country": "",
@@ -4462,41 +3659,8 @@
     ]
   },
   {
-    "name": "MDL",
-    "url": "https://archive.org/details/GETLAMP-Supnik",
-    "category": "Programming Language",
-    "sector": "",
-    "country": "",
-    "description": "",
-    "domains": [
-      "AI/ML"
-    ]
-  },
-  {
-    "name": "Media",
-    "url": "https://commons.wikimedia.org/wiki/Category:Programming_languages",
-    "category": "Programming Language",
-    "sector": "",
-    "country": "",
-    "description": "",
-    "domains": [
-      "AI/ML"
-    ]
-  },
-  {
     "name": "Mercury",
     "url": "http://www.mercurylang.org",
-    "category": "Programming Language",
-    "sector": "",
-    "country": "",
-    "description": "",
-    "domains": [
-      "AI/ML"
-    ]
-  },
-  {
-    "name": "Mesa",
-    "url": "http://bitsavers.informatik.uni-stuttgart.de/pdf/xerox/parc/techReports/CSL-79-3_Mesa_Language_Manual_Version_5.0.pdf",
     "category": "Programming Language",
     "sector": "",
     "country": "",
@@ -4530,17 +3694,6 @@
   {
     "name": "Microsoft Power Fx",
     "url": "https://docs.microsoft.com/en-us/power-platform/power-fx/overview",
-    "category": "Programming Language",
-    "sector": "",
-    "country": "",
-    "description": "",
-    "domains": [
-      "AI/ML"
-    ]
-  },
-  {
-    "name": "MIIS",
-    "url": "https://www.zdnet.com/article/preparing-for-a-presentation-at-the-oclc-conference-center/",
     "category": "Programming Language",
     "sector": "",
     "country": "",
@@ -4640,17 +3793,6 @@
   {
     "name": "Modula-3",
     "url": "http://www.modula3.org",
-    "category": "Programming Language",
-    "sector": "",
-    "country": "",
-    "description": "",
-    "domains": [
-      "AI/ML"
-    ]
-  },
-  {
-    "name": "Mohol",
-    "url": "https://web.archive.org/web/20120921035455/http://home.roadrunner.com/~pflass/PLI/plisprg.html",
     "category": "Programming Language",
     "sector": "",
     "country": "",
@@ -4913,28 +4055,6 @@
     ]
   },
   {
-    "name": "Non-English-based",
-    "url": "https://web.archive.org/web/20051201183617/http://hopl.murdoch.edu.au/showlanguage.prx?exp=2178",
-    "category": "Programming Language",
-    "sector": "",
-    "country": "",
-    "description": "",
-    "domains": [
-      "AI/ML"
-    ]
-  },
-  {
-    "name": "Not eXactly C",
-    "url": "https://web.archive.org/web/20161021002216/http://lego.edutech.com/",
-    "category": "Programming Language",
-    "sector": "",
-    "country": "",
-    "description": "",
-    "domains": [
-      "AI/ML"
-    ]
-  },
-  {
     "name": "Not Quite C",
     "url": "https://www.lego.com/themes/mindstorms/about",
     "category": "Programming Language",
@@ -4990,30 +4110,8 @@
     ]
   },
   {
-    "name": "Oak",
-    "url": "https://web.archive.org/web/20120524112803/http://www.javaspecialists.eu/archive/files/OakSpec0.2.ps",
-    "category": "Programming Language",
-    "sector": "",
-    "country": "",
-    "description": "",
-    "domains": [
-      "AI/ML"
-    ]
-  },
-  {
     "name": "Oberon",
     "url": "https://projectoberon.net",
-    "category": "Programming Language",
-    "sector": "",
-    "country": "",
-    "description": "",
-    "domains": [
-      "AI/ML"
-    ]
-  },
-  {
-    "name": "OBJ2",
-    "url": "https://web.archive.org/web/20051028140059/http://vl.fmnet.info/obj/",
     "category": "Programming Language",
     "sector": "",
     "country": "",
@@ -5166,17 +4264,6 @@
     ]
   },
   {
-    "name": "Opal",
-    "url": "https://web.archive.org/web/20170823091221/http://projects.uebb.tu-berlin.de/opal/trac",
-    "category": "Programming Language",
-    "sector": "",
-    "country": "",
-    "description": "",
-    "domains": [
-      "AI/ML"
-    ]
-  },
-  {
     "name": "Open Programming Language",
     "url": "http://opl-dev.sourceforge.net",
     "category": "Programming Language",
@@ -5276,17 +4363,6 @@
     ]
   },
   {
-    "name": "original research",
-    "url": "https://www.youtube.com/watch?v=AIWZ_pbLYqQ&t=6s",
-    "category": "Programming Language",
-    "sector": "",
-    "country": "",
-    "description": "",
-    "domains": [
-      "AI/ML"
-    ]
-  },
-  {
     "name": "Oxygene",
     "url": "https://elementscompiler.com/elements/oxygene/",
     "category": "Programming Language",
@@ -5342,17 +4418,6 @@
     ]
   },
   {
-    "name": "Pascal",
-    "url": "https://en.wikibooks.org/wiki/Pascal_Programming",
-    "category": "Programming Language",
-    "sector": "",
-    "country": "",
-    "description": "",
-    "domains": [
-      "AI/ML"
-    ]
-  },
-  {
     "name": "Pascal Script",
     "url": "http://wiki.freepascal.org/Pascal_Script/License",
     "category": "Programming Language",
@@ -5375,30 +4440,8 @@
     ]
   },
   {
-    "name": "PCF",
-    "url": "http://www.cs.bham.ac.uk/~mhe/papers/RNC3.pdf",
-    "category": "Programming Language",
-    "sector": "",
-    "country": "",
-    "description": "",
-    "domains": [
-      "AI/ML"
-    ]
-  },
-  {
     "name": "PDL",
     "url": "https://pdl.perl.org/",
-    "category": "Programming Language",
-    "sector": "",
-    "country": "",
-    "description": "",
-    "domains": [
-      "AI/ML"
-    ]
-  },
-  {
-    "name": "PEARL",
-    "url": "http://www.real-time.de/misc/PEARL90-LanguageReport-V2.2-GI-1998-eng.pdf",
     "category": "Programming Language",
     "sector": "",
     "country": "",
@@ -5584,17 +4627,6 @@
     ]
   },
   {
-    "name": "PL/S",
-    "url": "http://www.bitsavers.org/pdf/ibm/360/pls/GC28-6794-0_PLSIIguideMay74.pdf",
-    "category": "Programming Language",
-    "sector": "",
-    "country": "",
-    "description": "",
-    "domains": [
-      "AI/ML"
-    ]
-  },
-  {
     "name": "PL/SQL",
     "url": "http://www.orafaq.com/wiki/PL/SQL_FAQ",
     "category": "Programming Language",
@@ -5608,28 +4640,6 @@
   {
     "name": "PL360",
     "url": "https://doi.org/10.1145%2F321439.321442",
-    "category": "Programming Language",
-    "sector": "",
-    "country": "",
-    "description": "",
-    "domains": [
-      "AI/ML"
-    ]
-  },
-  {
-    "name": "Plankalkül",
-    "url": "https://web.archive.org/web/20140821215119/http://www.zib.de/zuse/Inhalt/Programme/Plankalkuel/",
-    "category": "Programming Language",
-    "sector": "",
-    "country": "",
-    "description": "",
-    "domains": [
-      "AI/ML"
-    ]
-  },
-  {
-    "name": "Planner",
-    "url": "https://web.archive.org/web/20030727192519/http://www.lim.univ-mrs.fr/~colmer/ArchivesPublications/HistoireProlog/19november92.pdf",
     "category": "Programming Language",
     "sector": "",
     "country": "",
@@ -5716,28 +4726,6 @@
     ]
   },
   {
-    "name": "Portal",
-    "url": "https://en.wikipedia.org/wiki/Wikipedia:Contents/Portals",
-    "category": "Programming Language",
-    "sector": "",
-    "country": "",
-    "description": "",
-    "domains": [
-      "AI/ML"
-    ]
-  },
-  {
-    "name": "PostScript",
-    "url": "https://computerhistory.org/blog/postscript-a-digital-printing-press/",
-    "category": "Programming Language",
-    "sector": "",
-    "country": "",
-    "description": "",
-    "domains": [
-      "AI/ML"
-    ]
-  },
-  {
     "name": "POV-Ray SDL",
     "url": "https://www.povray.org/",
     "category": "Programming Language",
@@ -5815,17 +4803,6 @@
     ]
   },
   {
-    "name": "Programming languagelists",
-    "url": "https://en.wikipedia.org/wiki/Lists_of_programming_languages",
-    "category": "Programming Language",
-    "sector": "",
-    "country": "",
-    "description": "",
-    "domains": [
-      "AI/ML"
-    ]
-  },
-  {
     "name": "Prograph",
     "url": "http://www.mactech.com/articles/mactech/Vol.10/10.11/PrographCPXTutorial/",
     "category": "Programming Language",
@@ -5892,17 +4869,6 @@
     ]
   },
   {
-    "name": "PROTEL",
-    "url": "https://archive.org/details/globalitoutsourc00saha/page/7",
-    "category": "Programming Language",
-    "sector": "",
-    "country": "",
-    "description": "",
-    "domains": [
-      "AI/ML"
-    ]
-  },
-  {
     "name": "Pure",
     "url": "http://agraef.github.io/pure-lang",
     "category": "Programming Language",
@@ -5942,39 +4908,6 @@
     "sector": "General",
     "country": "Worldwide",
     "description": "General-purpose language for many domains",
-    "domains": [
-      "AI/ML"
-    ]
-  },
-  {
-    "name": "P′′",
-    "url": "https://p-org.github.io/P/",
-    "category": "Programming Language",
-    "sector": "",
-    "country": "",
-    "description": "",
-    "domains": [
-      "AI/ML"
-    ]
-  },
-  {
-    "name": "Q (programming language from Kx Systems)",
-    "url": "http://code.kx.com",
-    "category": "Programming Language",
-    "sector": "",
-    "country": "",
-    "description": "",
-    "domains": [
-      "AI/ML"
-    ]
-  },
-  {
-    "name": "Q#",
-    "url": "https://learn.microsoft.com/en-us/azure/quantum/",
-    "category": "Programming Language",
-    "sector": "",
-    "country": "",
-    "description": "",
     "domains": [
       "AI/ML"
     ]
@@ -6026,17 +4959,6 @@
   {
     "name": "Raku",
     "url": "https://raku.org/",
-    "category": "Programming Language",
-    "sector": "",
-    "country": "",
-    "description": "",
-    "domains": [
-      "AI/ML"
-    ]
-  },
-  {
-    "name": "RAPID",
-    "url": "http://developercenter.robotstudio.com/Index.aspx?DevCenter=ManualsOrRobotStudio&OpenDocument&Url=../RapidIFDTechRefManual/Custom/Functions.html",
     "category": "Programming Language",
     "sector": "",
     "country": "",
@@ -6134,17 +5056,6 @@
     ]
   },
   {
-    "name": "REXX",
-    "url": "https://en.wikibooks.org/wiki/Rexx_Programming",
-    "category": "Programming Language",
-    "sector": "",
-    "country": "",
-    "description": "",
-    "domains": [
-      "AI/ML"
-    ]
-  },
-  {
     "name": "Rocq",
     "url": "https://rocq-prover.org",
     "category": "Programming Language",
@@ -6158,17 +5069,6 @@
   {
     "name": "RPL",
     "url": "http://www.hpcalc.org/hp49/docs/programming/",
-    "category": "Programming Language",
-    "sector": "",
-    "country": "",
-    "description": "",
-    "domains": [
-      "AI/ML"
-    ]
-  },
-  {
-    "name": "RSL",
-    "url": "https://web.archive.org/web/20220415052120/http://www.garagegames.com/",
     "category": "Programming Language",
     "sector": "",
     "country": "",
@@ -6255,52 +5155,8 @@
     ]
   },
   {
-    "name": "SabreTalk",
-    "url": "http://teampli.net/Sabretalk_Reference_Guide.pdf",
-    "category": "Programming Language",
-    "sector": "",
-    "country": "",
-    "description": "",
-    "domains": [
-      "AI/ML"
-    ]
-  },
-  {
-    "name": "SAIL",
-    "url": "https://web.archive.org/web/20160310151051/https://www.xidak.com/mainsail/documentation_set_1630_html/docset-MLANM.html",
-    "category": "Programming Language",
-    "sector": "",
-    "country": "",
-    "description": "",
-    "domains": [
-      "AI/ML"
-    ]
-  },
-  {
-    "name": "SAKO",
-    "url": "https://web.archive.org/web/20180603153655/http://www.dtic.mil/docs/citations/AD0694639",
-    "category": "Programming Language",
-    "sector": "",
-    "country": "",
-    "description": "",
-    "domains": [
-      "AI/ML"
-    ]
-  },
-  {
     "name": "SAS",
     "url": "https://www.sas.com",
-    "category": "Programming Language",
-    "sector": "",
-    "country": "",
-    "description": "",
-    "domains": [
-      "AI/ML"
-    ]
-  },
-  {
-    "name": "SASL",
-    "url": "https://web.archive.org/web/20150402133901/http://www.eis.mdx.ac.uk/staffpages/dat/saslman.pdf",
     "category": "Programming Language",
     "sector": "",
     "country": "",
@@ -6497,17 +5353,6 @@
     ]
   },
   {
-    "name": "Short description is different from Wikidata",
-    "url": "https://en.wikipedia.org/wiki/Category:Short_description_is_different_from_Wikidata",
-    "category": "Programming Language",
-    "sector": "",
-    "country": "",
-    "description": "",
-    "domains": [
-      "AI/ML"
-    ]
-  },
-  {
     "name": "SIGNAL",
     "url": "https://www.irisa.fr/espresso/",
     "category": "Programming Language",
@@ -6532,17 +5377,6 @@
   {
     "name": "SIMPOL",
     "url": "http://www.superbase.com",
-    "category": "Programming Language",
-    "sector": "",
-    "country": "",
-    "description": "",
-    "domains": [
-      "AI/ML"
-    ]
-  },
-  {
-    "name": "SIMSCRIPT",
-    "url": "https://web.archive.org/web/20210419040800/http://www.simscript.net/products/products.html",
     "category": "Programming Language",
     "sector": "",
     "country": "",
@@ -6607,30 +5441,8 @@
     ]
   },
   {
-    "name": "SLIP",
-    "url": "https://web.archive.org/web/20220117222654/http://www.heuse.com/s.htm",
-    "category": "Programming Language",
-    "sector": "",
-    "country": "",
-    "description": "",
-    "domains": [
-      "AI/ML"
-    ]
-  },
-  {
     "name": "SMALL",
     "url": "https://www.caida.org/home/staff/nevil/",
-    "category": "Programming Language",
-    "sector": "",
-    "country": "",
-    "description": "",
-    "domains": [
-      "AI/ML"
-    ]
-  },
-  {
-    "name": "Smalltalk",
-    "url": "https://en.wikibooks.org/wiki/Smalltalk",
     "category": "Programming Language",
     "sector": "",
     "country": "",
@@ -6728,30 +5540,8 @@
     ]
   },
   {
-    "name": "Speakeasy",
-    "url": "https://web.archive.org/web/20180804160022/http://www.speakeasy.com",
-    "category": "Programming Language",
-    "sector": "",
-    "country": "",
-    "description": "",
-    "domains": [
-      "AI/ML"
-    ]
-  },
-  {
     "name": "Speedcode",
     "url": "https://doi.org/10.1147%2Frd.255.0535",
-    "category": "Programming Language",
-    "sector": "",
-    "country": "",
-    "description": "",
-    "domains": [
-      "AI/ML"
-    ]
-  },
-  {
-    "name": "SPIN",
-    "url": "http://www.parallax.com/microcontrollers/propeller",
     "category": "Programming Language",
     "sector": "",
     "country": "",
@@ -6774,17 +5564,6 @@
   {
     "name": "SPL",
     "url": "https://www.hp.com/hpinfo/abouthp/histnfacts/museum/earlyinstruments/0001/0001history.html",
-    "category": "Programming Language",
-    "sector": "",
-    "country": "",
-    "description": "",
-    "domains": [
-      "AI/ML"
-    ]
-  },
-  {
-    "name": "SPS",
-    "url": "https://web.archive.org/web/20100711134752/http://bitsavers.org/pdf/ibm/140x/C24-1480-0_1401symbPgmSys.pdf",
     "category": "Programming Language",
     "sector": "",
     "country": "",
@@ -6981,17 +5760,6 @@
     ]
   },
   {
-    "name": "TACL",
-    "url": "https://web.archive.org/web/20080220010732/http://docs.hp.com/en/NSGSeries.html",
-    "category": "Programming Language",
-    "sector": "",
-    "country": "",
-    "description": "",
-    "domains": [
-      "AI/ML"
-    ]
-  },
-  {
     "name": "TADS (Text Adventure Development System)",
     "url": "http://www.tads.org",
     "category": "Programming Language",
@@ -7036,28 +5804,6 @@
     ]
   },
   {
-    "name": "TECO (Text Editor and Corrector)",
-    "url": "https://en.wikipedia.org/wiki/Text_Editor_and_Corrector",
-    "category": "Programming Language",
-    "sector": "",
-    "country": "",
-    "description": "",
-    "domains": [
-      "AI/ML"
-    ]
-  },
-  {
-    "name": "TELCOMP",
-    "url": "http://walden-family.com/bbn/bbn-print2.pdf",
-    "category": "Programming Language",
-    "sector": "",
-    "country": "",
-    "description": "",
-    "domains": [
-      "AI/ML"
-    ]
-  },
-  {
     "name": "TempleOS",
     "url": "http://templeos.org/",
     "category": "Programming Language",
@@ -7080,30 +5826,8 @@
     ]
   },
   {
-    "name": "Textbooks",
-    "url": "https://en.wikibooks.org/wiki/Computer_Programming/Language_concepts",
-    "category": "Programming Language",
-    "sector": "",
-    "country": "",
-    "description": "",
-    "domains": [
-      "AI/ML"
-    ]
-  },
-  {
     "name": "TIE",
     "url": "http://cadence.com",
-    "category": "Programming Language",
-    "sector": "",
-    "country": "",
-    "description": "",
-    "domains": [
-      "AI/ML"
-    ]
-  },
-  {
-    "name": "TMG (TransMoGrifier)",
-    "url": "https://web.archive.org/web/20070921161049/http://hopl.murdoch.edu.au/showlanguage.prx?exp=242",
     "category": "Programming Language",
     "sector": "",
     "country": "",
@@ -7126,17 +5850,6 @@
   {
     "name": "TPU (Text Processing Utility)",
     "url": "https://support.hpe.com/hpsc/doc/public/display?docId=emr_na-c04623115",
-    "category": "Programming Language",
-    "sector": "",
-    "country": "",
-    "description": "",
-    "domains": [
-      "AI/ML"
-    ]
-  },
-  {
-    "name": "Trac",
-    "url": "https://web.archive.org/web/20050324000031/http://tracfoundation.org/",
     "category": "Programming Language",
     "sector": "",
     "country": "",
@@ -7322,17 +6035,6 @@
     ]
   },
   {
-    "name": "Visual Basic",
-    "url": "https://en.wikipedia.org/wiki/Visual_Basic",
-    "category": "Programming Language",
-    "sector": "",
-    "country": "",
-    "description": "",
-    "domains": [
-      "AI/ML"
-    ]
-  },
-  {
     "name": "Visual DataFlex",
     "url": "http://www.DataAccess.com/DataFlex",
     "category": "Programming Language",
@@ -7478,17 +6180,6 @@
   {
     "name": "XC",
     "url": "http://www.xmos.com/",
-    "category": "Programming Language",
-    "sector": "",
-    "country": "",
-    "description": "",
-    "domains": [
-      "AI/ML"
-    ]
-  },
-  {
-    "name": "XL",
-    "url": "https://www.usenix.org/legacy/events/wiess2000/full_papers/dinechin/dinechin.pdf",
     "category": "Programming Language",
     "sector": "",
     "country": "",
@@ -7652,28 +6343,6 @@
     ]
   },
   {
-    "name": "Z++",
-    "url": "https://en.wikipedia.org/wiki/Z%2B%2B",
-    "category": "Programming Language",
-    "sector": "",
-    "country": "",
-    "description": "",
-    "domains": [
-      "AI/ML"
-    ]
-  },
-  {
-    "name": "Zebra, ZPL, ZPL2",
-    "url": "https://www.zebra.com/content/dam/zebra/manuals/printers/common/programming/zpl-zbi2-pm-en.pdf",
-    "category": "Programming Language",
-    "sector": "",
-    "country": "",
-    "description": "",
-    "domains": [
-      "AI/ML"
-    ]
-  },
-  {
     "name": "Zig",
     "url": "https://ziglang.org/",
     "category": "Programming Language",
@@ -7698,17 +6367,6 @@
   {
     "name": "ZOPL",
     "url": "http://geac.com",
-    "category": "Programming Language",
-    "sector": "",
-    "country": "",
-    "description": "",
-    "domains": [
-      "AI/ML"
-    ]
-  },
-  {
-    "name": "ZPL",
-    "url": "https://web.archive.org/web/20060211013421/http://www.cs.washington.edu/research/zpl/home/",
     "category": "Programming Language",
     "sector": "",
     "country": "",
@@ -7823,17 +6481,6 @@
     "sector": "Data",
     "country": "USA",
     "description": "Cloud data platform",
-    "domains": [
-      "AI/ML"
-    ]
-  },
-  {
-    "name": "SpaceX",
-    "url": "https://www.spacex.com/",
-    "category": "Startup",
-    "sector": "Aerospace",
-    "country": "USA",
-    "description": "Aerospace manufacturer and space transport",
     "domains": [
       "AI/ML"
     ]
@@ -7993,39 +6640,6 @@
     ]
   },
   {
-    "name": "\"Changelog - OctoberCMS\"",
-    "url": "https://octobercms.com/changelog",
-    "category": "Tool",
-    "sector": "",
-    "country": "",
-    "description": "",
-    "domains": [
-      "AI/ML"
-    ]
-  },
-  {
-    "name": "\"Changelogs\"",
-    "url": "https://dev.dotcms.com/docs/changelogs",
-    "category": "Tool",
-    "sector": "",
-    "country": "",
-    "description": "",
-    "domains": [
-      "AI/ML"
-    ]
-  },
-  {
-    "name": "\"ChiselApp ChangeOver Complete - CHISEL FOSSIL SCM HOSTING\"",
-    "url": "https://www.google.co.uk/search?q=%5Bfossil-users%5D+ChiselApp+ChangeOver+Complete",
-    "category": "Tool",
-    "sector": "",
-    "country": "",
-    "description": "",
-    "domains": [
-      "AI/ML"
-    ]
-  },
-  {
     "name": "\"Collaborative online office solutions\"",
     "url": "https://www.admin-magazine.com/Articles/Collaborative-online-office-solutions",
     "category": "Tool",
@@ -8158,39 +6772,6 @@
     ]
   },
   {
-    "name": "\"Document Management\"",
-    "url": "http://www.projectlibre.org/tags/document-management",
-    "category": "Tool",
-    "sector": "",
-    "country": "",
-    "description": "",
-    "domains": [
-      "AI/ML"
-    ]
-  },
-  {
-    "name": "\"Download CMSMS™ 2.2.20\"",
-    "url": "https://www.cmsmadesimple.org/downloads/cmsms",
-    "category": "Tool",
-    "sector": "",
-    "country": "",
-    "description": "",
-    "domains": [
-      "AI/ML"
-    ]
-  },
-  {
-    "name": "\"Download ProcessWire core\"",
-    "url": "https://processwire.com/download/core/",
-    "category": "Tool",
-    "sector": "",
-    "country": "",
-    "description": "",
-    "domains": [
-      "AI/ML"
-    ]
-  },
-  {
     "name": "\"Download TWiki\"",
     "url": "https://twiki.org/cgi-bin/view/Codev/DownloadTWiki",
     "category": "Tool",
@@ -8215,28 +6796,6 @@
   {
     "name": "\"Download Visual Studio Code - Mac, Linux, Windows\"",
     "url": "https://code.visualstudio.com/Download",
-    "category": "Tool",
-    "sector": "",
-    "country": "",
-    "description": "",
-    "domains": [
-      "AI/ML"
-    ]
-  },
-  {
-    "name": "\"Download XWiki\"",
-    "url": "https://www.xwiki.org/xwiki/bin/view/Download/",
-    "category": "Tool",
-    "sector": "",
-    "country": "",
-    "description": "",
-    "domains": [
-      "AI/ML"
-    ]
-  },
-  {
-    "name": "\"Downloads\"",
-    "url": "http://b2evolution.net/downloads/",
     "category": "Tool",
     "sector": "",
     "country": "",
@@ -8281,17 +6840,6 @@
   {
     "name": "\"Eclipse LinuxTools integration of OProfile\"",
     "url": "http://wiki.eclipse.org/Linux_Tools_Project/OProfile/User_Guide",
-    "category": "Tool",
-    "sector": "",
-    "country": "",
-    "description": "",
-    "domains": [
-      "AI/ML"
-    ]
-  },
-  {
-    "name": "\"Eclipse Project Downloads\"",
-    "url": "http://download.eclipse.org/eclipse/downloads/",
     "category": "Tool",
     "sector": "",
     "country": "",
@@ -8378,30 +6926,8 @@
     ]
   },
   {
-    "name": "\"Features\"",
-    "url": "https://www.inloox.com/products/features/",
-    "category": "Tool",
-    "sector": "",
-    "country": "",
-    "description": "",
-    "domains": [
-      "AI/ML"
-    ]
-  },
-  {
     "name": "\"Forest: Structural Code Editing with Multiple Cursors\"",
     "url": "https://doi.org/10.1145/3563835.3567663",
-    "category": "Tool",
-    "sector": "",
-    "country": "",
-    "description": "",
-    "domains": [
-      "AI/ML"
-    ]
-  },
-  {
-    "name": "\"geany.org\"",
-    "url": "https://www.geany.org/documentation/releasenotes/",
     "category": "Tool",
     "sector": "",
     "country": "",
@@ -8444,17 +6970,6 @@
     ]
   },
   {
-    "name": "\"GitLab/tikiwiki/tiki tags/27.1\"",
-    "url": "https://gitlab.com/tikiwiki/tiki/-/commits/tags/27.1?ref_type=tags",
-    "category": "Tool",
-    "sector": "",
-    "country": "",
-    "description": "",
-    "domains": [
-      "AI/ML"
-    ]
-  },
-  {
     "name": "\"Guide for New Developers - Fedora Repository - LYRASIS Wiki\"",
     "url": "https://wiki.lyrasis.org/display/FF/Guide+for+New+Developers#GuideforNewDevelopers-RunningintegrationtestsagainstdifferentDBs",
     "category": "Tool",
@@ -8488,17 +7003,6 @@
     ]
   },
   {
-    "name": "\"Hosting Requirements for WordPress\"",
-    "url": "https://wordpress.org/about/requirements/",
-    "category": "Tool",
-    "sector": "",
-    "country": "",
-    "description": "",
-    "domains": [
-      "AI/ML"
-    ]
-  },
-  {
     "name": "\"How to Create a Multi-Project Schedule\"",
     "url": "https://www.conceptdraw.com/helpdesk/how-to-create-multi-project-schedule-win",
     "category": "Tool",
@@ -8523,28 +7027,6 @@
   {
     "name": "\"How to Shift Dates in project\"",
     "url": "https://www.conceptdraw.com/helpdesk/how-to-easy-shift-dates-in-project",
-    "category": "Tool",
-    "sector": "",
-    "country": "",
-    "description": "",
-    "domains": [
-      "AI/ML"
-    ]
-  },
-  {
-    "name": "\"Ibexa DXP v4.6 LTS\"",
-    "url": "https://doc.ibexa.co/en/latest/release_notes/ibexa_dxp_v4.6/",
-    "category": "Tool",
-    "sector": "",
-    "country": "",
-    "description": "",
-    "domains": [
-      "AI/ML"
-    ]
-  },
-  {
-    "name": "\"ImpressPages 5.0.3\"",
-    "url": "https://www.impresspages.org/impresspages-5-0-3",
     "category": "Tool",
     "sector": "",
     "country": "",
@@ -8708,17 +7190,6 @@
     ]
   },
   {
-    "name": "\"novius-os/CHANGELOG.md at elche · novius-os/novius-os · GitHub\"",
-    "url": "https://github.com/novius-os/novius-os/blob/elche/CHANGELOG.md",
-    "category": "Tool",
-    "sector": "",
-    "country": "",
-    "description": "",
-    "domains": [
-      "AI/ML"
-    ]
-  },
-  {
     "name": "\"Nucleus CMS: Pure Publishing\"",
     "url": "http://nucleuscms.org/index.php?itemid=3060",
     "category": "Tool",
@@ -8787,17 +7258,6 @@
   {
     "name": "\"OpenWGA 7.10 - OpenWGA Concepts and Features - Platforms\"",
     "url": "https://doc.openwga.com/doc-wga710/html/default/ff808081376f81540137742e89d114a1.int.html",
-    "category": "Tool",
-    "sector": "",
-    "country": "",
-    "description": "",
-    "domains": [
-      "AI/ML"
-    ]
-  },
-  {
-    "name": "\"Parallax.com\"",
-    "url": "http://parallax.com/search?search_api_views_fulltext=editor",
     "category": "Tool",
     "sector": "",
     "country": "",
@@ -9181,17 +7641,6 @@
     ]
   },
   {
-    "name": "\"Server Requirements - Getting Started\"",
-    "url": "https://docs.modx.com/current/en/getting-started/server-requirements",
-    "category": "Tool",
-    "sector": "",
-    "country": "",
-    "description": "",
-    "domains": [
-      "AI/ML"
-    ]
-  },
-  {
     "name": "\"Server Requirements - The Jamroom Network\"",
     "url": "https://www.jamroom.net/the-jamroom-network/documentation/getting-started/774/server-requirements",
     "category": "Tool",
@@ -9304,17 +7753,6 @@
   {
     "name": "\"System Requirements - Pimcore\"",
     "url": "https://pimcore.com/docs/pimcore/current/Development_Documentation/Installation_and_Upgrade/System_Requirements.html",
-    "category": "Tool",
-    "sector": "",
-    "country": "",
-    "description": "",
-    "domains": [
-      "AI/ML"
-    ]
-  },
-  {
-    "name": "\"System Requirements - Wiki : ImpressCMS\"",
-    "url": "https://www.impresscms.org/modules/simplywiki/index.php?page=System_Requirements",
     "category": "Tool",
     "sector": "",
     "country": "",
@@ -9513,17 +7951,6 @@
   {
     "name": "\"vi\"",
     "url": "https://ex-vi.sourceforge.net/",
-    "category": "Tool",
-    "sector": "",
-    "country": "",
-    "description": "",
-    "domains": [
-      "AI/ML"
-    ]
-  },
-  {
-    "name": "\"WAR File Distribution\"",
-    "url": "https://www.openwga.com/home/downloads/openwga-cms-server/war-file-distribution.38.en.html",
     "category": "Tool",
     "sector": "",
     "country": "",
@@ -10204,17 +8631,6 @@
     ]
   },
   {
-    "name": "As-Easy-As",
-    "url": "https://vetusware.com/download/AsEasyAs%203.0/?id=3859",
-    "category": "Tool",
-    "sector": "",
-    "country": "",
-    "description": "",
-    "domains": [
-      "AI/ML"
-    ]
-  },
-  {
     "name": "Asana",
     "url": "https://asana.com",
     "category": "Tool",
@@ -10393,17 +8809,6 @@
   {
     "name": "Basic-256",
     "url": "http://basic256.org",
-    "category": "Tool",
-    "sector": "",
-    "country": "",
-    "description": "",
-    "domains": [
-      "AI/ML"
-    ]
-  },
-  {
-    "name": "Basic4android",
-    "url": "https://www.b4x.com/b4a.html",
     "category": "Tool",
     "sector": "",
     "country": "",
@@ -11020,17 +9425,6 @@
   {
     "name": "CLR",
     "url": "http://www.informit.com/articles/article.aspx?p=30601",
-    "category": "Tool",
-    "sector": "",
-    "country": "",
-    "description": "",
-    "domains": [
-      "AI/ML"
-    ]
-  },
-  {
-    "name": "Clustered",
-    "url": "https://www.google.com/search?as_eq=wikipedia&q=%22Clustered+web+hosting%22",
     "category": "Tool",
     "sector": "",
     "country": "",
@@ -12129,17 +10523,6 @@
     ]
   },
   {
-    "name": "Enterprise content management (ECM)",
-    "url": "https://www.google.com/search?as_eq=wikipedia&q=%22Enterprise+content+management%22",
-    "category": "Tool",
-    "sector": "",
-    "country": "",
-    "description": "",
-    "domains": [
-      "AI/ML"
-    ]
-  },
-  {
     "name": "Epik",
     "url": "https://www.epik.com",
     "category": "Tool",
@@ -12294,17 +10677,6 @@
     ]
   },
   {
-    "name": "eZ Publish",
-    "url": "https://se7enx.com",
-    "category": "Tool",
-    "sector": "",
-    "country": "",
-    "description": "",
-    "domains": [
-      "AI/ML"
-    ]
-  },
-  {
     "name": "FastCGI",
     "url": "https://fastcgi-archives.github.io/",
     "category": "Tool",
@@ -12406,17 +10778,6 @@
   {
     "name": "Flash",
     "url": "http://adobe.com/products/flashruntimes.html",
-    "category": "Tool",
-    "sector": "",
-    "country": "",
-    "description": "",
-    "domains": [
-      "AI/ML"
-    ]
-  },
-  {
-    "name": "Flat-file database",
-    "url": "https://www.google.com/search?as_eq=wikipedia&q=%22Flat-file+database%22",
     "category": "Tool",
     "sector": "",
     "country": "",
@@ -13240,28 +11601,6 @@
     ]
   },
   {
-    "name": "Hosting",
-    "url": "https://www.eric.ed.gov/ERICWebPortal/search/recordDetails.jsp?ERICExtSearch_SearchValue_0=ED350986&searchtype=keyword&ERICExtSearch_SearchType_0=no&_pageLabel=RecordDetails&accno=ED350986&_nfls=false",
-    "category": "Tool",
-    "sector": "",
-    "country": "",
-    "description": "",
-    "domains": [
-      "AI/ML"
-    ]
-  },
-  {
-    "name": "Hosting control panels",
-    "url": "https://www.google.com/search?as_eq=wikipedia&q=%22Web+hosting+control+panel%22",
-    "category": "Tool",
-    "sector": "",
-    "country": "",
-    "description": "",
-    "domains": [
-      "AI/ML"
-    ]
-  },
-  {
     "name": "Hostinger",
     "url": "https://hostinger.com",
     "category": "Tool",
@@ -13548,28 +11887,6 @@
     ]
   },
   {
-    "name": "ImpressCMS",
-    "url": "http://www.impresscms.org/",
-    "category": "Tool",
-    "sector": "",
-    "country": "",
-    "description": "",
-    "domains": [
-      "AI/ML"
-    ]
-  },
-  {
-    "name": "ImpressPages",
-    "url": "http://www.impresspages.org/",
-    "category": "Tool",
-    "sector": "",
-    "country": "",
-    "description": "",
-    "domains": [
-      "AI/ML"
-    ]
-  },
-  {
     "name": "in-Step BLUE",
     "url": "http://www.microtool.de/en/in-step-blue-project-management-software/",
     "category": "Tool",
@@ -13594,17 +11911,6 @@
   {
     "name": "inline citations",
     "url": "https://refill.toolforge.org/ng/",
-    "category": "Tool",
-    "sector": "",
-    "country": "",
-    "description": "",
-    "domains": [
-      "AI/ML"
-    ]
-  },
-  {
-    "name": "InLoox",
-    "url": "https://www.inloox.com",
     "category": "Tool",
     "sector": "",
     "country": "",
@@ -13682,17 +11988,6 @@
   {
     "name": "IPM",
     "url": "http://www.ipm.ac.ir",
-    "category": "Tool",
-    "sector": "",
-    "country": "",
-    "description": "",
-    "domains": [
-      "AI/ML"
-    ]
-  },
-  {
-    "name": "IRise",
-    "url": "https://www.google.com/search?as_eq=wikipedia&q=%22IRise%22",
     "category": "Tool",
     "sector": "",
     "country": "",
@@ -14307,30 +12602,8 @@
     ]
   },
   {
-    "name": "lines",
-    "url": "https://www.google.com/search?as_eq=wikipedia&q=%22Line%22+text+file",
-    "category": "Tool",
-    "sector": "",
-    "country": "",
-    "description": "",
-    "domains": [
-      "AI/ML"
-    ]
-  },
-  {
     "name": "LiquidPlanner",
     "url": "http://liquidplanner.com",
-    "category": "Tool",
-    "sector": "",
-    "country": "",
-    "description": "",
-    "domains": [
-      "AI/ML"
-    ]
-  },
-  {
-    "name": "LisaProject",
-    "url": "https://www.google.com/search?as_eq=wikipedia&q=%22LisaProject%22",
     "category": "Tool",
     "sector": "",
     "country": "",
@@ -14901,17 +13174,6 @@
     ]
   },
   {
-    "name": "Mobile web analytics",
-    "url": "https://www.google.com/search?as_eq=wikipedia&q=%22Mobile+web+analytics%22",
-    "category": "Tool",
-    "sector": "",
-    "country": "",
-    "description": "",
-    "domains": [
-      "AI/ML"
-    ]
-  },
-  {
     "name": "Mobiles",
     "url": "https://www.ibm.com/topics/mobile-application-development",
     "category": "Tool",
@@ -14925,17 +13187,6 @@
   {
     "name": "mod_perl",
     "url": "https://perl.apache.org/",
-    "category": "Tool",
-    "sector": "",
-    "country": "",
-    "description": "",
-    "domains": [
-      "AI/ML"
-    ]
-  },
-  {
-    "name": "MODX",
-    "url": "http://modx.com",
     "category": "Tool",
     "sector": "",
     "country": "",
@@ -15814,17 +14065,6 @@
     ]
   },
   {
-    "name": "Oracle Content Management",
-    "url": "https://www.google.com/search?as_eq=wikipedia&q=%22Oracle+WebCenter%22",
-    "category": "Tool",
-    "sector": "",
-    "country": "",
-    "description": "",
-    "domains": [
-      "AI/ML"
-    ]
-  },
-  {
     "name": "Oracle Corporation",
     "url": "https://www.oracle.com/",
     "category": "Tool",
@@ -15869,17 +14109,6 @@
     ]
   },
   {
-    "name": "Oracle WebCenter Content",
-    "url": "https://www.google.com/search?as_eq=wikipedia&q=%22Oracle+WebCenter%22",
-    "category": "Tool",
-    "sector": "",
-    "country": "",
-    "description": "",
-    "domains": [
-      "AI/ML"
-    ]
-  },
-  {
     "name": "Orchard Project",
     "url": "http://orchardproject.net",
     "category": "Tool",
@@ -15904,17 +14133,6 @@
   {
     "name": "Other platforms",
     "url": "https://www.wikidata.org/wiki/Property_talk:P400",
-    "category": "Tool",
-    "sector": "",
-    "country": "",
-    "description": "",
-    "domains": [
-      "AI/ML"
-    ]
-  },
-  {
-    "name": "Overselling",
-    "url": "https://twitter.com/Tyler_Bridges/status/851214160042106880?ref_src=twsrc%5Etfw&ref_url=https%3A%2F%2Fwww.nytimes.com%2F2017%2F04%2F10%2Fbusiness%2Funited-flight-passenger-dragged.html",
     "category": "Tool",
     "sector": "",
     "country": "",
@@ -15959,17 +14177,6 @@
   {
     "name": "pair programming",
     "url": "https://www.wikihow.com/Pair-Program",
-    "category": "Tool",
-    "sector": "",
-    "country": "",
-    "description": "",
-    "domains": [
-      "AI/ML"
-    ]
-  },
-  {
-    "name": "Parallax Inc",
-    "url": "http://www.parallax.com",
     "category": "Tool",
     "sector": "",
     "country": "",
@@ -16518,17 +14725,6 @@
     ]
   },
   {
-    "name": "Project portfolio management",
-    "url": "https://www.google.com/search?as_eq=wikipedia&q=%22Project+portfolio+management%22",
-    "category": "Tool",
-    "sector": "",
-    "country": "",
-    "description": "",
-    "domains": [
-      "AI/ML"
-    ]
-  },
-  {
     "name": "Project Team Builder",
     "url": "http://www.pmi.org/",
     "category": "Tool",
@@ -17004,17 +15200,6 @@
   {
     "name": "RemObjects Software",
     "url": "https://www.remobjects.com/",
-    "category": "Tool",
-    "sector": "",
-    "country": "",
-    "description": "",
-    "domains": [
-      "AI/ML"
-    ]
-  },
-  {
-    "name": "Reporting",
-    "url": "https://www.google.com/search?as_eq=wikipedia&q=%22Report%22",
     "category": "Tool",
     "sector": "",
     "country": "",
@@ -17662,17 +15847,6 @@
     ]
   },
   {
-    "name": "SQL Server Express",
-    "url": "http://www.microsoft.com/en-us/server-cloud/products/sql-server-editions/sql-server-express.aspx",
-    "category": "Tool",
-    "sector": "",
-    "country": "",
-    "description": "",
-    "domains": [
-      "AI/ML"
-    ]
-  },
-  {
     "name": "SQLite",
     "url": "https://sqlite.org",
     "category": "Tool",
@@ -17763,17 +15937,6 @@
   {
     "name": "SuperCalc",
     "url": "https://museum.syssrc.com/artifact/exhibits/807/",
-    "category": "Tool",
-    "sector": "",
-    "country": "",
-    "description": "",
-    "domains": [
-      "AI/ML"
-    ]
-  },
-  {
-    "name": "Supported databases",
-    "url": "https://www.google.com/search?as_eq=wikipedia&q=%22Relational+database%22",
     "category": "Tool",
     "sector": "",
     "country": "",
@@ -17937,17 +16100,6 @@
     ]
   },
   {
-    "name": "TeamDynamixHE",
-    "url": "http://teamdynamix.com",
-    "category": "Tool",
-    "sector": "",
-    "country": "",
-    "description": "",
-    "domains": [
-      "AI/ML"
-    ]
-  },
-  {
     "name": "TeamLab",
     "url": "http://www.onlyoffice.com",
     "category": "Tool",
@@ -18016,17 +16168,6 @@
   {
     "name": "TeXShop",
     "url": "http://pages.uoregon.edu/koch/texshop",
-    "category": "Tool",
-    "sector": "",
-    "country": "",
-    "description": "",
-    "domains": [
-      "AI/ML"
-    ]
-  },
-  {
-    "name": "text-based user interface",
-    "url": "https://www.google.com/search?as_eq=wikipedia&q=%22Text-based+user+interface%22",
     "category": "Tool",
     "sector": "",
     "country": "",
@@ -18619,17 +16760,6 @@
     ]
   },
   {
-    "name": "Visual C++ Express",
-    "url": "https://visualstudio.microsoft.com/vs/community/",
-    "category": "Tool",
-    "sector": "",
-    "country": "",
-    "description": "",
-    "domains": [
-      "AI/ML"
-    ]
-  },
-  {
     "name": "Visual Studio Code",
     "url": "https://code.visualstudio.com/",
     "category": "Tool",
@@ -18643,17 +16773,6 @@
   {
     "name": "Visual Studio Code - Open Source (\"Code - OSS\")",
     "url": "https://github.com/microsoft/vscode",
-    "category": "Tool",
-    "sector": "",
-    "country": "",
-    "description": "",
-    "domains": [
-      "AI/ML"
-    ]
-  },
-  {
-    "name": "Visual Web Developer Express",
-    "url": "https://visualstudio.microsoft.com/vs/community/",
     "category": "Tool",
     "sector": "",
     "country": "",
@@ -18696,17 +16815,6 @@
     ]
   },
   {
-    "name": "VS/9",
-    "url": "https://www.google.com/search?as_eq=wikipedia&q=%22VS%2F9%22",
-    "category": "Tool",
-    "sector": "",
-    "country": "",
-    "description": "",
-    "domains": [
-      "AI/ML"
-    ]
-  },
-  {
     "name": "VxWorks",
     "url": "https://www.windriver.com/products/vxworks",
     "category": "Tool",
@@ -18720,17 +16828,6 @@
   {
     "name": "Wagtail",
     "url": "https://wagtail.org/",
-    "category": "Tool",
-    "sector": "",
-    "country": "",
-    "description": "",
-    "domains": [
-      "AI/ML"
-    ]
-  },
-  {
-    "name": "Wayback Machine",
-    "url": "https://web.archive.org",
     "category": "Tool",
     "sector": "",
     "country": "",
@@ -18762,41 +16859,8 @@
     ]
   },
   {
-    "name": "Web cache",
-    "url": "https://pressidium.com/blog/2017/browser-cache-work/",
-    "category": "Tool",
-    "sector": "",
-    "country": "",
-    "description": "",
-    "domains": [
-      "AI/ML"
-    ]
-  },
-  {
-    "name": "Web content",
-    "url": "https://www.google.com/search?as_eq=wikipedia&q=%22Web+content%22",
-    "category": "Tool",
-    "sector": "",
-    "country": "",
-    "description": "",
-    "domains": [
-      "AI/ML"
-    ]
-  },
-  {
     "name": "Web content lifecycle",
     "url": "http://cmprofessionals.org/index.cfm?fuseaction=Page.viewPage&pageId=484&parentID=473",
-    "category": "Tool",
-    "sector": "",
-    "country": "",
-    "description": "",
-    "domains": [
-      "AI/ML"
-    ]
-  },
-  {
-    "name": "Web content management system (WCMS)",
-    "url": "https://www.google.com/search?as_eq=wikipedia&q=%22Web+content+management+system%22",
     "category": "Tool",
     "sector": "",
     "country": "",
@@ -18927,17 +16991,6 @@
     ]
   },
   {
-    "name": "Wiki software",
-    "url": "https://www.google.com/search?as_eq=wikipedia&q=%22Wiki+software%22",
-    "category": "Tool",
-    "sector": "",
-    "country": "",
-    "description": "",
-    "domains": [
-      "AI/ML"
-    ]
-  },
-  {
     "name": "Wiki.js",
     "url": "https://js.wiki",
     "category": "Tool",
@@ -19037,30 +17090,8 @@
     ]
   },
   {
-    "name": "Wix.com",
-    "url": "http://wix.com",
-    "category": "Tool",
-    "sector": "",
-    "country": "",
-    "description": "",
-    "domains": [
-      "AI/ML"
-    ]
-  },
-  {
     "name": "WordPerfect Office",
     "url": "https://www.wordperfect.com/en/",
-    "category": "Tool",
-    "sector": "",
-    "country": "",
-    "description": "",
-    "domains": [
-      "AI/ML"
-    ]
-  },
-  {
-    "name": "WordPress",
-    "url": "https://wordpress.org",
     "category": "Tool",
     "sector": "",
     "country": "",
