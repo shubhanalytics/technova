@@ -65,6 +65,38 @@
       existing.push(data);
       localStorage.setItem(key, JSON.stringify(existing, null, 2));
       showMessage('Saved locally. Copy the JSON from localStorage to submit a PR or contact the maintainers.');
+
+      // If Formspree is configured (replace YOUR_FORM_ID), attempt to POST the data there as well.
+      try {
+        // populate hidden replyto
+        const reply = document.getElementById('_replyto');
+        if (reply) reply.value = data.email || '';
+
+        const action = (form.getAttribute('action') || '').trim();
+        if (action && action.includes('formspree.io') && !action.includes('YOUR_FORM_ID')) {
+          const formData = new FormData(form);
+          // also append fields we store
+          formData.set('siteName', data.siteName);
+          formData.set('siteUrl', data.siteUrl);
+          formData.set('category', data.category);
+          formData.set('subcategory', data.subcategory);
+          formData.set('owner', data.owner);
+          formData.set('email', data.email);
+          formData.set('twitter', data.twitter);
+          formData.set('notes', data.notes);
+
+          const resp = await fetch(action, { method: 'POST', body: formData, headers: { 'Accept': 'application/json' } });
+          if (resp.ok) {
+            showMessage('Saved locally and submitted via Formspree. Thank you!');
+          } else {
+            console.warn('Formspree response', resp.status);
+            showMessage('Saved locally. Formspree submission failed (check configuration).', false);
+          }
+        }
+      } catch (err) {
+        console.warn('Formspree submission attempt failed', err);
+      }
+
       form.reset();
     } catch (err) {
       console.error(err);

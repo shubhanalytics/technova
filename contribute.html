@@ -42,7 +42,13 @@
         <h2>Contribute a site</h2>
         <p>Thanks for contributing! Please provide accurate details and a working URL. Submissions are saved locally and can be pasted into a PR or emailed to the maintainers for review.</p>
 
-        <form id="contribForm" novalidate>
+        <!-- To enable direct form submissions via Formspree: create a form at https://formspree.io
+             then replace YOUR_FORM_ID in the action URL below with the provided form ID. -->
+        <form id="contribForm" novalidate action="https://formspree.io/f/YOUR_FORM_ID" method="POST">
+          <input type="hidden" name="_subject" value="New technova submission">
+          <input type="hidden" name="_format" value="json">
+          <input type="hidden" name="_captcha" value="false">
+          <input type="hidden" name="_replyto" id="_replyto" value="">
           <label for="siteName">Site name (required)</label>
           <input id="siteName" name="siteName" required />
 
@@ -75,8 +81,9 @@
         <div id="result" aria-live="polite"></div>
 
         <div class="submit-helpers">
-          <p>Prefer email? Send all required details to <a href="mailto:shubhank.katarey@outlook.com?subject=Technova%20submission">shubhank.katarey@outlook.com</a>. Include site name, URL, category, subcategory, owner, and contact email in the message.</p>
-          <p>Or reach out on X (Twitter): <a href="https://x.com/shubhanalytics" target="_blank" rel="noopener">@shubhanalytics</a></p>
+          <p>Prefer email? Send details to <a href="mailto:shubhank.katarey@outlook.com?subject=Technova%20submission">shubhank.katarey@outlook.com</a> (include site name, URL, category, subcategory, owner, and contact email).</p>
+          <p>Or reach out on X: <a href="https://x.com/shubhanalytics" target="_blank" rel="noopener">@shubhanalytics</a></p>
+          <p class="muted">To enable direct Formspree delivery, sign up at <a href="https://formspree.io" target="_blank" rel="noopener">formspree.io</a> and replace <code>YOUR_FORM_ID</code> in the form action above with your form ID.</p>
         </div>
       </article>
     </main>
