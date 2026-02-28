@@ -5,6 +5,7 @@ const listEl = document.getElementById('list');
 const searchEl = document.getElementById('search');
 const sectorSelect = document.getElementById('sectorSelect');
 const countrySelect = document.getElementById('countrySelect');
+const ownerSelect = document.getElementById('ownerSelect');
 const sortSelect = document.getElementById('sortSelect');
 const tabsContainer = document.getElementById('categoryTabs');
 let tabs = [];
@@ -69,6 +70,7 @@ function populateFilters(data){
   const sectors = Array.from(new Set(data.map(i=>i.sector).filter(Boolean))).sort();
   const countries = Array.from(new Set(data.map(i=>i.country).filter(Boolean))).sort();
   const domains = Array.from(new Set((data.map(i=>i.domains||[])).flat().filter(Boolean))).sort();
+  const owners = Array.from(new Set(data.map(i=>i.owner).filter(Boolean))).sort();
   for(const s of sectors){
     const o = document.createElement('option'); o.value = s; o.textContent = s; sectorSelect.appendChild(o);
   }
@@ -78,12 +80,20 @@ function populateFilters(data){
   for(const d of domains){
     const o = document.createElement('option'); o.value = d; o.textContent = d; domainSelect.appendChild(o);
   }
+  // populate owners dropdown (if any owner fields exist in data)
+  if(owners.length){
+    // insert after the initial "All owners" option which is already present in markup
+    for(const ow of owners){
+      const o = document.createElement('option'); o.value = ow; o.textContent = ow; ownerSelect.appendChild(o);
+    }
+  }
 }
 
 function attachEvents(){
   searchEl.addEventListener('input', render);
   sectorSelect.addEventListener('change', render);
   countrySelect.addEventListener('change', render);
+  ownerSelect.addEventListener('change', render);
   sortSelect.addEventListener('change', render);
   domainSelect.addEventListener('change', render);
   // use event delegation on the tabs container so clicks always work
@@ -112,11 +122,19 @@ function render(){
   const activeTab = document.querySelector('.tab.active')?.dataset?.category || 'All';
   const sort = sortSelect.value;
   const domain = domainSelect?.value;
+  const owner = ownerSelect?.value;
   // items filtered by all controls except category (used to compute tab counts)
   const filteredForCounts = items.filter(it=>{
     if(sector && it.sector !== sector) return false;
     if(country && it.country !== country) return false;
     if(domain && !(it.domains||[]).includes(domain)) return false;
+    if(owner){
+      if(owner === '__OWNED_BY_OTHERS__'){
+        if(it.owner) return false; // only include items without owner
+      } else {
+        if(it.owner !== owner) return false;
+      }
+    }
     if(q){
       const hay = (it.name + ' ' + (it.description||'')).toLowerCase();
       if(!hay.includes(q)) return false;
