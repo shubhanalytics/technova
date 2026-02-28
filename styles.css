@@ -19,7 +19,24 @@
 .container{max-width:var(--max-w);margin:28px auto;padding:0 20px}
 .site-header{background:linear-gradient(180deg, rgba(2,6,23,0.65), rgba(7,16,38,0.72));color:var(--text);padding:14px 0;margin-bottom:18px;box-shadow:0 6px 18px rgba(2,6,23,0.6);position:relative;border:1px solid var(--card-border);border-radius:10px}
 .logo{margin:0;font-size:22px;font-weight:700;letter-spacing:-0.4px;font-family:'Poppins', Inter, system-ui, -apple-system;display:flex;align-items:center;gap:8px;color:var(--text)}
-.logo .brand-accent{background:linear-gradient(90deg,var(--accent-2),var(--accent));-webkit-background-clip:text;background-clip:text;color:transparent}
+.logo .brand-accent{
+  color:var(--text);
+  background: none;
+  -webkit-background-clip: unset;
+  background-clip: unset;
+  -webkit-text-fill-color: initial;
+  text-shadow: 0 1px 0 rgba(2,6,23,0.6);
+}
+
+@supports (-webkit-background-clip: text) {
+  .logo .brand-accent{
+    background:linear-gradient(90deg,var(--accent-2),var(--accent));
+    -webkit-background-clip:text;
+    background-clip:text;
+    -webkit-text-fill-color:transparent;
+    text-shadow: none;
+  }
+}
 .tagline{margin:4px 0 0;color:var(--muted);font-weight:600;opacity:0.95;font-size:13px}
 
 /* header layout refinements */
