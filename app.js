@@ -87,6 +87,11 @@ function populateFilters(data){
       const o = document.createElement('option'); o.value = ow; o.textContent = ow; ownerSelect.appendChild(o);
     }
   }
+  // ensure 'Owned by others' appears last in the list
+  const others = document.createElement('option');
+  others.value = '__OWNED_BY_OTHERS__';
+  others.textContent = 'Owned by others';
+  ownerSelect.appendChild(others);
 }
 
 function attachEvents(){
