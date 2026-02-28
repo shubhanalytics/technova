@@ -13,7 +13,6 @@ const domainSelect = document.getElementById('domainSelect');
 async function init(){
   const res = await fetch(DATA_URL);
   items = await res.json();
-  initTheme();
   initMotionToggle();
   populateFilters(items);
   buildTabs(items);
@@ -21,17 +20,7 @@ async function init(){
   render();
 }
 
-// Theme toggle: light/dark with localStorage
-function initTheme(){
-  const btn = document.getElementById('themeToggle');
-  const saved = localStorage.getItem('technova:theme');
-  if(saved === 'light') document.documentElement.classList.add('light');
-  btn?.addEventListener('click', ()=>{
-    const isLight = document.documentElement.classList.toggle('light');
-    btn.setAttribute('aria-pressed', String(isLight));
-    localStorage.setItem('technova:theme', isLight ? 'light' : 'dark');
-  });
-}
+// Note: light theme removed; app uses dark mode only.
 
 // reduce-motion toggle
 function initMotionToggle(){
