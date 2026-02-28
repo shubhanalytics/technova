@@ -47,8 +47,7 @@
       "AI/ML",
       "Analytics",
       "Data"
-    ],
-    "owner": "Databricks"
+    ]
   },
   {
     "name": "Google DeepMind / Google AI",
@@ -60,8 +59,7 @@
     "domains": [
       "AI/ML",
       "Research"
-    ],
-    "owner": "Google"
+    ]
   },
   {
     "name": "Hugging Face",
@@ -86,8 +84,7 @@
     "domains": [
       "AI/ML",
       "Research"
-    ],
-    "owner": "Meta"
+    ]
   },
   {
     "name": "Mistral AI",
@@ -111,8 +108,7 @@
     "domains": [
       "AI/ML",
       "MLOps"
-    ],
-    "owner": "Databricks"
+    ]
   },
   {
     "name": "OpenAI",
@@ -137,8 +133,7 @@
     "domains": [
       "AI/ML",
       "Framework"
-    ],
-    "owner": "Meta"
+    ]
   },
   {
     "name": "scikit-learn",
@@ -174,8 +169,7 @@
     "domains": [
       "AI/ML",
       "Framework"
-    ],
-    "owner": "Google"
+    ]
   },
   {
     "name": "Alibaba Cloud",
@@ -188,8 +182,7 @@
       "Cloud",
       "Infrastructure",
       "AI/ML"
-    ],
-    "owner": "Alibaba"
+    ]
   },
   {
     "name": "Amazon Web Services (AWS)",
@@ -202,8 +195,7 @@
       "Cloud",
       "Infrastructure",
       "AI/ML"
-    ],
-    "owner": "Amazon"
+    ]
   },
   {
     "name": "DigitalOcean",
@@ -229,8 +221,7 @@
       "Cloud",
       "AI/ML",
       "Analytics"
-    ],
-    "owner": "Google"
+    ]
   },
   {
     "name": "Hetzner",
@@ -256,8 +247,7 @@
       "Cloud",
       "Enterprise",
       "AI/ML"
-    ],
-    "owner": "IBM"
+    ]
   },
   {
     "name": "Linode",
@@ -283,8 +273,7 @@
       "Cloud",
       "Enterprise",
       "AI/ML"
-    ],
-    "owner": "Microsoft"
+    ]
   },
   {
     "name": "Oracle Cloud",
@@ -298,8 +287,7 @@
       "Database",
       "Enterprise",
       "AI/ML"
-    ],
-    "owner": "Oracle"
+    ]
   },
   {
     "name": "Snowflake",
@@ -448,8 +436,7 @@
     "sector": "",
     "country": "",
     "description": "",
-    "domains": [],
-    "owner": "SAP"
+    "domains": []
   },
   {
     "name": "ABC",
@@ -476,8 +463,7 @@
     "sector": "",
     "country": "",
     "description": "",
-    "domains": [],
-    "owner": "IBM"
+    "domains": []
   },
   {
     "name": "Action!",
@@ -495,8 +481,7 @@
     "sector": "",
     "country": "",
     "description": "",
-    "domains": [],
-    "owner": "Adobe"
+    "domains": []
   },
   {
     "name": "Ada",
@@ -694,8 +679,7 @@
     "sector": "",
     "country": "",
     "description": "",
-    "domains": [],
-    "owner": "Salesforce"
+    "domains": []
   },
   {
     "name": "APL",
@@ -722,8 +706,7 @@
     "sector": "",
     "country": "",
     "description": "",
-    "domains": [],
-    "owner": "Apple"
+    "domains": []
   },
   {
     "name": "APT",
@@ -759,8 +742,7 @@
     "sector": "",
     "country": "",
     "description": "",
-    "domains": [],
-    "owner": "IBM"
+    "domains": []
   },
   {
     "name": "AssemblyScript",
@@ -832,8 +814,7 @@
     "sector": "",
     "country": "",
     "description": "",
-    "domains": [],
-    "owner": "Microsoft"
+    "domains": []
   },
   {
     "name": "Ballerina",
@@ -860,8 +841,7 @@
     "sector": "",
     "country": "",
     "description": "",
-    "domains": [],
-    "owner": "Microsoft"
+    "domains": []
   },
   {
     "name": "bc (basic calculator)",
@@ -924,8 +904,7 @@
     "sector": "",
     "country": "",
     "description": "",
-    "domains": [],
-    "owner": "Google"
+    "domains": []
   },
   {
     "name": "BlooP",
@@ -961,8 +940,7 @@
     "sector": "",
     "country": "",
     "description": "",
-    "domains": [],
-    "owner": "Microsoft"
+    "domains": []
   },
   {
     "name": "C Shell (csh)",
@@ -980,8 +958,7 @@
     "sector": "",
     "country": "",
     "description": "",
-    "domains": [],
-    "owner": "Microsoft"
+    "domains": []
   },
   {
     "name": "Caché ObjectScript",
@@ -1071,8 +1048,7 @@
     "sector": "",
     "country": "",
     "description": "",
-    "domains": [],
-    "owner": "Google"
+    "domains": []
   },
   {
     "name": "Ceylon",
@@ -1198,8 +1174,7 @@
     "sector": "",
     "country": "",
     "description": "",
-    "domains": [],
-    "owner": "Microsoft"
+    "domains": []
   },
   {
     "name": "Clean",
@@ -1604,8 +1579,7 @@
     "sector": "",
     "country": "",
     "description": "",
-    "domains": [],
-    "owner": "IBM"
+    "domains": []
   },
   {
     "name": "EASYTRIEVE PLUS",
@@ -2127,8 +2101,7 @@
     "sector": "",
     "country": "",
     "description": "",
-    "domains": [],
-    "owner": "Google"
+    "domains": []
   },
   {
     "name": "Gosu",
@@ -2353,8 +2326,7 @@
     "sector": "",
     "country": "",
     "description": "",
-    "domains": [],
-    "owner": "IBM"
+    "domains": []
   },
   {
     "name": "IBM Informix-4GL",
@@ -2363,8 +2335,7 @@
     "sector": "",
     "country": "",
     "description": "",
-    "domains": [],
-    "owner": "IBM"
+    "domains": []
   },
   {
     "name": "Icon",
@@ -2436,8 +2407,7 @@
     "sector": "",
     "country": "",
     "description": "",
-    "domains": [],
-    "owner": "Microsoft"
+    "domains": []
   },
   {
     "name": "J++ (J plus plus)",
@@ -2446,8 +2416,7 @@
     "sector": "",
     "country": "",
     "description": "",
-    "domains": [],
-    "owner": "Microsoft"
+    "domains": []
   },
   {
     "name": "JADE",
@@ -2510,8 +2479,7 @@
     "sector": "Enterprise",
     "country": "Worldwide",
     "description": "Popular enterprise and Android language",
-    "domains": [],
-    "owner": "Oracle"
+    "domains": []
   },
   {
     "name": "JavaScript",
@@ -2565,8 +2533,7 @@
     "sector": "",
     "country": "",
     "description": "",
-    "domains": [],
-    "owner": "Microsoft"
+    "domains": []
   },
   {
     "name": "JScript .NET",
@@ -2575,8 +2542,7 @@
     "sector": "",
     "country": "",
     "description": "",
-    "domains": [],
-    "owner": "Microsoft"
+    "domains": []
   },
   {
     "name": "Julia",
@@ -2774,8 +2740,7 @@
     "sector": "",
     "country": "",
     "description": "",
-    "domains": [],
-    "owner": "Adobe"
+    "domains": []
   },
   {
     "name": "LINQ",
@@ -2784,8 +2749,7 @@
     "sector": "",
     "country": "",
     "description": "",
-    "domains": [],
-    "owner": "Microsoft"
+    "domains": []
   },
   {
     "name": "LIS",
@@ -2866,8 +2830,7 @@
     "sector": "",
     "country": "",
     "description": "",
-    "domains": [],
-    "owner": "IBM"
+    "domains": []
   },
   {
     "name": "LPC",
@@ -2921,8 +2884,7 @@
     "sector": "",
     "country": "",
     "description": "",
-    "domains": [],
-    "owner": "Google"
+    "domains": []
   },
   {
     "name": "Lustre",
@@ -2958,8 +2920,7 @@
     "sector": "",
     "country": "",
     "description": "",
-    "domains": [],
-    "owner": "Microsoft"
+    "domains": []
   },
   {
     "name": "M4",
@@ -3031,8 +2992,7 @@
     "sector": "",
     "country": "",
     "description": "",
-    "domains": [],
-    "owner": "Microsoft"
+    "domains": []
   },
   {
     "name": "MATLAB",
@@ -3122,8 +3082,7 @@
     "sector": "",
     "country": "",
     "description": "",
-    "domains": [],
-    "owner": "Microsoft"
+    "domains": []
   },
   {
     "name": "MIMIC",
@@ -3267,8 +3226,7 @@
     "sector": "",
     "country": "",
     "description": "",
-    "domains": [],
-    "owner": "Google"
+    "domains": []
   },
   {
     "name": "MuPAD",
@@ -3340,8 +3298,7 @@
     "sector": "",
     "country": "",
     "description": "",
-    "domains": [],
-    "owner": "IBM"
+    "domains": []
   },
   {
     "name": "NetLogo",
@@ -3476,8 +3433,7 @@
     "sector": "",
     "country": "",
     "description": "",
-    "domains": [],
-    "owner": "Google"
+    "domains": []
   },
   {
     "name": "Object Pascal",
@@ -3504,8 +3460,7 @@
     "sector": "",
     "country": "",
     "description": "",
-    "domains": [],
-    "owner": "Apple"
+    "domains": []
   },
   {
     "name": "Objective-C++",
@@ -3514,8 +3469,7 @@
     "sector": "",
     "country": "",
     "description": "",
-    "domains": [],
-    "owner": "Apple"
+    "domains": []
   },
   {
     "name": "ObjectLOGO",
@@ -3749,8 +3703,7 @@
     "sector": "",
     "country": "",
     "description": "",
-    "domains": [],
-    "owner": "Oracle"
+    "domains": []
   },
   {
     "name": "Perl",
@@ -4002,8 +3955,7 @@
     "sector": "",
     "country": "",
     "description": "",
-    "domains": [],
-    "owner": "Microsoft"
+    "domains": []
   },
   {
     "name": "Pro*C",
@@ -4048,8 +4000,7 @@
     "sector": "",
     "country": "",
     "description": "",
-    "domains": [],
-    "owner": "Microsoft"
+    "domains": []
   },
   {
     "name": "Prolog",
@@ -4346,8 +4297,7 @@
     "sector": "",
     "country": "",
     "description": "",
-    "domains": [],
-    "owner": "Google"
+    "domains": []
   },
   {
     "name": "SBL",
@@ -4770,8 +4720,7 @@
     "sector": "Mobile",
     "country": "Worldwide",
     "description": "Apple's language for iOS/macOS",
-    "domains": [],
-    "owner": "Apple"
+    "domains": []
   },
   {
     "name": "Swift (Apple programming language)",
@@ -4780,8 +4729,7 @@
     "sector": "",
     "country": "",
     "description": "",
-    "domains": [],
-    "owner": "Apple"
+    "domains": []
   },
   {
     "name": "Swift (parallel scripting language)",
@@ -4817,8 +4765,7 @@
     "sector": "",
     "country": "",
     "description": "",
-    "domains": [],
-    "owner": "Microsoft"
+    "domains": []
   },
   {
     "name": "TADS (Text Adventure Development System)",
@@ -5070,8 +5017,7 @@
     "sector": "",
     "country": "",
     "description": "",
-    "domains": [],
-    "owner": "Microsoft"
+    "domains": []
   },
   {
     "name": "Visual Objects",
@@ -5080,8 +5026,7 @@
     "sector": "",
     "country": "",
     "description": "",
-    "domains": [],
-    "owner": "Google"
+    "domains": []
   },
   {
     "name": "Visual Prolog",
@@ -5144,8 +5089,7 @@
     "sector": "",
     "country": "",
     "description": "",
-    "domains": [],
-    "owner": "Microsoft"
+    "domains": []
   },
   {
     "name": "X10",
@@ -5289,8 +5233,7 @@
     "sector": "",
     "country": "",
     "description": "",
-    "domains": [],
-    "owner": "Yahoo"
+    "domains": []
   },
   {
     "name": "Z shell",
@@ -5370,8 +5313,7 @@
     "description": "Unified data analytics platform",
     "domains": [
       "AI/ML"
-    ],
-    "owner": "Databricks"
+    ]
   },
   {
     "name": "DoorDash",
@@ -5591,8 +5533,7 @@
     "description": "",
     "domains": [
       "AI/ML"
-    ],
-    "owner": "Stripe"
+    ]
   },
   {
     "name": "\"Collaborative online office solutions\"",
@@ -5812,8 +5753,7 @@
     "description": "",
     "domains": [
       "AI/ML"
-    ],
-    "owner": "Microsoft"
+    ]
   },
   {
     "name": "\"Embarcadero Delphi Product Page\"",
@@ -6077,8 +6017,7 @@
     "description": "",
     "domains": [
       "AI/ML"
-    ],
-    "owner": "Apple"
+    ]
   },
   {
     "name": "\"Magento 2.4 system requirements - Magento 2 Developer Documentation\"",
@@ -6430,8 +6369,7 @@
     "description": "",
     "domains": [
       "AI/ML"
-    ],
-    "owner": "Zoho"
+    ]
   },
   {
     "name": "\"ProjectLibre:open source replacement of MS Project\"",
@@ -6684,8 +6622,7 @@
     "description": "",
     "domains": [
       "AI/ML"
-    ],
-    "owner": "Apple"
+    ]
   },
   {
     "name": "\"System Requirements - Known Documentation\"",
@@ -6982,8 +6919,7 @@
     "description": "",
     "domains": [
       "AI/ML"
-    ],
-    "owner": "Microsoft"
+    ]
   },
   {
     "name": "10.1145/3563835.3567663",
@@ -7071,8 +7007,7 @@
     "description": "",
     "domains": [
       "AI/ML"
-    ],
-    "owner": "Adobe"
+    ]
   },
   {
     "name": "Adobe Business Catalyst",
@@ -7083,8 +7018,7 @@
     "description": "",
     "domains": [
       "AI/ML"
-    ],
-    "owner": "Adobe"
+    ]
   },
   {
     "name": "Adobe Dreamweaver",
@@ -7095,8 +7029,7 @@
     "description": "",
     "domains": [
       "AI/ML"
-    ],
-    "owner": "Adobe"
+    ]
   },
   {
     "name": "Adobe Experience Manager",
@@ -7107,8 +7040,7 @@
     "description": "",
     "domains": [
       "AI/ML"
-    ],
-    "owner": "Adobe"
+    ]
   },
   {
     "name": "Adobe Flash Builder",
@@ -7119,8 +7051,7 @@
     "description": "",
     "domains": [
       "AI/ML"
-    ],
-    "owner": "Adobe"
+    ]
   },
   {
     "name": "Adobe Systems",
@@ -7131,8 +7062,7 @@
     "description": "",
     "domains": [
       "AI/ML"
-    ],
-    "owner": "Adobe"
+    ]
   },
   {
     "name": "AFL Ver. 3",
@@ -7187,8 +7117,7 @@
     "description": "",
     "domains": [
       "AI/ML"
-    ],
-    "owner": "IBM"
+    ]
   },
   {
     "name": "Alchemy CMS",
@@ -7254,8 +7183,7 @@
     "description": "Cloud services",
     "domains": [
       "AI/ML"
-    ],
-    "owner": "Amazon"
+    ]
   },
   {
     "name": "Ametys CMS",
@@ -7530,8 +7458,7 @@
     "description": "",
     "domains": [
       "AI/ML"
-    ],
-    "owner": "Apple"
+    ]
   },
   {
     "name": "Apple iWork",
@@ -7542,8 +7469,7 @@
     "description": "",
     "domains": [
       "AI/ML"
-    ],
-    "owner": "Apple"
+    ]
   },
   {
     "name": "Apps Marketplace Profile",
@@ -7554,8 +7480,7 @@
     "description": "",
     "domains": [
       "AI/ML"
-    ],
-    "owner": "Google"
+    ]
   },
   {
     "name": "Aptana Studio",
@@ -7632,8 +7557,7 @@
     "description": "",
     "domains": [
       "AI/ML"
-    ],
-    "owner": "Microsoft"
+    ]
   },
   {
     "name": "Assembla",
@@ -7710,8 +7634,7 @@
     "description": "",
     "domains": [
       "AI/ML"
-    ],
-    "owner": "Amazon"
+    ]
   },
   {
     "name": "Axosoft",
@@ -7821,8 +7744,7 @@
     "description": "",
     "domains": [
       "AI/ML"
-    ],
-    "owner": "Oracle"
+    ]
   },
   {
     "name": "BigGantt",
@@ -8339,8 +8261,7 @@
     "description": "",
     "domains": [
       "AI/ML"
-    ],
-    "owner": "Apple"
+    ]
   },
   {
     "name": "Click analytics",
@@ -8450,8 +8371,7 @@
     "description": "",
     "domains": [
       "AI/ML"
-    ],
-    "owner": "Apple"
+    ]
   },
   {
     "name": "Cocoa text system",
@@ -8462,8 +8382,7 @@
     "description": "",
     "domains": [
       "AI/ML"
-    ],
-    "owner": "Apple"
+    ]
   },
   {
     "name": "Cocoa Touch",
@@ -8474,8 +8393,7 @@
     "description": "",
     "domains": [
       "AI/ML"
-    ],
-    "owner": "Apple"
+    ]
   },
   {
     "name": "Coda",
@@ -8508,8 +8426,7 @@
     "description": "",
     "domains": [
       "AI/ML"
-    ],
-    "owner": "Microsoft"
+    ]
   },
   {
     "name": "Code refactoring",
@@ -8883,8 +8800,7 @@
     "description": "",
     "domains": [
       "AI/ML"
-    ],
-    "owner": "Adobe"
+    ]
   },
   {
     "name": "de",
@@ -8917,8 +8833,7 @@
     "description": "",
     "domains": [
       "AI/ML"
-    ],
-    "owner": "Microsoft"
+    ]
   },
   {
     "name": "Decoda",
@@ -9094,8 +9009,7 @@
     "description": "",
     "domains": [
       "AI/ML"
-    ],
-    "owner": "Microsoft"
+    ]
   },
   {
     "name": "Domain Technologie Control",
@@ -9392,8 +9306,7 @@
     "description": "",
     "domains": [
       "AI/ML"
-    ],
-    "owner": "Microsoft"
+    ]
   },
   {
     "name": "EDT",
@@ -9646,8 +9559,7 @@
     "description": "",
     "domains": [
       "AI/ML"
-    ],
-    "owner": "Microsoft"
+    ]
   },
   {
     "name": "Exponent CMS",
@@ -9746,8 +9658,7 @@
     "description": "",
     "domains": [
       "AI/ML"
-    ],
-    "owner": "Google"
+    ]
   },
   {
     "name": "flame graph",
@@ -9769,8 +9680,7 @@
     "description": "",
     "domains": [
       "AI/ML"
-    ],
-    "owner": "Adobe"
+    ]
   },
   {
     "name": "FogBugz",
@@ -10353,8 +10263,7 @@
     "description": "",
     "domains": [
       "AI/ML"
-    ],
-    "owner": "Google"
+    ]
   },
   {
     "name": "Google Cloud",
@@ -10365,8 +10274,7 @@
     "description": "Cloud platform",
     "domains": [
       "AI/ML"
-    ],
-    "owner": "Google"
+    ]
   },
   {
     "name": "Google Domains",
@@ -10377,8 +10285,7 @@
     "description": "",
     "domains": [
       "AI/ML"
-    ],
-    "owner": "Google"
+    ]
   },
   {
     "name": "Google Inc.",
@@ -10389,8 +10296,7 @@
     "description": "",
     "domains": [
       "AI/ML"
-    ],
-    "owner": "Google"
+    ]
   },
   {
     "name": "Google Sheets",
@@ -10401,8 +10307,7 @@
     "description": "",
     "domains": [
       "AI/ML"
-    ],
-    "owner": "Google"
+    ]
   },
   {
     "name": "Google Workspace",
@@ -10413,8 +10318,7 @@
     "description": "",
     "domains": [
       "AI/ML"
-    ],
-    "owner": "Google"
+    ]
   },
   {
     "name": "GPL",
@@ -10590,8 +10494,7 @@
     "description": "",
     "domains": [
       "AI/ML"
-    ],
-    "owner": "Microsoft"
+    ]
   },
   {
     "name": "Hostinger",
@@ -10789,8 +10692,7 @@
     "description": "",
     "domains": [
       "AI/ML"
-    ],
-    "owner": "IBM"
+    ]
   },
   {
     "name": "IBM Enterprise Content Management",
@@ -10801,8 +10703,7 @@
     "description": "",
     "domains": [
       "AI/ML"
-    ],
-    "owner": "IBM"
+    ]
   },
   {
     "name": "IBM Lotus Domino",
@@ -10813,8 +10714,7 @@
     "description": "",
     "domains": [
       "AI/ML"
-    ],
-    "owner": "IBM"
+    ]
   },
   {
     "name": "IBM Lotus Symphony",
@@ -10825,8 +10725,7 @@
     "description": "",
     "domains": [
       "AI/ML"
-    ],
-    "owner": "IBM"
+    ]
   },
   {
     "name": "IBM mainframes",
@@ -10837,8 +10736,7 @@
     "description": "",
     "domains": [
       "AI/ML"
-    ],
-    "owner": "IBM"
+    ]
   },
   {
     "name": "IDE",
@@ -10981,8 +10879,7 @@
     "description": "",
     "domains": [
       "AI/ML"
-    ],
-    "owner": "Apple"
+    ]
   },
   {
     "name": "IPM",
@@ -11070,8 +10967,7 @@
     "description": "",
     "domains": [
       "AI/ML"
-    ],
-    "owner": "Oracle"
+    ]
   },
   {
     "name": "JBuilder",
@@ -11104,8 +11000,7 @@
     "description": "",
     "domains": [
       "AI/ML"
-    ],
-    "owner": "Oracle"
+    ]
   },
   {
     "name": "JED",
@@ -11193,8 +11088,7 @@
     "description": "",
     "domains": [
       "AI/ML"
-    ],
-    "owner": "Google"
+    ]
   },
   {
     "name": "JPRS",
@@ -11656,8 +11550,7 @@
     "description": "Data platform by Google Cloud",
     "domains": [
       "AI/ML"
-    ],
-    "owner": "Google"
+    ]
   },
   {
     "name": "Lotus Improv",
@@ -11679,8 +11572,7 @@
     "description": "",
     "domains": [
       "AI/ML"
-    ],
-    "owner": "IBM"
+    ]
   },
   {
     "name": "Lotus Symphony",
@@ -11724,8 +11616,7 @@
     "description": "",
     "domains": [
       "AI/ML"
-    ],
-    "owner": "Apple"
+    ]
   },
   {
     "name": "macOS",
@@ -11736,8 +11627,7 @@
     "description": "",
     "domains": [
       "AI/ML"
-    ],
-    "owner": "Apple"
+    ]
   },
   {
     "name": "Macros",
@@ -11748,8 +11638,7 @@
     "description": "",
     "domains": [
       "AI/ML"
-    ],
-    "owner": "IBM"
+    ]
   },
   {
     "name": "Maemo",
@@ -11881,8 +11770,7 @@
     "description": "Open-source business intelligence",
     "domains": [
       "AI/ML"
-    ],
-    "owner": "Meta"
+    ]
   },
   {
     "name": "Metapad",
@@ -11893,8 +11781,7 @@
     "description": "",
     "domains": [
       "AI/ML"
-    ],
-    "owner": "Meta"
+    ]
   },
   {
     "name": "mg",
@@ -11938,8 +11825,7 @@
     "description": "",
     "domains": [
       "AI/ML"
-    ],
-    "owner": "Microsoft"
+    ]
   },
   {
     "name": "Microsoft Azure",
@@ -11950,8 +11836,7 @@
     "description": "Cloud platform",
     "domains": [
       "AI/ML"
-    ],
-    "owner": "Microsoft"
+    ]
   },
   {
     "name": "Microsoft Azure SQL",
@@ -11962,8 +11847,7 @@
     "description": "",
     "domains": [
       "AI/ML"
-    ],
-    "owner": "Microsoft"
+    ]
   },
   {
     "name": "Microsoft Dynamics AX",
@@ -11974,8 +11858,7 @@
     "description": "",
     "domains": [
       "AI/ML"
-    ],
-    "owner": "Microsoft"
+    ]
   },
   {
     "name": "Microsoft Excel",
@@ -11986,8 +11869,7 @@
     "description": "Spreadsheet software",
     "domains": [
       "AI/ML"
-    ],
-    "owner": "Microsoft"
+    ]
   },
   {
     "name": "Microsoft Office",
@@ -11998,8 +11880,7 @@
     "description": "",
     "domains": [
       "AI/ML"
-    ],
-    "owner": "Microsoft"
+    ]
   },
   {
     "name": "Microsoft Office Project Server",
@@ -12010,8 +11891,7 @@
     "description": "",
     "domains": [
       "AI/ML"
-    ],
-    "owner": "Microsoft"
+    ]
   },
   {
     "name": "Microsoft Power BI",
@@ -12022,8 +11902,7 @@
     "description": "Business analytics service",
     "domains": [
       "AI/ML"
-    ],
-    "owner": "Microsoft"
+    ]
   },
   {
     "name": "Microsoft Project",
@@ -12034,8 +11913,7 @@
     "description": "",
     "domains": [
       "AI/ML"
-    ],
-    "owner": "Microsoft"
+    ]
   },
   {
     "name": "Microsoft SharePoint Server",
@@ -12046,8 +11924,7 @@
     "description": "",
     "domains": [
       "AI/ML"
-    ],
-    "owner": "Microsoft"
+    ]
   },
   {
     "name": "Microsoft Small Basic",
@@ -12058,8 +11935,7 @@
     "description": "",
     "domains": [
       "AI/ML"
-    ],
-    "owner": "Microsoft"
+    ]
   },
   {
     "name": "Microsoft Team Foundation Server",
@@ -12070,8 +11946,7 @@
     "description": "",
     "domains": [
       "AI/ML"
-    ],
-    "owner": "Microsoft"
+    ]
   },
   {
     "name": "Microsoft Visual Studio",
@@ -12082,8 +11957,7 @@
     "description": "",
     "domains": [
       "AI/ML"
-    ],
-    "owner": "Microsoft"
+    ]
   },
   {
     "name": "Microsoft Windows",
@@ -12094,8 +11968,7 @@
     "description": "",
     "domains": [
       "AI/ML"
-    ],
-    "owner": "Microsoft"
+    ]
   },
   {
     "name": "MicroStrategy",
@@ -12205,8 +12078,7 @@
     "description": "",
     "domains": [
       "AI/ML"
-    ],
-    "owner": "IBM"
+    ]
   },
   {
     "name": "mod_perl",
@@ -12657,8 +12529,7 @@
     "description": "",
     "domains": [
       "AI/ML"
-    ],
-    "owner": "Microsoft"
+    ]
   },
   {
     "name": "Notepad++",
@@ -12669,8 +12540,7 @@
     "description": "",
     "domains": [
       "AI/ML"
-    ],
-    "owner": "Microsoft"
+    ]
   },
   {
     "name": "Novell",
@@ -12747,8 +12617,7 @@
     "description": "",
     "domains": [
       "AI/ML"
-    ],
-    "owner": "Apple"
+    ]
   },
   {
     "name": "Nuxeo EP",
@@ -12770,8 +12639,7 @@
     "description": "",
     "domains": [
       "AI/ML"
-    ],
-    "owner": "Google"
+    ]
   },
   {
     "name": "O26",
@@ -13101,8 +12969,7 @@
     "description": "",
     "domains": [
       "AI/ML"
-    ],
-    "owner": "Oracle"
+    ]
   },
   {
     "name": "Oracle Developer Studio",
@@ -13113,8 +12980,7 @@
     "description": "",
     "domains": [
       "AI/ML"
-    ],
-    "owner": "Oracle"
+    ]
   },
   {
     "name": "Oracle JDeveloper",
@@ -13125,8 +12991,7 @@
     "description": "",
     "domains": [
       "AI/ML"
-    ],
-    "owner": "Oracle"
+    ]
   },
   {
     "name": "Oracle Primavera EPPM",
@@ -13137,8 +13002,7 @@
     "description": "",
     "domains": [
       "AI/ML"
-    ],
-    "owner": "Oracle"
+    ]
   },
   {
     "name": "Orchard Project",
@@ -13710,8 +13574,7 @@
     "description": "",
     "domains": [
       "AI/ML"
-    ],
-    "owner": "IBM"
+    ]
   },
   {
     "name": "Profiling",
@@ -13722,8 +13585,7 @@
     "description": "",
     "domains": [
       "AI/ML"
-    ],
-    "owner": "IBM"
+    ]
   },
   {
     "name": "Project KickStart",
@@ -14086,8 +13948,7 @@
     "description": "",
     "domains": [
       "AI/ML"
-    ],
-    "owner": "Microsoft"
+    ]
   },
   {
     "name": "R Tools for Visual Studio",
@@ -14098,8 +13959,7 @@
     "description": "",
     "domains": [
       "AI/ML"
-    ],
-    "owner": "Microsoft"
+    ]
   },
   {
     "name": "Railo",
@@ -14132,8 +13992,7 @@
     "description": "",
     "domains": [
       "AI/ML"
-    ],
-    "owner": "IBM"
+    ]
   },
   {
     "name": "RationalPlan",
@@ -14353,8 +14212,7 @@
     "description": "",
     "domains": [
       "AI/ML"
-    ],
-    "owner": "SAP"
+    ]
   },
   {
     "name": "SAP BusinessObjects",
@@ -14365,8 +14223,7 @@
     "description": "Business intelligence suite",
     "domains": [
       "AI/ML"
-    ],
-    "owner": "SAP"
+    ]
   },
   {
     "name": "SASM",
@@ -14531,8 +14388,7 @@
     "description": "",
     "domains": [
       "AI/ML"
-    ],
-    "owner": "Microsoft"
+    ]
   },
   {
     "name": "SharpDevelop",
@@ -14609,8 +14465,7 @@
     "description": "",
     "domains": [
       "AI/ML"
-    ],
-    "owner": "Stripe"
+    ]
   },
   {
     "name": "SimpleText",
@@ -14621,8 +14476,7 @@
     "description": "",
     "domains": [
       "AI/ML"
-    ],
-    "owner": "Apple"
+    ]
   },
   {
     "name": "Simply Fortran",
@@ -14666,8 +14520,7 @@
     "description": "",
     "domains": [
       "AI/ML"
-    ],
-    "owner": "Oracle"
+    ]
   },
   {
     "name": "SLIME",
@@ -14744,8 +14597,7 @@
     "description": "",
     "domains": [
       "AI/ML"
-    ],
-    "owner": "Oracle"
+    ]
   },
   {
     "name": "source code",
@@ -14866,8 +14718,7 @@
     "description": "",
     "domains": [
       "AI/ML"
-    ],
-    "owner": "Microsoft"
+    ]
   },
   {
     "name": "SQL CE",
@@ -14878,8 +14729,7 @@
     "description": "",
     "domains": [
       "AI/ML"
-    ],
-    "owner": "Microsoft"
+    ]
   },
   {
     "name": "SQL Server",
@@ -14890,8 +14740,7 @@
     "description": "",
     "domains": [
       "AI/ML"
-    ],
-    "owner": "Microsoft"
+    ]
   },
   {
     "name": "SQLite",
@@ -15056,8 +14905,7 @@
     "description": "",
     "domains": [
       "AI/ML"
-    ],
-    "owner": "Apple"
+    ]
   },
   {
     "name": "T/Maker",
@@ -15134,8 +14982,7 @@
     "description": "",
     "domains": [
       "AI/ML"
-    ],
-    "owner": "Apple"
+    ]
   },
   {
     "name": "Teamcenter",
@@ -15806,8 +15653,7 @@
     "description": "",
     "domains": [
       "AI/ML"
-    ],
-    "owner": "Microsoft"
+    ]
   },
   {
     "name": "Visual Studio Code",
@@ -15851,8 +15697,7 @@
     "description": "",
     "domains": [
       "AI/ML"
-    ],
-    "owner": "IBM"
+    ]
   },
   {
     "name": "Vpmi",
@@ -16028,8 +15873,7 @@
     "description": "",
     "domains": [
       "AI/ML"
-    ],
-    "owner": "Microsoft"
+    ]
   },
   {
     "name": "Widget toolkit",
@@ -16084,8 +15928,7 @@
     "description": "",
     "domains": [
       "AI/ML"
-    ],
-    "owner": "Microsoft"
+    ]
   },
   {
     "name": "Windows Forms",
@@ -16096,8 +15939,7 @@
     "description": "",
     "domains": [
       "AI/ML"
-    ],
-    "owner": "Microsoft"
+    ]
   },
   {
     "name": "Wine",
@@ -16218,8 +16060,7 @@
     "description": "",
     "domains": [
       "AI/ML"
-    ],
-    "owner": "Microsoft"
+    ]
   },
   {
     "name": "WPS Office",
@@ -16307,8 +16148,7 @@
     "description": "",
     "domains": [
       "AI/ML"
-    ],
-    "owner": "Apple"
+    ]
   },
   {
     "name": "Xed",
@@ -16451,8 +16291,7 @@
     "description": "",
     "domains": [
       "AI/ML"
-    ],
-    "owner": "Zoho"
+    ]
   },
   {
     "name": "Zoho Sheet",
@@ -16463,8 +16302,7 @@
     "description": "",
     "domains": [
       "AI/ML"
-    ],
-    "owner": "Zoho"
+    ]
   },
   {
     "name": "Zope",

@@ -1,0 +1,983 @@
+{
+  "total": 1611,
+  "assigned": 162,
+  "by_method": {
+    "special": 5,
+    "domain": 140,
+    "name": 17
+  },
+  "samples": [
+    {
+      "index": 3,
+      "name": "Databricks",
+      "owner": "Databricks",
+      "method": "special"
+    },
+    {
+      "index": 4,
+      "name": "Google DeepMind / Google AI",
+      "owner": "Google",
+      "method": "domain"
+    },
+    {
+      "index": 6,
+      "name": "Meta AI",
+      "owner": "Meta",
+      "method": "domain"
+    },
+    {
+      "index": 8,
+      "name": "MLflow",
+      "owner": "Databricks",
+      "method": "special"
+    },
+    {
+      "index": 10,
+      "name": "PyTorch",
+      "owner": "Meta",
+      "method": "special"
+    },
+    {
+      "index": 13,
+      "name": "TensorFlow",
+      "owner": "Google",
+      "method": "special"
+    },
+    {
+      "index": 14,
+      "name": "Alibaba Cloud",
+      "owner": "Alibaba",
+      "method": "domain"
+    },
+    {
+      "index": 15,
+      "name": "Amazon Web Services (AWS)",
+      "owner": "Amazon",
+      "method": "domain"
+    },
+    {
+      "index": 17,
+      "name": "Google Cloud Platform",
+      "owner": "Google",
+      "method": "domain"
+    },
+    {
+      "index": 19,
+      "name": "IBM Cloud",
+      "owner": "IBM",
+      "method": "domain"
+    },
+    {
+      "index": 21,
+      "name": "Microsoft Azure",
+      "owner": "Microsoft",
+      "method": "domain"
+    },
+    {
+      "index": 22,
+      "name": "Oracle Cloud",
+      "owner": "Oracle",
+      "method": "domain"
+    },
+    {
+      "index": 38,
+      "name": "ABAP",
+      "owner": "SAP",
+      "method": "domain"
+    },
+    {
+      "index": 41,
+      "name": "Accent (Rational Synergy)",
+      "owner": "IBM",
+      "method": "domain"
+    },
+    {
+      "index": 43,
+      "name": "ActionScript",
+      "owner": "Adobe",
+      "method": "domain"
+    },
+    {
+      "index": 65,
+      "name": "Apex (Salesforce.com, Inc)",
+      "owner": "Salesforce",
+      "method": "domain"
+    },
+    {
+      "index": 68,
+      "name": "AppleScript",
+      "owner": "Apple",
+      "method": "domain"
+    },
+    {
+      "index": 72,
+      "name": "Assembly language",
+      "owner": "IBM",
+      "method": "domain"
+    },
+    {
+      "index": 80,
+      "name": "Axum",
+      "owner": "Microsoft",
+      "method": "domain"
+    },
+    {
+      "index": 83,
+      "name": "Batch file (Windows/MS-DOS)",
+      "owner": "Microsoft",
+      "method": "domain"
+    },
+    {
+      "index": 90,
+      "name": "Blockly",
+      "owner": "Google",
+      "method": "domain"
+    },
+    {
+      "index": 94,
+      "name": "Bosque",
+      "owner": "Microsoft",
+      "method": "domain"
+    },
+    {
+      "index": 96,
+      "name": "C/AL",
+      "owner": "Microsoft",
+      "method": "domain"
+    },
+    {
+      "index": 106,
+      "name": "CESIL (Computer Education in Schools Instruction Language)",
+      "owner": "Google",
+      "method": "domain"
+    },
+    {
+      "index": 120,
+      "name": "classic",
+      "owner": "Microsoft",
+      "method": "domain"
+    },
+    {
+      "index": 165,
+      "name": "Easy PL/I",
+      "owner": "IBM",
+      "method": "domain"
+    },
+    {
+      "index": 223,
+      "name": "Google Apps Script",
+      "owner": "Google",
+      "method": "domain"
+    },
+    {
+      "index": 248,
+      "name": "IBM Basic assembly language",
+      "owner": "IBM",
+      "method": "domain"
+    },
+    {
+      "index": 249,
+      "name": "IBM Informix-4GL",
+      "owner": "IBM",
+      "method": "name"
+    },
+    {
+      "index": 257,
+      "name": "J# (J sharp)",
+      "owner": "Microsoft",
+      "method": "domain"
+    },
+    {
+      "index": 258,
+      "name": "J++ (J plus plus)",
+      "owner": "Microsoft",
+      "method": "domain"
+    },
+    {
+      "index": 265,
+      "name": "Java",
+      "owner": "Oracle",
+      "method": "domain"
+    },
+    {
+      "index": 271,
+      "name": "JScript",
+      "owner": "Microsoft",
+      "method": "domain"
+    },
+    {
+      "index": 272,
+      "name": "JScript .NET",
+      "owner": "Microsoft",
+      "method": "domain"
+    },
+    {
+      "index": 294,
+      "name": "Lingo",
+      "owner": "Adobe",
+      "method": "domain"
+    },
+    {
+      "index": 295,
+      "name": "LINQ",
+      "owner": "Microsoft",
+      "method": "domain"
+    },
+    {
+      "index": 304,
+      "name": "LotusScript",
+      "owner": "IBM",
+      "method": "domain"
+    },
+    {
+      "index": 310,
+      "name": "Lucid",
+      "owner": "Google",
+      "method": "domain"
+    },
+    {
+      "index": 314,
+      "name": "M Formula language",
+      "owner": "Microsoft",
+      "method": "domain"
+    },
+    {
+      "index": 322,
+      "name": "MASM Microsoft Assembly x86",
+      "owner": "Microsoft",
+      "method": "domain"
+    },
+    {
+      "index": 332,
+      "name": "Microsoft Power Fx",
+      "owner": "Microsoft",
+      "method": "domain"
+    },
+    {
+      "index": 348,
+      "name": "MUMPS",
+      "owner": "Google",
+      "method": "domain"
+    },
+    {
+      "index": 356,
+      "name": "Net.Data",
+      "owner": "IBM",
+      "method": "domain"
+    },
+    {
+      "index": 371,
+      "name": "Object Lisp",
+      "owner": "Google",
+      "method": "domain"
+    },
+    {
+      "index": 374,
+      "name": "Objective-C",
+      "owner": "Apple",
+      "method": "domain"
+    },
+    {
+      "index": 375,
+      "name": "Objective-C++",
+      "owner": "Apple",
+      "method": "domain"
+    },
+    {
+      "index": 401,
+      "name": "PeopleCode",
+      "owner": "Oracle",
+      "method": "domain"
+    },
+    {
+      "index": 429,
+      "name": "PowerShell",
+      "owner": "Microsoft",
+      "method": "domain"
+    },
+    {
+      "index": 434,
+      "name": "Project Verona",
+      "owner": "Microsoft",
+      "method": "domain"
+    },
+    {
+      "index": 467,
+      "name": "Sawzall",
+      "owner": "Google",
+      "method": "domain"
+    },
+    {
+      "index": 514,
+      "name": "Swift",
+      "owner": "Apple",
+      "method": "domain"
+    },
+    {
+      "index": 515,
+      "name": "Swift (Apple programming language)",
+      "owner": "Apple",
+      "method": "name"
+    },
+    {
+      "index": 519,
+      "name": "T-SQL (Transact-SQL)",
+      "owner": "Microsoft",
+      "method": "domain"
+    },
+    {
+      "index": 547,
+      "name": "Visual FoxPro",
+      "owner": "Microsoft",
+      "method": "domain"
+    },
+    {
+      "index": 548,
+      "name": "Visual Objects",
+      "owner": "Google",
+      "method": "domain"
+    },
+    {
+      "index": 555,
+      "name": "X++ (X plus plus/Microsoft Dynamics AX)",
+      "owner": "Microsoft",
+      "method": "domain"
+    },
+    {
+      "index": 571,
+      "name": "YQL",
+      "owner": "Yahoo",
+      "method": "domain"
+    },
+    {
+      "index": 579,
+      "name": "Databricks",
+      "owner": "Databricks",
+      "method": "special"
+    },
+    {
+      "index": 599,
+      "name": "\"BSD License » SilverStripe\"",
+      "owner": "Stripe",
+      "method": "name"
+    },
+    {
+      "index": 619,
+      "name": "\"Edit Python code - Visual Studio (Windows)\"",
+      "owner": "Microsoft",
+      "method": "domain"
+    },
+    {
+      "index": 643,
+      "name": "\"Mac Basics: TextEdit\"",
+      "owner": "Apple",
+      "method": "domain"
+    },
+    {
+      "index": 675,
+      "name": "\"Project Management Tools | Features : Zoho Projects\"",
+      "owner": "Zoho",
+      "method": "domain"
+    },
+    {
+      "index": 698,
+      "name": "\"System 2.0 (4.1/5.5) 800K Disk Contents (9/93)\"",
+      "owner": "Apple",
+      "method": "domain"
+    },
+    {
+      "index": 725,
+      "name": ".NET",
+      "owner": "Microsoft",
+      "method": "domain"
+    },
+    {
+      "index": 733,
+      "name": "Adobe Animate",
+      "owner": "Adobe",
+      "method": "domain"
+    },
+    {
+      "index": 734,
+      "name": "Adobe Business Catalyst",
+      "owner": "Adobe",
+      "method": "name"
+    },
+    {
+      "index": 735,
+      "name": "Adobe Dreamweaver",
+      "owner": "Adobe",
+      "method": "domain"
+    },
+    {
+      "index": 736,
+      "name": "Adobe Experience Manager",
+      "owner": "Adobe",
+      "method": "domain"
+    },
+    {
+      "index": 737,
+      "name": "Adobe Flash Builder",
+      "owner": "Adobe",
+      "method": "domain"
+    },
+    {
+      "index": 738,
+      "name": "Adobe Systems",
+      "owner": "Adobe",
+      "method": "domain"
+    },
+    {
+      "index": 743,
+      "name": "AIX",
+      "owner": "IBM",
+      "method": "domain"
+    },
+    {
+      "index": 749,
+      "name": "Amazon Web Services",
+      "owner": "Amazon",
+      "method": "domain"
+    },
+    {
+      "index": 774,
+      "name": "Apple II",
+      "owner": "Apple",
+      "method": "name"
+    },
+    {
+      "index": 775,
+      "name": "Apple iWork",
+      "owner": "Apple",
+      "method": "domain"
+    },
+    {
+      "index": 776,
+      "name": "Apps Marketplace Profile",
+      "owner": "Google",
+      "method": "domain"
+    },
+    {
+      "index": 783,
+      "name": "ASP.NET",
+      "owner": "Microsoft",
+      "method": "domain"
+    },
+    {
+      "index": 790,
+      "name": "AWS Aurora",
+      "owner": "Amazon",
+      "method": "domain"
+    },
+    {
+      "index": 800,
+      "name": "Berkeley DB",
+      "owner": "Oracle",
+      "method": "domain"
+    },
+    {
+      "index": 847,
+      "name": "Classic Mac OS",
+      "owner": "Apple",
+      "method": "domain"
+    },
+    {
+      "index": 857,
+      "name": "Cocoa",
+      "owner": "Apple",
+      "method": "domain"
+    },
+    {
+      "index": 858,
+      "name": "Cocoa text system",
+      "owner": "Apple",
+      "method": "domain"
+    },
+    {
+      "index": 859,
+      "name": "Cocoa Touch",
+      "owner": "Apple",
+      "method": "domain"
+    },
+    {
+      "index": 862,
+      "name": "Code coverage",
+      "owner": "Microsoft",
+      "method": "domain"
+    },
+    {
+      "index": 896,
+      "name": "Day",
+      "owner": "Adobe",
+      "method": "domain"
+    },
+    {
+      "index": 899,
+      "name": "Debugger",
+      "owner": "Microsoft",
+      "method": "domain"
+    },
+    {
+      "index": 915,
+      "name": "Domain name",
+      "owner": "Microsoft",
+      "method": "domain"
+    },
+    {
+      "index": 942,
+      "name": "EDLIN",
+      "owner": "Microsoft",
+      "method": "domain"
+    },
+    {
+      "index": 965,
+      "name": "Excel",
+      "owner": "Microsoft",
+      "method": "domain"
+    },
+    {
+      "index": 974,
+      "name": "Firebase Studio",
+      "owner": "Google",
+      "method": "domain"
+    },
+    {
+      "index": 976,
+      "name": "Flash",
+      "owner": "Adobe",
+      "method": "domain"
+    },
+    {
+      "index": 1029,
+      "name": "Google Apps",
+      "owner": "Google",
+      "method": "domain"
+    },
+    {
+      "index": 1030,
+      "name": "Google Cloud",
+      "owner": "Google",
+      "method": "domain"
+    },
+    {
+      "index": 1031,
+      "name": "Google Domains",
+      "owner": "Google",
+      "method": "name"
+    },
+    {
+      "index": 1032,
+      "name": "Google Inc.",
+      "owner": "Google",
+      "method": "name"
+    },
+    {
+      "index": 1033,
+      "name": "Google Sheets",
+      "owner": "Google",
+      "method": "domain"
+    },
+    {
+      "index": 1034,
+      "name": "Google Workspace",
+      "owner": "Google",
+      "method": "domain"
+    },
+    {
+      "index": 1050,
+      "name": "Hosted on-premises",
+      "owner": "Microsoft",
+      "method": "domain"
+    },
+    {
+      "index": 1068,
+      "name": "IBM Db2",
+      "owner": "IBM",
+      "method": "domain"
+    },
+    {
+      "index": 1069,
+      "name": "IBM Enterprise Content Management",
+      "owner": "IBM",
+      "method": "domain"
+    },
+    {
+      "index": 1070,
+      "name": "IBM Lotus Domino",
+      "owner": "IBM",
+      "method": "name"
+    },
+    {
+      "index": 1071,
+      "name": "IBM Lotus Symphony",
+      "owner": "IBM",
+      "method": "name"
+    },
+    {
+      "index": 1072,
+      "name": "IBM mainframes",
+      "owner": "IBM",
+      "method": "domain"
+    },
+    {
+      "index": 1085,
+      "name": "iOS",
+      "owner": "Apple",
+      "method": "domain"
+    },
+    {
+      "index": 1093,
+      "name": "Java Swing",
+      "owner": "Oracle",
+      "method": "domain"
+    },
+    {
+      "index": 1096,
+      "name": "JDeveloper",
+      "owner": "Oracle",
+      "method": "domain"
+    },
+    {
+      "index": 1104,
+      "name": "JotSpot",
+      "owner": "Google",
+      "method": "domain"
+    },
+    {
+      "index": 1146,
+      "name": "Looker",
+      "owner": "Google",
+      "method": "domain"
+    },
+    {
+      "index": 1148,
+      "name": "Lotus SmartSuite",
+      "owner": "IBM",
+      "method": "domain"
+    },
+    {
+      "index": 1152,
+      "name": "Macintosh",
+      "owner": "Apple",
+      "method": "domain"
+    },
+    {
+      "index": 1153,
+      "name": "macOS",
+      "owner": "Apple",
+      "method": "domain"
+    },
+    {
+      "index": 1154,
+      "name": "Macros",
+      "owner": "IBM",
+      "method": "domain"
+    },
+    {
+      "index": 1166,
+      "name": "Metabase",
+      "owner": "Meta",
+      "method": "name"
+    },
+    {
+      "index": 1167,
+      "name": "Metapad",
+      "owner": "Meta",
+      "method": "name"
+    },
+    {
+      "index": 1171,
+      "name": "Microsoft 365",
+      "owner": "Microsoft",
+      "method": "name"
+    },
+    {
+      "index": 1172,
+      "name": "Microsoft Azure",
+      "owner": "Microsoft",
+      "method": "domain"
+    },
+    {
+      "index": 1173,
+      "name": "Microsoft Azure SQL",
+      "owner": "Microsoft",
+      "method": "domain"
+    },
+    {
+      "index": 1174,
+      "name": "Microsoft Dynamics AX",
+      "owner": "Microsoft",
+      "method": "domain"
+    },
+    {
+      "index": 1175,
+      "name": "Microsoft Excel",
+      "owner": "Microsoft",
+      "method": "domain"
+    },
+    {
+      "index": 1176,
+      "name": "Microsoft Office",
+      "owner": "Microsoft",
+      "method": "name"
+    },
+    {
+      "index": 1177,
+      "name": "Microsoft Office Project Server",
+      "owner": "Microsoft",
+      "method": "name"
+    },
+    {
+      "index": 1178,
+      "name": "Microsoft Power BI",
+      "owner": "Microsoft",
+      "method": "domain"
+    },
+    {
+      "index": 1179,
+      "name": "Microsoft Project",
+      "owner": "Microsoft",
+      "method": "domain"
+    },
+    {
+      "index": 1180,
+      "name": "Microsoft SharePoint Server",
+      "owner": "Microsoft",
+      "method": "domain"
+    },
+    {
+      "index": 1181,
+      "name": "Microsoft Small Basic",
+      "owner": "Microsoft",
+      "method": "name"
+    },
+    {
+      "index": 1182,
+      "name": "Microsoft Team Foundation Server",
+      "owner": "Microsoft",
+      "method": "domain"
+    },
+    {
+      "index": 1183,
+      "name": "Microsoft Visual Studio",
+      "owner": "Microsoft",
+      "method": "domain"
+    },
+    {
+      "index": 1184,
+      "name": "Microsoft Windows",
+      "owner": "Microsoft",
+      "method": "name"
+    },
+    {
+      "index": 1194,
+      "name": "Mobiles",
+      "owner": "IBM",
+      "method": "domain"
+    },
+    {
+      "index": 1235,
+      "name": "Notepad",
+      "owner": "Microsoft",
+      "method": "domain"
+    },
+    {
+      "index": 1236,
+      "name": "Notepad++",
+      "owner": "Microsoft",
+      "method": "domain"
+    },
+    {
+      "index": 1243,
+      "name": "Numbers",
+      "owner": "Apple",
+      "method": "domain"
+    },
+    {
+      "index": 1245,
+      "name": "nvi",
+      "owner": "Google",
+      "method": "domain"
+    },
+    {
+      "index": 1275,
+      "name": "Oracle Corporation",
+      "owner": "Oracle",
+      "method": "domain"
+    },
+    {
+      "index": 1276,
+      "name": "Oracle Developer Studio",
+      "owner": "Oracle",
+      "method": "domain"
+    },
+    {
+      "index": 1277,
+      "name": "Oracle JDeveloper",
+      "owner": "Oracle",
+      "method": "domain"
+    },
+    {
+      "index": 1278,
+      "name": "Oracle Primavera EPPM",
+      "owner": "Oracle",
+      "method": "domain"
+    },
+    {
+      "index": 1330,
+      "name": "Profiler",
+      "owner": "IBM",
+      "method": "domain"
+    },
+    {
+      "index": 1331,
+      "name": "Profiling",
+      "owner": "IBM",
+      "method": "domain"
+    },
+    {
+      "index": 1364,
+      "name": "QuickPascal",
+      "owner": "Microsoft",
+      "method": "domain"
+    },
+    {
+      "index": 1365,
+      "name": "R Tools for Visual Studio",
+      "owner": "Microsoft",
+      "method": "domain"
+    },
+    {
+      "index": 1368,
+      "name": "Rational Software Architect (Eclipse IBM)",
+      "owner": "IBM",
+      "method": "domain"
+    },
+    {
+      "index": 1388,
+      "name": "SAP Business ByDesign",
+      "owner": "SAP",
+      "method": "domain"
+    },
+    {
+      "index": 1389,
+      "name": "SAP BusinessObjects",
+      "owner": "SAP",
+      "method": "domain"
+    },
+    {
+      "index": 1404,
+      "name": "SharePoint",
+      "owner": "Microsoft",
+      "method": "domain"
+    },
+    {
+      "index": 1411,
+      "name": "Silverstripe CMS",
+      "owner": "Stripe",
+      "method": "name"
+    },
+    {
+      "index": 1412,
+      "name": "SimpleText",
+      "owner": "Apple",
+      "method": "domain"
+    },
+    {
+      "index": 1416,
+      "name": "Sleepycat",
+      "owner": "Oracle",
+      "method": "domain"
+    },
+    {
+      "index": 1423,
+      "name": "Solaris",
+      "owner": "Oracle",
+      "method": "domain"
+    },
+    {
+      "index": 1434,
+      "name": "SQL Azure",
+      "owner": "Microsoft",
+      "method": "domain"
+    },
+    {
+      "index": 1435,
+      "name": "SQL CE",
+      "owner": "Microsoft",
+      "method": "domain"
+    },
+    {
+      "index": 1436,
+      "name": "SQL Server",
+      "owner": "Microsoft",
+      "method": "domain"
+    },
+    {
+      "index": 1451,
+      "name": "System Software 6",
+      "owner": "Apple",
+      "method": "domain"
+    },
+    {
+      "index": 1458,
+      "name": "TeachText",
+      "owner": "Apple",
+      "method": "domain"
+    },
+    {
+      "index": 1519,
+      "name": "Visual Basic .NET",
+      "owner": "Microsoft",
+      "method": "domain"
+    },
+    {
+      "index": 1523,
+      "name": "VM/CMS",
+      "owner": "IBM",
+      "method": "domain"
+    },
+    {
+      "index": 1539,
+      "name": "Website governance",
+      "owner": "Microsoft",
+      "method": "domain"
+    },
+    {
+      "index": 1544,
+      "name": "Windows CE",
+      "owner": "Microsoft",
+      "method": "domain"
+    },
+    {
+      "index": 1545,
+      "name": "Windows Forms",
+      "owner": "Microsoft",
+      "method": "domain"
+    },
+    {
+      "index": 1556,
+      "name": "WPF",
+      "owner": "Microsoft",
+      "method": "domain"
+    },
+    {
+      "index": 1564,
+      "name": "Xcode (Apple)",
+      "owner": "Apple",
+      "method": "domain"
+    },
+    {
+      "index": 1577,
+      "name": "Zoho Projects",
+      "owner": "Zoho",
+      "method": "domain"
+    },
+    {
+      "index": 1578,
+      "name": "Zoho Sheet",
+      "owner": "Zoho",
+      "method": "domain"
+    }
+  ]
+}
