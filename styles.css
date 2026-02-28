@@ -153,6 +153,10 @@ html, body { overflow-x: hidden; }
 /* Ensure main containers don't produce overflow */
 .container, .site-nav, .content { box-sizing: border-box; max-width: 100%; }
 
+/* text wrapping helpers to avoid cropping */
+body, .content, .card, .tabs, .site-nav { word-wrap: break-word; overflow-wrap: break-word; -webkit-font-smoothing:antialiased; }
+img, svg { max-width: 100%; height: auto; }
+
 /* When community is closed keep UI in markup but hidden from users */
 body.community-closed #newDiscussion,
 body.community-closed #discussionsList,
@@ -174,10 +178,11 @@ body.community-closed #importData { display: none !important; }
   .container{padding:0 12px}
   .list{grid-template-columns:repeat(auto-fill,minmax(220px,1fr))}
   .header-row{flex-direction:column;align-items:stretch;gap:10px;padding:8px}
-  .site-nav{width:100%;justify-content:flex-start;gap:8px;overflow-x:auto;padding:8px 0}
+  /* off-canvas mobile nav — stays offscreen until opened via hamburger */
+  .site-nav{width:auto;justify-content:flex-start;gap:8px;padding:8px 0}
   .nav-toggle{display:inline-flex;margin-left:auto}
-  .site-nav{display:none;position:absolute;top:64px;right:12px;background:var(--card-bg);border:1px solid var(--card-border);padding:12px;border-radius:10px;flex-direction:column;min-width:200px;z-index:40}
-  .site-nav.open{display:flex}
+  .site-nav{display:flex;position:fixed;top:64px;right:12px;transform:translateX(110%);transition:transform .22s ease,opacity .18s ease;opacity:0;background:var(--card-bg);border:1px solid var(--card-border);padding:12px;border-radius:10px;flex-direction:column;min-width:200px;z-index:9998;max-height:calc(100vh - 88px);overflow:auto;box-shadow:0 10px 30px rgba(2,6,23,0.6)}
+  .site-nav.open{transform:translateX(0);opacity:1}
   .nav-link{padding:10px 12px}
   .tabs{overflow-x:auto}
   .tab{white-space:nowrap}
@@ -186,28 +191,37 @@ body.community-closed #importData { display: none !important; }
   .controls{gap:10px}
   .filters{flex-direction:column;align-items:stretch}
   #search{width:100%}
-  .logo{font-size:18px}
-  .list{grid-template-columns:1fr;gap:14px}
-  .card{padding:16px}
-  /* keep main nav hidden on small screens — hamburger controls visibility */
-  .site-nav{display:none}
-  .nav-link{padding:12px 14px;font-size:15px}
+  .logo{font-size:16px}
+  .tagline{display:none}
+  .list{grid-template-columns:1fr;gap:12px}
+  .card{padding:14px}
+  /* nav stays off-canvas and opens via hamburger */
+  .site-nav{min-width:180px}
+  .nav-link{padding:10px 12px;font-size:14px}
   .tabs{padding:6px}
-  .tab{padding:10px 12px}
+  .tab{padding:8px 10px;font-size:13px}
   .form-actions{flex-direction:column}
   .btn,.btn-secondary{width:100%}
   .meta{gap:8px}
-  html{font-size:14px}
+  html{font-size:13px}
+
+  /* Improve text wrapping and reduce cropping */
+  .content{font-size:15px}
+  .muted{font-size:12px}
+  .card h3{font-size:16px}
+  .card h3 a{font-size:16px}
 
   /* mobile overlay when nav is opened */
-  .site-nav.open{display:flex;position:fixed;left:12px;right:12px;top:72px;flex-direction:column;background:var(--card-bg);border:1px solid var(--card-border);padding:12px;border-radius:12px;z-index:60;max-height:calc(100vh - 96px);overflow:auto}
-  .nav-toggle{display:inline-flex;margin-left:auto;z-index:9999;position:relative;pointer-events:auto}
+  .nav-toggle{display:inline-flex;margin-left:auto;z-index:9999;position:fixed;right:14px;top:12px}
+  .site-nav{right:8px;left:auto;top:56px;max-width:320px}
 }
 @media (max-width:420px){
-  .logo{font-size:18px}
-  .logo-svg{width:36px;height:36px}
-  .container{margin:18px auto;padding:0 10px}
+  .logo{font-size:15px}
+  .logo-svg{width:34px;height:34px}
+  .container{margin:14px auto;padding:0 10px}
   .tagline{display:none}
+  .nav-toggle{right:10px;top:10px}
+  .site-nav{max-width:calc(100% - 20px)}
 }
 
 /* Light theme header tweaks for contrast */
