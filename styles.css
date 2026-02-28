@@ -57,6 +57,7 @@
 .brand-badge{background:rgba(11,18,32,0.02);padding:6px 10px;border-radius:999px;color:var(--muted);font-weight:600}
 .site-nav{margin-left:auto;display:flex;gap:10px;align-items:center}
 .nav-toggle{display:none;align-items:center;justify-content:center;background:transparent;border:1px solid var(--card-border);padding:8px;border-radius:8px;color:var(--muted);cursor:pointer}
+.nav-toggle{position:relative}
 .nav-toggle:focus{outline:3px solid rgba(139,92,246,0.12)}
 .nav-toggle .hamburger{display:inline-block;width:20px;height:2px;background:var(--text);position:relative;border-radius:2px}
 .nav-toggle .hamburger::before,.nav-toggle .hamburger::after{content:'';position:absolute;left:0;width:20px;height:2px;background:var(--text);transition:transform .22s ease,opacity .18s ease}
@@ -187,7 +188,7 @@ html, body { overflow-x: hidden; }
 
   /* mobile overlay when nav is opened */
   .site-nav.open{display:flex;position:fixed;left:12px;right:12px;top:72px;flex-direction:column;background:var(--card-bg);border:1px solid var(--card-border);padding:12px;border-radius:12px;z-index:60;max-height:calc(100vh - 96px);overflow:auto}
-  .nav-toggle{display:inline-flex;margin-left:auto;z-index:70}
+  .nav-toggle{display:inline-flex;margin-left:auto;z-index:9999;position:relative;pointer-events:auto}
 }
 @media (max-width:420px){
   .logo{font-size:18px}
