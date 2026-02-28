@@ -153,6 +153,19 @@ html, body { overflow-x: hidden; }
 /* Ensure main containers don't produce overflow */
 .container, .site-nav, .content { box-sizing: border-box; max-width: 100%; }
 
+/* When community is closed keep UI in markup but hidden from users */
+body.community-closed #newDiscussion,
+body.community-closed #discussionsList,
+body.community-closed #adminToggle,
+body.community-closed #adminPanel,
+body.community-closed #exportData,
+body.community-closed #importData { display: none !important; }
+
+/* Message shown to users while community is closed */
+.community-coming{background:linear-gradient(90deg,var(--accent),var(--accent-2));color:#071022;padding:16px;border-radius:12px;margin:14px 0;border:1px solid rgba(0,0,0,0.06)}
+.community-coming h3{margin:0 0 6px;font-family:'Poppins', Inter;font-size:18px}
+.community-coming p{margin:0;color:var(--bg-2);font-weight:600}
+
 /* light theme overrides */
 /* light theme removed - project uses dark theme only */
 

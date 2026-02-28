@@ -7,7 +7,7 @@
     <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600;700&family=Poppins:wght@600;700&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="styles.css" />
   </head>
-  <body>
+  <body class="community-closed">
     <header class="site-header">
       <a class="sr-only" href="#main">Skip to content</a>
       <div class="container header-row">
@@ -46,6 +46,12 @@
       <article class="content">
         <h2>Community</h2>
         <p>Create discussions, comment, reply and like. Choose to post as yourself, via Twitter handle, or anonymously.</p>
+
+        <!-- Community temporarily closed for public contributions — keep UI in code but hidden -->
+        <div class="community-coming" role="status" aria-live="polite">
+          <h3>Community opening soon</h3>
+          <p>Community features are coming shortly — stay tuned. In the meantime, you can check back later.</p>
+        </div>
 
         <section id="newDiscussion">
           <h3>Start a new discussion</h3>
