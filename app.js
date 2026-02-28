@@ -201,14 +201,8 @@ function render(){
         // show launch year if available
         if(it.year){ const y = document.createElement('span'); y.className = 'year'; y.textContent = `· ${it.year}`; h.appendChild(y); }
         const desc = document.createElement('div'); desc.className='muted'; desc.textContent = it.description || '';
-        const meta = document.createElement('div'); meta.className='meta';
-        // show category pill only when viewing 'All' (otherwise category is the active tab and redundant)
-        const cspan = document.createElement('span'); cspan.className='pill'; cspan.textContent = it.category;
-        meta.appendChild(cspan);
-        if(it.sector){ const s = document.createElement('span'); s.className='muted'; s.textContent = it.sector; meta.appendChild(s); }
-        if(it.country){ const c = document.createElement('span'); c.className='muted'; c.textContent = it.country; meta.appendChild(c); }
-        if(it.domains && it.domains.length){ const ds = document.createElement('span'); ds.className='pill domain'; ds.textContent = it.domains.join(', '); meta.appendChild(ds); }
-        card.appendChild(h); card.appendChild(desc); card.appendChild(meta);
+        card.appendChild(h);
+        card.appendChild(desc);
         listEl.appendChild(card);
       }
     } else {
@@ -225,13 +219,8 @@ function render(){
           h.appendChild(a);
           if(it.year){ const y = document.createElement('span'); y.className = 'year'; y.textContent = `· ${it.year}`; h.appendChild(y); }
           const desc = document.createElement('div'); desc.className='muted'; desc.textContent = it.description || '';
-          const meta = document.createElement('div'); meta.className='meta';
-          // do not append category pill here (redundant) — subcategory is shown above
-          // (but keep sector/country/domains info)
-          if(it.sector){ const s = document.createElement('span'); s.className='muted'; s.textContent = it.sector; meta.appendChild(s); }
-          if(it.country){ const c = document.createElement('span'); c.className='muted'; c.textContent = it.country; meta.appendChild(c); }
-          if(it.domains && it.domains.length){ const ds = document.createElement('span'); ds.className='pill domain'; ds.textContent = it.domains.join(', '); meta.appendChild(ds); }
-          card.appendChild(h); card.appendChild(desc); card.appendChild(meta);
+          card.appendChild(h);
+          card.appendChild(desc);
           listEl.appendChild(card);
         }
       }
