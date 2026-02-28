@@ -1,23 +1,23 @@
 :root{
   --max-w:1200px;
-  --accent:#7C3AED; /* vivid indigo */
-  --accent-2:#06B6D4; /* cyan/teal accent for lively gradients */
-  --text:#071026; /* deep text for strong contrast */
-  --muted:#475569; /* muted text */
-  --bg-1:#FBFDFF; /* very light surface */
-  --bg-2:#F7FAFC; /* soft secondary */
-  --card-bg:#FFFFFF; /* cards use clean white with subtle border */
-  --panel-bg:#FBFCFE; /* panel surface */
-  --glass: rgba(7,16,38,0.04);
-  --glass-2: rgba(7,16,38,0.02);
-  --card-border: rgba(7,16,38,0.06);
-  --edge: rgba(7,16,38,0.06);
+  --accent:#8B5CF6; /* vivid indigo */
+  --accent-2:#06B6D4; /* cyan/teal accent */
+  --text:#E6F0FB; /* light text */
+  --muted:#9FB0C8; /* muted text */
+  --bg-1:#071022; /* deep navy background */
+  --bg-2:#0B1530; /* slightly lighter */
+  --card-bg:#0F1724; /* card surface */
+  --panel-bg:#0B1220; /* panel surface */
+  --glass: rgba(255,255,255,0.02);
+  --glass-2: rgba(255,255,255,0.01);
+  --card-border: rgba(255,255,255,0.04);
+  --edge: rgba(255,255,255,0.06);
   --radius:12px;
-  --shadow: 0 12px 30px rgba(7,16,38,0.06);
+  --shadow: 0 10px 30px rgba(2,6,23,0.6);
 }
 *{box-sizing:border-box}
 .container{max-width:var(--max-w);margin:28px auto;padding:0 20px}
-.site-header{background:linear-gradient(180deg, rgba(139,92,246,0.04), rgba(107,33,168,0.02));color:var(--text);padding:14px 0;margin-bottom:18px;box-shadow:0 6px 18px rgba(11,18,32,0.06);position:relative;border:1px solid var(--card-border);border-radius:10px}
+.site-header{background:linear-gradient(180deg, rgba(2,6,23,0.65), rgba(7,16,38,0.72));color:var(--text);padding:14px 0;margin-bottom:18px;box-shadow:0 6px 18px rgba(2,6,23,0.6);position:relative;border:1px solid var(--card-border);border-radius:10px}
 .logo{margin:0;font-size:22px;font-weight:700;letter-spacing:-0.4px;font-family:'Poppins', Inter, system-ui, -apple-system;display:flex;align-items:center;gap:8px;color:var(--text)}
 .logo .brand-accent{background:linear-gradient(90deg,var(--accent-2),var(--accent));-webkit-background-clip:text;background-clip:text;color:transparent}
 .tagline{margin:4px 0 0;color:var(--muted);font-weight:600;opacity:0.95;font-size:13px}
@@ -40,7 +40,7 @@
 .brand-badge{background:rgba(11,18,32,0.02);padding:6px 10px;border-radius:999px;color:var(--muted);font-weight:600}
 .site-nav{margin-left:auto;display:flex;gap:10px;align-items:center}
 .nav-link{color:var(--muted);text-decoration:none;padding:6px 10px;border-radius:8px;font-weight:600;transition:background .12s ease,color .12s ease}
-.nav-link:hover,.nav-link:focus{background:rgba(11,18,32,0.03);color:var(--accent);outline:none}
+.nav-link:hover,.nav-link:focus{background:rgba(255,255,255,0.02);color:var(--accent);outline:none}
 .header-actions{margin-left:auto}
 
 .nav-explore{margin-left:12px;color:var(--muted);font-weight:700;text-decoration:none;padding:6px 10px;border-radius:8px}
@@ -58,8 +58,8 @@
 .tab{background:transparent;border:1px solid var(--edge);padding:10px 16px;border-radius:999px;cursor:pointer;color:var(--muted);font-weight:600}
 .tab.active{background:linear-gradient(90deg,var(--accent-2),var(--accent));color:#ffffff;border-color:transparent;box-shadow:0 8px 20px rgba(46,163,242,0.12)}
 .filters{display:flex;gap:10px;flex-wrap:wrap;align-items:center}
-#search{flex:1;min-width:220px;padding:12px 14px;border-radius:var(--radius);border:1px solid var(--edge);box-shadow:inset 0 1px 0 rgba(7,16,38,0.02);font-size:15px;background:var(--card-bg);color:var(--text)}
-select{padding:10px;border-radius:10px;border:1px solid var(--edge);background:#ffffff;color:var(--text)}
+#search{flex:1;min-width:220px;padding:12px 14px;border-radius:var(--radius);border:1px solid var(--edge);box-shadow:inset 0 1px 0 rgba(255,255,255,0.01);font-size:15px;background:var(--panel-bg);color:var(--text)}
+select{padding:10px;border-radius:10px;border:1px solid var(--edge);background:var(--card-bg);color:var(--text)}
 .list{display:grid;grid-template-columns:repeat(auto-fill,minmax(260px,1fr));gap:18px;margin-top:18px}
 /* ensure headings occupy full grid width so items start on next row */
 .list h2,.list h3{grid-column:1 / -1}
@@ -67,7 +67,7 @@ select{padding:10px;border-radius:10px;border:1px solid var(--edge);background:#
 .list h3{font-size:15px;margin:8px 0 8px;color:var(--muted);font-weight:700}
 
 /* Content area for standalone pages (About / Contribute) */
-.content{max-width:820px;margin:22px auto;padding:22px;background:var(--panel-bg);color:var(--text);line-height:1.7;font-size:16px;border:1px solid rgba(7,16,38,0.04);border-radius:var(--radius)}
+.content{max-width:820px;margin:22px auto;padding:22px;background:var(--panel-bg);color:var(--text);line-height:1.7;font-size:16px;border:1px solid rgba(255,255,255,0.02);border-radius:var(--radius)}
 .content h2{color:var(--text);margin-top:4px;font-family:'Poppins', Inter}
 .content h3{color:var(--muted);margin-top:10px}
 .content p{color:var(--muted);margin-bottom:12px}
@@ -77,7 +77,7 @@ form label{display:block;color:var(--muted);font-weight:600;margin:12px 0 6px}
 form input, form textarea, form select{width:100%;padding:12px 14px;border-radius:10px;border:1px solid var(--edge);background:var(--card-bg);color:var(--text)}
 form textarea{min-height:110px}
 .form-actions{display:flex;gap:10px;margin-top:14px}
-.btn{background:linear-gradient(90deg,var(--accent-2),var(--accent));color:#fff;padding:12px 18px;border-radius:10px;border:none;cursor:pointer;font-weight:800;box-shadow:var(--shadow)}
+.btn{background:linear-gradient(90deg,var(--accent-2),var(--accent));color:#071022;padding:12px 18px;border-radius:10px;border:none;cursor:pointer;font-weight:800;box-shadow:var(--shadow)}
 .btn-secondary{background:transparent;border:1px solid var(--edge);color:var(--muted);font-weight:700}
 
 /* submission helpers area */
@@ -86,8 +86,8 @@ form textarea{min-height:110px}
 
 /* Footer: concise and centered */
 .footer{margin:28px 0;color:var(--muted);font-size:13px;text-align:center;padding:10px 0;border-top:1px solid rgba(15,23,42,0.02)}
-.card{background:var(--card-bg);padding:18px;border-radius:var(--radius);border:1px solid var(--card-border);box-shadow:var(--shadow);transition:transform .18s ease,box-shadow .18s ease}
-.card:hover{transform:translateY(-6px);box-shadow:0 18px 44px rgba(7,16,38,0.08)}
+.card{background:var(--card-bg);padding:18px;border-radius:var(--radius);border:1px solid var(--card-border);box-shadow:0 8px 26px rgba(2,6,23,0.6);transition:transform .18s ease,box-shadow .18s ease}
+.card:hover{transform:translateY(-6px);box-shadow:0 18px 44px rgba(2,6,23,0.7)}
 .card h3{margin:0 0 8px;font-size:18px;color:var(--text);line-height:1.18}
 .card h3{display:flex;align-items:baseline;gap:10px}
 .card h3 a{color:var(--text);text-decoration:none}
