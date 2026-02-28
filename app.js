@@ -13,7 +13,6 @@ const domainSelect = document.getElementById('domainSelect');
 async function init(){
   const res = await fetch(DATA_URL);
   items = await res.json();
-  initMotionToggle();
   populateFilters(items);
   buildTabs(items);
   // ensure 'All' tab is active by default
@@ -25,19 +24,7 @@ async function init(){
 
 // Note: light theme removed; app uses dark mode only.
 
-// reduce-motion toggle
-function initMotionToggle(){
-  const key = 'technova:reduced-motion';
-  const saved = localStorage.getItem(key) === '1';
-  if(saved) document.documentElement.classList.add('reduced-motion');
-  // respect prefers-reduced-motion by default
-  if(window.matchMedia && window.matchMedia('(prefers-reduced-motion: reduce)').matches) document.documentElement.classList.add('reduced-motion');
-  // expose a global toggle via data attribute for now
-  window.toggleReducedMotion = ()=>{
-    const is = document.documentElement.classList.toggle('reduced-motion');
-    localStorage.setItem(key, is ? '1' : '0');
-  };
-}
+// reduced-motion support is preserved via CSS media query and localStorage key
 
 // sanitize URLs to avoid javascript: or data: XSS
 function safeUrl(u){
@@ -195,6 +182,7 @@ function render(){
         h.appendChild(a);
         const desc = document.createElement('div'); desc.className='muted'; desc.textContent = it.description || '';
         const meta = document.createElement('div'); meta.className='meta';
+        // show category pill only when viewing 'All' (otherwise category is the active tab and redundant)
         const cspan = document.createElement('span'); cspan.className='pill'; cspan.textContent = it.category;
         meta.appendChild(cspan);
         if(it.sector){ const s = document.createElement('span'); s.className='muted'; s.textContent = it.sector; meta.appendChild(s); }
@@ -217,8 +205,8 @@ function render(){
           h.appendChild(a);
           const desc = document.createElement('div'); desc.className='muted'; desc.textContent = it.description || '';
           const meta = document.createElement('div'); meta.className='meta';
-          const cspan = document.createElement('span'); cspan.className='pill'; cspan.textContent = it.category;
-          meta.appendChild(cspan);
+          // do not append category pill here (redundant) — subcategory is shown above
+          // (but keep sector/country/domains info)
           if(it.sector){ const s = document.createElement('span'); s.className='muted'; s.textContent = it.sector; meta.appendChild(s); }
           if(it.country){ const c = document.createElement('span'); c.className='muted'; c.textContent = it.country; meta.appendChild(c); }
           if(it.domains && it.domains.length){ const ds = document.createElement('span'); ds.className='pill domain'; ds.textContent = it.domains.join(', '); meta.appendChild(ds); }
