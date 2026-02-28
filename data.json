@@ -16326,4 +16326,276 @@
       "AI/ML"
     ]
   }
+
+  ,
+  {
+    "name": "Flipkart",
+    "url": "https://www.flipkart.com/",
+    "category": "Startup",
+    "sector": "E-commerce",
+    "country": "India",
+    "description": "Leading Indian e-commerce marketplace for a wide range of products.",
+    "domains": ["E-commerce","Marketplace"]
+  },
+  {
+    "name": "Ola",
+    "url": "https://www.olacabs.com/",
+    "category": "Startup",
+    "sector": "Mobility",
+    "country": "India",
+    "description": "Mobility platform offering ride-hailing, rentals and electric mobility services.",
+    "domains": ["Mobility","Transport"]
+  },
+  {
+    "name": "Zomato",
+    "url": "https://www.zomato.com/",
+    "category": "Startup",
+    "sector": "Food",
+    "country": "India",
+    "description": "Restaurant discovery and food delivery platform operating across India.",
+    "domains": ["Food","Delivery","Marketplace"]
+  },
+  {
+    "name": "Swiggy",
+    "url": "https://www.swiggy.com/",
+    "category": "Startup",
+    "sector": "Food",
+    "country": "India",
+    "description": "On-demand delivery platform for food, groceries and essentials.",
+    "domains": ["Food","Delivery","Logistics"]
+  },
+  {
+    "name": "Paytm",
+    "url": "https://paytm.com/",
+    "category": "Startup",
+    "sector": "Fintech",
+    "country": "India",
+    "description": "Payments and financial services platform including wallet, banking and commerce.",
+    "domains": ["Fintech","Payments","Commerce"]
+  },
+  {
+    "name": "Razorpay",
+    "url": "https://razorpay.com/",
+    "category": "Startup",
+    "sector": "Fintech",
+    "country": "India",
+    "description": "Payments infrastructure and financial solutions for businesses.",
+    "domains": ["Fintech","Payments","SaaS"]
+  },
+  {
+    "name": "PhonePe",
+    "url": "https://www.phonepe.com/",
+    "category": "Startup",
+    "sector": "Fintech",
+    "country": "India",
+    "description": "Digital payments platform offering UPI payments, money transfer and financial services.",
+    "domains": ["Fintech","Payments"]
+  },
+  {
+    "name": "Byju's",
+    "url": "https://byjus.com/",
+    "category": "Startup",
+    "sector": "EdTech",
+    "country": "India",
+    "description": "Education technology company offering online learning and tutoring services.",
+    "domains": ["EdTech","Learning"]
+  },
+  {
+    "name": "Unacademy",
+    "url": "https://unacademy.com/",
+    "category": "Startup",
+    "sector": "EdTech",
+    "country": "India",
+    "description": "Online learning platform with courses and live classes for competitive exams and skills.",
+    "domains": ["EdTech","Learning"]
+  },
+  {
+    "name": "Freshworks",
+    "url": "https://www.freshworks.com/",
+    "category": "Startup",
+    "sector": "SaaS",
+    "country": "India",
+    "description": "Customer engagement software and SaaS products for support, sales and marketing.",
+    "domains": ["SaaS","CRM"]
+  },
+  {
+    "name": "Practo",
+    "url": "https://www.practo.com/",
+    "category": "Startup",
+    "sector": "Health",
+    "country": "India",
+    "description": "Healthcare platform for booking appointments, telemedicine and health records.",
+    "domains": ["Health","Healthcare","Telemedicine"]
+  },
+  {
+    "name": "PharmEasy",
+    "url": "https://pharmeasy.in/",
+    "category": "Startup",
+    "sector": "Health",
+    "country": "India",
+    "description": "Online pharmacy and healthcare delivery service.",
+    "domains": ["Health","Pharmacy","E-commerce"]
+  },
+  {
+    "name": "BigBasket",
+    "url": "https://www.bigbasket.com/",
+    "category": "Startup",
+    "sector": "Grocery",
+    "country": "India",
+    "description": "Online grocery marketplace with delivery across Indian cities.",
+    "domains": ["E-commerce","Grocery","Delivery"]
+  },
+  {
+    "name": "Meesho",
+    "url": "https://meesho.com/",
+    "category": "Startup",
+    "sector": "Marketplace",
+    "country": "India",
+    "description": "Social commerce marketplace enabling resellers and small businesses to sell online.",
+    "domains": ["E-commerce","Marketplace","SocialCommerce"]
+  },
+  {
+    "name": "Nykaa",
+    "url": "https://www.nykaa.com/",
+    "category": "Startup",
+    "sector": "E-commerce",
+    "country": "India",
+    "description": "Beauty and wellness e-commerce and retail company.",
+    "domains": ["E-commerce","Beauty","Retail"]
+  },
+  {
+    "name": "CRED",
+    "url": "https://www.cred.club/",
+    "category": "Startup",
+    "sector": "Fintech",
+    "country": "India",
+    "description": "Members-only app that rewards credit card payments and offers financial products.",
+    "domains": ["Fintech","Payments"]
+  },
+  {
+    "name": "Zerodha",
+    "url": "https://zerodha.com/",
+    "category": "Startup",
+    "sector": "Fintech",
+    "country": "India",
+    "description": "Discount brokerage platform for retail investors and traders.",
+    "domains": ["Fintech","Trading","Investing"]
+  },
+  {
+    "name": "Groww",
+    "url": "https://groww.in/",
+    "category": "Startup",
+    "sector": "Fintech",
+    "country": "India",
+    "description": "Investment and wealth-tech platform for mutual funds and stocks.",
+    "domains": ["Fintech","Investing"]
+  },
+  {
+    "name": "Delhivery",
+    "url": "https://www.delhivery.com/",
+    "category": "Startup",
+    "sector": "Logistics",
+    "country": "India",
+    "description": "Logistics and supply-chain services for e-commerce and enterprises.",
+    "domains": ["Logistics","Delivery","SupplyChain"]
+  },
+  {
+    "name": "Lenskart",
+    "url": "https://www.lenskart.com/",
+    "category": "Startup",
+    "sector": "Retail",
+    "country": "India",
+    "description": "Omnichannel eyewear retailer offering glasses, contact lenses and eye-care services.",
+    "domains": ["E-commerce","Retail"]
+  },
+  {
+    "name": "OYO",
+    "url": "https://www.oyorooms.com/",
+    "category": "Startup",
+    "sector": "Hospitality",
+    "country": "India",
+    "description": "Hospitality network offering franchised and leased hotels and homes.",
+    "domains": ["Hospitality","Travel"]
+  },
+  {
+    "name": "Dream11",
+    "url": "https://dream11.com/",
+    "category": "Startup",
+    "sector": "Gaming",
+    "country": "India",
+    "description": "Fantasy sports platform and mobile gaming company.",
+    "domains": ["Gaming","FantasySports"]
+  },
+  {
+    "name": "ShareChat",
+    "url": "https://sharechat.com/",
+    "category": "Startup",
+    "sector": "Social",
+    "country": "India",
+    "description": "Regional social media platform focused on Indian languages and short video content.",
+    "domains": ["Social","Content","Media"]
+  },
+  {
+    "name": "InMobi",
+    "url": "https://www.inmobi.com/",
+    "category": "Startup",
+    "sector": "AdTech",
+    "country": "India",
+    "description": "Mobile advertising and marketing platform serving app and web publishers.",
+    "domains": ["AdTech","Advertising"]
+  },
+  {
+    "name": "Porter",
+    "url": "https://porter.in/",
+    "category": "Startup",
+    "sector": "Logistics",
+    "country": "India",
+    "description": "On-demand logistics and intra-city goods transportation platform.",
+    "domains": ["Logistics","Delivery"]
+  },
+  {
+    "name": "Cars24",
+    "url": "https://cars24.com/",
+    "category": "Startup",
+    "sector": "Marketplace",
+    "country": "India",
+    "description": "Online used-car marketplace offering buying and selling services.",
+    "domains": ["Marketplace","Automotive"]
+  },
+  {
+    "name": "CarDekho",
+    "url": "https://www.cardekho.com/",
+    "category": "Startup",
+    "sector": "Automotive",
+    "country": "India",
+    "description": "Automotive marketplace and research platform for vehicle buyers.",
+    "domains": ["Automotive","Marketplace"]
+  },
+  {
+    "name": "FreshToHome",
+    "url": "https://www.freshtohome.com/",
+    "category": "Startup",
+    "sector": "Food",
+    "country": "India",
+    "description": "Direct-to-consumer fresh seafood and meat delivery platform.",
+    "domains": ["E-commerce","Food","Delivery"]
+  },
+  {
+    "name": "PolicyBazaar",
+    "url": "https://www.policybazaar.com/",
+    "category": "Startup",
+    "sector": "Insurtech",
+    "country": "India",
+    "description": "Online insurance comparison and distribution platform.",
+    "domains": ["Insurtech","Marketplace"]
+  },
+  {
+    "name": "BharatPe",
+    "url": "https://bharatpe.com/",
+    "category": "Startup",
+    "sector": "Fintech",
+    "country": "India",
+    "description": "Merchant payments and credit services for small businesses.",
+    "domains": ["Fintech","Payments"]
+  }
 ]
