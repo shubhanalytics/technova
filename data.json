@@ -310,9 +310,7 @@
     "sector": "Web",
     "country": "Worldwide",
     "description": "Full-featured front-end framework by Google",
-    "domains": [
-      "AI/ML"
-    ]
+    "domains": []
   },
   {
     "name": "Django",
@@ -321,9 +319,7 @@
     "sector": "Web",
     "country": "Worldwide",
     "description": "High-level Python web framework",
-    "domains": [
-      "AI/ML"
-    ]
+    "domains": []
   },
   {
     "name": "Flask",
@@ -332,9 +328,7 @@
     "sector": "Web",
     "country": "Worldwide",
     "description": "Lightweight Python web microframework",
-    "domains": [
-      "AI/ML"
-    ]
+    "domains": []
   },
   {
     "name": "Laravel",
@@ -343,9 +337,7 @@
     "sector": "Web",
     "country": "Worldwide",
     "description": "PHP web framework",
-    "domains": [
-      "AI/ML"
-    ]
+    "domains": []
   },
   {
     "name": "Next.js",
@@ -354,9 +346,7 @@
     "sector": "Web",
     "country": "Worldwide",
     "description": "React framework for hybrid apps",
-    "domains": [
-      "AI/ML"
-    ]
+    "domains": []
   },
   {
     "name": "Nuxt",
@@ -365,9 +355,7 @@
     "sector": "Web",
     "country": "Worldwide",
     "description": "Vue framework for server-side rendering",
-    "domains": [
-      "AI/ML"
-    ]
+    "domains": []
   },
   {
     "name": "React",
@@ -376,9 +364,7 @@
     "sector": "Web",
     "country": "Worldwide",
     "description": "UI library for building web apps",
-    "domains": [
-      "AI/ML"
-    ]
+    "domains": []
   },
   {
     "name": "Ruby on Rails",
@@ -387,9 +373,7 @@
     "sector": "Web",
     "country": "Worldwide",
     "description": "Opinionated Ruby web framework",
-    "domains": [
-      "AI/ML"
-    ]
+    "domains": []
   },
   {
     "name": "Spring",
@@ -398,9 +382,7 @@
     "sector": "Enterprise",
     "country": "Worldwide",
     "description": "Java application framework",
-    "domains": [
-      "AI/ML"
-    ]
+    "domains": []
   },
   {
     "name": "Svelte",
@@ -409,9 +391,7 @@
     "sector": "Web",
     "country": "Worldwide",
     "description": "Compile-time UI framework",
-    "domains": [
-      "AI/ML"
-    ]
+    "domains": []
   },
   {
     "name": "Vue.js",
@@ -420,9 +400,7 @@
     "sector": "Web",
     "country": "Worldwide",
     "description": "Progressive JavaScript framework",
-    "domains": [
-      "AI/ML"
-    ]
+    "domains": []
   },
   {
     "name": ".QL",
@@ -431,9 +409,7 @@
     "sector": "",
     "country": "",
     "description": "",
-    "domains": [
-      "AI/ML"
-    ]
+    "domains": []
   },
   {
     "name": "A+ (A plus)",
@@ -442,9 +418,7 @@
     "sector": "",
     "country": "",
     "description": "",
-    "domains": [
-      "AI/ML"
-    ]
+    "domains": []
   },
   {
     "name": "A.NET (A#/A sharp)",
@@ -453,9 +427,7 @@
     "sector": "",
     "country": "",
     "description": "",
-    "domains": [
-      "AI/ML"
-    ]
+    "domains": []
   },
   {
     "name": "ABAP",
@@ -464,9 +436,7 @@
     "sector": "",
     "country": "",
     "description": "",
-    "domains": [
-      "AI/ML"
-    ]
+    "domains": []
   },
   {
     "name": "ABC",
@@ -475,9 +445,7 @@
     "sector": "",
     "country": "",
     "description": "",
-    "domains": [
-      "AI/ML"
-    ]
+    "domains": []
   },
   {
     "name": "ACC",
@@ -486,9 +454,7 @@
     "sector": "",
     "country": "",
     "description": "",
-    "domains": [
-      "AI/ML"
-    ]
+    "domains": []
   },
   {
     "name": "Accent (Rational Synergy)",
@@ -497,9 +463,7 @@
     "sector": "",
     "country": "",
     "description": "",
-    "domains": [
-      "AI/ML"
-    ]
+    "domains": []
   },
   {
     "name": "Action!",
@@ -508,9 +472,7 @@
     "sector": "",
     "country": "",
     "description": "",
-    "domains": [
-      "AI/ML"
-    ]
+    "domains": []
   },
   {
     "name": "ActionScript",
@@ -519,9 +481,7 @@
     "sector": "",
     "country": "",
     "description": "",
-    "domains": [
-      "AI/ML"
-    ]
+    "domains": []
   },
   {
     "name": "Ada",
@@ -530,9 +490,7 @@
     "sector": "",
     "country": "",
     "description": "",
-    "domains": [
-      "AI/ML"
-    ]
+    "domains": []
   },
   {
     "name": "Adenine (Haystack)",
@@ -541,9 +499,7 @@
     "sector": "",
     "country": "",
     "description": "",
-    "domains": [
-      "AI/ML"
-    ]
+    "domains": []
   },
   {
     "name": "AdvPL",
@@ -552,9 +508,7 @@
     "sector": "",
     "country": "",
     "description": "",
-    "domains": [
-      "AI/ML"
-    ]
+    "domains": []
   },
   {
     "name": "Agda",
@@ -563,9 +517,7 @@
     "sector": "",
     "country": "",
     "description": "",
-    "domains": [
-      "AI/ML"
-    ]
+    "domains": []
   },
   {
     "name": "Agilent VEE",
@@ -574,9 +526,7 @@
     "sector": "",
     "country": "",
     "description": "",
-    "domains": [
-      "AI/ML"
-    ]
+    "domains": []
   },
   {
     "name": "Agora",
@@ -585,9 +535,7 @@
     "sector": "",
     "country": "",
     "description": "",
-    "domains": [
-      "AI/ML"
-    ]
+    "domains": []
   },
   {
     "name": "AIMMS",
@@ -596,9 +544,7 @@
     "sector": "",
     "country": "",
     "description": "",
-    "domains": [
-      "AI/ML"
-    ]
+    "domains": []
   },
   {
     "name": "Aldor",
@@ -607,9 +553,7 @@
     "sector": "",
     "country": "",
     "description": "",
-    "domains": [
-      "AI/ML"
-    ]
+    "domains": []
   },
   {
     "name": "Alef",
@@ -618,9 +562,7 @@
     "sector": "",
     "country": "",
     "description": "",
-    "domains": [
-      "AI/ML"
-    ]
+    "domains": []
   },
   {
     "name": "Algebraic Logic Functional programming language",
@@ -629,9 +571,7 @@
     "sector": "",
     "country": "",
     "description": "",
-    "domains": [
-      "AI/ML"
-    ]
+    "domains": []
   },
   {
     "name": "ALGOL",
@@ -640,9 +580,7 @@
     "sector": "",
     "country": "",
     "description": "",
-    "domains": [
-      "AI/ML"
-    ]
+    "domains": []
   },
   {
     "name": "ALGOL 58",
@@ -651,9 +589,7 @@
     "sector": "",
     "country": "",
     "description": "",
-    "domains": [
-      "AI/ML"
-    ]
+    "domains": []
   },
   {
     "name": "ALGOL 60",
@@ -662,9 +598,7 @@
     "sector": "",
     "country": "",
     "description": "",
-    "domains": [
-      "AI/ML"
-    ]
+    "domains": []
   },
   {
     "name": "ALGOL 68",
@@ -673,9 +607,7 @@
     "sector": "",
     "country": "",
     "description": "",
-    "domains": [
-      "AI/ML"
-    ]
+    "domains": []
   },
   {
     "name": "Alice ML",
@@ -684,9 +616,7 @@
     "sector": "",
     "country": "",
     "description": "",
-    "domains": [
-      "AI/ML"
-    ]
+    "domains": []
   },
   {
     "name": "Alma-0",
@@ -695,9 +625,7 @@
     "sector": "",
     "country": "",
     "description": "",
-    "domains": [
-      "AI/ML"
-    ]
+    "domains": []
   },
   {
     "name": "AmbientTalk",
@@ -706,9 +634,7 @@
     "sector": "",
     "country": "",
     "description": "",
-    "domains": [
-      "AI/ML"
-    ]
+    "domains": []
   },
   {
     "name": "Amiga E",
@@ -717,9 +643,7 @@
     "sector": "",
     "country": "",
     "description": "",
-    "domains": [
-      "AI/ML"
-    ]
+    "domains": []
   },
   {
     "name": "AMPL",
@@ -728,9 +652,7 @@
     "sector": "",
     "country": "",
     "description": "",
-    "domains": [
-      "AI/ML"
-    ]
+    "domains": []
   },
   {
     "name": "AngelScript",
@@ -739,9 +661,7 @@
     "sector": "",
     "country": "",
     "description": "",
-    "domains": [
-      "AI/ML"
-    ]
+    "domains": []
   },
   {
     "name": "Apache Pig latin",
@@ -750,9 +670,7 @@
     "sector": "",
     "country": "",
     "description": "",
-    "domains": [
-      "AI/ML"
-    ]
+    "domains": []
   },
   {
     "name": "Apex (Salesforce.com, Inc)",
@@ -761,9 +679,7 @@
     "sector": "",
     "country": "",
     "description": "",
-    "domains": [
-      "AI/ML"
-    ]
+    "domains": []
   },
   {
     "name": "APL",
@@ -772,9 +688,7 @@
     "sector": "",
     "country": "",
     "description": "",
-    "domains": [
-      "AI/ML"
-    ]
+    "domains": []
   },
   {
     "name": "App Inventor for Android's visual block language (MIT App Inventor)",
@@ -783,9 +697,7 @@
     "sector": "",
     "country": "",
     "description": "",
-    "domains": [
-      "AI/ML"
-    ]
+    "domains": []
   },
   {
     "name": "AppleScript",
@@ -794,9 +706,7 @@
     "sector": "",
     "country": "",
     "description": "",
-    "domains": [
-      "AI/ML"
-    ]
+    "domains": []
   },
   {
     "name": "APT",
@@ -805,9 +715,7 @@
     "sector": "",
     "country": "",
     "description": "",
-    "domains": [
-      "AI/ML"
-    ]
+    "domains": []
   },
   {
     "name": "Arc",
@@ -816,9 +724,7 @@
     "sector": "",
     "country": "",
     "description": "",
-    "domains": [
-      "AI/ML"
-    ]
+    "domains": []
   },
   {
     "name": "ArkTS",
@@ -827,9 +733,7 @@
     "sector": "",
     "country": "",
     "description": "",
-    "domains": [
-      "AI/ML"
-    ]
+    "domains": []
   },
   {
     "name": "Assembly language",
@@ -838,9 +742,7 @@
     "sector": "",
     "country": "",
     "description": "",
-    "domains": [
-      "AI/ML"
-    ]
+    "domains": []
   },
   {
     "name": "AssemblyScript",
@@ -849,9 +751,7 @@
     "sector": "",
     "country": "",
     "description": "",
-    "domains": [
-      "AI/ML"
-    ]
+    "domains": []
   },
   {
     "name": "ATS",
@@ -860,9 +760,7 @@
     "sector": "",
     "country": "",
     "description": "",
-    "domains": [
-      "AI/ML"
-    ]
+    "domains": []
   },
   {
     "name": "AutoHotkey",
@@ -871,9 +769,7 @@
     "sector": "",
     "country": "",
     "description": "",
-    "domains": [
-      "AI/ML"
-    ]
+    "domains": []
   },
   {
     "name": "AutoIt",
@@ -882,9 +778,7 @@
     "sector": "",
     "country": "",
     "description": "",
-    "domains": [
-      "AI/ML"
-    ]
+    "domains": []
   },
   {
     "name": "AutoLISP",
@@ -893,9 +787,7 @@
     "sector": "",
     "country": "",
     "description": "",
-    "domains": [
-      "AI/ML"
-    ]
+    "domains": []
   },
   {
     "name": "Averest",
@@ -904,9 +796,7 @@
     "sector": "",
     "country": "",
     "description": "",
-    "domains": [
-      "AI/ML"
-    ]
+    "domains": []
   },
   {
     "name": "AWK",
@@ -915,9 +805,7 @@
     "sector": "",
     "country": "",
     "description": "",
-    "domains": [
-      "AI/ML"
-    ]
+    "domains": []
   },
   {
     "name": "Axum",
@@ -926,9 +814,7 @@
     "sector": "",
     "country": "",
     "description": "",
-    "domains": [
-      "AI/ML"
-    ]
+    "domains": []
   },
   {
     "name": "Ballerina",
@@ -937,9 +823,7 @@
     "sector": "",
     "country": "",
     "description": "",
-    "domains": [
-      "AI/ML"
-    ]
+    "domains": []
   },
   {
     "name": "Bash",
@@ -948,9 +832,7 @@
     "sector": "",
     "country": "",
     "description": "",
-    "domains": [
-      "AI/ML"
-    ]
+    "domains": []
   },
   {
     "name": "Batch file (Windows/MS-DOS)",
@@ -959,9 +841,7 @@
     "sector": "",
     "country": "",
     "description": "",
-    "domains": [
-      "AI/ML"
-    ]
+    "domains": []
   },
   {
     "name": "bc (basic calculator)",
@@ -970,9 +850,7 @@
     "sector": "",
     "country": "",
     "description": "",
-    "domains": [
-      "AI/ML"
-    ]
+    "domains": []
   },
   {
     "name": "BCPL",
@@ -981,9 +859,7 @@
     "sector": "",
     "country": "",
     "description": "",
-    "domains": [
-      "AI/ML"
-    ]
+    "domains": []
   },
   {
     "name": "BeanShell",
@@ -992,9 +868,7 @@
     "sector": "",
     "country": "",
     "description": "",
-    "domains": [
-      "AI/ML"
-    ]
+    "domains": []
   },
   {
     "name": "BETA",
@@ -1003,9 +877,7 @@
     "sector": "",
     "country": "",
     "description": "",
-    "domains": [
-      "AI/ML"
-    ]
+    "domains": []
   },
   {
     "name": "BlackBox Component Builder",
@@ -1014,9 +886,7 @@
     "sector": "",
     "country": "",
     "description": "",
-    "domains": [
-      "AI/ML"
-    ]
+    "domains": []
   },
   {
     "name": "BLISS",
@@ -1025,9 +895,7 @@
     "sector": "",
     "country": "",
     "description": "",
-    "domains": [
-      "AI/ML"
-    ]
+    "domains": []
   },
   {
     "name": "Blockly",
@@ -1036,9 +904,7 @@
     "sector": "",
     "country": "",
     "description": "",
-    "domains": [
-      "AI/ML"
-    ]
+    "domains": []
   },
   {
     "name": "BlooP",
@@ -1047,9 +913,7 @@
     "sector": "",
     "country": "",
     "description": "",
-    "domains": [
-      "AI/ML"
-    ]
+    "domains": []
   },
   {
     "name": "Boo",
@@ -1058,9 +922,7 @@
     "sector": "",
     "country": "",
     "description": "",
-    "domains": [
-      "AI/ML"
-    ]
+    "domains": []
   },
   {
     "name": "Boomerang",
@@ -1069,9 +931,7 @@
     "sector": "",
     "country": "",
     "description": "",
-    "domains": [
-      "AI/ML"
-    ]
+    "domains": []
   },
   {
     "name": "Bosque",
@@ -1080,9 +940,7 @@
     "sector": "",
     "country": "",
     "description": "",
-    "domains": [
-      "AI/ML"
-    ]
+    "domains": []
   },
   {
     "name": "C Shell (csh)",
@@ -1091,9 +949,7 @@
     "sector": "",
     "country": "",
     "description": "",
-    "domains": [
-      "AI/ML"
-    ]
+    "domains": []
   },
   {
     "name": "C/AL",
@@ -1102,9 +958,7 @@
     "sector": "",
     "country": "",
     "description": "",
-    "domains": [
-      "AI/ML"
-    ]
+    "domains": []
   },
   {
     "name": "Caché ObjectScript",
@@ -1113,9 +967,7 @@
     "sector": "",
     "country": "",
     "description": "",
-    "domains": [
-      "AI/ML"
-    ]
+    "domains": []
   },
   {
     "name": "Caml",
@@ -1124,9 +976,7 @@
     "sector": "",
     "country": "",
     "description": "",
-    "domains": [
-      "AI/ML"
-    ]
+    "domains": []
   },
   {
     "name": "Carbon",
@@ -1135,9 +985,7 @@
     "sector": "",
     "country": "",
     "description": "",
-    "domains": [
-      "AI/ML"
-    ]
+    "domains": []
   },
   {
     "name": "Categorical",
@@ -1146,9 +994,7 @@
     "sector": "",
     "country": "",
     "description": "",
-    "domains": [
-      "AI/ML"
-    ]
+    "domains": []
   },
   {
     "name": "Categories",
@@ -1157,9 +1003,7 @@
     "sector": "",
     "country": "",
     "description": "",
-    "domains": [
-      "AI/ML"
-    ]
+    "domains": []
   },
   {
     "name": "Catrobat",
@@ -1168,9 +1012,7 @@
     "sector": "",
     "country": "",
     "description": "",
-    "domains": [
-      "AI/ML"
-    ]
+    "domains": []
   },
   {
     "name": "Cayenne (Lennart Augustsson)",
@@ -1179,9 +1021,7 @@
     "sector": "",
     "country": "",
     "description": "",
-    "domains": [
-      "AI/ML"
-    ]
+    "domains": []
   },
   {
     "name": "Cecil",
@@ -1190,9 +1030,7 @@
     "sector": "",
     "country": "",
     "description": "",
-    "domains": [
-      "AI/ML"
-    ]
+    "domains": []
   },
   {
     "name": "CEEMAC",
@@ -1201,9 +1039,7 @@
     "sector": "",
     "country": "",
     "description": "",
-    "domains": [
-      "AI/ML"
-    ]
+    "domains": []
   },
   {
     "name": "CESIL (Computer Education in Schools Instruction Language)",
@@ -1212,9 +1048,7 @@
     "sector": "",
     "country": "",
     "description": "",
-    "domains": [
-      "AI/ML"
-    ]
+    "domains": []
   },
   {
     "name": "Ceylon",
@@ -1223,9 +1057,7 @@
     "sector": "",
     "country": "",
     "description": "",
-    "domains": [
-      "AI/ML"
-    ]
+    "domains": []
   },
   {
     "name": "CFEngine",
@@ -1234,9 +1066,7 @@
     "sector": "",
     "country": "",
     "description": "",
-    "domains": [
-      "AI/ML"
-    ]
+    "domains": []
   },
   {
     "name": "Cg (High-Level Shader/Shading Language [HLSL])",
@@ -1245,9 +1075,7 @@
     "sector": "",
     "country": "",
     "description": "",
-    "domains": [
-      "AI/ML"
-    ]
+    "domains": []
   },
   {
     "name": "Ch",
@@ -1256,9 +1084,7 @@
     "sector": "",
     "country": "",
     "description": "",
-    "domains": [
-      "AI/ML"
-    ]
+    "domains": []
   },
   {
     "name": "Chapel (Cascade High Productivity Language)",
@@ -1267,9 +1093,7 @@
     "sector": "",
     "country": "",
     "description": "",
-    "domains": [
-      "AI/ML"
-    ]
+    "domains": []
   },
   {
     "name": "Charm",
@@ -1278,9 +1102,7 @@
     "sector": "",
     "country": "",
     "description": "",
-    "domains": [
-      "AI/ML"
-    ]
+    "domains": []
   },
   {
     "name": "CHILL",
@@ -1289,9 +1111,7 @@
     "sector": "",
     "country": "",
     "description": "",
-    "domains": [
-      "AI/ML"
-    ]
+    "domains": []
   },
   {
     "name": "CHIP-8",
@@ -1300,9 +1120,7 @@
     "sector": "",
     "country": "",
     "description": "",
-    "domains": [
-      "AI/ML"
-    ]
+    "domains": []
   },
   {
     "name": "Chronological",
@@ -1311,9 +1129,7 @@
     "sector": "",
     "country": "",
     "description": "",
-    "domains": [
-      "AI/ML"
-    ]
+    "domains": []
   },
   {
     "name": "ChucK",
@@ -1322,9 +1138,7 @@
     "sector": "",
     "country": "",
     "description": "",
-    "domains": [
-      "AI/ML"
-    ]
+    "domains": []
   },
   {
     "name": "Cilk (also Cilk++ and Cilk plus)",
@@ -1333,9 +1147,7 @@
     "sector": "",
     "country": "",
     "description": "",
-    "domains": [
-      "AI/ML"
-    ]
+    "domains": []
   },
   {
     "name": "Claire",
@@ -1344,9 +1156,7 @@
     "sector": "",
     "country": "",
     "description": "",
-    "domains": [
-      "AI/ML"
-    ]
+    "domains": []
   },
   {
     "name": "Clarion",
@@ -1355,9 +1165,7 @@
     "sector": "",
     "country": "",
     "description": "",
-    "domains": [
-      "AI/ML"
-    ]
+    "domains": []
   },
   {
     "name": "classic",
@@ -1366,9 +1174,7 @@
     "sector": "",
     "country": "",
     "description": "",
-    "domains": [
-      "AI/ML"
-    ]
+    "domains": []
   },
   {
     "name": "Clean",
@@ -1377,9 +1183,7 @@
     "sector": "",
     "country": "",
     "description": "",
-    "domains": [
-      "AI/ML"
-    ]
+    "domains": []
   },
   {
     "name": "Clipper",
@@ -1388,9 +1192,7 @@
     "sector": "",
     "country": "",
     "description": "",
-    "domains": [
-      "AI/ML"
-    ]
+    "domains": []
   },
   {
     "name": "CLIPS",
@@ -1399,9 +1201,7 @@
     "sector": "",
     "country": "",
     "description": "",
-    "domains": [
-      "AI/ML"
-    ]
+    "domains": []
   },
   {
     "name": "Clojure",
@@ -1410,9 +1210,7 @@
     "sector": "",
     "country": "",
     "description": "",
-    "domains": [
-      "AI/ML"
-    ]
+    "domains": []
   },
   {
     "name": "CLU",
@@ -1421,9 +1219,7 @@
     "sector": "",
     "country": "",
     "description": "",
-    "domains": [
-      "AI/ML"
-    ]
+    "domains": []
   },
   {
     "name": "CMS EXEC",
@@ -1432,9 +1228,7 @@
     "sector": "",
     "country": "",
     "description": "",
-    "domains": [
-      "AI/ML"
-    ]
+    "domains": []
   },
   {
     "name": "Cobra",
@@ -1443,9 +1237,7 @@
     "sector": "",
     "country": "",
     "description": "",
-    "domains": [
-      "AI/ML"
-    ]
+    "domains": []
   },
   {
     "name": "CoffeeScript",
@@ -1454,9 +1246,7 @@
     "sector": "",
     "country": "",
     "description": "",
-    "domains": [
-      "AI/ML"
-    ]
+    "domains": []
   },
   {
     "name": "ColdFusion",
@@ -1465,9 +1255,7 @@
     "sector": "",
     "country": "",
     "description": "",
-    "domains": [
-      "AI/ML"
-    ]
+    "domains": []
   },
   {
     "name": "COMAL",
@@ -1476,9 +1264,7 @@
     "sector": "",
     "country": "",
     "description": "",
-    "domains": [
-      "AI/ML"
-    ]
+    "domains": []
   },
   {
     "name": "Common Intermediate Language",
@@ -1487,9 +1273,7 @@
     "sector": "",
     "country": "",
     "description": "",
-    "domains": [
-      "AI/ML"
-    ]
+    "domains": []
   },
   {
     "name": "Common Lisp",
@@ -1498,9 +1282,7 @@
     "sector": "",
     "country": "",
     "description": "",
-    "domains": [
-      "AI/ML"
-    ]
+    "domains": []
   },
   {
     "name": "Computer Sciences Corporation",
@@ -1509,9 +1291,7 @@
     "sector": "",
     "country": "",
     "description": "",
-    "domains": [
-      "AI/ML"
-    ]
+    "domains": []
   },
   {
     "name": "COMTRAN",
@@ -1520,9 +1300,7 @@
     "sector": "",
     "country": "",
     "description": "",
-    "domains": [
-      "AI/ML"
-    ]
+    "domains": []
   },
   {
     "name": "Constraint Handling Rules",
@@ -1531,9 +1309,7 @@
     "sector": "",
     "country": "",
     "description": "",
-    "domains": [
-      "AI/ML"
-    ]
+    "domains": []
   },
   {
     "name": "CORAL",
@@ -1542,9 +1318,7 @@
     "sector": "",
     "country": "",
     "description": "",
-    "domains": [
-      "AI/ML"
-    ]
+    "domains": []
   },
   {
     "name": "CorVision",
@@ -1553,9 +1327,7 @@
     "sector": "",
     "country": "",
     "description": "",
-    "domains": [
-      "AI/ML"
-    ]
+    "domains": []
   },
   {
     "name": "CPL",
@@ -1564,9 +1336,7 @@
     "sector": "",
     "country": "",
     "description": "",
-    "domains": [
-      "AI/ML"
-    ]
+    "domains": []
   },
   {
     "name": "Cryptol",
@@ -1575,9 +1345,7 @@
     "sector": "",
     "country": "",
     "description": "",
-    "domains": [
-      "AI/ML"
-    ]
+    "domains": []
   },
   {
     "name": "Crystal",
@@ -1586,9 +1354,7 @@
     "sector": "",
     "country": "",
     "description": "",
-    "domains": [
-      "AI/ML"
-    ]
+    "domains": []
   },
   {
     "name": "Csound",
@@ -1597,9 +1363,7 @@
     "sector": "",
     "country": "",
     "description": "",
-    "domains": [
-      "AI/ML"
-    ]
+    "domains": []
   },
   {
     "name": "Cuneiform",
@@ -1608,9 +1372,7 @@
     "sector": "",
     "country": "",
     "description": "",
-    "domains": [
-      "AI/ML"
-    ]
+    "domains": []
   },
   {
     "name": "Curl",
@@ -1619,9 +1381,7 @@
     "sector": "",
     "country": "",
     "description": "",
-    "domains": [
-      "AI/ML"
-    ]
+    "domains": []
   },
   {
     "name": "Curry",
@@ -1630,9 +1390,7 @@
     "sector": "",
     "country": "",
     "description": "",
-    "domains": [
-      "AI/ML"
-    ]
+    "domains": []
   },
   {
     "name": "Cybil",
@@ -1641,9 +1399,7 @@
     "sector": "",
     "country": "",
     "description": "",
-    "domains": [
-      "AI/ML"
-    ]
+    "domains": []
   },
   {
     "name": "Cyclone",
@@ -1652,9 +1408,7 @@
     "sector": "",
     "country": "",
     "description": "",
-    "domains": [
-      "AI/ML"
-    ]
+    "domains": []
   },
   {
     "name": "Cypher Query Language",
@@ -1663,9 +1417,7 @@
     "sector": "",
     "country": "",
     "description": "",
-    "domains": [
-      "AI/ML"
-    ]
+    "domains": []
   },
   {
     "name": "Cython",
@@ -1674,9 +1426,7 @@
     "sector": "",
     "country": "",
     "description": "",
-    "domains": [
-      "AI/ML"
-    ]
+    "domains": []
   },
   {
     "name": "Céu",
@@ -1685,9 +1435,7 @@
     "sector": "",
     "country": "",
     "description": "",
-    "domains": [
-      "AI/ML"
-    ]
+    "domains": []
   },
   {
     "name": "Dart",
@@ -1696,9 +1444,7 @@
     "sector": "Mobile",
     "country": "Worldwide",
     "description": "Language optimized for UI, used with Flutter",
-    "domains": [
-      "AI/ML"
-    ]
+    "domains": []
   },
   {
     "name": "Darwin",
@@ -1707,9 +1453,7 @@
     "sector": "",
     "country": "",
     "description": "",
-    "domains": [
-      "AI/ML"
-    ]
+    "domains": []
   },
   {
     "name": "DataFlex",
@@ -1718,9 +1462,7 @@
     "sector": "",
     "country": "",
     "description": "",
-    "domains": [
-      "AI/ML"
-    ]
+    "domains": []
   },
   {
     "name": "Datalog",
@@ -1729,9 +1471,7 @@
     "sector": "",
     "country": "",
     "description": "",
-    "domains": [
-      "AI/ML"
-    ]
+    "domains": []
   },
   {
     "name": "DATATRIEVE",
@@ -1740,9 +1480,7 @@
     "sector": "",
     "country": "",
     "description": "",
-    "domains": [
-      "AI/ML"
-    ]
+    "domains": []
   },
   {
     "name": "dBase",
@@ -1751,9 +1489,7 @@
     "sector": "",
     "country": "",
     "description": "",
-    "domains": [
-      "AI/ML"
-    ]
+    "domains": []
   },
   {
     "name": "Definitions",
@@ -1762,9 +1498,7 @@
     "sector": "",
     "country": "",
     "description": "",
-    "domains": [
-      "AI/ML"
-    ]
+    "domains": []
   },
   {
     "name": "Delphi",
@@ -1773,9 +1507,7 @@
     "sector": "",
     "country": "",
     "description": "",
-    "domains": [
-      "AI/ML"
-    ]
+    "domains": []
   },
   {
     "name": "Delphi Community",
@@ -1784,9 +1516,7 @@
     "sector": "",
     "country": "",
     "description": "",
-    "domains": [
-      "AI/ML"
-    ]
+    "domains": []
   },
   {
     "name": "DinkC",
@@ -1795,9 +1525,7 @@
     "sector": "",
     "country": "",
     "description": "",
-    "domains": [
-      "AI/ML"
-    ]
+    "domains": []
   },
   {
     "name": "Dog",
@@ -1806,9 +1534,7 @@
     "sector": "",
     "country": "",
     "description": "",
-    "domains": [
-      "AI/ML"
-    ]
+    "domains": []
   },
   {
     "name": "domain-specific languages",
@@ -1817,9 +1543,7 @@
     "sector": "",
     "country": "",
     "description": "",
-    "domains": [
-      "AI/ML"
-    ]
+    "domains": []
   },
   {
     "name": "DRAKON",
@@ -1828,9 +1552,7 @@
     "sector": "",
     "country": "",
     "description": "",
-    "domains": [
-      "AI/ML"
-    ]
+    "domains": []
   },
   {
     "name": "DrRacket",
@@ -1839,9 +1561,7 @@
     "sector": "",
     "country": "",
     "description": "",
-    "domains": [
-      "AI/ML"
-    ]
+    "domains": []
   },
   {
     "name": "Dylan",
@@ -1850,9 +1570,7 @@
     "sector": "",
     "country": "",
     "description": "",
-    "domains": [
-      "AI/ML"
-    ]
+    "domains": []
   },
   {
     "name": "Easy PL/I",
@@ -1861,9 +1579,7 @@
     "sector": "",
     "country": "",
     "description": "",
-    "domains": [
-      "AI/ML"
-    ]
+    "domains": []
   },
   {
     "name": "EASYTRIEVE PLUS",
@@ -1872,9 +1588,7 @@
     "sector": "",
     "country": "",
     "description": "",
-    "domains": [
-      "AI/ML"
-    ]
+    "domains": []
   },
   {
     "name": "ECMAScript",
@@ -1883,9 +1597,7 @@
     "sector": "",
     "country": "",
     "description": "",
-    "domains": [
-      "AI/ML"
-    ]
+    "domains": []
   },
   {
     "name": "Edinburgh IMP",
@@ -1894,9 +1606,7 @@
     "sector": "",
     "country": "",
     "description": "",
-    "domains": [
-      "AI/ML"
-    ]
+    "domains": []
   },
   {
     "name": "EGL",
@@ -1905,9 +1615,7 @@
     "sector": "",
     "country": "",
     "description": "",
-    "domains": [
-      "AI/ML"
-    ]
+    "domains": []
   },
   {
     "name": "Eiffel",
@@ -1916,9 +1624,7 @@
     "sector": "",
     "country": "",
     "description": "",
-    "domains": [
-      "AI/ML"
-    ]
+    "domains": []
   },
   {
     "name": "ELAN",
@@ -1927,9 +1633,7 @@
     "sector": "",
     "country": "",
     "description": "",
-    "domains": [
-      "AI/ML"
-    ]
+    "domains": []
   },
   {
     "name": "Elixir",
@@ -1938,9 +1642,7 @@
     "sector": "",
     "country": "",
     "description": "",
-    "domains": [
-      "AI/ML"
-    ]
+    "domains": []
   },
   {
     "name": "Elm",
@@ -1949,9 +1651,7 @@
     "sector": "",
     "country": "",
     "description": "",
-    "domains": [
-      "AI/ML"
-    ]
+    "domains": []
   },
   {
     "name": "Emacs Lisp",
@@ -1960,9 +1660,7 @@
     "sector": "",
     "country": "",
     "description": "",
-    "domains": [
-      "AI/ML"
-    ]
+    "domains": []
   },
   {
     "name": "Emerald",
@@ -1971,9 +1669,7 @@
     "sector": "",
     "country": "",
     "description": "",
-    "domains": [
-      "AI/ML"
-    ]
+    "domains": []
   },
   {
     "name": "EPL (Easy Programming Language)",
@@ -1982,9 +1678,7 @@
     "sector": "",
     "country": "",
     "description": "",
-    "domains": [
-      "AI/ML"
-    ]
+    "domains": []
   },
   {
     "name": "Erlang",
@@ -1993,9 +1687,7 @@
     "sector": "",
     "country": "",
     "description": "",
-    "domains": [
-      "AI/ML"
-    ]
+    "domains": []
   },
   {
     "name": "es",
@@ -2004,9 +1696,7 @@
     "sector": "",
     "country": "",
     "description": "",
-    "domains": [
-      "AI/ML"
-    ]
+    "domains": []
   },
   {
     "name": "Escher",
@@ -2015,9 +1705,7 @@
     "sector": "",
     "country": "",
     "description": "",
-    "domains": [
-      "AI/ML"
-    ]
+    "domains": []
   },
   {
     "name": "esoteric programming languages",
@@ -2026,9 +1714,7 @@
     "sector": "",
     "country": "",
     "description": "",
-    "domains": [
-      "AI/ML"
-    ]
+    "domains": []
   },
   {
     "name": "ESPOL",
@@ -2037,9 +1723,7 @@
     "sector": "",
     "country": "",
     "description": "",
-    "domains": [
-      "AI/ML"
-    ]
+    "domains": []
   },
   {
     "name": "Esterel",
@@ -2048,9 +1732,7 @@
     "sector": "",
     "country": "",
     "description": "",
-    "domains": [
-      "AI/ML"
-    ]
+    "domains": []
   },
   {
     "name": "Etoys",
@@ -2059,9 +1741,7 @@
     "sector": "",
     "country": "",
     "description": "",
-    "domains": [
-      "AI/ML"
-    ]
+    "domains": []
   },
   {
     "name": "Euclid",
@@ -2070,9 +1750,7 @@
     "sector": "",
     "country": "",
     "description": "",
-    "domains": [
-      "AI/ML"
-    ]
+    "domains": []
   },
   {
     "name": "Euler",
@@ -2081,9 +1759,7 @@
     "sector": "",
     "country": "",
     "description": "",
-    "domains": [
-      "AI/ML"
-    ]
+    "domains": []
   },
   {
     "name": "Euphoria",
@@ -2092,9 +1768,7 @@
     "sector": "",
     "country": "",
     "description": "",
-    "domains": [
-      "AI/ML"
-    ]
+    "domains": []
   },
   {
     "name": "EusLisp Robot Programming Language",
@@ -2103,9 +1777,7 @@
     "sector": "",
     "country": "",
     "description": "",
-    "domains": [
-      "AI/ML"
-    ]
+    "domains": []
   },
   {
     "name": "executable",
@@ -2114,9 +1786,7 @@
     "sector": "",
     "country": "",
     "description": "",
-    "domains": [
-      "AI/ML"
-    ]
+    "domains": []
   },
   {
     "name": "Executable UML",
@@ -2125,9 +1795,7 @@
     "sector": "",
     "country": "",
     "description": "",
-    "domains": [
-      "AI/ML"
-    ]
+    "domains": []
   },
   {
     "name": "Ezhil",
@@ -2136,9 +1804,7 @@
     "sector": "",
     "country": "",
     "description": "",
-    "domains": [
-      "AI/ML"
-    ]
+    "domains": []
   },
   {
     "name": "F# (F sharp)",
@@ -2147,9 +1813,7 @@
     "sector": "",
     "country": "",
     "description": "",
-    "domains": [
-      "AI/ML"
-    ]
+    "domains": []
   },
   {
     "name": "Factor",
@@ -2158,9 +1822,7 @@
     "sector": "",
     "country": "",
     "description": "",
-    "domains": [
-      "AI/ML"
-    ]
+    "domains": []
   },
   {
     "name": "Fantom",
@@ -2169,9 +1831,7 @@
     "sector": "",
     "country": "",
     "description": "",
-    "domains": [
-      "AI/ML"
-    ]
+    "domains": []
   },
   {
     "name": "FAUST",
@@ -2180,9 +1840,7 @@
     "sector": "",
     "country": "",
     "description": "",
-    "domains": [
-      "AI/ML"
-    ]
+    "domains": []
   },
   {
     "name": "FFP",
@@ -2191,9 +1849,7 @@
     "sector": "",
     "country": "",
     "description": "",
-    "domains": [
-      "AI/ML"
-    ]
+    "domains": []
   },
   {
     "name": "fish",
@@ -2202,9 +1858,7 @@
     "sector": "",
     "country": "",
     "description": "",
-    "domains": [
-      "AI/ML"
-    ]
+    "domains": []
   },
   {
     "name": "Flix",
@@ -2213,9 +1867,7 @@
     "sector": "",
     "country": "",
     "description": "",
-    "domains": [
-      "AI/ML"
-    ]
+    "domains": []
   },
   {
     "name": "FLOW-MATIC (B0)",
@@ -2224,9 +1876,7 @@
     "sector": "",
     "country": "",
     "description": "",
-    "domains": [
-      "AI/ML"
-    ]
+    "domains": []
   },
   {
     "name": "FOCAL (Formulating On-Line Calculations in Algebraic Language/FOrmula CALculator)",
@@ -2235,9 +1885,7 @@
     "sector": "",
     "country": "",
     "description": "",
-    "domains": [
-      "AI/ML"
-    ]
+    "domains": []
   },
   {
     "name": "Forth",
@@ -2246,9 +1894,7 @@
     "sector": "",
     "country": "",
     "description": "",
-    "domains": [
-      "AI/ML"
-    ]
+    "domains": []
   },
   {
     "name": "Fortran",
@@ -2257,9 +1903,7 @@
     "sector": "",
     "country": "",
     "description": "",
-    "domains": [
-      "AI/ML"
-    ]
+    "domains": []
   },
   {
     "name": "Fortress",
@@ -2268,9 +1912,7 @@
     "sector": "",
     "country": "",
     "description": "",
-    "domains": [
-      "AI/ML"
-    ]
+    "domains": []
   },
   {
     "name": "FoxBase/FoxPro",
@@ -2279,9 +1921,7 @@
     "sector": "",
     "country": "",
     "description": "",
-    "domains": [
-      "AI/ML"
-    ]
+    "domains": []
   },
   {
     "name": "Franz Lisp",
@@ -2290,9 +1930,7 @@
     "sector": "",
     "country": "",
     "description": "",
-    "domains": [
-      "AI/ML"
-    ]
+    "domains": []
   },
   {
     "name": "Futhark",
@@ -2301,9 +1939,7 @@
     "sector": "",
     "country": "",
     "description": "",
-    "domains": [
-      "AI/ML"
-    ]
+    "domains": []
   },
   {
     "name": "G-code",
@@ -2312,9 +1948,7 @@
     "sector": "",
     "country": "",
     "description": "",
-    "domains": [
-      "AI/ML"
-    ]
+    "domains": []
   },
   {
     "name": "Game Maker Language",
@@ -2323,9 +1957,7 @@
     "sector": "",
     "country": "",
     "description": "",
-    "domains": [
-      "AI/ML"
-    ]
+    "domains": []
   },
   {
     "name": "Game Oriented Assembly Lisp",
@@ -2334,9 +1966,7 @@
     "sector": "",
     "country": "",
     "description": "",
-    "domains": [
-      "AI/ML"
-    ]
+    "domains": []
   },
   {
     "name": "GameMonkey Script",
@@ -2345,9 +1975,7 @@
     "sector": "",
     "country": "",
     "description": "",
-    "domains": [
-      "AI/ML"
-    ]
+    "domains": []
   },
   {
     "name": "GAP",
@@ -2356,9 +1984,7 @@
     "sector": "",
     "country": "",
     "description": "",
-    "domains": [
-      "AI/ML"
-    ]
+    "domains": []
   },
   {
     "name": "GDScript (Godot)",
@@ -2367,9 +1993,7 @@
     "sector": "",
     "country": "",
     "description": "",
-    "domains": [
-      "AI/ML"
-    ]
+    "domains": []
   },
   {
     "name": "General Algebraic Modeling System",
@@ -2378,9 +2002,7 @@
     "sector": "",
     "country": "",
     "description": "",
-    "domains": [
-      "AI/ML"
-    ]
+    "domains": []
   },
   {
     "name": "Generational",
@@ -2389,9 +2011,7 @@
     "sector": "",
     "country": "",
     "description": "",
-    "domains": [
-      "AI/ML"
-    ]
+    "domains": []
   },
   {
     "name": "Geometric Description Language",
@@ -2400,9 +2020,7 @@
     "sector": "",
     "country": "",
     "description": "",
-    "domains": [
-      "AI/ML"
-    ]
+    "domains": []
   },
   {
     "name": "Gleam",
@@ -2411,9 +2029,7 @@
     "sector": "",
     "country": "",
     "description": "",
-    "domains": [
-      "AI/ML"
-    ]
+    "domains": []
   },
   {
     "name": "GNU E",
@@ -2422,9 +2038,7 @@
     "sector": "",
     "country": "",
     "description": "",
-    "domains": [
-      "AI/ML"
-    ]
+    "domains": []
   },
   {
     "name": "GNU Guile (GNU Ubiquitous Intelligent Language for Extensions)",
@@ -2433,9 +2047,7 @@
     "sector": "",
     "country": "",
     "description": "",
-    "domains": [
-      "AI/ML"
-    ]
+    "domains": []
   },
   {
     "name": "GNU Octave",
@@ -2444,9 +2056,7 @@
     "sector": "",
     "country": "",
     "description": "",
-    "domains": [
-      "AI/ML"
-    ]
+    "domains": []
   },
   {
     "name": "Go",
@@ -2455,9 +2065,7 @@
     "sector": "Cloud",
     "country": "Worldwide",
     "description": "Compiled language by Google for cloud services",
-    "domains": [
-      "AI/ML"
-    ]
+    "domains": []
   },
   {
     "name": "Go!",
@@ -2466,9 +2074,7 @@
     "sector": "Cloud",
     "country": "Worldwide",
     "description": "Compiled language by Google for cloud services",
-    "domains": [
-      "AI/ML"
-    ]
+    "domains": []
   },
   {
     "name": "Golo",
@@ -2477,9 +2083,7 @@
     "sector": "",
     "country": "",
     "description": "",
-    "domains": [
-      "AI/ML"
-    ]
+    "domains": []
   },
   {
     "name": "GOM",
@@ -2488,9 +2092,7 @@
     "sector": "",
     "country": "",
     "description": "",
-    "domains": [
-      "AI/ML"
-    ]
+    "domains": []
   },
   {
     "name": "Google Apps Script",
@@ -2499,9 +2101,7 @@
     "sector": "",
     "country": "",
     "description": "",
-    "domains": [
-      "AI/ML"
-    ]
+    "domains": []
   },
   {
     "name": "Gosu",
@@ -2510,9 +2110,7 @@
     "sector": "",
     "country": "",
     "description": "",
-    "domains": [
-      "AI/ML"
-    ]
+    "domains": []
   },
   {
     "name": "GRASS",
@@ -2521,9 +2119,7 @@
     "sector": "",
     "country": "",
     "description": "",
-    "domains": [
-      "AI/ML"
-    ]
+    "domains": []
   },
   {
     "name": "Grasshopper",
@@ -2532,9 +2128,7 @@
     "sector": "",
     "country": "",
     "description": "",
-    "domains": [
-      "AI/ML"
-    ]
+    "domains": []
   },
   {
     "name": "Groovy",
@@ -2543,9 +2137,7 @@
     "sector": "",
     "country": "",
     "description": "",
-    "domains": [
-      "AI/ML"
-    ]
+    "domains": []
   },
   {
     "name": "Groovy (programming language)",
@@ -2554,9 +2146,7 @@
     "sector": "",
     "country": "",
     "description": "",
-    "domains": [
-      "AI/ML"
-    ]
+    "domains": []
   },
   {
     "name": "Gödel",
@@ -2565,9 +2155,7 @@
     "sector": "",
     "country": "",
     "description": "",
-    "domains": [
-      "AI/ML"
-    ]
+    "domains": []
   },
   {
     "name": "Hack",
@@ -2576,9 +2164,7 @@
     "sector": "",
     "country": "",
     "description": "",
-    "domains": [
-      "AI/ML"
-    ]
+    "domains": []
   },
   {
     "name": "HAGGIS",
@@ -2587,9 +2173,7 @@
     "sector": "",
     "country": "",
     "description": "",
-    "domains": [
-      "AI/ML"
-    ]
+    "domains": []
   },
   {
     "name": "HAL/S",
@@ -2598,9 +2182,7 @@
     "sector": "",
     "country": "",
     "description": "",
-    "domains": [
-      "AI/ML"
-    ]
+    "domains": []
   },
   {
     "name": "Halide (programming language)",
@@ -2609,9 +2191,7 @@
     "sector": "",
     "country": "",
     "description": "",
-    "domains": [
-      "AI/ML"
-    ]
+    "domains": []
   },
   {
     "name": "Hamilton C shell",
@@ -2620,9 +2200,7 @@
     "sector": "",
     "country": "",
     "description": "",
-    "domains": [
-      "AI/ML"
-    ]
+    "domains": []
   },
   {
     "name": "Harbour",
@@ -2631,9 +2209,7 @@
     "sector": "",
     "country": "",
     "description": "",
-    "domains": [
-      "AI/ML"
-    ]
+    "domains": []
   },
   {
     "name": "Hartmann pipelines",
@@ -2642,9 +2218,7 @@
     "sector": "",
     "country": "",
     "description": "",
-    "domains": [
-      "AI/ML"
-    ]
+    "domains": []
   },
   {
     "name": "Haskell",
@@ -2653,9 +2227,7 @@
     "sector": "",
     "country": "",
     "description": "",
-    "domains": [
-      "AI/ML"
-    ]
+    "domains": []
   },
   {
     "name": "Haxe",
@@ -2664,9 +2236,7 @@
     "sector": "",
     "country": "",
     "description": "",
-    "domains": [
-      "AI/ML"
-    ]
+    "domains": []
   },
   {
     "name": "Hermes",
@@ -2675,9 +2245,7 @@
     "sector": "",
     "country": "",
     "description": "",
-    "domains": [
-      "AI/ML"
-    ]
+    "domains": []
   },
   {
     "name": "High Level Assembly",
@@ -2686,9 +2254,7 @@
     "sector": "",
     "country": "",
     "description": "",
-    "domains": [
-      "AI/ML"
-    ]
+    "domains": []
   },
   {
     "name": "History of programming languages",
@@ -2697,9 +2263,7 @@
     "sector": "",
     "country": "",
     "description": "",
-    "domains": [
-      "AI/ML"
-    ]
+    "domains": []
   },
   {
     "name": "Hollywood",
@@ -2708,9 +2272,7 @@
     "sector": "",
     "country": "",
     "description": "",
-    "domains": [
-      "AI/ML"
-    ]
+    "domains": []
   },
   {
     "name": "HolyC",
@@ -2719,9 +2281,7 @@
     "sector": "",
     "country": "",
     "description": "",
-    "domains": [
-      "AI/ML"
-    ]
+    "domains": []
   },
   {
     "name": "Hop",
@@ -2730,9 +2290,7 @@
     "sector": "",
     "country": "",
     "description": "",
-    "domains": [
-      "AI/ML"
-    ]
+    "domains": []
   },
   {
     "name": "Hopscotch",
@@ -2741,9 +2299,7 @@
     "sector": "",
     "country": "",
     "description": "",
-    "domains": [
-      "AI/ML"
-    ]
+    "domains": []
   },
   {
     "name": "HTML",
@@ -2752,9 +2308,7 @@
     "sector": "",
     "country": "",
     "description": "",
-    "domains": [
-      "AI/ML"
-    ]
+    "domains": []
   },
   {
     "name": "Hy",
@@ -2763,9 +2317,7 @@
     "sector": "",
     "country": "",
     "description": "",
-    "domains": [
-      "AI/ML"
-    ]
+    "domains": []
   },
   {
     "name": "IBM Basic assembly language",
@@ -2774,9 +2326,7 @@
     "sector": "",
     "country": "",
     "description": "",
-    "domains": [
-      "AI/ML"
-    ]
+    "domains": []
   },
   {
     "name": "IBM Informix-4GL",
@@ -2785,9 +2335,7 @@
     "sector": "",
     "country": "",
     "description": "",
-    "domains": [
-      "AI/ML"
-    ]
+    "domains": []
   },
   {
     "name": "Icon",
@@ -2796,9 +2344,7 @@
     "sector": "",
     "country": "",
     "description": "",
-    "domains": [
-      "AI/ML"
-    ]
+    "domains": []
   },
   {
     "name": "IDL",
@@ -2807,9 +2353,7 @@
     "sector": "",
     "country": "",
     "description": "",
-    "domains": [
-      "AI/ML"
-    ]
+    "domains": []
   },
   {
     "name": "Idris",
@@ -2818,9 +2362,7 @@
     "sector": "",
     "country": "",
     "description": "",
-    "domains": [
-      "AI/ML"
-    ]
+    "domains": []
   },
   {
     "name": "Inform",
@@ -2829,9 +2371,7 @@
     "sector": "",
     "country": "",
     "description": "",
-    "domains": [
-      "AI/ML"
-    ]
+    "domains": []
   },
   {
     "name": "Io",
@@ -2840,9 +2380,7 @@
     "sector": "",
     "country": "",
     "description": "",
-    "domains": [
-      "AI/ML"
-    ]
+    "domains": []
   },
   {
     "name": "ISLISP",
@@ -2851,9 +2389,7 @@
     "sector": "",
     "country": "",
     "description": "",
-    "domains": [
-      "AI/ML"
-    ]
+    "domains": []
   },
   {
     "name": "ISO/IEC 8652",
@@ -2862,9 +2398,7 @@
     "sector": "",
     "country": "",
     "description": "",
-    "domains": [
-      "AI/ML"
-    ]
+    "domains": []
   },
   {
     "name": "J# (J sharp)",
@@ -2873,9 +2407,7 @@
     "sector": "",
     "country": "",
     "description": "",
-    "domains": [
-      "AI/ML"
-    ]
+    "domains": []
   },
   {
     "name": "J++ (J plus plus)",
@@ -2884,9 +2416,7 @@
     "sector": "",
     "country": "",
     "description": "",
-    "domains": [
-      "AI/ML"
-    ]
+    "domains": []
   },
   {
     "name": "JADE",
@@ -2895,9 +2425,7 @@
     "sector": "",
     "country": "",
     "description": "",
-    "domains": [
-      "AI/ML"
-    ]
+    "domains": []
   },
   {
     "name": "Jai",
@@ -2906,9 +2434,7 @@
     "sector": "",
     "country": "",
     "description": "",
-    "domains": [
-      "AI/ML"
-    ]
+    "domains": []
   },
   {
     "name": "JAL",
@@ -2917,9 +2443,7 @@
     "sector": "",
     "country": "",
     "description": "",
-    "domains": [
-      "AI/ML"
-    ]
+    "domains": []
   },
   {
     "name": "Janus (concurrent constraint programming language)",
@@ -2928,9 +2452,7 @@
     "sector": "",
     "country": "",
     "description": "",
-    "domains": [
-      "AI/ML"
-    ]
+    "domains": []
   },
   {
     "name": "Janus (time-reversible computing programming language)",
@@ -2939,9 +2461,7 @@
     "sector": "",
     "country": "",
     "description": "",
-    "domains": [
-      "AI/ML"
-    ]
+    "domains": []
   },
   {
     "name": "JASS",
@@ -2950,9 +2470,7 @@
     "sector": "",
     "country": "",
     "description": "",
-    "domains": [
-      "AI/ML"
-    ]
+    "domains": []
   },
   {
     "name": "Java",
@@ -2961,9 +2479,7 @@
     "sector": "Enterprise",
     "country": "Worldwide",
     "description": "Popular enterprise and Android language",
-    "domains": [
-      "AI/ML"
-    ]
+    "domains": []
   },
   {
     "name": "JavaScript",
@@ -2972,9 +2488,7 @@
     "sector": "Web",
     "country": "Worldwide",
     "description": "The language of the web",
-    "domains": [
-      "AI/ML"
-    ]
+    "domains": []
   },
   {
     "name": "JEAN",
@@ -2983,9 +2497,7 @@
     "sector": "",
     "country": "",
     "description": "",
-    "domains": [
-      "AI/ML"
-    ]
+    "domains": []
   },
   {
     "name": "Join Java",
@@ -2994,9 +2506,7 @@
     "sector": "",
     "country": "",
     "description": "",
-    "domains": [
-      "AI/ML"
-    ]
+    "domains": []
   },
   {
     "name": "Joule",
@@ -3005,9 +2515,7 @@
     "sector": "",
     "country": "",
     "description": "",
-    "domains": [
-      "AI/ML"
-    ]
+    "domains": []
   },
   {
     "name": "jq",
@@ -3016,9 +2524,7 @@
     "sector": "",
     "country": "",
     "description": "",
-    "domains": [
-      "AI/ML"
-    ]
+    "domains": []
   },
   {
     "name": "JScript",
@@ -3027,9 +2533,7 @@
     "sector": "",
     "country": "",
     "description": "",
-    "domains": [
-      "AI/ML"
-    ]
+    "domains": []
   },
   {
     "name": "JScript .NET",
@@ -3038,9 +2542,7 @@
     "sector": "",
     "country": "",
     "description": "",
-    "domains": [
-      "AI/ML"
-    ]
+    "domains": []
   },
   {
     "name": "Julia",
@@ -3049,9 +2551,7 @@
     "sector": "Scientific",
     "country": "Worldwide",
     "description": "High-performance language for numerical computing",
-    "domains": [
-      "AI/ML"
-    ]
+    "domains": []
   },
   {
     "name": "Jython",
@@ -3060,9 +2560,7 @@
     "sector": "",
     "country": "",
     "description": "",
-    "domains": [
-      "AI/ML"
-    ]
+    "domains": []
   },
   {
     "name": "Karel",
@@ -3071,9 +2569,7 @@
     "sector": "",
     "country": "",
     "description": "",
-    "domains": [
-      "AI/ML"
-    ]
+    "domains": []
   },
   {
     "name": "Kent Recursive Calculator",
@@ -3082,9 +2578,7 @@
     "sector": "",
     "country": "",
     "description": "",
-    "domains": [
-      "AI/ML"
-    ]
+    "domains": []
   },
   {
     "name": "KiXtart",
@@ -3093,9 +2587,7 @@
     "sector": "",
     "country": "",
     "description": "",
-    "domains": [
-      "AI/ML"
-    ]
+    "domains": []
   },
   {
     "name": "Klerer-May System",
@@ -3104,9 +2596,7 @@
     "sector": "",
     "country": "",
     "description": "",
-    "domains": [
-      "AI/ML"
-    ]
+    "domains": []
   },
   {
     "name": "Kodu",
@@ -3115,9 +2605,7 @@
     "sector": "",
     "country": "",
     "description": "",
-    "domains": [
-      "AI/ML"
-    ]
+    "domains": []
   },
   {
     "name": "Kojo",
@@ -3126,9 +2614,7 @@
     "sector": "",
     "country": "",
     "description": "",
-    "domains": [
-      "AI/ML"
-    ]
+    "domains": []
   },
   {
     "name": "KornShell",
@@ -3137,9 +2623,7 @@
     "sector": "",
     "country": "",
     "description": "",
-    "domains": [
-      "AI/ML"
-    ]
+    "domains": []
   },
   {
     "name": "Kotlin",
@@ -3148,9 +2632,7 @@
     "sector": "Mobile",
     "country": "Worldwide",
     "description": "JVM language popular for Android",
-    "domains": [
-      "AI/ML"
-    ]
+    "domains": []
   },
   {
     "name": "KRL",
@@ -3159,9 +2641,7 @@
     "sector": "",
     "country": "",
     "description": "",
-    "domains": [
-      "AI/ML"
-    ]
+    "domains": []
   },
   {
     "name": "Kv (Kivy)",
@@ -3170,9 +2650,7 @@
     "sector": "",
     "country": "",
     "description": "",
-    "domains": [
-      "AI/ML"
-    ]
+    "domains": []
   },
   {
     "name": "LabVIEW",
@@ -3181,9 +2659,7 @@
     "sector": "",
     "country": "",
     "description": "",
-    "domains": [
-      "AI/ML"
-    ]
+    "domains": []
   },
   {
     "name": "Ladder",
@@ -3192,9 +2668,7 @@
     "sector": "",
     "country": "",
     "description": "",
-    "domains": [
-      "AI/ML"
-    ]
+    "domains": []
   },
   {
     "name": "LANSA",
@@ -3203,9 +2677,7 @@
     "sector": "",
     "country": "",
     "description": "",
-    "domains": [
-      "AI/ML"
-    ]
+    "domains": []
   },
   {
     "name": "Lasso",
@@ -3214,9 +2686,7 @@
     "sector": "",
     "country": "",
     "description": "",
-    "domains": [
-      "AI/ML"
-    ]
+    "domains": []
   },
   {
     "name": "Lean",
@@ -3225,9 +2695,7 @@
     "sector": "",
     "country": "",
     "description": "",
-    "domains": [
-      "AI/ML"
-    ]
+    "domains": []
   },
   {
     "name": "Legoscript",
@@ -3236,9 +2704,7 @@
     "sector": "",
     "country": "",
     "description": "",
-    "domains": [
-      "AI/ML"
-    ]
+    "domains": []
   },
   {
     "name": "LIL",
@@ -3247,9 +2713,7 @@
     "sector": "",
     "country": "",
     "description": "",
-    "domains": [
-      "AI/ML"
-    ]
+    "domains": []
   },
   {
     "name": "LilyPond",
@@ -3258,9 +2722,7 @@
     "sector": "",
     "country": "",
     "description": "",
-    "domains": [
-      "AI/ML"
-    ]
+    "domains": []
   },
   {
     "name": "LINC",
@@ -3269,9 +2731,7 @@
     "sector": "",
     "country": "",
     "description": "",
-    "domains": [
-      "AI/ML"
-    ]
+    "domains": []
   },
   {
     "name": "Lingo",
@@ -3280,9 +2740,7 @@
     "sector": "",
     "country": "",
     "description": "",
-    "domains": [
-      "AI/ML"
-    ]
+    "domains": []
   },
   {
     "name": "LINQ",
@@ -3291,9 +2749,7 @@
     "sector": "",
     "country": "",
     "description": "",
-    "domains": [
-      "AI/ML"
-    ]
+    "domains": []
   },
   {
     "name": "LIS",
@@ -3302,9 +2758,7 @@
     "sector": "",
     "country": "",
     "description": "",
-    "domains": [
-      "AI/ML"
-    ]
+    "domains": []
   },
   {
     "name": "LISA",
@@ -3313,9 +2767,7 @@
     "sector": "",
     "country": "",
     "description": "",
-    "domains": [
-      "AI/ML"
-    ]
+    "domains": []
   },
   {
     "name": "Lisp",
@@ -3324,9 +2776,7 @@
     "sector": "",
     "country": "",
     "description": "",
-    "domains": [
-      "AI/ML"
-    ]
+    "domains": []
   },
   {
     "name": "LiveCode",
@@ -3335,9 +2785,7 @@
     "sector": "",
     "country": "",
     "description": "",
-    "domains": [
-      "AI/ML"
-    ]
+    "domains": []
   },
   {
     "name": "LiveScript",
@@ -3346,9 +2794,7 @@
     "sector": "",
     "country": "",
     "description": "",
-    "domains": [
-      "AI/ML"
-    ]
+    "domains": []
   },
   {
     "name": "LLL",
@@ -3357,9 +2803,7 @@
     "sector": "",
     "country": "",
     "description": "",
-    "domains": [
-      "AI/ML"
-    ]
+    "domains": []
   },
   {
     "name": "Logo",
@@ -3368,9 +2812,7 @@
     "sector": "",
     "country": "",
     "description": "",
-    "domains": [
-      "AI/ML"
-    ]
+    "domains": []
   },
   {
     "name": "Logtalk",
@@ -3379,9 +2821,7 @@
     "sector": "",
     "country": "",
     "description": "",
-    "domains": [
-      "AI/ML"
-    ]
+    "domains": []
   },
   {
     "name": "LotusScript",
@@ -3390,9 +2830,7 @@
     "sector": "",
     "country": "",
     "description": "",
-    "domains": [
-      "AI/ML"
-    ]
+    "domains": []
   },
   {
     "name": "LPC",
@@ -3401,9 +2839,7 @@
     "sector": "",
     "country": "",
     "description": "",
-    "domains": [
-      "AI/ML"
-    ]
+    "domains": []
   },
   {
     "name": "LSE",
@@ -3412,9 +2848,7 @@
     "sector": "",
     "country": "",
     "description": "",
-    "domains": [
-      "AI/ML"
-    ]
+    "domains": []
   },
   {
     "name": "LSL",
@@ -3423,9 +2857,7 @@
     "sector": "",
     "country": "",
     "description": "",
-    "domains": [
-      "AI/ML"
-    ]
+    "domains": []
   },
   {
     "name": "Lua",
@@ -3434,9 +2866,7 @@
     "sector": "",
     "country": "",
     "description": "",
-    "domains": [
-      "AI/ML"
-    ]
+    "domains": []
   },
   {
     "name": "Lua (programming language)",
@@ -3445,9 +2875,7 @@
     "sector": "",
     "country": "",
     "description": "",
-    "domains": [
-      "AI/ML"
-    ]
+    "domains": []
   },
   {
     "name": "Lucid",
@@ -3456,9 +2884,7 @@
     "sector": "",
     "country": "",
     "description": "",
-    "domains": [
-      "AI/ML"
-    ]
+    "domains": []
   },
   {
     "name": "Lustre",
@@ -3467,9 +2893,7 @@
     "sector": "",
     "country": "",
     "description": "",
-    "domains": [
-      "AI/ML"
-    ]
+    "domains": []
   },
   {
     "name": "LYaPAS",
@@ -3478,9 +2902,7 @@
     "sector": "",
     "country": "",
     "description": "",
-    "domains": [
-      "AI/ML"
-    ]
+    "domains": []
   },
   {
     "name": "Lynx",
@@ -3489,9 +2911,7 @@
     "sector": "",
     "country": "",
     "description": "",
-    "domains": [
-      "AI/ML"
-    ]
+    "domains": []
   },
   {
     "name": "M Formula language",
@@ -3500,9 +2920,7 @@
     "sector": "",
     "country": "",
     "description": "",
-    "domains": [
-      "AI/ML"
-    ]
+    "domains": []
   },
   {
     "name": "M4",
@@ -3511,9 +2929,7 @@
     "sector": "",
     "country": "",
     "description": "",
-    "domains": [
-      "AI/ML"
-    ]
+    "domains": []
   },
   {
     "name": "Machine code",
@@ -3522,9 +2938,7 @@
     "sector": "",
     "country": "",
     "description": "",
-    "domains": [
-      "AI/ML"
-    ]
+    "domains": []
   },
   {
     "name": "Magik",
@@ -3533,9 +2947,7 @@
     "sector": "",
     "country": "",
     "description": "",
-    "domains": [
-      "AI/ML"
-    ]
+    "domains": []
   },
   {
     "name": "Magma",
@@ -3544,9 +2956,7 @@
     "sector": "",
     "country": "",
     "description": "",
-    "domains": [
-      "AI/ML"
-    ]
+    "domains": []
   },
   {
     "name": "Maple",
@@ -3555,9 +2965,7 @@
     "sector": "",
     "country": "",
     "description": "",
-    "domains": [
-      "AI/ML"
-    ]
+    "domains": []
   },
   {
     "name": "MAPPER",
@@ -3566,9 +2974,7 @@
     "sector": "",
     "country": "",
     "description": "",
-    "domains": [
-      "AI/ML"
-    ]
+    "domains": []
   },
   {
     "name": "markup languages",
@@ -3577,9 +2983,7 @@
     "sector": "",
     "country": "",
     "description": "",
-    "domains": [
-      "AI/ML"
-    ]
+    "domains": []
   },
   {
     "name": "MASM Microsoft Assembly x86",
@@ -3588,9 +2992,7 @@
     "sector": "",
     "country": "",
     "description": "",
-    "domains": [
-      "AI/ML"
-    ]
+    "domains": []
   },
   {
     "name": "MATLAB",
@@ -3599,9 +3001,7 @@
     "sector": "Scientific",
     "country": "Worldwide",
     "description": "Numeric computing environment",
-    "domains": [
-      "AI/ML"
-    ]
+    "domains": []
   },
   {
     "name": "Maude system",
@@ -3610,9 +3010,7 @@
     "sector": "",
     "country": "",
     "description": "",
-    "domains": [
-      "AI/ML"
-    ]
+    "domains": []
   },
   {
     "name": "Max",
@@ -3621,9 +3019,7 @@
     "sector": "",
     "country": "",
     "description": "",
-    "domains": [
-      "AI/ML"
-    ]
+    "domains": []
   },
   {
     "name": "Maxima",
@@ -3632,9 +3028,7 @@
     "sector": "",
     "country": "",
     "description": "",
-    "domains": [
-      "AI/ML"
-    ]
+    "domains": []
   },
   {
     "name": "MaxScript",
@@ -3643,9 +3037,7 @@
     "sector": "",
     "country": "",
     "description": "",
-    "domains": [
-      "AI/ML"
-    ]
+    "domains": []
   },
   {
     "name": "Maya (MEL)",
@@ -3654,9 +3046,7 @@
     "sector": "",
     "country": "",
     "description": "",
-    "domains": [
-      "AI/ML"
-    ]
+    "domains": []
   },
   {
     "name": "Mercury",
@@ -3665,9 +3055,7 @@
     "sector": "",
     "country": "",
     "description": "",
-    "domains": [
-      "AI/ML"
-    ]
+    "domains": []
   },
   {
     "name": "MHEG-5 (Interactive TV programming language)",
@@ -3676,9 +3064,7 @@
     "sector": "",
     "country": "",
     "description": "",
-    "domains": [
-      "AI/ML"
-    ]
+    "domains": []
   },
   {
     "name": "Microcode",
@@ -3687,9 +3073,7 @@
     "sector": "",
     "country": "",
     "description": "",
-    "domains": [
-      "AI/ML"
-    ]
+    "domains": []
   },
   {
     "name": "Microsoft Power Fx",
@@ -3698,9 +3082,7 @@
     "sector": "",
     "country": "",
     "description": "",
-    "domains": [
-      "AI/ML"
-    ]
+    "domains": []
   },
   {
     "name": "MIMIC",
@@ -3709,9 +3091,7 @@
     "sector": "",
     "country": "",
     "description": "",
-    "domains": [
-      "AI/ML"
-    ]
+    "domains": []
   },
   {
     "name": "Mirah",
@@ -3720,9 +3100,7 @@
     "sector": "",
     "country": "",
     "description": "",
-    "domains": [
-      "AI/ML"
-    ]
+    "domains": []
   },
   {
     "name": "Miranda",
@@ -3731,9 +3109,7 @@
     "sector": "",
     "country": "",
     "description": "",
-    "domains": [
-      "AI/ML"
-    ]
+    "domains": []
   },
   {
     "name": "MIVA Script",
@@ -3742,9 +3118,7 @@
     "sector": "",
     "country": "",
     "description": "",
-    "domains": [
-      "AI/ML"
-    ]
+    "domains": []
   },
   {
     "name": "ML",
@@ -3753,9 +3127,7 @@
     "sector": "",
     "country": "",
     "description": "",
-    "domains": [
-      "AI/ML"
-    ]
+    "domains": []
   },
   {
     "name": "Model 204",
@@ -3764,9 +3136,7 @@
     "sector": "",
     "country": "",
     "description": "",
-    "domains": [
-      "AI/ML"
-    ]
+    "domains": []
   },
   {
     "name": "Modelica",
@@ -3775,9 +3145,7 @@
     "sector": "",
     "country": "",
     "description": "",
-    "domains": [
-      "AI/ML"
-    ]
+    "domains": []
   },
   {
     "name": "Modula-2",
@@ -3786,9 +3154,7 @@
     "sector": "",
     "country": "",
     "description": "",
-    "domains": [
-      "AI/ML"
-    ]
+    "domains": []
   },
   {
     "name": "Modula-3",
@@ -3797,9 +3163,7 @@
     "sector": "",
     "country": "",
     "description": "",
-    "domains": [
-      "AI/ML"
-    ]
+    "domains": []
   },
   {
     "name": "Mojo",
@@ -3808,9 +3172,7 @@
     "sector": "",
     "country": "",
     "description": "",
-    "domains": [
-      "AI/ML"
-    ]
+    "domains": []
   },
   {
     "name": "MOO",
@@ -3819,9 +3181,7 @@
     "sector": "",
     "country": "",
     "description": "",
-    "domains": [
-      "AI/ML"
-    ]
+    "domains": []
   },
   {
     "name": "Mortran",
@@ -3830,9 +3190,7 @@
     "sector": "",
     "country": "",
     "description": "",
-    "domains": [
-      "AI/ML"
-    ]
+    "domains": []
   },
   {
     "name": "Mouse",
@@ -3841,9 +3199,7 @@
     "sector": "",
     "country": "",
     "description": "",
-    "domains": [
-      "AI/ML"
-    ]
+    "domains": []
   },
   {
     "name": "MPD",
@@ -3852,9 +3208,7 @@
     "sector": "",
     "country": "",
     "description": "",
-    "domains": [
-      "AI/ML"
-    ]
+    "domains": []
   },
   {
     "name": "MSL",
@@ -3863,9 +3217,7 @@
     "sector": "",
     "country": "",
     "description": "",
-    "domains": [
-      "AI/ML"
-    ]
+    "domains": []
   },
   {
     "name": "MUMPS",
@@ -3874,9 +3226,7 @@
     "sector": "",
     "country": "",
     "description": "",
-    "domains": [
-      "AI/ML"
-    ]
+    "domains": []
   },
   {
     "name": "MuPAD",
@@ -3885,9 +3235,7 @@
     "sector": "",
     "country": "",
     "description": "",
-    "domains": [
-      "AI/ML"
-    ]
+    "domains": []
   },
   {
     "name": "Mystic Programming Language",
@@ -3896,9 +3244,7 @@
     "sector": "",
     "country": "",
     "description": "",
-    "domains": [
-      "AI/ML"
-    ]
+    "domains": []
   },
   {
     "name": "Napier88",
@@ -3907,9 +3253,7 @@
     "sector": "",
     "country": "",
     "description": "",
-    "domains": [
-      "AI/ML"
-    ]
+    "domains": []
   },
   {
     "name": "NASM",
@@ -3918,9 +3262,7 @@
     "sector": "",
     "country": "",
     "description": "",
-    "domains": [
-      "AI/ML"
-    ]
+    "domains": []
   },
   {
     "name": "Neko",
@@ -3929,9 +3271,7 @@
     "sector": "",
     "country": "",
     "description": "",
-    "domains": [
-      "AI/ML"
-    ]
+    "domains": []
   },
   {
     "name": "Nemerle",
@@ -3940,9 +3280,7 @@
     "sector": "",
     "country": "",
     "description": "",
-    "domains": [
-      "AI/ML"
-    ]
+    "domains": []
   },
   {
     "name": "NESL",
@@ -3951,9 +3289,7 @@
     "sector": "",
     "country": "",
     "description": "",
-    "domains": [
-      "AI/ML"
-    ]
+    "domains": []
   },
   {
     "name": "Net.Data",
@@ -3962,9 +3298,7 @@
     "sector": "",
     "country": "",
     "description": "",
-    "domains": [
-      "AI/ML"
-    ]
+    "domains": []
   },
   {
     "name": "NetLogo",
@@ -3973,9 +3307,7 @@
     "sector": "",
     "country": "",
     "description": "",
-    "domains": [
-      "AI/ML"
-    ]
+    "domains": []
   },
   {
     "name": "NetRexx",
@@ -3984,9 +3316,7 @@
     "sector": "",
     "country": "",
     "description": "",
-    "domains": [
-      "AI/ML"
-    ]
+    "domains": []
   },
   {
     "name": "NewLISP",
@@ -3995,9 +3325,7 @@
     "sector": "",
     "country": "",
     "description": "",
-    "domains": [
-      "AI/ML"
-    ]
+    "domains": []
   },
   {
     "name": "Newspeak",
@@ -4006,9 +3334,7 @@
     "sector": "",
     "country": "",
     "description": "",
-    "domains": [
-      "AI/ML"
-    ]
+    "domains": []
   },
   {
     "name": "NewtonScript",
@@ -4017,9 +3343,7 @@
     "sector": "",
     "country": "",
     "description": "",
-    "domains": [
-      "AI/ML"
-    ]
+    "domains": []
   },
   {
     "name": "Nial",
@@ -4028,9 +3352,7 @@
     "sector": "",
     "country": "",
     "description": "",
-    "domains": [
-      "AI/ML"
-    ]
+    "domains": []
   },
   {
     "name": "Nim",
@@ -4039,9 +3361,7 @@
     "sector": "",
     "country": "",
     "description": "",
-    "domains": [
-      "AI/ML"
-    ]
+    "domains": []
   },
   {
     "name": "Nix",
@@ -4050,9 +3370,7 @@
     "sector": "",
     "country": "",
     "description": "",
-    "domains": [
-      "AI/ML"
-    ]
+    "domains": []
   },
   {
     "name": "Not Quite C",
@@ -4061,9 +3379,7 @@
     "sector": "",
     "country": "",
     "description": "",
-    "domains": [
-      "AI/ML"
-    ]
+    "domains": []
   },
   {
     "name": "Nu",
@@ -4072,9 +3388,7 @@
     "sector": "",
     "country": "",
     "description": "",
-    "domains": [
-      "AI/ML"
-    ]
+    "domains": []
   },
   {
     "name": "Nullsoft Scriptable Install System",
@@ -4083,9 +3397,7 @@
     "sector": "",
     "country": "",
     "description": "",
-    "domains": [
-      "AI/ML"
-    ]
+    "domains": []
   },
   {
     "name": "NWScript",
@@ -4094,9 +3406,7 @@
     "sector": "",
     "country": "",
     "description": "",
-    "domains": [
-      "AI/ML"
-    ]
+    "domains": []
   },
   {
     "name": "o:XML",
@@ -4105,9 +3415,7 @@
     "sector": "",
     "country": "",
     "description": "",
-    "domains": [
-      "AI/ML"
-    ]
+    "domains": []
   },
   {
     "name": "Oberon",
@@ -4116,9 +3424,7 @@
     "sector": "",
     "country": "",
     "description": "",
-    "domains": [
-      "AI/ML"
-    ]
+    "domains": []
   },
   {
     "name": "Object Lisp",
@@ -4127,9 +3433,7 @@
     "sector": "",
     "country": "",
     "description": "",
-    "domains": [
-      "AI/ML"
-    ]
+    "domains": []
   },
   {
     "name": "Object Pascal",
@@ -4138,9 +3442,7 @@
     "sector": "",
     "country": "",
     "description": "",
-    "domains": [
-      "AI/ML"
-    ]
+    "domains": []
   },
   {
     "name": "Object REXX",
@@ -4149,9 +3451,7 @@
     "sector": "",
     "country": "",
     "description": "",
-    "domains": [
-      "AI/ML"
-    ]
+    "domains": []
   },
   {
     "name": "Objective-C",
@@ -4160,9 +3460,7 @@
     "sector": "",
     "country": "",
     "description": "",
-    "domains": [
-      "AI/ML"
-    ]
+    "domains": []
   },
   {
     "name": "Objective-C++",
@@ -4171,9 +3469,7 @@
     "sector": "",
     "country": "",
     "description": "",
-    "domains": [
-      "AI/ML"
-    ]
+    "domains": []
   },
   {
     "name": "ObjectLOGO",
@@ -4182,9 +3478,7 @@
     "sector": "",
     "country": "",
     "description": "",
-    "domains": [
-      "AI/ML"
-    ]
+    "domains": []
   },
   {
     "name": "Obliq",
@@ -4193,9 +3487,7 @@
     "sector": "",
     "country": "",
     "description": "",
-    "domains": [
-      "AI/ML"
-    ]
+    "domains": []
   },
   {
     "name": "OCaml",
@@ -4204,9 +3496,7 @@
     "sector": "",
     "country": "",
     "description": "",
-    "domains": [
-      "AI/ML"
-    ]
+    "domains": []
   },
   {
     "name": "occam",
@@ -4215,9 +3505,7 @@
     "sector": "",
     "country": "",
     "description": "",
-    "domains": [
-      "AI/ML"
-    ]
+    "domains": []
   },
   {
     "name": "occam-π",
@@ -4226,9 +3514,7 @@
     "sector": "",
     "country": "",
     "description": "",
-    "domains": [
-      "AI/ML"
-    ]
+    "domains": []
   },
   {
     "name": "Odin",
@@ -4237,9 +3523,7 @@
     "sector": "",
     "country": "",
     "description": "",
-    "domains": [
-      "AI/ML"
-    ]
+    "domains": []
   },
   {
     "name": "OmniMark",
@@ -4248,9 +3532,7 @@
     "sector": "",
     "country": "",
     "description": "",
-    "domains": [
-      "AI/ML"
-    ]
+    "domains": []
   },
   {
     "name": "Opa",
@@ -4259,9 +3541,7 @@
     "sector": "",
     "country": "",
     "description": "",
-    "domains": [
-      "AI/ML"
-    ]
+    "domains": []
   },
   {
     "name": "Open Programming Language",
@@ -4270,9 +3550,7 @@
     "sector": "",
     "country": "",
     "description": "",
-    "domains": [
-      "AI/ML"
-    ]
+    "domains": []
   },
   {
     "name": "OpenCL",
@@ -4281,9 +3559,7 @@
     "sector": "",
     "country": "",
     "description": "",
-    "domains": [
-      "AI/ML"
-    ]
+    "domains": []
   },
   {
     "name": "OpenEdge Advanced Business Language",
@@ -4292,9 +3568,7 @@
     "sector": "",
     "country": "",
     "description": "",
-    "domains": [
-      "AI/ML"
-    ]
+    "domains": []
   },
   {
     "name": "OpenGL Shading Language",
@@ -4303,9 +3577,7 @@
     "sector": "",
     "country": "",
     "description": "",
-    "domains": [
-      "AI/ML"
-    ]
+    "domains": []
   },
   {
     "name": "OpenQASM",
@@ -4314,9 +3586,7 @@
     "sector": "",
     "country": "",
     "description": "",
-    "domains": [
-      "AI/ML"
-    ]
+    "domains": []
   },
   {
     "name": "OPS5",
@@ -4325,9 +3595,7 @@
     "sector": "",
     "country": "",
     "description": "",
-    "domains": [
-      "AI/ML"
-    ]
+    "domains": []
   },
   {
     "name": "OptimJ",
@@ -4336,9 +3604,7 @@
     "sector": "",
     "country": "",
     "description": "",
-    "domains": [
-      "AI/ML"
-    ]
+    "domains": []
   },
   {
     "name": "Orc",
@@ -4347,9 +3613,7 @@
     "sector": "",
     "country": "",
     "description": "",
-    "domains": [
-      "AI/ML"
-    ]
+    "domains": []
   },
   {
     "name": "Oriel",
@@ -4358,9 +3622,7 @@
     "sector": "",
     "country": "",
     "description": "",
-    "domains": [
-      "AI/ML"
-    ]
+    "domains": []
   },
   {
     "name": "Oxygene",
@@ -4369,9 +3631,7 @@
     "sector": "",
     "country": "",
     "description": "",
-    "domains": [
-      "AI/ML"
-    ]
+    "domains": []
   },
   {
     "name": "Oz",
@@ -4380,9 +3640,7 @@
     "sector": "",
     "country": "",
     "description": "",
-    "domains": [
-      "AI/ML"
-    ]
+    "domains": []
   },
   {
     "name": "P4",
@@ -4391,9 +3649,7 @@
     "sector": "",
     "country": "",
     "description": "",
-    "domains": [
-      "AI/ML"
-    ]
+    "domains": []
   },
   {
     "name": "ParaSail",
@@ -4402,9 +3658,7 @@
     "sector": "",
     "country": "",
     "description": "",
-    "domains": [
-      "AI/ML"
-    ]
+    "domains": []
   },
   {
     "name": "PARI/GP",
@@ -4413,9 +3667,7 @@
     "sector": "",
     "country": "",
     "description": "",
-    "domains": [
-      "AI/ML"
-    ]
+    "domains": []
   },
   {
     "name": "Pascal Script",
@@ -4424,9 +3676,7 @@
     "sector": "",
     "country": "",
     "description": "",
-    "domains": [
-      "AI/ML"
-    ]
+    "domains": []
   },
   {
     "name": "PCASTL",
@@ -4435,9 +3685,7 @@
     "sector": "",
     "country": "",
     "description": "",
-    "domains": [
-      "AI/ML"
-    ]
+    "domains": []
   },
   {
     "name": "PDL",
@@ -4446,9 +3694,7 @@
     "sector": "",
     "country": "",
     "description": "",
-    "domains": [
-      "AI/ML"
-    ]
+    "domains": []
   },
   {
     "name": "PeopleCode",
@@ -4457,9 +3703,7 @@
     "sector": "",
     "country": "",
     "description": "",
-    "domains": [
-      "AI/ML"
-    ]
+    "domains": []
   },
   {
     "name": "Perl",
@@ -4468,9 +3712,7 @@
     "sector": "",
     "country": "",
     "description": "",
-    "domains": [
-      "AI/ML"
-    ]
+    "domains": []
   },
   {
     "name": "Pharo",
@@ -4479,9 +3721,7 @@
     "sector": "",
     "country": "",
     "description": "",
-    "domains": [
-      "AI/ML"
-    ]
+    "domains": []
   },
   {
     "name": "PHP",
@@ -4490,9 +3730,7 @@
     "sector": "Web",
     "country": "Worldwide",
     "description": "Server-side scripting language",
-    "domains": [
-      "AI/ML"
-    ]
+    "domains": []
   },
   {
     "name": "Pico",
@@ -4501,9 +3739,7 @@
     "sector": "",
     "country": "",
     "description": "",
-    "domains": [
-      "AI/ML"
-    ]
+    "domains": []
   },
   {
     "name": "Picolisp",
@@ -4512,9 +3748,7 @@
     "sector": "",
     "country": "",
     "description": "",
-    "domains": [
-      "AI/ML"
-    ]
+    "domains": []
   },
   {
     "name": "Pict",
@@ -4523,9 +3757,7 @@
     "sector": "",
     "country": "",
     "description": "",
-    "domains": [
-      "AI/ML"
-    ]
+    "domains": []
   },
   {
     "name": "Pike",
@@ -4534,9 +3766,7 @@
     "sector": "",
     "country": "",
     "description": "",
-    "domains": [
-      "AI/ML"
-    ]
+    "domains": []
   },
   {
     "name": "PILOT",
@@ -4545,9 +3775,7 @@
     "sector": "",
     "country": "",
     "description": "",
-    "domains": [
-      "AI/ML"
-    ]
+    "domains": []
   },
   {
     "name": "Pizza",
@@ -4556,9 +3784,7 @@
     "sector": "",
     "country": "",
     "description": "",
-    "domains": [
-      "AI/ML"
-    ]
+    "domains": []
   },
   {
     "name": "PL-11",
@@ -4567,9 +3793,7 @@
     "sector": "",
     "country": "",
     "description": "",
-    "domains": [
-      "AI/ML"
-    ]
+    "domains": []
   },
   {
     "name": "PL/0",
@@ -4578,9 +3802,7 @@
     "sector": "",
     "country": "",
     "description": "",
-    "domains": [
-      "AI/ML"
-    ]
+    "domains": []
   },
   {
     "name": "PL/B",
@@ -4589,9 +3811,7 @@
     "sector": "",
     "country": "",
     "description": "",
-    "domains": [
-      "AI/ML"
-    ]
+    "domains": []
   },
   {
     "name": "PL/C",
@@ -4600,9 +3820,7 @@
     "sector": "",
     "country": "",
     "description": "",
-    "domains": [
-      "AI/ML"
-    ]
+    "domains": []
   },
   {
     "name": "PL/M",
@@ -4611,9 +3829,7 @@
     "sector": "",
     "country": "",
     "description": "",
-    "domains": [
-      "AI/ML"
-    ]
+    "domains": []
   },
   {
     "name": "PL/P",
@@ -4622,9 +3838,7 @@
     "sector": "",
     "country": "",
     "description": "",
-    "domains": [
-      "AI/ML"
-    ]
+    "domains": []
   },
   {
     "name": "PL/SQL",
@@ -4633,9 +3847,7 @@
     "sector": "",
     "country": "",
     "description": "",
-    "domains": [
-      "AI/ML"
-    ]
+    "domains": []
   },
   {
     "name": "PL360",
@@ -4644,9 +3856,7 @@
     "sector": "",
     "country": "",
     "description": "",
-    "domains": [
-      "AI/ML"
-    ]
+    "domains": []
   },
   {
     "name": "PLEX",
@@ -4655,9 +3865,7 @@
     "sector": "",
     "country": "",
     "description": "",
-    "domains": [
-      "AI/ML"
-    ]
+    "domains": []
   },
   {
     "name": "PLEXIL",
@@ -4666,9 +3874,7 @@
     "sector": "",
     "country": "",
     "description": "",
-    "domains": [
-      "AI/ML"
-    ]
+    "domains": []
   },
   {
     "name": "Plus",
@@ -4677,9 +3883,7 @@
     "sector": "",
     "country": "",
     "description": "",
-    "domains": [
-      "AI/ML"
-    ]
+    "domains": []
   },
   {
     "name": "Pony",
@@ -4688,9 +3892,7 @@
     "sector": "",
     "country": "",
     "description": "",
-    "domains": [
-      "AI/ML"
-    ]
+    "domains": []
   },
   {
     "name": "POP-11",
@@ -4699,9 +3901,7 @@
     "sector": "",
     "country": "",
     "description": "",
-    "domains": [
-      "AI/ML"
-    ]
+    "domains": []
   },
   {
     "name": "POP-2",
@@ -4710,9 +3910,7 @@
     "sector": "",
     "country": "",
     "description": "",
-    "domains": [
-      "AI/ML"
-    ]
+    "domains": []
   },
   {
     "name": "PortablE",
@@ -4721,9 +3919,7 @@
     "sector": "",
     "country": "",
     "description": "",
-    "domains": [
-      "AI/ML"
-    ]
+    "domains": []
   },
   {
     "name": "POV-Ray SDL",
@@ -4732,9 +3928,7 @@
     "sector": "",
     "country": "",
     "description": "",
-    "domains": [
-      "AI/ML"
-    ]
+    "domains": []
   },
   {
     "name": "PowerBuilder",
@@ -4743,9 +3937,7 @@
     "sector": "",
     "country": "",
     "description": "",
-    "domains": [
-      "AI/ML"
-    ]
+    "domains": []
   },
   {
     "name": "Powerhouse",
@@ -4754,9 +3946,7 @@
     "sector": "",
     "country": "",
     "description": "",
-    "domains": [
-      "AI/ML"
-    ]
+    "domains": []
   },
   {
     "name": "PowerShell",
@@ -4765,9 +3955,7 @@
     "sector": "",
     "country": "",
     "description": "",
-    "domains": [
-      "AI/ML"
-    ]
+    "domains": []
   },
   {
     "name": "Pro*C",
@@ -4776,9 +3964,7 @@
     "sector": "",
     "country": "",
     "description": "",
-    "domains": [
-      "AI/ML"
-    ]
+    "domains": []
   },
   {
     "name": "Processing",
@@ -4787,9 +3973,7 @@
     "sector": "",
     "country": "",
     "description": "",
-    "domains": [
-      "AI/ML"
-    ]
+    "domains": []
   },
   {
     "name": "Processing.js",
@@ -4798,9 +3982,7 @@
     "sector": "",
     "country": "",
     "description": "",
-    "domains": [
-      "AI/ML"
-    ]
+    "domains": []
   },
   {
     "name": "Prograph",
@@ -4809,9 +3991,7 @@
     "sector": "",
     "country": "",
     "description": "",
-    "domains": [
-      "AI/ML"
-    ]
+    "domains": []
   },
   {
     "name": "Project Verona",
@@ -4820,9 +4000,7 @@
     "sector": "",
     "country": "",
     "description": "",
-    "domains": [
-      "AI/ML"
-    ]
+    "domains": []
   },
   {
     "name": "Prolog",
@@ -4831,9 +4009,7 @@
     "sector": "",
     "country": "",
     "description": "",
-    "domains": [
-      "AI/ML"
-    ]
+    "domains": []
   },
   {
     "name": "PROMAL",
@@ -4842,9 +4018,7 @@
     "sector": "",
     "country": "",
     "description": "",
-    "domains": [
-      "AI/ML"
-    ]
+    "domains": []
   },
   {
     "name": "Promela",
@@ -4853,9 +4027,7 @@
     "sector": "",
     "country": "",
     "description": "",
-    "domains": [
-      "AI/ML"
-    ]
+    "domains": []
   },
   {
     "name": "PROSE modeling language",
@@ -4864,9 +4036,7 @@
     "sector": "",
     "country": "",
     "description": "",
-    "domains": [
-      "AI/ML"
-    ]
+    "domains": []
   },
   {
     "name": "Pure",
@@ -4875,9 +4045,7 @@
     "sector": "",
     "country": "",
     "description": "",
-    "domains": [
-      "AI/ML"
-    ]
+    "domains": []
   },
   {
     "name": "Pure Data",
@@ -4886,9 +4054,7 @@
     "sector": "",
     "country": "",
     "description": "",
-    "domains": [
-      "AI/ML"
-    ]
+    "domains": []
   },
   {
     "name": "PureScript",
@@ -4897,9 +4063,7 @@
     "sector": "",
     "country": "",
     "description": "",
-    "domains": [
-      "AI/ML"
-    ]
+    "domains": []
   },
   {
     "name": "Python",
@@ -4908,9 +4072,7 @@
     "sector": "General",
     "country": "Worldwide",
     "description": "General-purpose language for many domains",
-    "domains": [
-      "AI/ML"
-    ]
+    "domains": []
   },
   {
     "name": "Qalb",
@@ -4919,9 +4081,7 @@
     "sector": "",
     "country": "",
     "description": "",
-    "domains": [
-      "AI/ML"
-    ]
+    "domains": []
   },
   {
     "name": "QPL",
@@ -4930,9 +4090,7 @@
     "sector": "",
     "country": "",
     "description": "",
-    "domains": [
-      "AI/ML"
-    ]
+    "domains": []
   },
   {
     "name": "QtScript",
@@ -4941,9 +4099,7 @@
     "sector": "",
     "country": "",
     "description": "",
-    "domains": [
-      "AI/ML"
-    ]
+    "domains": []
   },
   {
     "name": "QuakeC",
@@ -4952,9 +4108,7 @@
     "sector": "",
     "country": "",
     "description": "",
-    "domains": [
-      "AI/ML"
-    ]
+    "domains": []
   },
   {
     "name": "Raku",
@@ -4963,9 +4117,7 @@
     "sector": "",
     "country": "",
     "description": "",
-    "domains": [
-      "AI/ML"
-    ]
+    "domains": []
   },
   {
     "name": "Rapira",
@@ -4974,9 +4126,7 @@
     "sector": "",
     "country": "",
     "description": "",
-    "domains": [
-      "AI/ML"
-    ]
+    "domains": []
   },
   {
     "name": "Ratfiv",
@@ -4985,9 +4135,7 @@
     "sector": "",
     "country": "",
     "description": "",
-    "domains": [
-      "AI/ML"
-    ]
+    "domains": []
   },
   {
     "name": "Reason",
@@ -4996,9 +4144,7 @@
     "sector": "",
     "country": "",
     "description": "",
-    "domains": [
-      "AI/ML"
-    ]
+    "domains": []
   },
   {
     "name": "REBOL",
@@ -5007,9 +4153,7 @@
     "sector": "",
     "country": "",
     "description": "",
-    "domains": [
-      "AI/ML"
-    ]
+    "domains": []
   },
   {
     "name": "Red",
@@ -5018,9 +4162,7 @@
     "sector": "",
     "country": "",
     "description": "",
-    "domains": [
-      "AI/ML"
-    ]
+    "domains": []
   },
   {
     "name": "Redcode",
@@ -5029,9 +4171,7 @@
     "sector": "",
     "country": "",
     "description": "",
-    "domains": [
-      "AI/ML"
-    ]
+    "domains": []
   },
   {
     "name": "REFAL",
@@ -5040,9 +4180,7 @@
     "sector": "",
     "country": "",
     "description": "",
-    "domains": [
-      "AI/ML"
-    ]
+    "domains": []
   },
   {
     "name": "ReScript",
@@ -5051,9 +4189,7 @@
     "sector": "",
     "country": "",
     "description": "",
-    "domains": [
-      "AI/ML"
-    ]
+    "domains": []
   },
   {
     "name": "Rocq",
@@ -5062,9 +4198,7 @@
     "sector": "",
     "country": "",
     "description": "",
-    "domains": [
-      "AI/ML"
-    ]
+    "domains": []
   },
   {
     "name": "RPL",
@@ -5073,9 +4207,7 @@
     "sector": "",
     "country": "",
     "description": "",
-    "domains": [
-      "AI/ML"
-    ]
+    "domains": []
   },
   {
     "name": "RTL/2",
@@ -5084,9 +4216,7 @@
     "sector": "",
     "country": "",
     "description": "",
-    "domains": [
-      "AI/ML"
-    ]
+    "domains": []
   },
   {
     "name": "Ruby",
@@ -5095,9 +4225,7 @@
     "sector": "Web",
     "country": "Worldwide",
     "description": "Productive language often used with Rails",
-    "domains": [
-      "AI/ML"
-    ]
+    "domains": []
   },
   {
     "name": "Rust",
@@ -5106,9 +4234,7 @@
     "sector": "Systems",
     "country": "Worldwide",
     "description": "Memory-safe systems programming language",
-    "domains": [
-      "AI/ML"
-    ]
+    "domains": []
   },
   {
     "name": "S-Lang",
@@ -5117,9 +4243,7 @@
     "sector": "",
     "country": "",
     "description": "",
-    "domains": [
-      "AI/ML"
-    ]
+    "domains": []
   },
   {
     "name": "S2",
@@ -5128,9 +4252,7 @@
     "sector": "",
     "country": "",
     "description": "",
-    "domains": [
-      "AI/ML"
-    ]
+    "domains": []
   },
   {
     "name": "S3",
@@ -5139,9 +4261,7 @@
     "sector": "",
     "country": "",
     "description": "",
-    "domains": [
-      "AI/ML"
-    ]
+    "domains": []
   },
   {
     "name": "SA-C",
@@ -5150,9 +4270,7 @@
     "sector": "",
     "country": "",
     "description": "",
-    "domains": [
-      "AI/ML"
-    ]
+    "domains": []
   },
   {
     "name": "SAS",
@@ -5161,9 +4279,7 @@
     "sector": "",
     "country": "",
     "description": "",
-    "domains": [
-      "AI/ML"
-    ]
+    "domains": []
   },
   {
     "name": "Sather",
@@ -5172,9 +4288,7 @@
     "sector": "",
     "country": "",
     "description": "",
-    "domains": [
-      "AI/ML"
-    ]
+    "domains": []
   },
   {
     "name": "Sawzall",
@@ -5183,9 +4297,7 @@
     "sector": "",
     "country": "",
     "description": "",
-    "domains": [
-      "AI/ML"
-    ]
+    "domains": []
   },
   {
     "name": "SBL",
@@ -5194,9 +4306,7 @@
     "sector": "",
     "country": "",
     "description": "",
-    "domains": [
-      "AI/ML"
-    ]
+    "domains": []
   },
   {
     "name": "Scala",
@@ -5205,9 +4315,7 @@
     "sector": "Data",
     "country": "Worldwide",
     "description": "JVM language blending FP and OOP",
-    "domains": [
-      "AI/ML"
-    ]
+    "domains": []
   },
   {
     "name": "Scheme",
@@ -5216,9 +4324,7 @@
     "sector": "",
     "country": "",
     "description": "",
-    "domains": [
-      "AI/ML"
-    ]
+    "domains": []
   },
   {
     "name": "Scilab",
@@ -5227,9 +4333,7 @@
     "sector": "",
     "country": "",
     "description": "",
-    "domains": [
-      "AI/ML"
-    ]
+    "domains": []
   },
   {
     "name": "Scratch",
@@ -5238,9 +4342,7 @@
     "sector": "",
     "country": "",
     "description": "",
-    "domains": [
-      "AI/ML"
-    ]
+    "domains": []
   },
   {
     "name": "ScratchJr",
@@ -5249,9 +4351,7 @@
     "sector": "",
     "country": "",
     "description": "",
-    "domains": [
-      "AI/ML"
-    ]
+    "domains": []
   },
   {
     "name": "Script.NET",
@@ -5260,9 +4360,7 @@
     "sector": "",
     "country": "",
     "description": "",
-    "domains": [
-      "AI/ML"
-    ]
+    "domains": []
   },
   {
     "name": "Sed",
@@ -5271,9 +4369,7 @@
     "sector": "",
     "country": "",
     "description": "",
-    "domains": [
-      "AI/ML"
-    ]
+    "domains": []
   },
   {
     "name": "Seed7",
@@ -5282,9 +4378,7 @@
     "sector": "",
     "country": "",
     "description": "",
-    "domains": [
-      "AI/ML"
-    ]
+    "domains": []
   },
   {
     "name": "Self",
@@ -5293,9 +4387,7 @@
     "sector": "",
     "country": "",
     "description": "",
-    "domains": [
-      "AI/ML"
-    ]
+    "domains": []
   },
   {
     "name": "SenseTalk",
@@ -5304,9 +4396,7 @@
     "sector": "",
     "country": "",
     "description": "",
-    "domains": [
-      "AI/ML"
-    ]
+    "domains": []
   },
   {
     "name": "SequenceL",
@@ -5315,9 +4405,7 @@
     "sector": "",
     "country": "",
     "description": "",
-    "domains": [
-      "AI/ML"
-    ]
+    "domains": []
   },
   {
     "name": "SETL",
@@ -5326,9 +4414,7 @@
     "sector": "",
     "country": "",
     "description": "",
-    "domains": [
-      "AI/ML"
-    ]
+    "domains": []
   },
   {
     "name": "Shell",
@@ -5337,9 +4423,7 @@
     "sector": "",
     "country": "",
     "description": "",
-    "domains": [
-      "AI/ML"
-    ]
+    "domains": []
   },
   {
     "name": "Short Code",
@@ -5348,9 +4432,7 @@
     "sector": "",
     "country": "",
     "description": "",
-    "domains": [
-      "AI/ML"
-    ]
+    "domains": []
   },
   {
     "name": "SIGNAL",
@@ -5359,9 +4441,7 @@
     "sector": "",
     "country": "",
     "description": "",
-    "domains": [
-      "AI/ML"
-    ]
+    "domains": []
   },
   {
     "name": "SiMPLE",
@@ -5370,9 +4450,7 @@
     "sector": "",
     "country": "",
     "description": "",
-    "domains": [
-      "AI/ML"
-    ]
+    "domains": []
   },
   {
     "name": "SIMPOL",
@@ -5381,9 +4459,7 @@
     "sector": "",
     "country": "",
     "description": "",
-    "domains": [
-      "AI/ML"
-    ]
+    "domains": []
   },
   {
     "name": "Simula",
@@ -5392,9 +4468,7 @@
     "sector": "",
     "country": "",
     "description": "",
-    "domains": [
-      "AI/ML"
-    ]
+    "domains": []
   },
   {
     "name": "Simulink",
@@ -5403,9 +4477,7 @@
     "sector": "",
     "country": "",
     "description": "",
-    "domains": [
-      "AI/ML"
-    ]
+    "domains": []
   },
   {
     "name": "SISAL",
@@ -5414,9 +4486,7 @@
     "sector": "",
     "country": "",
     "description": "",
-    "domains": [
-      "AI/ML"
-    ]
+    "domains": []
   },
   {
     "name": "sister projects",
@@ -5425,9 +4495,7 @@
     "sector": "",
     "country": "",
     "description": "",
-    "domains": [
-      "AI/ML"
-    ]
+    "domains": []
   },
   {
     "name": "SKILL",
@@ -5436,9 +4504,7 @@
     "sector": "",
     "country": "",
     "description": "",
-    "domains": [
-      "AI/ML"
-    ]
+    "domains": []
   },
   {
     "name": "SMALL",
@@ -5447,9 +4513,7 @@
     "sector": "",
     "country": "",
     "description": "",
-    "domains": [
-      "AI/ML"
-    ]
+    "domains": []
   },
   {
     "name": "SML",
@@ -5458,9 +4522,7 @@
     "sector": "",
     "country": "",
     "description": "",
-    "domains": [
-      "AI/ML"
-    ]
+    "domains": []
   },
   {
     "name": "Snap!",
@@ -5469,9 +4531,7 @@
     "sector": "",
     "country": "",
     "description": "",
-    "domains": [
-      "AI/ML"
-    ]
+    "domains": []
   },
   {
     "name": "SNOBOL",
@@ -5480,9 +4540,7 @@
     "sector": "",
     "country": "",
     "description": "",
-    "domains": [
-      "AI/ML"
-    ]
+    "domains": []
   },
   {
     "name": "Snowball",
@@ -5491,9 +4549,7 @@
     "sector": "",
     "country": "",
     "description": "",
-    "domains": [
-      "AI/ML"
-    ]
+    "domains": []
   },
   {
     "name": "Solidity",
@@ -5502,9 +4558,7 @@
     "sector": "",
     "country": "",
     "description": "",
-    "domains": [
-      "AI/ML"
-    ]
+    "domains": []
   },
   {
     "name": "Source",
@@ -5513,9 +4567,7 @@
     "sector": "",
     "country": "",
     "description": "",
-    "domains": [
-      "AI/ML"
-    ]
+    "domains": []
   },
   {
     "name": "SP/k",
@@ -5524,9 +4576,7 @@
     "sector": "",
     "country": "",
     "description": "",
-    "domains": [
-      "AI/ML"
-    ]
+    "domains": []
   },
   {
     "name": "SPARK",
@@ -5535,9 +4585,7 @@
     "sector": "",
     "country": "",
     "description": "",
-    "domains": [
-      "AI/ML"
-    ]
+    "domains": []
   },
   {
     "name": "Speedcode",
@@ -5546,9 +4594,7 @@
     "sector": "",
     "country": "",
     "description": "",
-    "domains": [
-      "AI/ML"
-    ]
+    "domains": []
   },
   {
     "name": "SPITBOL",
@@ -5557,9 +4603,7 @@
     "sector": "",
     "country": "",
     "description": "",
-    "domains": [
-      "AI/ML"
-    ]
+    "domains": []
   },
   {
     "name": "SPL",
@@ -5568,9 +4612,7 @@
     "sector": "",
     "country": "",
     "description": "",
-    "domains": [
-      "AI/ML"
-    ]
+    "domains": []
   },
   {
     "name": "SQL",
@@ -5579,9 +4621,7 @@
     "sector": "Data",
     "country": "Worldwide",
     "description": "Language for relational databases",
-    "domains": [
-      "AI/ML"
-    ]
+    "domains": []
   },
   {
     "name": "Squeak",
@@ -5590,9 +4630,7 @@
     "sector": "",
     "country": "",
     "description": "",
-    "domains": [
-      "AI/ML"
-    ]
+    "domains": []
   },
   {
     "name": "Squirrel",
@@ -5601,9 +4639,7 @@
     "sector": "",
     "country": "",
     "description": "",
-    "domains": [
-      "AI/ML"
-    ]
+    "domains": []
   },
   {
     "name": "SR",
@@ -5612,9 +4648,7 @@
     "sector": "",
     "country": "",
     "description": "",
-    "domains": [
-      "AI/ML"
-    ]
+    "domains": []
   },
   {
     "name": "Starlogo",
@@ -5623,9 +4657,7 @@
     "sector": "",
     "country": "",
     "description": "",
-    "domains": [
-      "AI/ML"
-    ]
+    "domains": []
   },
   {
     "name": "Stata",
@@ -5634,9 +4666,7 @@
     "sector": "",
     "country": "",
     "description": "",
-    "domains": [
-      "AI/ML"
-    ]
+    "domains": []
   },
   {
     "name": "Stateflow",
@@ -5645,9 +4675,7 @@
     "sector": "",
     "country": "",
     "description": "",
-    "domains": [
-      "AI/ML"
-    ]
+    "domains": []
   },
   {
     "name": "Strongtalk",
@@ -5656,9 +4684,7 @@
     "sector": "",
     "country": "",
     "description": "",
-    "domains": [
-      "AI/ML"
-    ]
+    "domains": []
   },
   {
     "name": "Structured Text",
@@ -5667,9 +4693,7 @@
     "sector": "",
     "country": "",
     "description": "",
-    "domains": [
-      "AI/ML"
-    ]
+    "domains": []
   },
   {
     "name": "Subtext",
@@ -5678,9 +4702,7 @@
     "sector": "",
     "country": "",
     "description": "",
-    "domains": [
-      "AI/ML"
-    ]
+    "domains": []
   },
   {
     "name": "SuperCollider",
@@ -5689,9 +4711,7 @@
     "sector": "",
     "country": "",
     "description": "",
-    "domains": [
-      "AI/ML"
-    ]
+    "domains": []
   },
   {
     "name": "Swift",
@@ -5700,9 +4720,7 @@
     "sector": "Mobile",
     "country": "Worldwide",
     "description": "Apple's language for iOS/macOS",
-    "domains": [
-      "AI/ML"
-    ]
+    "domains": []
   },
   {
     "name": "Swift (Apple programming language)",
@@ -5711,9 +4729,7 @@
     "sector": "",
     "country": "",
     "description": "",
-    "domains": [
-      "AI/ML"
-    ]
+    "domains": []
   },
   {
     "name": "Swift (parallel scripting language)",
@@ -5722,9 +4738,7 @@
     "sector": "",
     "country": "",
     "description": "",
-    "domains": [
-      "AI/ML"
-    ]
+    "domains": []
   },
   {
     "name": "SYCL",
@@ -5733,9 +4747,7 @@
     "sector": "",
     "country": "",
     "description": "",
-    "domains": [
-      "AI/ML"
-    ]
+    "domains": []
   },
   {
     "name": "SYMPL",
@@ -5744,9 +4756,7 @@
     "sector": "",
     "country": "",
     "description": "",
-    "domains": [
-      "AI/ML"
-    ]
+    "domains": []
   },
   {
     "name": "T-SQL (Transact-SQL)",
@@ -5755,9 +4765,7 @@
     "sector": "",
     "country": "",
     "description": "",
-    "domains": [
-      "AI/ML"
-    ]
+    "domains": []
   },
   {
     "name": "TADS (Text Adventure Development System)",
@@ -5766,9 +4774,7 @@
     "sector": "",
     "country": "",
     "description": "",
-    "domains": [
-      "AI/ML"
-    ]
+    "domains": []
   },
   {
     "name": "TAL",
@@ -5777,9 +4783,7 @@
     "sector": "",
     "country": "",
     "description": "",
-    "domains": [
-      "AI/ML"
-    ]
+    "domains": []
   },
   {
     "name": "tcl (aka tcl/tk )",
@@ -5788,9 +4792,7 @@
     "sector": "",
     "country": "",
     "description": "",
-    "domains": [
-      "AI/ML"
-    ]
+    "domains": []
   },
   {
     "name": "Tea",
@@ -5799,9 +4801,7 @@
     "sector": "",
     "country": "",
     "description": "",
-    "domains": [
-      "AI/ML"
-    ]
+    "domains": []
   },
   {
     "name": "TempleOS",
@@ -5810,9 +4810,7 @@
     "sector": "",
     "country": "",
     "description": "",
-    "domains": [
-      "AI/ML"
-    ]
+    "domains": []
   },
   {
     "name": "TeX",
@@ -5821,9 +4819,7 @@
     "sector": "",
     "country": "",
     "description": "",
-    "domains": [
-      "AI/ML"
-    ]
+    "domains": []
   },
   {
     "name": "TIE",
@@ -5832,9 +4828,7 @@
     "sector": "",
     "country": "",
     "description": "",
-    "domains": [
-      "AI/ML"
-    ]
+    "domains": []
   },
   {
     "name": "Tom",
@@ -5843,9 +4837,7 @@
     "sector": "",
     "country": "",
     "description": "",
-    "domains": [
-      "AI/ML"
-    ]
+    "domains": []
   },
   {
     "name": "TPU (Text Processing Utility)",
@@ -5854,9 +4846,7 @@
     "sector": "",
     "country": "",
     "description": "",
-    "domains": [
-      "AI/ML"
-    ]
+    "domains": []
   },
   {
     "name": "Transcript (LiveCode)",
@@ -5865,9 +4855,7 @@
     "sector": "",
     "country": "",
     "description": "",
-    "domains": [
-      "AI/ML"
-    ]
+    "domains": []
   },
   {
     "name": "TTCN (Tree and Tabular Combined Notation)",
@@ -5876,9 +4864,7 @@
     "sector": "",
     "country": "",
     "description": "",
-    "domains": [
-      "AI/ML"
-    ]
+    "domains": []
   },
   {
     "name": "TTM",
@@ -5887,9 +4873,7 @@
     "sector": "",
     "country": "",
     "description": "",
-    "domains": [
-      "AI/ML"
-    ]
+    "domains": []
   },
   {
     "name": "Turing",
@@ -5898,9 +4882,7 @@
     "sector": "",
     "country": "",
     "description": "",
-    "domains": [
-      "AI/ML"
-    ]
+    "domains": []
   },
   {
     "name": "Turing-complete",
@@ -5909,9 +4891,7 @@
     "sector": "",
     "country": "",
     "description": "",
-    "domains": [
-      "AI/ML"
-    ]
+    "domains": []
   },
   {
     "name": "TXL",
@@ -5920,9 +4900,7 @@
     "sector": "",
     "country": "",
     "description": "",
-    "domains": [
-      "AI/ML"
-    ]
+    "domains": []
   },
   {
     "name": "Tynker",
@@ -5931,9 +4909,7 @@
     "sector": "",
     "country": "",
     "description": "",
-    "domains": [
-      "AI/ML"
-    ]
+    "domains": []
   },
   {
     "name": "TypeScript",
@@ -5942,9 +4918,7 @@
     "sector": "Web",
     "country": "Worldwide",
     "description": "Typed superset of JavaScript",
-    "domains": [
-      "AI/ML"
-    ]
+    "domains": []
   },
   {
     "name": "Ubercode",
@@ -5953,9 +4927,7 @@
     "sector": "",
     "country": "",
     "description": "",
-    "domains": [
-      "AI/ML"
-    ]
+    "domains": []
   },
   {
     "name": "Umple",
@@ -5964,9 +4936,7 @@
     "sector": "",
     "country": "",
     "description": "",
-    "domains": [
-      "AI/ML"
-    ]
+    "domains": []
   },
   {
     "name": "Unicon",
@@ -5975,9 +4945,7 @@
     "sector": "",
     "country": "",
     "description": "",
-    "domains": [
-      "AI/ML"
-    ]
+    "domains": []
   },
   {
     "name": "Uniface",
@@ -5986,9 +4954,7 @@
     "sector": "",
     "country": "",
     "description": "",
-    "domains": [
-      "AI/ML"
-    ]
+    "domains": []
   },
   {
     "name": "UnrealScript",
@@ -5997,9 +4963,7 @@
     "sector": "",
     "country": "",
     "description": "",
-    "domains": [
-      "AI/ML"
-    ]
+    "domains": []
   },
   {
     "name": "Vala",
@@ -6008,9 +4972,7 @@
     "sector": "",
     "country": "",
     "description": "",
-    "domains": [
-      "AI/ML"
-    ]
+    "domains": []
   },
   {
     "name": "Vim script",
@@ -6019,9 +4981,7 @@
     "sector": "",
     "country": "",
     "description": "",
-    "domains": [
-      "AI/ML"
-    ]
+    "domains": []
   },
   {
     "name": "Viper (Ethereum/Ether (ETH))",
@@ -6030,9 +4990,7 @@
     "sector": "",
     "country": "",
     "description": "",
-    "domains": [
-      "AI/ML"
-    ]
+    "domains": []
   },
   {
     "name": "Visual DataFlex",
@@ -6041,9 +4999,7 @@
     "sector": "",
     "country": "",
     "description": "",
-    "domains": [
-      "AI/ML"
-    ]
+    "domains": []
   },
   {
     "name": "Visual DialogScript",
@@ -6052,9 +5008,7 @@
     "sector": "",
     "country": "",
     "description": "",
-    "domains": [
-      "AI/ML"
-    ]
+    "domains": []
   },
   {
     "name": "Visual FoxPro",
@@ -6063,9 +5017,7 @@
     "sector": "",
     "country": "",
     "description": "",
-    "domains": [
-      "AI/ML"
-    ]
+    "domains": []
   },
   {
     "name": "Visual Objects",
@@ -6074,9 +5026,7 @@
     "sector": "",
     "country": "",
     "description": "",
-    "domains": [
-      "AI/ML"
-    ]
+    "domains": []
   },
   {
     "name": "Visual Prolog",
@@ -6085,9 +5035,7 @@
     "sector": "",
     "country": "",
     "description": "",
-    "domains": [
-      "AI/ML"
-    ]
+    "domains": []
   },
   {
     "name": "WATFIV",
@@ -6096,9 +5044,7 @@
     "sector": "",
     "country": "",
     "description": "",
-    "domains": [
-      "AI/ML"
-    ]
+    "domains": []
   },
   {
     "name": "WebAssembly",
@@ -6107,9 +5053,7 @@
     "sector": "",
     "country": "",
     "description": "",
-    "domains": [
-      "AI/ML"
-    ]
+    "domains": []
   },
   {
     "name": "Whiley",
@@ -6118,9 +5062,7 @@
     "sector": "",
     "country": "",
     "description": "",
-    "domains": [
-      "AI/ML"
-    ]
+    "domains": []
   },
   {
     "name": "Wolfram Language",
@@ -6129,9 +5071,7 @@
     "sector": "",
     "country": "",
     "description": "",
-    "domains": [
-      "AI/ML"
-    ]
+    "domains": []
   },
   {
     "name": "Wyvern",
@@ -6140,9 +5080,7 @@
     "sector": "",
     "country": "",
     "description": "",
-    "domains": [
-      "AI/ML"
-    ]
+    "domains": []
   },
   {
     "name": "X++ (X plus plus/Microsoft Dynamics AX)",
@@ -6151,9 +5089,7 @@
     "sector": "",
     "country": "",
     "description": "",
-    "domains": [
-      "AI/ML"
-    ]
+    "domains": []
   },
   {
     "name": "X10",
@@ -6162,9 +5098,7 @@
     "sector": "",
     "country": "",
     "description": "",
-    "domains": [
-      "AI/ML"
-    ]
+    "domains": []
   },
   {
     "name": "XBL",
@@ -6173,9 +5107,7 @@
     "sector": "",
     "country": "",
     "description": "",
-    "domains": [
-      "AI/ML"
-    ]
+    "domains": []
   },
   {
     "name": "XC",
@@ -6184,9 +5116,7 @@
     "sector": "",
     "country": "",
     "description": "",
-    "domains": [
-      "AI/ML"
-    ]
+    "domains": []
   },
   {
     "name": "XML",
@@ -6195,9 +5125,7 @@
     "sector": "",
     "country": "",
     "description": "",
-    "domains": [
-      "AI/ML"
-    ]
+    "domains": []
   },
   {
     "name": "XMOS architecture",
@@ -6206,9 +5134,7 @@
     "sector": "",
     "country": "",
     "description": "",
-    "domains": [
-      "AI/ML"
-    ]
+    "domains": []
   },
   {
     "name": "Xod",
@@ -6217,9 +5143,7 @@
     "sector": "",
     "country": "",
     "description": "",
-    "domains": [
-      "AI/ML"
-    ]
+    "domains": []
   },
   {
     "name": "Xojo",
@@ -6228,9 +5152,7 @@
     "sector": "",
     "country": "",
     "description": "",
-    "domains": [
-      "AI/ML"
-    ]
+    "domains": []
   },
   {
     "name": "XOTcl",
@@ -6239,9 +5161,7 @@
     "sector": "",
     "country": "",
     "description": "",
-    "domains": [
-      "AI/ML"
-    ]
+    "domains": []
   },
   {
     "name": "XPL",
@@ -6250,9 +5170,7 @@
     "sector": "",
     "country": "",
     "description": "",
-    "domains": [
-      "AI/ML"
-    ]
+    "domains": []
   },
   {
     "name": "XPL0",
@@ -6261,9 +5179,7 @@
     "sector": "",
     "country": "",
     "description": "",
-    "domains": [
-      "AI/ML"
-    ]
+    "domains": []
   },
   {
     "name": "XQuery",
@@ -6272,9 +5188,7 @@
     "sector": "",
     "country": "",
     "description": "",
-    "domains": [
-      "AI/ML"
-    ]
+    "domains": []
   },
   {
     "name": "XSB",
@@ -6283,9 +5197,7 @@
     "sector": "",
     "country": "",
     "description": "",
-    "domains": [
-      "AI/ML"
-    ]
+    "domains": []
   },
   {
     "name": "XSLT",
@@ -6294,9 +5206,7 @@
     "sector": "",
     "country": "",
     "description": "",
-    "domains": [
-      "AI/ML"
-    ]
+    "domains": []
   },
   {
     "name": "Xtend",
@@ -6305,9 +5215,7 @@
     "sector": "",
     "country": "",
     "description": "",
-    "domains": [
-      "AI/ML"
-    ]
+    "domains": []
   },
   {
     "name": "Yorick",
@@ -6316,9 +5224,7 @@
     "sector": "",
     "country": "",
     "description": "",
-    "domains": [
-      "AI/ML"
-    ]
+    "domains": []
   },
   {
     "name": "YQL",
@@ -6327,9 +5233,7 @@
     "sector": "",
     "country": "",
     "description": "",
-    "domains": [
-      "AI/ML"
-    ]
+    "domains": []
   },
   {
     "name": "Z shell",
@@ -6338,9 +5242,7 @@
     "sector": "",
     "country": "",
     "description": "",
-    "domains": [
-      "AI/ML"
-    ]
+    "domains": []
   },
   {
     "name": "Zig",
@@ -6349,9 +5251,7 @@
     "sector": "",
     "country": "",
     "description": "",
-    "domains": [
-      "AI/ML"
-    ]
+    "domains": []
   },
   {
     "name": "Zonnon",
@@ -6360,9 +5260,7 @@
     "sector": "",
     "country": "",
     "description": "",
-    "domains": [
-      "AI/ML"
-    ]
+    "domains": []
   },
   {
     "name": "ZOPL",
@@ -6371,9 +5269,7 @@
     "sector": "",
     "country": "",
     "description": "",
-    "domains": [
-      "AI/ML"
-    ]
+    "domains": []
   },
   {
     "name": "Airbnb",
