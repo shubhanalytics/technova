@@ -146,6 +146,12 @@ select:focus{box-shadow:0 8px 24px rgba(46,163,242,0.08);outline:none}
 /* dark page background */
 html,body{height:100%;background:linear-gradient(180deg,var(--bg-1),var(--bg-2));font-family:Inter, 'Source Sans 3', system-ui, -apple-system; color:var(--text);-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale}
 
+/* Prevent horizontal page scrolling on small devices */
+html, body { overflow-x: hidden; }
+
+/* Ensure main containers don't produce overflow */
+.container, .site-nav, .content { box-sizing: border-box; max-width: 100%; }
+
 /* light theme overrides */
 /* light theme removed - project uses dark theme only */
 
