@@ -61,7 +61,18 @@
           <label>Message</label>
           <textarea id="discussionBody" placeholder="Write starting message (optional)"></textarea>
           <div class="form-actions">
-            <button class="btn" id="createDiscussion">Create discussion</button>
+              <button class="btn" id="createDiscussion">Create discussion</button>
+            </div>
+
+          <div style="margin-top:12px;">
+            <button class="btn-secondary" id="adminToggle">Admin tools</button>
+            <div id="adminPanel" style="display:none;margin-top:8px;">
+              <button class="btn" id="exportData">Export discussions (JSON)</button>
+              <input type="file" id="importFile" accept="application/json" style="margin-left:8px;display:inline-block" />
+              <button class="btn-secondary" id="importData" style="margin-left:8px;">Import</button>
+              <button class="btn-secondary" id="exitAdmin" style="margin-left:12px;">Exit admin</button>
+              <p class="muted" style="margin-top:8px;">Admin mode enables edit/delete and export/import for moderation.</p>
+            </div>
           </div>
         </section>
 

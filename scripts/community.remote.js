@@ -37,6 +37,38 @@
     return data || [];
   }
 
+  async function deleteDiscussion(id){
+    const { error } = await supabase.from('discussions').delete().eq('id', id);
+    if(error) throw error;
+  }
+  async function deleteComment(id){
+    const { error } = await supabase.from('comments').delete().eq('id', id);
+    if(error) throw error;
+  }
+  async function updateDiscussion(id, patch){
+    const { error } = await supabase.from('discussions').update(patch).eq('id', id);
+    if(error) throw error;
+  }
+  async function updateComment(id, patch){
+    const { error } = await supabase.from('comments').update(patch).eq('id', id);
+    if(error) throw error;
+  }
+
+  async function exportAll(){
+    const d = await supabase.from('discussions').select('*');
+    const c = await supabase.from('comments').select('*');
+    return { discussions: d.data||[], comments: c.data||[] };
+  }
+  async function importAll(payload){
+    // payload {discussions:[], comments:[]}
+    if(payload.discussions && payload.discussions.length){
+      await supabase.from('discussions').insert(payload.discussions, { upsert: false });
+    }
+    if(payload.comments && payload.comments.length){
+      await supabase.from('comments').insert(payload.comments, { upsert: false });
+    }
+  }
+
   async function createComment(c){
     const { error } = await supabase.from('comments').insert([c]);
     if(error) throw error;
@@ -58,6 +90,16 @@
       const openBtn = document.createElement('button'); openBtn.className='btn-secondary'; openBtn.textContent='Open';
       openBtn.addEventListener('click', ()=> openDiscussion(d.id));
       controls.appendChild(openBtn);
+      // admin controls (visible after enabling admin mode)
+      if(window.__technova_admin_mode){
+        const editBtn = document.createElement('button'); editBtn.className='btn-secondary'; editBtn.textContent='Edit';
+        editBtn.addEventListener('click', async ()=>{
+          const newTitle = prompt('Edit title', d.title); if(newTitle===null) return; const newBody = prompt('Edit body', d.body||''); if(newBody===null) return; await updateDiscussion(d.id, { title: newTitle, body: newBody }); loadAndRender();
+        });
+        const delBtn = document.createElement('button'); delBtn.className='btn-secondary'; delBtn.textContent='Delete';
+        delBtn.addEventListener('click', async ()=>{ if(confirm('Delete discussion?')){ await deleteDiscussion(d.id); loadAndRender(); } });
+        controls.appendChild(editBtn); controls.appendChild(delBtn);
+      }
       el.appendChild(h); el.appendChild(meta); el.appendChild(body); el.appendChild(controls);
       container.appendChild(el);
     });
@@ -108,6 +150,13 @@
       likeBtn.addEventListener('click', async ()=>{ await supabase.from('comments').update({ likes: (c.likes||0)+1 }).eq('id', c.id); refresh(); });
       const replyBtn = document.createElement('button'); replyBtn.className='btn-secondary'; replyBtn.textContent='Reply';
       replyBtn.addEventListener('click', ()=> showReplyForm(c, card));
+      if(window.__technova_admin_mode){
+        const editC = document.createElement('button'); editC.className='btn-secondary'; editC.textContent='Edit';
+        editC.addEventListener('click', async ()=>{ const text = prompt('Edit comment', c.text); if(text===null) return; await updateComment(c.id, { text }); refresh(); });
+        const delC = document.createElement('button'); delC.className='btn-secondary'; delC.textContent='Delete';
+        delC.addEventListener('click', async ()=>{ if(confirm('Delete comment?')){ await deleteComment(c.id); refresh(); } });
+        actions.appendChild(editC); actions.appendChild(delC);
+      }
       actions.appendChild(likeBtn); actions.appendChild(replyBtn);
       card.appendChild(h); card.appendChild(txt); card.appendChild(actions);
 
@@ -185,6 +234,34 @@
       loadAndRender();
     });
     loadAndRender();
+
+    // admin wiring
+    const adminToggle = document.getElementById('adminToggle');
+    const adminPanel = document.getElementById('adminPanel');
+    const exportBtn = document.getElementById('exportData');
+    const importBtn = document.getElementById('importData');
+    const importFile = document.getElementById('importFile');
+    const exitAdmin = document.getElementById('exitAdmin');
+    window.__technova_admin_mode = false;
+    adminToggle.addEventListener('click', ()=>{
+      const token = prompt('Enter admin token (configured on site)');
+      const cfg = window.SUPABASE_CONFIG || {};
+      if(token && cfg.adminToken && token === cfg.adminToken){
+        window.__technova_admin_mode = true; adminPanel.style.display = 'block'; loadAndRender();
+      } else {
+        alert('Invalid token');
+      }
+    });
+    exitAdmin.addEventListener('click', ()=>{ window.__technova_admin_mode = false; adminPanel.style.display='none'; loadAndRender(); });
+    exportBtn.addEventListener('click', async ()=>{
+      const payload = await exportAll(); const blob = new Blob([JSON.stringify(payload, null, 2)], {type:'application/json'}); const url = URL.createObjectURL(blob); const a = document.createElement('a'); a.href = url; a.download = 'discussions.export.json'; a.click(); URL.revokeObjectURL(url);
+    });
+    importBtn.addEventListener('click', async ()=>{
+      const f = importFile.files[0]; if(!f) return alert('Select a JSON file to import');
+      const reader = new FileReader(); reader.onload = async (e)=>{
+        try{ const payload = JSON.parse(e.target.result); await importAll(payload); alert('Import complete'); loadAndRender(); } catch(err){ alert('Import failed: '+err.message); }
+      }; reader.readAsText(f);
+    });
   });
 
 })();

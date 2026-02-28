@@ -25,6 +25,14 @@
       const openBtn = document.createElement('button'); openBtn.className='btn-secondary'; openBtn.textContent='Open';
       openBtn.addEventListener('click', ()=> openDiscussion(d.id));
       controls.appendChild(openBtn);
+      // admin controls (edit/delete)
+      if(window.__technova_admin_mode){
+        const editBtn = document.createElement('button'); editBtn.className='btn-secondary'; editBtn.textContent='Edit';
+        editBtn.addEventListener('click', ()=>{ openEditDiscussion(d.id); });
+        const delBtn = document.createElement('button'); delBtn.className='btn-secondary'; delBtn.textContent='Delete';
+        delBtn.addEventListener('click', ()=>{ if(confirm('Delete discussion?')){ deleteDiscussion(d.id); render(); } });
+        controls.appendChild(editBtn); controls.appendChild(delBtn);
+      }
       el.appendChild(h); el.appendChild(meta); el.appendChild(body); el.appendChild(controls);
       container.appendChild(el);
     });
@@ -77,6 +85,13 @@
       const replyBtn = document.createElement('button'); replyBtn.className='btn-secondary'; replyBtn.textContent='Reply';
       replyBtn.addEventListener('click', ()=>{ showReplyForm(c, card, discussion); });
       actions.appendChild(likeBtn); actions.appendChild(replyBtn);
+      if(window.__technova_admin_mode){
+        const editC = document.createElement('button'); editC.className='btn-secondary'; editC.textContent='Edit';
+        editC.addEventListener('click', ()=>{ openEditComment(c.id, discussion); });
+        const delC = document.createElement('button'); delC.className='btn-secondary'; delC.textContent='Delete';
+        delC.addEventListener('click', ()=>{ if(confirm('Delete comment?')){ deleteComment(c.id, discussion); save(data); refreshComments(); } });
+        actions.appendChild(editC); actions.appendChild(delC);
+      }
       card.appendChild(h); card.appendChild(txt); card.appendChild(actions);
       // render replies
       if(c.replies && c.replies.length){
@@ -97,6 +112,21 @@
 
       parent.appendChild(card);
     }
+
+  // Admin helper functions for localStorage
+  function deleteDiscussion(id){
+    const data = load(); data.discussions = data.discussions.filter(d=>d.id!==id); save(data);
+  }
+  function deleteComment(cid, discussion){
+    discussion.comments = (discussion.comments||[]).filter(c=>c.id!==cid);
+  }
+  function openEditDiscussion(id){
+    const data = load(); const d = data.discussions.find(x=>x.id===id); if(!d) return;
+    const title = prompt('Edit title', d.title); if(title===null) return; const body = prompt('Edit body', d.body||''); if(body===null) return; d.title = title; d.body = body; save(data); render();
+  }
+  function openEditComment(cid, discussion){
+    const data = load(); const c = (discussion.comments||[]).find(x=>x.id===cid); if(!c) return; const text = prompt('Edit comment', c.text); if(text===null) return; c.text = text; save(data);
+  }
 
     function showReplyForm(comment, container, discussion){
       // simple inline reply form
@@ -163,6 +193,38 @@
     });
 
     render();
+
+    // admin wiring
+    const adminToggle = document.getElementById('adminToggle');
+    const adminPanel = document.getElementById('adminPanel');
+    const exportBtn = document.getElementById('exportData');
+    const importBtn = document.getElementById('importData');
+    const importFile = document.getElementById('importFile');
+    const exitAdmin = document.getElementById('exitAdmin');
+    window.__technova_admin_mode = false;
+    adminToggle.addEventListener('click', ()=>{
+      const token = prompt('Enter admin token (configured on site)');
+      const cfg = window.SUPABASE_CONFIG || {};
+      if(token && cfg.adminToken && token === cfg.adminToken){
+        window.__technova_admin_mode = true; adminPanel.style.display = 'block'; render();
+      } else if(token && !cfg.adminToken){
+        // no server token configured — enable admin mode for session
+        if(confirm('No admin token configured — enable admin mode for this session?')){ window.__technova_admin_mode = true; adminPanel.style.display='block'; render(); }
+      } else {
+        alert('Invalid token');
+      }
+    });
+    exitAdmin.addEventListener('click', ()=>{ window.__technova_admin_mode = false; adminPanel.style.display='none'; render(); });
+    exportBtn.addEventListener('click', ()=>{
+      const data = load(); const blob = new Blob([JSON.stringify(data, null, 2)], {type:'application/json'}); const url = URL.createObjectURL(blob); const a = document.createElement('a'); a.href = url; a.download = 'discussions.export.json'; a.click(); URL.revokeObjectURL(url);
+    });
+    importBtn.addEventListener('click', ()=>{
+      const f = importFile.files[0]; if(!f) return alert('Select a JSON file to import');
+      const reader = new FileReader(); reader.onload = (e)=>{
+        try{ const incoming = JSON.parse(e.target.result); if(!incoming.discussions) return alert('Invalid file'); const data = load(); // merge by id (skip duplicates)
+          const existing = new Set((data.discussions||[]).map(x=>x.id)); incoming.discussions.forEach(d=>{ if(!existing.has(d.id)) data.discussions.push(d); }); save(data); render(); alert('Import complete'); } catch(err){ alert('Failed to import: '+err.message); }
+      }; reader.readAsText(f);
+    });
   });
 
 })();
