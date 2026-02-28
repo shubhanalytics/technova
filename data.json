@@ -3971,9 +3971,9 @@
     "name": "Solidity",
     "url": "http://soliditylang.org",
     "category": "Programming Language",
-    "sector": "",
-    "country": "",
-    "description": ""
+    "sector": "Blockchain & Web3",
+    "country": "Worldwide",
+    "description": "Contract-oriented programming language for writing smart contracts on Ethereum and compatible chains."
   },
   {
     "name": "Source",
@@ -4326,6 +4326,14 @@
     "sector": "",
     "country": "",
     "description": ""
+  },
+  {
+    "name": "Unreal Engine",
+    "url": "https://www.unrealengine.com/",
+    "category": "Programming Language",
+    "sector": "AR/VR & Metaverse",
+    "country": "Worldwide",
+    "description": "High-fidelity real-time 3D creation platform used for games, simulations and immersive experiences."
   },
   {
     "name": "UnrealScript",
@@ -4950,6 +4958,222 @@
     "sector": "Food",
     "country": "India",
     "description": "Restaurant discovery and food delivery platform operating across India."
+  },
+  {
+    "name": "Ansible",
+    "url": "https://www.ansible.com/",
+    "category": "Technology",
+    "sector": "DevOps & Infrastructure",
+    "country": "Worldwide",
+    "description": "Agentless automation tool for configuration management, application deployment and orchestration."
+  },
+  {
+    "name": "ARM Architecture",
+    "url": "https://www.arm.com/",
+    "category": "Technology",
+    "sector": "Hardware & Chips",
+    "country": "Worldwide",
+    "description": "Family of RISC-based processor architectures widely used in mobile and embedded devices."
+  },
+  {
+    "name": "Battery Storage",
+    "url": "https://en.wikipedia.org/wiki/Energy_storage",
+    "category": "Technology",
+    "sector": "Green Tech & Sustainability",
+    "country": "Worldwide",
+    "description": "Technologies and systems for storing electrical energy (e.g., lithium-ion, flow batteries) used with renewables."
+  },
+  {
+    "name": "Chainlink",
+    "url": "https://chain.link/",
+    "category": "Technology",
+    "sector": "Blockchain & Web3",
+    "country": "Worldwide",
+    "description": "Decentralized oracle network that connects smart contracts with real-world data and external APIs."
+  },
+  {
+    "name": "CRM",
+    "url": "https://en.wikipedia.org/wiki/Customer_relationship_management",
+    "category": "Technology",
+    "sector": "Business & Venture",
+    "country": "Worldwide",
+    "description": "Customer relationship management systems for sales, marketing and customer support."
+  },
+  {
+    "name": "Design Systems",
+    "url": "https://en.wikipedia.org/wiki/Design_system",
+    "category": "Technology",
+    "sector": "Product & Design",
+    "country": "Worldwide",
+    "description": "Reusable component libraries, standards and guidelines that ensure consistent product design at scale."
+  },
+  {
+    "name": "Docker",
+    "url": "https://www.docker.com/",
+    "category": "Technology",
+    "sector": "DevOps & Infrastructure",
+    "country": "Worldwide",
+    "description": "Platform for developing, shipping, and running containerized applications."
+  },
+  {
+    "name": "Ethereum",
+    "url": "https://ethereum.org/",
+    "category": "Technology",
+    "sector": "Blockchain & Web3",
+    "country": "Worldwide",
+    "description": "Decentralized platform for smart contracts and decentralized applications (dApps)."
+  },
+  {
+    "name": "Flutter",
+    "url": "https://flutter.dev/",
+    "category": "Technology",
+    "sector": "Web & Mobile",
+    "country": "Worldwide",
+    "description": "UI toolkit for building natively compiled applications for mobile, web and desktop from a single codebase."
+  },
+  {
+    "name": "FPGA",
+    "url": "https://en.wikipedia.org/wiki/Field-programmable_gate_array",
+    "category": "Technology",
+    "sector": "Hardware & Chips",
+    "country": "Worldwide",
+    "description": "Field-programmable gate arrays — reconfigurable integrated circuits used for hardware acceleration and prototyping."
+  },
+  {
+    "name": "IPFS",
+    "url": "https://ipfs.io/",
+    "category": "Technology",
+    "sector": "Blockchain & Web3",
+    "country": "Worldwide",
+    "description": "InterPlanetary File System — a peer-to-peer protocol for storing and sharing hypermedia in a distributed file system."
+  },
+  {
+    "name": "Miro",
+    "url": "https://miro.com/",
+    "category": "Technology",
+    "sector": "Product & Design",
+    "country": "Worldwide",
+    "description": "Online collaborative whiteboard platform for product teams and design workshops."
+  },
+  {
+    "name": "MQTT",
+    "url": "https://mqtt.org/",
+    "category": "Technology",
+    "sector": "Robotics & IoT",
+    "country": "Worldwide",
+    "description": "Lightweight publish/subscribe messaging protocol designed for constrained devices and low-bandwidth networks."
+  },
+  {
+    "name": "OpenSSL",
+    "url": "https://www.openssl.org/",
+    "category": "Technology",
+    "sector": "Cybersecurity",
+    "country": "Worldwide",
+    "description": "Toolkit implementing the Secure Sockets Layer (SSL) and Transport Layer Security (TLS) protocols."
+  },
+  {
+    "name": "OpenXR",
+    "url": "https://www.khronos.org/openxr/",
+    "category": "Technology",
+    "sector": "AR/VR & Metaverse",
+    "country": "Worldwide",
+    "description": "Open, royalty-free standard for access to VR and AR platforms and devices."
+  },
+  {
+    "name": "OSQuery",
+    "url": "https://osquery.io/",
+    "category": "Technology",
+    "sector": "Cybersecurity",
+    "country": "Worldwide",
+    "description": "SQL-powered operating system instrumentation, monitoring and analytics tool."
+  },
+  {
+    "name": "Prometheus",
+    "url": "https://prometheus.io/",
+    "category": "Technology",
+    "sector": "DevOps & Infrastructure",
+    "country": "Worldwide",
+    "description": "Open-source systems monitoring and alerting toolkit."
+  },
+  {
+    "name": "Raspberry Pi",
+    "url": "https://www.raspberrypi.org/",
+    "category": "Technology",
+    "sector": "Robotics & IoT",
+    "country": "Worldwide",
+    "description": "Low-cost, credit-card sized computers used for education, prototyping and edge IoT projects."
+  },
+  {
+    "name": "React Native",
+    "url": "https://reactnative.dev/",
+    "category": "Technology",
+    "sector": "Web & Mobile",
+    "country": "Worldwide",
+    "description": "Framework for building native mobile apps using React."
+  },
+  {
+    "name": "RISC-V",
+    "url": "https://riscv.org/",
+    "category": "Technology",
+    "sector": "Hardware & Chips",
+    "country": "Worldwide",
+    "description": "Open standard instruction set architecture (ISA) based on established RISC principles."
+  },
+  {
+    "name": "ROS",
+    "url": "https://www.ros.org/",
+    "category": "Technology",
+    "sector": "Robotics & IoT",
+    "country": "Worldwide",
+    "description": "Robot Operating System — a flexible framework for writing robot software and modular robotics tooling."
+  },
+  {
+    "name": "Smart Grid",
+    "url": "https://en.wikipedia.org/wiki/Smart_grid",
+    "category": "Technology",
+    "sector": "Green Tech & Sustainability",
+    "country": "Worldwide",
+    "description": "Modernized electrical grid using digital communications, control and automation to improve efficiency and reliability."
+  },
+  {
+    "name": "Snort",
+    "url": "https://www.snort.org/",
+    "category": "Technology",
+    "sector": "Cybersecurity",
+    "country": "Worldwide",
+    "description": "Open-source network intrusion detection and prevention system (IDS/IPS)."
+  },
+  {
+    "name": "Solar PV",
+    "url": "https://en.wikipedia.org/wiki/Photovoltaics",
+    "category": "Technology",
+    "sector": "Green Tech & Sustainability",
+    "country": "Worldwide",
+    "description": "Photovoltaic systems for converting sunlight into electricity — core technology for solar power generation."
+  },
+  {
+    "name": "Unity",
+    "url": "https://unity.com/",
+    "category": "Technology",
+    "sector": "AR/VR & Metaverse",
+    "country": "Worldwide",
+    "description": "Real-time 3D platform for creating immersive AR/VR experiences, games and simulations."
+  },
+  {
+    "name": "WebXR",
+    "url": "https://www.w3.org/TR/webxr/",
+    "category": "Technology",
+    "sector": "AR/VR & Metaverse",
+    "country": "Worldwide",
+    "description": "Web standards for accessing virtual and augmented reality devices on the web."
+  },
+  {
+    "name": "Wireshark",
+    "url": "https://www.wireshark.org/",
+    "category": "Technology",
+    "sector": "Cybersecurity",
+    "country": "Worldwide",
+    "description": "Network protocol analyzer used for troubleshooting, analysis and education."
   },
   {
     "name": "\"2. Pré-requis et recommandations\"",
@@ -6467,9 +6691,9 @@
     "name": "Arduino",
     "url": "https://www.arduino.cc/",
     "category": "Tool",
-    "sector": "",
-    "country": "",
-    "description": ""
+    "sector": "Robotics & IoT",
+    "country": "Worldwide",
+    "description": "Open-source electronics platform for building digital devices and interactive objects using microcontrollers."
   },
   {
     "name": "arXiv",
@@ -11139,9 +11363,9 @@
     "name": "SaaS",
     "url": "http://searchservervirtualization.techtarget.com/definition/How-do-you-pronounce-IT",
     "category": "Tool",
-    "sector": "",
-    "country": "",
-    "description": ""
+    "sector": "Business & Venture",
+    "country": "Worldwide",
+    "description": "Software-as-a-Service — software distribution model where apps are hosted centrally and licensed on subscription basis."
   },
   {
     "name": "Sam",
