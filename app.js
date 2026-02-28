@@ -9,7 +9,6 @@ const ownerSelect = document.getElementById('ownerSelect');
 const sortSelect = document.getElementById('sortSelect');
 const tabsContainer = document.getElementById('categoryTabs');
 let tabs = [];
-const domainSelect = document.getElementById('domainSelect');
 
 async function init(){
   const res = await fetch(DATA_URL);
@@ -71,15 +70,18 @@ function populateFilters(data){
   const countries = Array.from(new Set(data.map(i=>i.country).filter(Boolean))).sort();
   const domains = Array.from(new Set((data.map(i=>i.domains||[])).flat().filter(Boolean))).sort();
   const owners = Array.from(new Set(data.map(i=>i.owner).filter(Boolean))).sort();
+  // debug helpers: log counts so missing-dropdown issues are easier to diagnose
+  try{
+    console.debug('populateFilters: sectorCount=', sectors.length, 'countryCount=', countries.length, 'domainCount=', domains.length, 'ownerCount=', owners.length);
+    if(!domainSelect) console.debug('populateFilters: domainSelect element NOT found in DOM');
+  }catch(e){/* ignore logging errors in older browsers */}
   for(const s of sectors){
     const o = document.createElement('option'); o.value = s; o.textContent = s; sectorSelect.appendChild(o);
   }
   for(const c of countries){
     const o = document.createElement('option'); o.value = c; o.textContent = c; countrySelect.appendChild(o);
   }
-  for(const d of domains){
-    const o = document.createElement('option'); o.value = d; o.textContent = d; domainSelect.appendChild(o);
-  }
+  // domains list intentionally not shown as a filter (removed per UX)
   // populate owners dropdown (if any owner fields exist in data)
   if(owners.length){
     // insert after the initial "All owners" option which is already present in markup
@@ -100,7 +102,7 @@ function attachEvents(){
   countrySelect.addEventListener('change', render);
   ownerSelect.addEventListener('change', render);
   sortSelect.addEventListener('change', render);
-  domainSelect.addEventListener('change', render);
+  // domainSelect removed; no event listener
   // use event delegation on the tabs container so clicks always work
   tabsContainer.addEventListener('click', onTabContainerClick);
 }
@@ -126,13 +128,12 @@ function render(){
   const country = countrySelect.value;
   const activeTab = document.querySelector('.tab.active')?.dataset?.category || 'All';
   const sort = sortSelect.value;
-  const domain = domainSelect?.value;
+  // domain filter removed
   const owner = ownerSelect?.value;
   // items filtered by all controls except category (used to compute tab counts)
   const filteredForCounts = items.filter(it=>{
     if(sector && it.sector !== sector) return false;
     if(country && it.country !== country) return false;
-    if(domain && !(it.domains||[]).includes(domain)) return false;
     if(owner){
       if(owner === '__OWNED_BY_OTHERS__'){
         if(it.owner) return false; // only include items without owner
@@ -159,11 +160,7 @@ function render(){
   if(sort === 'name_asc') filtered.sort((a,b)=>a.name.localeCompare(b.name));
   else if(sort === 'name_desc') filtered.sort((a,b)=>b.name.localeCompare(a.name));
   else if(sort === 'country_asc') filtered.sort((a,b)=> (a.country||'').localeCompare(b.country||''));
-  else if(sort === 'domain_asc') filtered.sort((a,b)=> {
-    const da = (a.domains && a.domains[0])||'';
-    const db = (b.domains && b.domains[0])||'';
-    return da.localeCompare(db);
-  });
+  // domain sorting removed
 
   listEl.innerHTML = '';
   if(!filtered.length){ listEl.innerHTML = '<p class="muted">No results</p>'; return }

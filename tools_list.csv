@@ -96,7 +96,6 @@ Boomerang,http://www.seas.upenn.edu/~harmony/,Programming Language
 Bosque,https://www.microsoft.com/en-us/research/project/bosque-programming-language/,Programming Language
 C Shell (csh),http://cvsweb.netbsd.org/bsdweb.cgi/src/bin/csh/,Programming Language
 C/AL,http://www.microsoft.com/en-us/dynamics/erp-nav-overview.aspx,Programming Language
-Caché ObjectScript,http://www.intersystems.com/cache,Programming Language
 Caml,http://caml.inria.fr,Programming Language
 Carbon,https://github.com/carbon-language,Programming Language
 Categorical,https://docs.raku.org/language/operators#Operators,Programming Language
@@ -148,7 +147,6 @@ Cybil,https://dl.acm.org/doi/10.1145/988327.988331,Programming Language
 Cyclone,http://cyclone.thelanguage.org,Programming Language
 Cypher Query Language,https://neo4j.com/docs/cypher-manual/current/,Programming Language
 Cython,https://cython.org,Programming Language
-Céu,http://www.ceu-lang.org/,Programming Language
 Dart,https://dart.dev/,Programming Language
 Darwin,https://doi.org/10.1093%2Fbioinformatics%2F16.2.101,Programming Language
 DataFlex,http://www.DataAccess.com/DataFlex,Programming Language
@@ -228,7 +226,6 @@ GRASS,http://dl.acm.org/citation.cfm?id=808374&dl=ACM&coll=DL&CFID=203593322&CFT
 Grasshopper,http://grasshopper3d.com,Programming Language
 Groovy,https://groovy-lang.org,Programming Language
 Groovy (programming language),https://groovy-lang.org,Programming Language
-Gödel,https://www.cs.unipr.it/~hill/GOEDEL/expgoedel.html,Programming Language
 Hack,http://hacklang.org,Programming Language
 HAGGIS,http://www.dcs.gla.ac.uk/~quintin/,Programming Language
 HAL/S,http://klabs.org/DEI/Processor/shuttle/,Programming Language
@@ -379,7 +376,6 @@ ObjectLOGO,https://dspace.mit.edu/handle/1721.1/6226,Programming Language
 Obliq,http://www.cc.gatech.edu/gvu/people/Phd/Krishna/VO/VOHome.html,Programming Language
 OCaml,https://ocaml.org/,Programming Language
 occam,http://www.wotug.org/occam/,Programming Language
-occam-π,http://www.wotug.org/occam/,Programming Language
 Odin,https://odin-lang.org/,Programming Language
 OmniMark,http://www.stilo.com/products/omnimark/,Programming Language
 Opa,http://opalang.org,Programming Language
@@ -587,10 +583,8 @@ Robinhood,https://robinhood.com/,Startup
 Snowflake,https://www.snowflake.com/,Startup
 Stripe,https://stripe.com/,Startup
 UiPath,https://www.uipath.com/,Startup
-"""2. Pré-requis et recommandations""",https://docs-en.ametys.org/en/ametys-v4/installation-and-operation-manual/pre-requis-et-recommandations.html,Tool
 """2.0:admin:install - Dotclear Documentation""",https://dotclear.org/documentation/2.0/admin/install#prerequisites,Tool
 """3D-Calc""",https://www.med-calc.com/legacysoftware/3dcalc,Tool
-"""482387 – Add arm and aarch64 source only fragments""",https://bugs.eclipse.org/bugs/show_bug.cgi?id=482387,Tool
 """Account for Your Time""",http://www.project.net/project-time-tracking,Tool
 """Alfresco Docs - Configure databases""",https://docs.alfresco.com/content-services/7.0/config/databases/,Tool
 """Analytics & Dashboards - Real Estate & Workplace Solutions""",http://realestate.trimble.com/en-am/product/module/analytics-dashboards,Tool
@@ -598,7 +592,6 @@ UiPath,https://www.uipath.com/,Startup
 """Apps:mousepad:start [Xfce Docs]""",https://docs.xfce.org/apps/mousepad/start,Tool
 """Basecamp 2 Help""",https://basecamp.com/help/faq#tech-requirements,Tool
 """Bloomreach Experience Manager 14 System Requirements - Bloomreach Experience Manager - The Fast and Flexible Headless CMS""",https://documentation.bloomreach.com/14/library/about/system-requirements.html,Tool
-"""BSD License » SilverStripe""",https://www.silverstripe.org/software/bsd-license/,Tool
 """Collaborative online office solutions""",https://www.admin-magazine.com/Articles/Collaborative-online-office-solutions,Tool
 """Composr Tutorial: Basic Installation""",https://compo.sr/docs/tut-install.htm,Tool
 """Configuration - Adapt your publication to suit your needs""",https://ghost.org/docs/config/,Tool
@@ -609,12 +602,10 @@ UiPath,https://www.uipath.com/,Startup
 """Database""",https://docs.openkm.com/kcenter/view/okm-6.3-com/database.html,Tool
 """Database: Getting Started - Laravel - The PHP Framework For Web Artisans""",https://laravel.com/docs/8.x/database,Tool
 """Databases - Django documentation - Django""",https://docs.djangoproject.com/en/4.0/ref/databases/,Tool
-"""Debugging · Juno Documentation""",http://docs.junolab.org/latest/man/debugging/#Debugging,Tool
 """DNN Platform Requirements -- DNN Docs""",https://docs.dnncommunity.org/content/getting-started/setup/requirements/index.html,Tool
 """Download TWiki""",https://twiki.org/cgi-bin/view/Codev/DownloadTWiki,Tool
 """Download TYPO3""",https://get.typo3.org/,Tool
 """Download Visual Studio Code - Mac, Linux, Windows""",https://code.visualstudio.com/Download,Tool
-"""Download :: Concrete CMS - Org""",https://www.concretecms.org/download,Tool
 """Easy Projects Rating""",https://archive.today/20130205222605/http://product-management-software.venturebeat.com/l/11/EasyProjects-net,Tool
 """Eclipse CDT webpage""",http://www.eclipse.org/cdt/,Tool
 """Eclipse LinuxTools integration of OProfile""",http://wiki.eclipse.org/Linux_Tools_Project/OProfile/User_Guide,Tool
@@ -624,7 +615,6 @@ UiPath,https://www.uipath.com/,Startup
 """eric news 2014""",http://eric-ide.python-projects.org/eric-news-2014.html,Tool
 """Exchange project data""",https://www.conceptdraw.com/solution-park/collaboration-project-exchange,Tool
 """Expense Tracking Software""",https://www.projectmanager.com/training/how-to-track-project-expenses,Tool
-"""Features – Rider""",https://www.jetbrains.com/rider/features/,Tool
 """Forest: Structural Code Editing with Multiple Cursors""",https://doi.org/10.1145/3563835.3567663,Tool
 """Geeklog Documentation - Installation Instructions""",https://www.geeklog.net/docs/english/install.html#installation_requirements,Tool
 """Geeklog v2.2.2""",https://www.geeklog.net/article.php/geeklog-v2-2-2,Tool
@@ -648,7 +638,6 @@ UiPath,https://www.uipath.com/,Startup
 """Mantis Bug Tracker""",https://www.mantisbt.org/,Tool
 """Manual:Installation requirements""",https://www.mediawiki.org/wiki/Manual:Installation_requirements#Database_server,Tool
 """mojoPortal 2.9""",https://www.mojoportal.com/blog,Tool
-"""MovableType.org – Documentation: System Requirements""",https://movabletype.org/documentation/system-requirements.html#database-requirements,Tool
 """Nucleus CMS: Pure Publishing""",http://nucleuscms.org/index.php?itemid=3060,Tool
 """omeka/omeka-s""",https://github.com/omeka/omeka-s,Tool
 """OpenKM cloud document management""",https://www.openkm.com/en/cloud-document-management-system.html,Tool
@@ -657,13 +646,11 @@ UiPath,https://www.uipath.com/,Startup
 """OpenProject Reporting Plugin""",https://github.com/finnlabs/openproject-reporting,Tool
 """OpenWGA 7.10 - OpenWGA Concepts and Features - Platforms""",https://doc.openwga.com/doc-wga710/html/default/ff808081376f81540137742e89d114a1.int.html,Tool
 """Pelles C Download""",http://www.smorgasbordet.com/pellesc/download.htm,Tool
-"""Performance – Wagtail Documentation 6.3.1 documentation""",https://docs.wagtail.org/en/stable/advanced_topics/performance.html#database,Tool
 """Perl - IntelliJ IDEs Plugin | Marketplace""",https://plugins.jetbrains.com/plugin/7796-perl,Tool
 """Peygir Project and Team Management System""",https://peygir.com/,Tool
 """phirecms/phirecms: Phire CMS""",https://github.com/phirecms/phirecms,Tool
 """Phprojekt - Project management software""",https://www.123-reg.co.uk/web-hosting/free-123-apps/phprojekt.shtml,Tool
 """PhpWiki""",https://sourceforge.net/projects/phpwiki/,Tool
-"""Planio — Simple Web-Based Project Management""",https://plan.io/pricing/,Tool
 """PmWiki - Cookbook / SQLite PageStore class""",http://www.pmwiki.org/wiki/Cookbook/SQLite,Tool
 """PmWiki - PmWiki / FlatFileAdvantages""",http://www.pmwiki.org/wiki/PmWiki/FlatFileAdvantages,Tool
 """Practical cost management with Twproject""",https://archive.today/20130604085514/http://blog.twproject.com/2013/06/03/practical-project-cost-management-with-teamwork/,Tool
@@ -674,7 +661,6 @@ UiPath,https://www.uipath.com/,Startup
 """Project Budget""",http://www.projectlibre.org/comment/1808#comment-1808,Tool
 """Project Management FAQ's""",https://www.projectmanager.com/support/faq,Tool
 """Project Management Software Features""",https://www.projectmanager.com/software,Tool
-"""Project Management Tools | Features : Zoho Projects""",https://www.zoho.com/projects/features.html,Tool
 """ProjectLibre:open source replacement of MS Project""",http://www.projectsatwork.com/content/tools/275877.cfm,Tool
 """PureBasic 6.10 LTS""",https://www.purebasic.com/news.php,Tool
 """Required configuration""",https://www.spip.net/en_article6659.html,Tool
@@ -711,10 +697,8 @@ UiPath,https://www.uipath.com/,Startup
 """Textadept""",https://orbitalquark.github.io/textadept,Tool
 """TextWrangler""",http://www.barebones.com/products/textwrangler,Tool
 """The 7 Most Popular Online Project Management Tools""",https://www.dynamicwp.net/articles-and-tutorials/popular-online-project-management-tools/,Tool
-"""The Juno.jl Front-End · Juno Documentation""",http://docs.junolab.org/latest/man/juno_frontend/#Profiler,Tool
 """The MoinMoin Wiki Engine""",https://moinmo.in,Tool
 """Track Project Plan vs. the Actuals""",https://www.conceptdraw.com/helpdesk/how-to-track-project-plan,Tool
-"""Télécharger Ametys Portail""",https://www.ametys.org/community/fr/telecharger/ametys-portail/ametys-4.html,Tool
 """Use F# on Windows""",https://fsharp.org/use/windows/,Tool
 """Using Docker - Orchard Core Documentation""",https://docs.orchardcore.net/en/latest/docs/topics/docker/#docker-compose,Tool
 """Version 25.03""",https://www.codeblocks.org/changelogs/25.03/,Tool
@@ -723,7 +707,6 @@ UiPath,https://www.uipath.com/,Startup
 """Welcome""",https://web2project.net/,Tool
 """Working with project cost""",https://www.conceptdraw.com/How-To-Guide/video-working-with-costs,Tool
 """Xamarin now free in Visual Studio""",https://arstechnica.com/information-technology/2016/03/xamarin-now-free-in-visual-studio/,Tool
-"""À propos de nous - nopCommerce""",https://www.nopcommerce.com/fr/about-us,Tool
 .NET,https://docs.microsoft.com/dotnet/visual-basic/,Tool
 10.1145/3563835.3567663,https://doi.org/10.1145%2F3563835.3567663,Tool
 24SevenOffice,http://24sevenoffice.com,Tool
@@ -1228,7 +1211,6 @@ NetPoint,https://pmatechnologies.com/,Tool
 NetSuite,https://www.netsuite.com,Tool
 Network Solutions,http://networksolutions.com,Tool
 NeXTSTEP,http://openstep.bfx.re/,Tool
-NIC México,https://www.nicmexico.mx,Tool
 Nintendo DS,http://www.nintendo.com/ds,Tool
 Nintendo Wii,http://wii.com/,Tool
 Node.js,https://nodejs.org,Tool
