@@ -5,7 +5,10 @@
     "category": "AI/ML",
     "sector": "AI",
     "country": "Worldwide",
-    "description": "LLM company offering language models and APIs"
+    "description": "LLM company offering language models and APIs",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "Anthropic",
@@ -13,7 +16,10 @@
     "category": "AI/ML",
     "sector": "AI",
     "country": "Worldwide",
-    "description": "LLM research company (Claude)"
+    "description": "LLM research company (Claude)",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "Cohere",
@@ -21,7 +27,10 @@
     "category": "AI/ML",
     "sector": "AI",
     "country": "Worldwide",
-    "description": "Embeddings and LLM APIs"
+    "description": "Embeddings and LLM APIs",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "Databricks",
@@ -29,7 +38,11 @@
     "category": "AI/ML",
     "sector": "Data",
     "country": "Worldwide",
-    "description": "Unified data and AI platform (MLflow founder)"
+    "description": "Unified data and AI platform (MLflow founder)",
+    "owner": "Databricks",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "Google DeepMind / Google AI",
@@ -37,7 +50,11 @@
     "category": "AI/ML",
     "sector": "AI",
     "country": "Worldwide",
-    "description": "Research labs and applied AI from Google"
+    "description": "Research labs and applied AI from Google",
+    "owner": "Google",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "Hugging Face",
@@ -45,7 +62,10 @@
     "category": "AI/ML",
     "sector": "AI",
     "country": "Worldwide",
-    "description": "Model hub, transformers, datasets and inference APIs"
+    "description": "Model hub, transformers, datasets and inference APIs",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "Meta AI",
@@ -53,7 +73,11 @@
     "category": "AI/ML",
     "sector": "AI",
     "country": "Worldwide",
-    "description": "Meta's AI research and LLM initiatives"
+    "description": "Meta's AI research and LLM initiatives",
+    "owner": "Meta",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "Mistral AI",
@@ -61,7 +85,10 @@
     "category": "AI/ML",
     "sector": "AI",
     "country": "Worldwide",
-    "description": "Provider of performant open and proprietary LLMs"
+    "description": "Provider of performant open and proprietary LLMs",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "MLflow",
@@ -69,7 +96,11 @@
     "category": "AI/ML",
     "sector": "AI",
     "country": "Worldwide",
-    "description": "Open-source platform for managing ML lifecycle"
+    "description": "Open-source platform for managing ML lifecycle",
+    "owner": "Databricks",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "OpenAI",
@@ -77,7 +108,10 @@
     "category": "AI/ML",
     "sector": "AI",
     "country": "Worldwide",
-    "description": "Developers of GPT models and API for LLMs"
+    "description": "Developers of GPT models and API for LLMs",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "PyTorch",
@@ -85,7 +119,11 @@
     "category": "AI/ML",
     "sector": "AI",
     "country": "Worldwide",
-    "description": "Open-source ML framework from Meta/FAIR"
+    "description": "Open-source ML framework from Meta/FAIR",
+    "owner": "Meta",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "scikit-learn",
@@ -93,7 +131,10 @@
     "category": "AI/ML",
     "sector": "AI",
     "country": "Worldwide",
-    "description": "Classic ML library for Python"
+    "description": "Classic ML library for Python",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "Stability AI",
@@ -101,7 +142,10 @@
     "category": "AI/ML",
     "sector": "AI",
     "country": "Worldwide",
-    "description": "Open models for generative AI and research"
+    "description": "Open models for generative AI and research",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "TensorFlow",
@@ -109,7 +153,11 @@
     "category": "AI/ML",
     "sector": "AI",
     "country": "Worldwide",
-    "description": "Open-source ML framework from Google"
+    "description": "Open-source ML framework from Google",
+    "owner": "Google",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "Alibaba Cloud",
@@ -117,7 +165,11 @@
     "category": "Cloud",
     "sector": "Cloud",
     "country": "China/Worldwide",
-    "description": "Major Asia-focused cloud provider"
+    "description": "Major Asia-focused cloud provider",
+    "owner": "Alibaba",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "Amazon Web Services (AWS)",
@@ -125,7 +177,11 @@
     "category": "Cloud",
     "sector": "Cloud",
     "country": "Worldwide",
-    "description": "Major cloud provider offering IaaS, PaaS, and ML services"
+    "description": "Major cloud provider offering IaaS, PaaS, and ML services",
+    "owner": "Amazon",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "DigitalOcean",
@@ -133,7 +189,10 @@
     "category": "Cloud",
     "sector": "Cloud",
     "country": "Worldwide",
-    "description": "Developer-focused cloud and hosting"
+    "description": "Developer-focused cloud and hosting",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "Google Cloud Platform",
@@ -141,7 +200,11 @@
     "category": "Cloud",
     "sector": "Cloud",
     "country": "Worldwide",
-    "description": "Google's cloud with ML/AI products (Vertex AI, BigQuery)"
+    "description": "Google's cloud with ML/AI products (Vertex AI, BigQuery)",
+    "owner": "Google",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "Hetzner",
@@ -149,7 +212,10 @@
     "category": "Cloud",
     "sector": "Cloud",
     "country": "Germany/Worldwide",
-    "description": "European cloud and dedicated servers provider"
+    "description": "European cloud and dedicated servers provider",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "IBM Cloud",
@@ -157,7 +223,11 @@
     "category": "Cloud",
     "sector": "Cloud",
     "country": "Worldwide",
-    "description": "IBM's enterprise cloud and AI offerings (Watson)"
+    "description": "IBM's enterprise cloud and AI offerings (Watson)",
+    "owner": "IBM",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "Linode",
@@ -165,7 +235,10 @@
     "category": "Cloud",
     "sector": "Cloud",
     "country": "Worldwide",
-    "description": "Cloud hosting provider for developers and SMBs"
+    "description": "Cloud hosting provider for developers and SMBs",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "Microsoft Azure",
@@ -173,7 +246,11 @@
     "category": "Cloud",
     "sector": "Cloud",
     "country": "Worldwide",
-    "description": "Microsoft's cloud platform with broad AI and enterprise services"
+    "description": "Microsoft's cloud platform with broad AI and enterprise services",
+    "owner": "Microsoft",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "Oracle Cloud",
@@ -181,7 +258,11 @@
     "category": "Cloud",
     "sector": "Cloud",
     "country": "Worldwide",
-    "description": "Oracle's cloud with database and analytics services"
+    "description": "Oracle's cloud with database and analytics services",
+    "owner": "Oracle",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "Snowflake",
@@ -189,7 +270,10 @@
     "category": "Data",
     "sector": "Data",
     "country": "Worldwide",
-    "description": "Cloud data platform widely used for analytics and ML"
+    "description": "Cloud data platform widely used for analytics and ML",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "Angular",
@@ -197,7 +281,10 @@
     "category": "Framework",
     "sector": "Web",
     "country": "Worldwide",
-    "description": "Full-featured front-end framework by Google"
+    "description": "Full-featured front-end framework by Google",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "Django",
@@ -205,7 +292,10 @@
     "category": "Framework",
     "sector": "Web",
     "country": "Worldwide",
-    "description": "High-level Python web framework"
+    "description": "High-level Python web framework",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "Flask",
@@ -213,7 +303,10 @@
     "category": "Framework",
     "sector": "Web",
     "country": "Worldwide",
-    "description": "Lightweight Python web microframework"
+    "description": "Lightweight Python web microframework",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "Laravel",
@@ -221,7 +314,10 @@
     "category": "Framework",
     "sector": "Web",
     "country": "Worldwide",
-    "description": "PHP web framework"
+    "description": "PHP web framework",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "Next.js",
@@ -229,7 +325,10 @@
     "category": "Framework",
     "sector": "Web",
     "country": "Worldwide",
-    "description": "React framework for hybrid apps"
+    "description": "React framework for hybrid apps",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "Nuxt",
@@ -237,7 +336,10 @@
     "category": "Framework",
     "sector": "Web",
     "country": "Worldwide",
-    "description": "Vue framework for server-side rendering"
+    "description": "Vue framework for server-side rendering",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "React",
@@ -245,7 +347,10 @@
     "category": "Framework",
     "sector": "Web",
     "country": "Worldwide",
-    "description": "UI library for building web apps"
+    "description": "UI library for building web apps",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "Ruby on Rails",
@@ -253,7 +358,10 @@
     "category": "Framework",
     "sector": "Web",
     "country": "Worldwide",
-    "description": "Opinionated Ruby web framework"
+    "description": "Opinionated Ruby web framework",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "Spring",
@@ -261,7 +369,10 @@
     "category": "Framework",
     "sector": "Enterprise",
     "country": "Worldwide",
-    "description": "Java application framework"
+    "description": "Java application framework",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "Svelte",
@@ -269,7 +380,10 @@
     "category": "Framework",
     "sector": "Web",
     "country": "Worldwide",
-    "description": "Compile-time UI framework"
+    "description": "Compile-time UI framework",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "Vue.js",
@@ -277,7 +391,10 @@
     "category": "Framework",
     "sector": "Web",
     "country": "Worldwide",
-    "description": "Progressive JavaScript framework"
+    "description": "Progressive JavaScript framework",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "A+ (A plus)",
@@ -285,7 +402,10 @@
     "category": "Programming Language",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "A.NET (A#/A sharp)",
@@ -293,7 +413,10 @@
     "category": "Programming Language",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "ACC",
@@ -301,7 +424,10 @@
     "category": "Programming Language",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "Ada",
@@ -309,7 +435,10 @@
     "category": "Programming Language",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "Adenine (Haystack)",
@@ -317,7 +446,10 @@
     "category": "Programming Language",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "AIMMS",
@@ -325,7 +457,10 @@
     "category": "Programming Language",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "Aldor",
@@ -333,7 +468,10 @@
     "category": "Programming Language",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "ALGOL 68",
@@ -341,7 +479,10 @@
     "category": "Programming Language",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "AMPL",
@@ -349,7 +490,10 @@
     "category": "Programming Language",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "Apache Pig latin",
@@ -357,7 +501,10 @@
     "category": "Programming Language",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "Apex (Salesforce.com, Inc)",
@@ -365,7 +512,11 @@
     "category": "Programming Language",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "owner": "Salesforce",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "APL",
@@ -373,7 +524,10 @@
     "category": "Programming Language",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "App Inventor for Android's visual block language (MIT App Inventor)",
@@ -381,7 +535,10 @@
     "category": "Programming Language",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "Arc",
@@ -389,7 +546,10 @@
     "category": "Programming Language",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "AssemblyScript",
@@ -397,7 +557,10 @@
     "category": "Programming Language",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "ATS",
@@ -405,7 +568,10 @@
     "category": "Programming Language",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "AutoHotkey",
@@ -413,7 +579,10 @@
     "category": "Programming Language",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "AutoIt",
@@ -421,7 +590,10 @@
     "category": "Programming Language",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "Averest",
@@ -429,7 +601,10 @@
     "category": "Programming Language",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "Ballerina",
@@ -437,7 +612,10 @@
     "category": "Programming Language",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "BETA",
@@ -445,7 +623,10 @@
     "category": "Programming Language",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "BlackBox Component Builder",
@@ -453,7 +634,10 @@
     "category": "Programming Language",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "Caml",
@@ -461,7 +645,10 @@
     "category": "Programming Language",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "Catrobat",
@@ -469,7 +656,10 @@
     "category": "Programming Language",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "Cayenne (Lennart Augustsson)",
@@ -477,7 +667,10 @@
     "category": "Programming Language",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "Ceylon",
@@ -485,7 +678,10 @@
     "category": "Programming Language",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "CFEngine",
@@ -493,7 +689,10 @@
     "category": "Programming Language",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "Chapel (Cascade High Productivity Language)",
@@ -501,7 +700,10 @@
     "category": "Programming Language",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "Charm",
@@ -509,7 +711,10 @@
     "category": "Programming Language",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "ChucK",
@@ -517,7 +722,10 @@
     "category": "Programming Language",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "Cilk (also Cilk++ and Cilk plus)",
@@ -525,7 +733,10 @@
     "category": "Programming Language",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "Claire",
@@ -533,7 +744,10 @@
     "category": "Programming Language",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "Clean",
@@ -541,7 +755,10 @@
     "category": "Programming Language",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "CLIPS",
@@ -549,7 +766,10 @@
     "category": "Programming Language",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "Clojure",
@@ -557,7 +777,10 @@
     "category": "Programming Language",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "Cobra",
@@ -565,7 +788,10 @@
     "category": "Programming Language",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "CoffeeScript",
@@ -573,7 +799,10 @@
     "category": "Programming Language",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "ColdFusion",
@@ -581,7 +810,10 @@
     "category": "Programming Language",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "Common Lisp",
@@ -589,7 +821,10 @@
     "category": "Programming Language",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "Constraint Handling Rules",
@@ -597,7 +832,10 @@
     "category": "Programming Language",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "Cryptol",
@@ -605,7 +843,10 @@
     "category": "Programming Language",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "Crystal",
@@ -613,7 +854,10 @@
     "category": "Programming Language",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "Csound",
@@ -621,7 +865,10 @@
     "category": "Programming Language",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "Cuneiform",
@@ -629,7 +876,10 @@
     "category": "Programming Language",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "Curl",
@@ -637,7 +887,10 @@
     "category": "Programming Language",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "Curry",
@@ -645,7 +898,10 @@
     "category": "Programming Language",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "Cyclone",
@@ -653,7 +909,10 @@
     "category": "Programming Language",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "Cython",
@@ -661,7 +920,10 @@
     "category": "Programming Language",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "Dart",
@@ -669,7 +931,10 @@
     "category": "Programming Language",
     "sector": "Mobile",
     "country": "Worldwide",
-    "description": "Language optimized for UI, used with Flutter"
+    "description": "Language optimized for UI, used with Flutter",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "dBase",
@@ -677,7 +942,10 @@
     "category": "Programming Language",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "DRAKON",
@@ -685,7 +953,10 @@
     "category": "Programming Language",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "Dylan",
@@ -693,7 +964,10 @@
     "category": "Programming Language",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "Eiffel",
@@ -701,7 +975,10 @@
     "category": "Programming Language",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "Elixir",
@@ -709,7 +986,10 @@
     "category": "Programming Language",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "Elm",
@@ -717,7 +997,10 @@
     "category": "Programming Language",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "Emerald",
@@ -725,7 +1008,10 @@
     "category": "Programming Language",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "EPL (Easy Programming Language)",
@@ -733,7 +1019,10 @@
     "category": "Programming Language",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "Erlang",
@@ -741,7 +1030,10 @@
     "category": "Programming Language",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "Euphoria",
@@ -749,7 +1041,10 @@
     "category": "Programming Language",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "Executable UML",
@@ -757,7 +1052,10 @@
     "category": "Programming Language",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "Ezhil",
@@ -765,7 +1063,10 @@
     "category": "Programming Language",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "F# (F sharp)",
@@ -773,7 +1074,10 @@
     "category": "Programming Language",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "Factor",
@@ -781,7 +1085,10 @@
     "category": "Programming Language",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "Fantom",
@@ -789,7 +1096,10 @@
     "category": "Programming Language",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "FAUST",
@@ -797,7 +1107,10 @@
     "category": "Programming Language",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "fish",
@@ -805,7 +1118,10 @@
     "category": "Programming Language",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "Flix",
@@ -813,7 +1129,10 @@
     "category": "Programming Language",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "Forth",
@@ -821,7 +1140,10 @@
     "category": "Programming Language",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "Fortran",
@@ -829,7 +1151,10 @@
     "category": "Programming Language",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "FoxBase/FoxPro",
@@ -837,7 +1162,10 @@
     "category": "Programming Language",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "Futhark",
@@ -845,7 +1173,10 @@
     "category": "Programming Language",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "Game Maker Language",
@@ -853,7 +1184,10 @@
     "category": "Programming Language",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "GameMonkey Script",
@@ -861,7 +1195,10 @@
     "category": "Programming Language",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "GAP",
@@ -869,7 +1206,10 @@
     "category": "Programming Language",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "GDScript (Godot)",
@@ -877,7 +1217,10 @@
     "category": "Programming Language",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "Gleam",
@@ -885,7 +1228,10 @@
     "category": "Programming Language",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "GNU Guile (GNU Ubiquitous Intelligent Language for Extensions)",
@@ -893,7 +1239,10 @@
     "category": "Programming Language",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "GNU Octave",
@@ -901,7 +1250,10 @@
     "category": "Programming Language",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "Golo",
@@ -909,7 +1261,10 @@
     "category": "Programming Language",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "Google Apps Script",
@@ -917,7 +1272,11 @@
     "category": "Programming Language",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "owner": "Google",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "Gosu",
@@ -925,7 +1284,10 @@
     "category": "Programming Language",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "Grasshopper",
@@ -933,7 +1295,10 @@
     "category": "Programming Language",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "Groovy",
@@ -941,7 +1306,10 @@
     "category": "Programming Language",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "Groovy (programming language)",
@@ -949,7 +1317,10 @@
     "category": "Programming Language",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "Hack",
@@ -957,7 +1328,10 @@
     "category": "Programming Language",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "Halide (programming language)",
@@ -965,7 +1339,10 @@
     "category": "Programming Language",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "Hamilton C shell",
@@ -973,7 +1350,10 @@
     "category": "Programming Language",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "Harbour",
@@ -981,7 +1361,10 @@
     "category": "Programming Language",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "Haskell",
@@ -989,7 +1372,10 @@
     "category": "Programming Language",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "Haxe",
@@ -997,7 +1383,10 @@
     "category": "Programming Language",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "Hollywood",
@@ -1005,7 +1394,10 @@
     "category": "Programming Language",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "Hop",
@@ -1013,7 +1405,10 @@
     "category": "Programming Language",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "Hopscotch",
@@ -1021,7 +1416,10 @@
     "category": "Programming Language",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "HTML",
@@ -1029,7 +1427,10 @@
     "category": "Programming Language",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "IBM Basic assembly language",
@@ -1037,7 +1438,11 @@
     "category": "Programming Language",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "owner": "IBM",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "Idris",
@@ -1045,7 +1450,10 @@
     "category": "Programming Language",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "ISLISP",
@@ -1053,7 +1461,10 @@
     "category": "Programming Language",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "JADE",
@@ -1061,7 +1472,10 @@
     "category": "Programming Language",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "Join Java",
@@ -1069,7 +1483,10 @@
     "category": "Programming Language",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "Julia",
@@ -1077,7 +1494,10 @@
     "category": "Programming Language",
     "sector": "Scientific",
     "country": "Worldwide",
-    "description": "High-performance language for numerical computing"
+    "description": "High-performance language for numerical computing",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "Jython",
@@ -1085,7 +1505,10 @@
     "category": "Programming Language",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "Karel",
@@ -1093,7 +1516,10 @@
     "category": "Programming Language",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "KiXtart",
@@ -1101,7 +1527,10 @@
     "category": "Programming Language",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "Kodu",
@@ -1109,7 +1538,10 @@
     "category": "Programming Language",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "KornShell",
@@ -1117,7 +1549,10 @@
     "category": "Programming Language",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "Kotlin",
@@ -1125,7 +1560,10 @@
     "category": "Programming Language",
     "sector": "Mobile",
     "country": "Worldwide",
-    "description": "JVM language popular for Android"
+    "description": "JVM language popular for Android",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "Kv (Kivy)",
@@ -1133,7 +1571,10 @@
     "category": "Programming Language",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "LANSA",
@@ -1141,7 +1582,10 @@
     "category": "Programming Language",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "Lasso",
@@ -1149,7 +1593,10 @@
     "category": "Programming Language",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "Lean",
@@ -1157,7 +1604,10 @@
     "category": "Programming Language",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "LilyPond",
@@ -1165,7 +1615,10 @@
     "category": "Programming Language",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "LiveCode",
@@ -1173,7 +1626,10 @@
     "category": "Programming Language",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "LiveScript",
@@ -1181,7 +1637,10 @@
     "category": "Programming Language",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "Logtalk",
@@ -1189,7 +1648,10 @@
     "category": "Programming Language",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "Lua",
@@ -1197,7 +1659,10 @@
     "category": "Programming Language",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "Lua (programming language)",
@@ -1205,7 +1670,10 @@
     "category": "Programming Language",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "Magma",
@@ -1213,7 +1681,10 @@
     "category": "Programming Language",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "Maple",
@@ -1221,7 +1692,10 @@
     "category": "Programming Language",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "MASM Microsoft Assembly x86",
@@ -1229,7 +1703,11 @@
     "category": "Programming Language",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "owner": "Microsoft",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "Maude system",
@@ -1237,7 +1715,10 @@
     "category": "Programming Language",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "Maxima",
@@ -1245,7 +1726,10 @@
     "category": "Programming Language",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "Mercury",
@@ -1253,7 +1737,10 @@
     "category": "Programming Language",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "MHEG-5 (Interactive TV programming language)",
@@ -1261,7 +1748,10 @@
     "category": "Programming Language",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "Microsoft Power Fx",
@@ -1269,7 +1759,11 @@
     "category": "Programming Language",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "owner": "Microsoft",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "Mirah",
@@ -1277,7 +1771,10 @@
     "category": "Programming Language",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "Miranda",
@@ -1285,7 +1782,10 @@
     "category": "Programming Language",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "MIVA Script",
@@ -1293,7 +1793,10 @@
     "category": "Programming Language",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "Modelica",
@@ -1301,7 +1804,10 @@
     "category": "Programming Language",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "Modula-2",
@@ -1309,7 +1815,10 @@
     "category": "Programming Language",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "Modula-3",
@@ -1317,7 +1826,10 @@
     "category": "Programming Language",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "MOO",
@@ -1325,7 +1837,10 @@
     "category": "Programming Language",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "Mystic Programming Language",
@@ -1333,7 +1848,10 @@
     "category": "Programming Language",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "NASM",
@@ -1341,7 +1859,10 @@
     "category": "Programming Language",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "Neko",
@@ -1349,7 +1870,10 @@
     "category": "Programming Language",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "Nemerle",
@@ -1357,7 +1881,10 @@
     "category": "Programming Language",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "NetLogo",
@@ -1365,7 +1892,10 @@
     "category": "Programming Language",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "NetRexx",
@@ -1373,7 +1903,10 @@
     "category": "Programming Language",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "NewLISP",
@@ -1381,7 +1914,10 @@
     "category": "Programming Language",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "Newspeak",
@@ -1389,7 +1925,10 @@
     "category": "Programming Language",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "Nial",
@@ -1397,7 +1936,10 @@
     "category": "Programming Language",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "Nim",
@@ -1405,7 +1947,10 @@
     "category": "Programming Language",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "Nix",
@@ -1413,7 +1958,10 @@
     "category": "Programming Language",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "o:XML",
@@ -1421,7 +1969,10 @@
     "category": "Programming Language",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "Oberon",
@@ -1429,7 +1980,10 @@
     "category": "Programming Language",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "Object REXX",
@@ -1437,7 +1991,10 @@
     "category": "Programming Language",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "OCaml",
@@ -1445,7 +2002,10 @@
     "category": "Programming Language",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "Odin",
@@ -1453,7 +2013,10 @@
     "category": "Programming Language",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "Opa",
@@ -1461,7 +2024,10 @@
     "category": "Programming Language",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "OpenGL Shading Language",
@@ -1469,7 +2035,10 @@
     "category": "Programming Language",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "OpenQASM",
@@ -1477,7 +2046,10 @@
     "category": "Programming Language",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "Orc",
@@ -1485,7 +2057,10 @@
     "category": "Programming Language",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "ParaSail",
@@ -1493,7 +2068,10 @@
     "category": "Programming Language",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "PARI/GP",
@@ -1501,7 +2079,10 @@
     "category": "Programming Language",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "Pascal Script",
@@ -1509,7 +2090,10 @@
     "category": "Programming Language",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "PDL",
@@ -1517,7 +2101,10 @@
     "category": "Programming Language",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "Perl",
@@ -1525,7 +2112,10 @@
     "category": "Programming Language",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "Pharo",
@@ -1533,7 +2123,10 @@
     "category": "Programming Language",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "PHP",
@@ -1541,7 +2134,10 @@
     "category": "Programming Language",
     "sector": "Web",
     "country": "Worldwide",
-    "description": "Server-side scripting language"
+    "description": "Server-side scripting language",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "Pico",
@@ -1549,7 +2145,10 @@
     "category": "Programming Language",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "Picolisp",
@@ -1557,7 +2156,10 @@
     "category": "Programming Language",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "Pike",
@@ -1565,7 +2167,10 @@
     "category": "Programming Language",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "PILOT",
@@ -1573,7 +2178,10 @@
     "category": "Programming Language",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "Pizza",
@@ -1581,7 +2189,10 @@
     "category": "Programming Language",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "Pony",
@@ -1589,7 +2200,10 @@
     "category": "Programming Language",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "POV-Ray SDL",
@@ -1597,7 +2211,10 @@
     "category": "Programming Language",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "Processing",
@@ -1605,7 +2222,10 @@
     "category": "Programming Language",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "Processing.js",
@@ -1613,7 +2233,10 @@
     "category": "Programming Language",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "Pure Data",
@@ -1621,7 +2244,10 @@
     "category": "Programming Language",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "PureScript",
@@ -1629,7 +2255,10 @@
     "category": "Programming Language",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "Python",
@@ -1637,7 +2266,10 @@
     "category": "Programming Language",
     "sector": "General",
     "country": "Worldwide",
-    "description": "General-purpose language for many domains"
+    "description": "General-purpose language for many domains",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "Raku",
@@ -1645,7 +2277,10 @@
     "category": "Programming Language",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "Reason",
@@ -1653,7 +2288,10 @@
     "category": "Programming Language",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "REBOL",
@@ -1661,7 +2299,10 @@
     "category": "Programming Language",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "Red",
@@ -1669,7 +2310,10 @@
     "category": "Programming Language",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "REFAL",
@@ -1677,7 +2321,10 @@
     "category": "Programming Language",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "ReScript",
@@ -1685,7 +2332,10 @@
     "category": "Programming Language",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "Rocq",
@@ -1693,7 +2343,10 @@
     "category": "Programming Language",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "Ruby",
@@ -1701,7 +2354,10 @@
     "category": "Programming Language",
     "sector": "Web",
     "country": "Worldwide",
-    "description": "Productive language often used with Rails"
+    "description": "Productive language often used with Rails",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "Rust",
@@ -1709,7 +2365,10 @@
     "category": "Programming Language",
     "sector": "Systems",
     "country": "Worldwide",
-    "description": "Memory-safe systems programming language"
+    "description": "Memory-safe systems programming language",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "SAS",
@@ -1717,7 +2376,10 @@
     "category": "Programming Language",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "Scala",
@@ -1725,7 +2387,10 @@
     "category": "Programming Language",
     "sector": "Data",
     "country": "Worldwide",
-    "description": "JVM language blending FP and OOP"
+    "description": "JVM language blending FP and OOP",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "Scheme",
@@ -1733,7 +2398,10 @@
     "category": "Programming Language",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "Scilab",
@@ -1741,7 +2409,10 @@
     "category": "Programming Language",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "Scratch",
@@ -1749,7 +2420,10 @@
     "category": "Programming Language",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "ScratchJr",
@@ -1757,7 +2431,10 @@
     "category": "Programming Language",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "Seed7",
@@ -1765,7 +2442,10 @@
     "category": "Programming Language",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "Self",
@@ -1773,7 +2453,10 @@
     "category": "Programming Language",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "SenseTalk",
@@ -1781,7 +2464,10 @@
     "category": "Programming Language",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "SETL",
@@ -1789,7 +2475,10 @@
     "category": "Programming Language",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "SiMPLE",
@@ -1797,7 +2486,10 @@
     "category": "Programming Language",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "Simula",
@@ -1805,7 +2497,10 @@
     "category": "Programming Language",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "SML",
@@ -1813,7 +2508,10 @@
     "category": "Programming Language",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "Snap!",
@@ -1821,7 +2519,10 @@
     "category": "Programming Language",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "Snowball",
@@ -1829,7 +2530,10 @@
     "category": "Programming Language",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "Solidity",
@@ -1837,7 +2541,10 @@
     "category": "Programming Language",
     "sector": "Blockchain & Web3",
     "country": "Worldwide",
-    "description": "Contract-oriented programming language for writing smart contracts on Ethereum and compatible chains."
+    "description": "Contract-oriented programming language for writing smart contracts on Ethereum and compatible chains.",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "Source",
@@ -1845,7 +2552,10 @@
     "category": "Programming Language",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "Squeak",
@@ -1853,7 +2563,10 @@
     "category": "Programming Language",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "Squirrel",
@@ -1861,7 +2574,10 @@
     "category": "Programming Language",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "Stata",
@@ -1869,7 +2585,10 @@
     "category": "Programming Language",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "Strongtalk",
@@ -1877,7 +2596,10 @@
     "category": "Programming Language",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "Subtext",
@@ -1885,7 +2607,10 @@
     "category": "Programming Language",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "SuperCollider",
@@ -1893,7 +2618,10 @@
     "category": "Programming Language",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "Swift (Apple programming language)",
@@ -1901,7 +2629,11 @@
     "category": "Programming Language",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "owner": "Apple",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "Swift (parallel scripting language)",
@@ -1909,7 +2641,10 @@
     "category": "Programming Language",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "TADS (Text Adventure Development System)",
@@ -1917,7 +2652,10 @@
     "category": "Programming Language",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "tcl (aka tcl/tk )",
@@ -1925,7 +2663,10 @@
     "category": "Programming Language",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "TempleOS",
@@ -1933,7 +2674,10 @@
     "category": "Programming Language",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "Tom",
@@ -1941,7 +2685,10 @@
     "category": "Programming Language",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "Transcript (LiveCode)",
@@ -1949,7 +2696,10 @@
     "category": "Programming Language",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "TXL",
@@ -1957,7 +2707,10 @@
     "category": "Programming Language",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "Tynker",
@@ -1965,7 +2718,10 @@
     "category": "Programming Language",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "TypeScript",
@@ -1973,7 +2729,10 @@
     "category": "Programming Language",
     "sector": "Web",
     "country": "Worldwide",
-    "description": "Typed superset of JavaScript"
+    "description": "Typed superset of JavaScript",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "Ubercode",
@@ -1981,7 +2740,10 @@
     "category": "Programming Language",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "Umple",
@@ -1989,7 +2751,10 @@
     "category": "Programming Language",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "Unicon",
@@ -1997,7 +2762,10 @@
     "category": "Programming Language",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "Vala",
@@ -2005,7 +2773,10 @@
     "category": "Programming Language",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "Vim script",
@@ -2013,7 +2784,10 @@
     "category": "Programming Language",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "Viper (Ethereum/Ether (ETH))",
@@ -2021,7 +2795,10 @@
     "category": "Programming Language",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "Visual DialogScript",
@@ -2029,7 +2806,10 @@
     "category": "Programming Language",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "Visual Prolog",
@@ -2037,7 +2817,10 @@
     "category": "Programming Language",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "WebAssembly",
@@ -2045,7 +2828,10 @@
     "category": "Programming Language",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "Whiley",
@@ -2053,7 +2839,10 @@
     "category": "Programming Language",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "Wolfram Language",
@@ -2061,7 +2850,10 @@
     "category": "Programming Language",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "Wyvern",
@@ -2069,7 +2861,10 @@
     "category": "Programming Language",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "X++ (X plus plus/Microsoft Dynamics AX)",
@@ -2077,7 +2872,11 @@
     "category": "Programming Language",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "owner": "Microsoft",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "X10",
@@ -2085,7 +2884,10 @@
     "category": "Programming Language",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "XMOS architecture",
@@ -2093,7 +2895,10 @@
     "category": "Programming Language",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "Xod",
@@ -2101,7 +2906,10 @@
     "category": "Programming Language",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "Xojo",
@@ -2109,7 +2917,10 @@
     "category": "Programming Language",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "XPL0",
@@ -2117,7 +2928,10 @@
     "category": "Programming Language",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "XSB",
@@ -2125,7 +2939,10 @@
     "category": "Programming Language",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "Zig",
@@ -2133,7 +2950,10 @@
     "category": "Programming Language",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "Zonnon",
@@ -2141,7 +2961,10 @@
     "category": "Programming Language",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "Airbnb",
@@ -2149,7 +2972,10 @@
     "category": "Startup",
     "sector": "Travel",
     "country": "USA",
-    "description": "Marketplace for lodging"
+    "description": "Marketplace for lodging",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "Canva",
@@ -2157,7 +2983,10 @@
     "category": "Startup",
     "sector": "Design",
     "country": "Australia",
-    "description": "Online design and publishing tool"
+    "description": "Online design and publishing tool",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "Coinbase",
@@ -2165,7 +2994,10 @@
     "category": "Startup",
     "sector": "Crypto/Fintech",
     "country": "USA",
-    "description": "Cryptocurrency exchange"
+    "description": "Cryptocurrency exchange",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "Databricks",
@@ -2173,7 +3005,11 @@
     "category": "Startup",
     "sector": "Data",
     "country": "Worldwide",
-    "description": "Unified data and AI platform (MLflow founder)"
+    "description": "Unified data and AI platform (MLflow founder)",
+    "owner": "Databricks",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "DoorDash",
@@ -2181,7 +3017,10 @@
     "category": "Startup",
     "sector": "Delivery",
     "country": "USA",
-    "description": "On-demand food delivery"
+    "description": "On-demand food delivery",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "Instacart",
@@ -2189,7 +3028,10 @@
     "category": "Startup",
     "sector": "Grocery",
     "country": "USA",
-    "description": "Grocery delivery and pickup"
+    "description": "Grocery delivery and pickup",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "Notion",
@@ -2197,7 +3039,10 @@
     "category": "Startup",
     "sector": "Productivity",
     "country": "USA",
-    "description": "All-in-one workspace"
+    "description": "All-in-one workspace",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "OpenAI",
@@ -2205,7 +3050,10 @@
     "category": "Startup",
     "sector": "AI",
     "country": "Worldwide",
-    "description": "Developers of GPT models and API for LLMs"
+    "description": "Developers of GPT models and API for LLMs",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "Robinhood",
@@ -2213,7 +3061,10 @@
     "category": "Startup",
     "sector": "Fintech",
     "country": "USA",
-    "description": "Stock trading platform"
+    "description": "Stock trading platform",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "Snowflake",
@@ -2221,7 +3072,10 @@
     "category": "Startup",
     "sector": "Data",
     "country": "Worldwide",
-    "description": "Cloud data platform widely used for analytics and ML"
+    "description": "Cloud data platform widely used for analytics and ML",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "Stripe",
@@ -2229,7 +3083,10 @@
     "category": "Startup",
     "sector": "Fintech",
     "country": "USA",
-    "description": "Payments infrastructure"
+    "description": "Payments infrastructure",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "UiPath",
@@ -2237,7 +3094,10 @@
     "category": "Startup",
     "sector": "Automation",
     "country": "USA",
-    "description": "Robotic Process Automation"
+    "description": "Robotic Process Automation",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "24SevenOffice",
@@ -2245,7 +3105,10 @@
     "category": "Tool",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "Ability Office",
@@ -2253,7 +3116,10 @@
     "category": "Tool",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "Acme",
@@ -2261,7 +3127,10 @@
     "category": "Tool",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "ActiveState",
@@ -2269,7 +3138,10 @@
     "category": "Tool",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "Adobe",
@@ -2277,7 +3149,10 @@
     "category": "Tool",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "Adobe Animate",
@@ -2285,7 +3160,11 @@
     "category": "Tool",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "owner": "Adobe",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "Adobe Business Catalyst",
@@ -2293,7 +3172,11 @@
     "category": "Tool",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "owner": "Adobe",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "Adobe Dreamweaver",
@@ -2301,7 +3184,11 @@
     "category": "Tool",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "owner": "Adobe",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "Adobe Experience Manager",
@@ -2309,7 +3196,11 @@
     "category": "Tool",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "owner": "Adobe",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "Adobe Flash Builder",
@@ -2317,7 +3208,11 @@
     "category": "Tool",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "owner": "Adobe",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "Adobe Systems",
@@ -2325,7 +3220,11 @@
     "category": "Tool",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "owner": "Adobe",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "AFNIC",
@@ -2333,7 +3232,10 @@
     "category": "Tool",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "Airtable",
@@ -2341,7 +3243,10 @@
     "category": "Tool",
     "sector": "SaaS",
     "country": "United States",
-    "description": "Spreadsheet-database hybrid for building collaborative apps and workflows."
+    "description": "Spreadsheet-database hybrid for building collaborative apps and workflows.",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "Alchemy CMS",
@@ -2349,7 +3254,10 @@
     "category": "Tool",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "Alfresco",
@@ -2357,7 +3265,10 @@
     "category": "Tool",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "AlternC",
@@ -2365,7 +3276,10 @@
     "category": "Tool",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "Altitude3.Net",
@@ -2373,12 +3287,19 @@
     "category": "Tool",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "Amazon Web Services",
     "url": "https://aws.amazon.com/",
-    "category": "Tool"
+    "category": "Tool",
+    "owner": "Amazon",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "Ametys CMS",
@@ -2386,7 +3307,10 @@
     "category": "Tool",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "AmigaOS",
@@ -2394,7 +3318,10 @@
     "category": "Tool",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "Android",
@@ -2402,7 +3329,10 @@
     "category": "Tool",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "Android Studio",
@@ -2410,7 +3340,10 @@
     "category": "Tool",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "AnyChart",
@@ -2418,7 +3351,10 @@
     "category": "Tool",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "AOLserver",
@@ -2426,7 +3362,10 @@
     "category": "Tool",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "Apache 2.0",
@@ -2434,7 +3373,10 @@
     "category": "Tool",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "Apache Allura",
@@ -2442,7 +3384,10 @@
     "category": "Tool",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "Apache Foundation",
@@ -2450,7 +3395,10 @@
     "category": "Tool",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "Apache Jackrabbit",
@@ -2458,12 +3406,18 @@
     "category": "Tool",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "Apache License",
     "url": "https://www.apache.org/licenses/",
-    "category": "Tool"
+    "category": "Tool",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "Apache License 2.0",
@@ -2471,7 +3425,10 @@
     "category": "Tool",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "Apache OFBiz",
@@ -2479,7 +3436,10 @@
     "category": "Tool",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "Apache OpenOffice Calc",
@@ -2487,7 +3447,10 @@
     "category": "Tool",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "Apache OpenOffice Writer",
@@ -2495,7 +3458,10 @@
     "category": "Tool",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "Apache Roller",
@@ -2503,7 +3469,10 @@
     "category": "Tool",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "Apache Sling",
@@ -2511,7 +3480,10 @@
     "category": "Tool",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "Apache Subversion",
@@ -2519,7 +3491,10 @@
     "category": "Tool",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "Appcelerator",
@@ -2527,7 +3502,10 @@
     "category": "Tool",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "Apple iWork",
@@ -2535,7 +3513,11 @@
     "category": "Tool",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "owner": "Apple",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "Aptana Studio",
@@ -2543,7 +3525,10 @@
     "category": "Tool",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "Arduino",
@@ -2551,7 +3536,10 @@
     "category": "Tool",
     "sector": "Robotics & IoT",
     "country": "Worldwide",
-    "description": "Open-source electronics platform for building digital devices and interactive objects using microcontrollers."
+    "description": "Open-source electronics platform for building digital devices and interactive objects using microcontrollers.",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "arXiv",
@@ -2559,7 +3547,10 @@
     "category": "Tool",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "Asana",
@@ -2567,7 +3558,10 @@
     "category": "Tool",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "ASP.NET",
@@ -2575,7 +3569,11 @@
     "category": "Tool",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "owner": "Microsoft",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "Assembla",
@@ -2583,7 +3581,10 @@
     "category": "Tool",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "Atari ST",
@@ -2591,7 +3592,10 @@
     "category": "Tool",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "Atom",
@@ -2599,7 +3603,10 @@
     "category": "Tool",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "ATutor",
@@ -2607,7 +3614,10 @@
     "category": "Tool",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "auDA",
@@ -2615,7 +3625,10 @@
     "category": "Tool",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "AWS Aurora",
@@ -2623,7 +3636,11 @@
     "category": "Tool",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "owner": "Amazon",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "b2evolution",
@@ -2631,7 +3648,10 @@
     "category": "Tool",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "Backbone.js",
@@ -2639,7 +3659,10 @@
     "category": "Tool",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "Backdrop CMS",
@@ -2647,7 +3670,10 @@
     "category": "Tool",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "Bare Bones Software",
@@ -2655,7 +3681,10 @@
     "category": "Tool",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "Basic-256",
@@ -2663,7 +3692,10 @@
     "category": "Tool",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "Bazaar",
@@ -2671,7 +3703,10 @@
     "category": "Tool",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "Bloomreach Experience Manager",
@@ -2679,7 +3714,10 @@
     "category": "Tool",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "blosxom",
@@ -2687,7 +3725,10 @@
     "category": "Tool",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "BLOX CMS",
@@ -2695,7 +3736,10 @@
     "category": "Tool",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "Bluefish",
@@ -2703,7 +3747,10 @@
     "category": "Tool",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "Bluehost",
@@ -2711,7 +3758,10 @@
     "category": "Tool",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "BlueJ",
@@ -2719,7 +3769,10 @@
     "category": "Tool",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "Bolt (CMS)",
@@ -2727,7 +3780,10 @@
     "category": "Tool",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "BON",
@@ -2735,7 +3791,10 @@
     "category": "Tool",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "Borland",
@@ -2743,7 +3802,10 @@
     "category": "Tool",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "Borland Kylix",
@@ -2751,7 +3813,10 @@
     "category": "Tool",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "Brackets",
@@ -2759,7 +3824,10 @@
     "category": "Tool",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "Bricolage",
@@ -2767,7 +3835,10 @@
     "category": "Tool",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "BSD",
@@ -2775,7 +3846,10 @@
     "category": "Tool",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "BSD 3-clause",
@@ -2783,7 +3857,10 @@
     "category": "Tool",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "BusyBox",
@@ -2791,7 +3868,10 @@
     "category": "Tool",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "C1 CMS",
@@ -2799,7 +3879,10 @@
     "category": "Tool",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "Calligra Plan",
@@ -2807,7 +3890,10 @@
     "category": "Tool",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "Calligra Suite",
@@ -2815,7 +3901,10 @@
     "category": "Tool",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "Canonical",
@@ -2823,7 +3912,10 @@
     "category": "Tool",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "CEITON",
@@ -2831,7 +3923,10 @@
     "category": "Tool",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "censhare",
@@ -2839,7 +3934,10 @@
     "category": "Tool",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "ChromeOS",
@@ -2847,7 +3945,10 @@
     "category": "Tool",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "Chromium",
@@ -2855,7 +3956,10 @@
     "category": "Tool",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "Cincom",
@@ -2863,7 +3967,10 @@
     "category": "Tool",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "CIRA",
@@ -2871,7 +3978,10 @@
     "category": "Tool",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "Clarizen",
@@ -2879,7 +3989,10 @@
     "category": "Tool",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "Cloud CMS",
@@ -2887,7 +4000,10 @@
     "category": "Tool",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "CMS Made Simple",
@@ -2895,7 +4011,10 @@
     "category": "Tool",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "CMSimple",
@@ -2903,7 +4022,10 @@
     "category": "Tool",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "CNNIC",
@@ -2911,7 +4033,10 @@
     "category": "Tool",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "Coda",
@@ -2919,7 +4044,10 @@
     "category": "Tool",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "Code::Blocks",
@@ -2927,7 +4055,10 @@
     "category": "Tool",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "Codeanywhere",
@@ -2935,7 +4066,10 @@
     "category": "Tool",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "CodeLite",
@@ -2943,7 +4077,10 @@
     "category": "Tool",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "Codelobster",
@@ -2951,7 +4088,10 @@
     "category": "Tool",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "Collabora Online",
@@ -2959,7 +4099,10 @@
     "category": "Tool",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "ConceptDraw Project",
@@ -2967,7 +4110,10 @@
     "category": "Tool",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "Concrete CMS",
@@ -2975,7 +4121,10 @@
     "category": "Tool",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "Contentful",
@@ -2983,7 +4132,10 @@
     "category": "Tool",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "Contentverse",
@@ -2991,7 +4143,10 @@
     "category": "Tool",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "Copper Project",
@@ -2999,7 +4154,10 @@
     "category": "Tool",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "CoreMedia Content Cloud",
@@ -3007,7 +4165,10 @@
     "category": "Tool",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "cPanel",
@@ -3015,7 +4176,10 @@
     "category": "Tool",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "CVS",
@@ -3023,7 +4187,10 @@
     "category": "Tool",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "CygnusEd",
@@ -3031,7 +4198,10 @@
     "category": "Tool",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "Cygwin",
@@ -3039,7 +4209,10 @@
     "category": "Tool",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "CZ.NIC",
@@ -3047,7 +4220,10 @@
     "category": "Tool",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "DADiSP",
@@ -3055,7 +4231,10 @@
     "category": "Tool",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "Dev-Pascal",
@@ -3063,7 +4242,10 @@
     "category": "Tool",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "DirectAdmin",
@@ -3071,7 +4253,10 @@
     "category": "Tool",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "django CMS",
@@ -3079,7 +4264,10 @@
     "category": "Tool",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "DNN",
@@ -3087,7 +4275,10 @@
     "category": "Tool",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "doi",
@@ -3095,7 +4286,10 @@
     "category": "Tool",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "DokuWiki",
@@ -3103,7 +4297,10 @@
     "category": "Tool",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "Dotclear",
@@ -3111,7 +4308,10 @@
     "category": "Tool",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "dotCMS",
@@ -3119,7 +4319,10 @@
     "category": "Tool",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "dotProject",
@@ -3127,7 +4330,10 @@
     "category": "Tool",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "DR DOS 3.31",
@@ -3135,17 +4341,26 @@
     "category": "Tool",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "DR DOS 6.0",
     "url": "http://drdos.com",
-    "category": "Tool"
+    "category": "Tool",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "DR-DOS 7.02",
     "url": "http://drdos.com",
-    "category": "Tool"
+    "category": "Tool",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "DragonFly BSD",
@@ -3153,7 +4368,10 @@
     "category": "Tool",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "DreamHost",
@@ -3161,7 +4379,10 @@
     "category": "Tool",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "Drupal",
@@ -3169,7 +4390,10 @@
     "category": "Tool",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "DSpace",
@@ -3177,7 +4401,10 @@
     "category": "Tool",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "Dynadot",
@@ -3185,7 +4412,10 @@
     "category": "Tool",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "DynaRoad",
@@ -3193,7 +4423,10 @@
     "category": "Tool",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "Easy projects",
@@ -3201,7 +4434,10 @@
     "category": "Tool",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "Easy Redmine",
@@ -3209,7 +4445,10 @@
     "category": "Tool",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "Eclipse",
@@ -3217,7 +4456,10 @@
     "category": "Tool",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "Eclipse Che",
@@ -3225,7 +4467,10 @@
     "category": "Tool",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "Eclipse Foundation",
@@ -3233,7 +4478,10 @@
     "category": "Tool",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "Eclipse PDT",
@@ -3241,7 +4489,10 @@
     "category": "Tool",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "EDT",
@@ -3249,7 +4500,10 @@
     "category": "Tool",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "eGroupWare",
@@ -3257,7 +4511,10 @@
     "category": "Tool",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "Elvis",
@@ -3265,7 +4522,10 @@
     "category": "Tool",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "Embarcadero Technologies",
@@ -3273,7 +4533,10 @@
     "category": "Tool",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "Endeavour Software Project Management",
@@ -3281,7 +4544,10 @@
     "category": "Tool",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "Enom",
@@ -3289,7 +4555,10 @@
     "category": "Tool",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "Enonic XP",
@@ -3297,7 +4566,10 @@
     "category": "Tool",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "Epik",
@@ -3305,7 +4577,10 @@
     "category": "Tool",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "Episerver CMS",
@@ -3313,7 +4588,10 @@
     "category": "Tool",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "EPrints",
@@ -3321,7 +4599,10 @@
     "category": "Tool",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "eric",
@@ -3329,7 +4610,10 @@
     "category": "Tool",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "ESLint",
@@ -3337,7 +4621,10 @@
     "category": "Tool",
     "sector": "Developer Tools",
     "country": "Worldwide",
-    "description": "JavaScript linter"
+    "description": "JavaScript linter",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "EURid",
@@ -3345,7 +4632,10 @@
     "category": "Tool",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "Exponent CMS",
@@ -3353,7 +4643,10 @@
     "category": "Tool",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "FastCGI",
@@ -3361,7 +4654,10 @@
     "category": "Tool",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "Fedora Commons",
@@ -3369,7 +4665,10 @@
     "category": "Tool",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "FIGlet",
@@ -3377,7 +4676,10 @@
     "category": "Tool",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "Figma",
@@ -3385,7 +4687,10 @@
     "category": "Tool",
     "sector": "Design",
     "country": "Worldwide",
-    "description": "Collaborative UI design tool"
+    "description": "Collaborative UI design tool",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "FinancialForce.com",
@@ -3393,7 +4698,10 @@
     "category": "Tool",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "Firebase Studio",
@@ -3401,7 +4709,11 @@
     "category": "Tool",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "owner": "Google",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "FogBugz",
@@ -3409,7 +4721,10 @@
     "category": "Tool",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "Fossil-scm",
@@ -3417,7 +4732,10 @@
     "category": "Tool",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "Foswiki",
@@ -3425,7 +4743,10 @@
     "category": "Tool",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "Framework",
@@ -3433,7 +4754,10 @@
     "category": "Tool",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "Free Pascal",
@@ -3441,7 +4765,10 @@
     "category": "Tool",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "FreeBSD",
@@ -3449,7 +4776,10 @@
     "category": "Tool",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "Freedcamp",
@@ -3457,7 +4787,10 @@
     "category": "Tool",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "FreeMarker",
@@ -3465,7 +4798,10 @@
     "category": "Tool",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "Froxlor",
@@ -3473,7 +4809,10 @@
     "category": "Tool",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "Fujitsu",
@@ -3481,7 +4820,10 @@
     "category": "Tool",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "Gambas",
@@ -3489,7 +4831,10 @@
     "category": "Tool",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "Gandi",
@@ -3497,7 +4842,10 @@
     "category": "Tool",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "GCC",
@@ -3505,7 +4853,10 @@
     "category": "Tool",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "Geany",
@@ -3513,7 +4864,10 @@
     "category": "Tool",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "Geeklog",
@@ -3521,7 +4875,10 @@
     "category": "Tool",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "GeoGebra",
@@ -3529,7 +4886,10 @@
     "category": "Tool",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "GetSimple CMS",
@@ -3537,7 +4897,10 @@
     "category": "Tool",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "Ghost",
@@ -3545,7 +4908,10 @@
     "category": "Tool",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "Gigaom",
@@ -3553,7 +4919,10 @@
     "category": "Tool",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "Git",
@@ -3561,7 +4930,10 @@
     "category": "Tool",
     "sector": "DevOps",
     "country": "Worldwide",
-    "description": "Distributed version control system"
+    "description": "Distributed version control system",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "Git (software)",
@@ -3569,7 +4941,10 @@
     "category": "Tool",
     "sector": "DevOps",
     "country": "Worldwide",
-    "description": "Distributed version control system"
+    "description": "Distributed version control system",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "GitHub",
@@ -3577,7 +4952,10 @@
     "category": "Tool",
     "sector": "DevTools",
     "country": "USA",
-    "description": "Code hosting and collaboration"
+    "description": "Code hosting and collaboration",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "GitHub - apache/sling-org-apache-sling-app-cms: Apache Sling: CMS Reference App",
@@ -3585,7 +4963,10 @@
     "category": "Tool",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "GLBasic",
@@ -3593,7 +4974,10 @@
     "category": "Tool",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "GlowHost",
@@ -3601,7 +4985,10 @@
     "category": "Tool",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "GMO Internet",
@@ -3609,7 +4996,10 @@
     "category": "Tool",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "GNOME",
@@ -3617,7 +5007,10 @@
     "category": "Tool",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "GNOME Builder",
@@ -3625,7 +5018,10 @@
     "category": "Tool",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "GNU",
@@ -3633,7 +5029,10 @@
     "category": "Tool",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "GNU Affero GPL",
@@ -3641,12 +5040,18 @@
     "category": "Tool",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "GNU Emacs",
     "url": "https://www.gnu.org/software/emacs",
-    "category": "Tool"
+    "category": "Tool",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "GNU GPL",
@@ -3654,7 +5059,10 @@
     "category": "Tool",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "GNU GPLv2",
@@ -3662,12 +5070,18 @@
     "category": "Tool",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "GNU GPLv3",
     "url": "https://www.gnu.org/licenses/gpl.html",
-    "category": "Tool"
+    "category": "Tool",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "GNU LGPL",
@@ -3675,7 +5089,10 @@
     "category": "Tool",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "GNU linking exception",
@@ -3683,7 +5100,10 @@
     "category": "Tool",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "GNU nano",
@@ -3691,7 +5111,10 @@
     "category": "Tool",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "GNU Oleo",
@@ -3699,7 +5122,10 @@
     "category": "Tool",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "Gnumeric",
@@ -3707,7 +5133,10 @@
     "category": "Tool",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "GNUstep",
@@ -3715,7 +5144,10 @@
     "category": "Tool",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "Goalscape",
@@ -3723,7 +5155,10 @@
     "category": "Tool",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "Google",
@@ -3731,7 +5166,10 @@
     "category": "Tool",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "Google Apps",
@@ -3739,12 +5177,20 @@
     "category": "Tool",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "owner": "Google",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "Google Cloud",
     "url": "https://cloud.google.com/",
-    "category": "Tool"
+    "category": "Tool",
+    "owner": "Google",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "Google Domains",
@@ -3752,7 +5198,11 @@
     "category": "Tool",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "owner": "Google",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "Google Inc.",
@@ -3760,7 +5210,11 @@
     "category": "Tool",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "owner": "Google",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "Google Sheets",
@@ -3768,7 +5222,11 @@
     "category": "Tool",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "owner": "Google",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "Google Workspace",
@@ -3776,7 +5234,11 @@
     "category": "Tool",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "owner": "Google",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "Grafana",
@@ -3784,7 +5246,10 @@
     "category": "Tool",
     "sector": "Monitoring",
     "country": "Worldwide",
-    "description": "Observability and metrics dashboard"
+    "description": "Observability and metrics dashboard",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "Grav",
@@ -3792,7 +5257,10 @@
     "category": "Tool",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "Greenfoot",
@@ -3800,7 +5268,10 @@
     "category": "Tool",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "Group-Office",
@@ -3808,7 +5279,10 @@
     "category": "Tool",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "GTK#",
@@ -3816,7 +5290,10 @@
     "category": "Tool",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "Guido van Rossum",
@@ -3824,7 +5301,10 @@
     "category": "Tool",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "Haiku",
@@ -3832,7 +5312,10 @@
     "category": "Tool",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "Hall.com",
@@ -3840,7 +5323,10 @@
     "category": "Tool",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "Headless content management system (Headless CMS)",
@@ -3848,7 +5334,10 @@
     "category": "Tool",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "Heroku",
@@ -3856,7 +5345,10 @@
     "category": "Tool",
     "sector": "Hosting",
     "country": "USA",
-    "description": "Platform as a Service"
+    "description": "Platform as a Service",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "Hostinger",
@@ -3864,7 +5356,10 @@
     "category": "Tool",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "HSQL",
@@ -3872,12 +5367,18 @@
     "category": "Tool",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "HSQLDB",
     "url": "https://hsqldb.org/",
-    "category": "Tool"
+    "category": "Tool",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "Huddle",
@@ -3885,7 +5386,10 @@
     "category": "Tool",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "Hypersonic SQL",
@@ -3893,7 +5397,10 @@
     "category": "Tool",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "i-MSCP",
@@ -3901,7 +5408,10 @@
     "category": "Tool",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "Ibexa DXP",
@@ -3909,7 +5419,10 @@
     "category": "Tool",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "IBM",
@@ -3917,7 +5430,10 @@
     "category": "Tool",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "IBM Db2",
@@ -3925,7 +5441,11 @@
     "category": "Tool",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "owner": "IBM",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "IBM Enterprise Content Management",
@@ -3933,7 +5453,11 @@
     "category": "Tool",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "owner": "IBM",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "IBM mainframes",
@@ -3941,7 +5465,11 @@
     "category": "Tool",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "owner": "IBM",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "Identity Digital",
@@ -3949,7 +5477,10 @@
     "category": "Tool",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "Ikiwiki",
@@ -3957,7 +5488,10 @@
     "category": "Tool",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "Infomaniak",
@@ -3965,7 +5499,10 @@
     "category": "Tool",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "INRIA",
@@ -3973,7 +5510,10 @@
     "category": "Tool",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "Intaver Institute",
@@ -3981,7 +5521,10 @@
     "category": "Tool",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "IPM",
@@ -3989,7 +5532,10 @@
     "category": "Tool",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "IronPython",
@@ -3997,7 +5543,10 @@
     "category": "Tool",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "ISBN",
@@ -4005,7 +5554,10 @@
     "category": "Tool",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "ISPConfig",
@@ -4013,7 +5565,10 @@
     "category": "Tool",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "Jahia",
@@ -4021,7 +5576,10 @@
     "category": "Tool",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "Jamroom",
@@ -4029,7 +5587,10 @@
     "category": "Tool",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "JED",
@@ -4037,7 +5598,10 @@
     "category": "Tool",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "Jenkins",
@@ -4045,7 +5609,10 @@
     "category": "Tool",
     "sector": "CI/CD",
     "country": "Worldwide",
-    "description": "Automation server"
+    "description": "Automation server",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "jGRASP",
@@ -4053,7 +5620,10 @@
     "category": "Tool",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "Jimdo",
@@ -4061,7 +5631,10 @@
     "category": "Tool",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "JOE",
@@ -4069,7 +5642,10 @@
     "category": "Tool",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "Joomla!",
@@ -4077,7 +5653,10 @@
     "category": "Tool",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "JPRS",
@@ -4085,7 +5664,10 @@
     "category": "Tool",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "Kakoune",
@@ -4093,7 +5675,10 @@
     "category": "Tool",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "Kate",
@@ -4101,7 +5686,10 @@
     "category": "Tool",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "KDE",
@@ -4109,7 +5697,10 @@
     "category": "Tool",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "KDevelop",
@@ -4117,7 +5708,10 @@
     "category": "Tool",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "Kile",
@@ -4125,7 +5719,10 @@
     "category": "Tool",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "KISA",
@@ -4133,7 +5730,10 @@
     "category": "Tool",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "Kloxo",
@@ -4141,7 +5741,10 @@
     "category": "Tool",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "Known",
@@ -4149,7 +5752,10 @@
     "category": "Tool",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "Komodo IDE",
@@ -4157,7 +5763,10 @@
     "category": "Tool",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "Kubernetes",
@@ -4165,7 +5774,10 @@
     "category": "Tool",
     "sector": "DevOps",
     "country": "Worldwide",
-    "description": "Container orchestration"
+    "description": "Container orchestration",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "LaTeX",
@@ -4173,7 +5785,10 @@
     "category": "Tool",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "Launchpad",
@@ -4181,7 +5796,10 @@
     "category": "Tool",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "Lazarus",
@@ -4189,7 +5807,10 @@
     "category": "Tool",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "Leo",
@@ -4197,7 +5818,10 @@
     "category": "Tool",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "Liberty BASIC",
@@ -4205,7 +5829,10 @@
     "category": "Tool",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "LibreOffice",
@@ -4213,7 +5840,10 @@
     "category": "Tool",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "LibreOffice Online",
@@ -4221,7 +5851,10 @@
     "category": "Tool",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "LibreOffice Writer",
@@ -4229,7 +5862,10 @@
     "category": "Tool",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "LibrePlan",
@@ -4237,7 +5873,10 @@
     "category": "Tool",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "License",
@@ -4245,7 +5884,10 @@
     "category": "Tool",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "Light Table",
@@ -4253,7 +5895,10 @@
     "category": "Tool",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "LiquidPlanner",
@@ -4261,7 +5906,10 @@
     "category": "Tool",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "LispWorks",
@@ -4269,7 +5917,10 @@
     "category": "Tool",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "LLVM",
@@ -4277,7 +5928,10 @@
     "category": "Tool",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "LogicalDOC",
@@ -4285,7 +5939,10 @@
     "category": "Tool",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "Lucee",
@@ -4293,7 +5950,10 @@
     "category": "Tool",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "LXDE",
@@ -4301,7 +5961,10 @@
     "category": "Tool",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "Maemo",
@@ -4309,7 +5972,10 @@
     "category": "Tool",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "Magento",
@@ -4317,7 +5983,10 @@
     "category": "Tool",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "Magnolia",
@@ -4325,12 +5994,18 @@
     "category": "Tool",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "MantisBT",
     "url": "https://www.mantisbt.org/",
-    "category": "Tool"
+    "category": "Tool",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "MariaDB",
@@ -4338,7 +6013,10 @@
     "category": "Tool",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "MATE",
@@ -4346,7 +6024,10 @@
     "category": "Tool",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "MediaWiki",
@@ -4354,7 +6035,10 @@
     "category": "Tool",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "Mercurial",
@@ -4362,7 +6046,10 @@
     "category": "Tool",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "Meridian Systems",
@@ -4370,7 +6057,10 @@
     "category": "Tool",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "Metabase",
@@ -4378,7 +6068,11 @@
     "category": "Tool",
     "sector": "Business Intelligence",
     "country": "Worldwide",
-    "description": "Open-source business intelligence"
+    "description": "Open-source business intelligence",
+    "owner": "Meta",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "Microsoft",
@@ -4386,7 +6080,10 @@
     "category": "Tool",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "Microsoft 365",
@@ -4394,7 +6091,11 @@
     "category": "Tool",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "owner": "Microsoft",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "Microsoft Azure",
@@ -4402,7 +6103,11 @@
     "category": "Tool",
     "sector": "Cloud",
     "country": "Worldwide",
-    "description": "Microsoft's cloud platform with broad AI and enterprise services"
+    "description": "Microsoft's cloud platform with broad AI and enterprise services",
+    "owner": "Microsoft",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "Microsoft Azure SQL",
@@ -4410,12 +6115,20 @@
     "category": "Tool",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "owner": "Microsoft",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "Microsoft Dynamics AX",
     "url": "https://www.microsoft.com/en-us/dynamics-365",
-    "category": "Tool"
+    "category": "Tool",
+    "owner": "Microsoft",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "Microsoft Excel",
@@ -4423,7 +6136,11 @@
     "category": "Tool",
     "sector": "Productivity",
     "country": "Microsoft",
-    "description": "Spreadsheet software"
+    "description": "Spreadsheet software",
+    "owner": "Microsoft",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "Microsoft Office",
@@ -4431,7 +6148,11 @@
     "category": "Tool",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "owner": "Microsoft",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "Microsoft Office Project Server",
@@ -4439,7 +6160,11 @@
     "category": "Tool",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "owner": "Microsoft",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "Microsoft Power BI",
@@ -4447,7 +6172,11 @@
     "category": "Tool",
     "sector": "Business Intelligence",
     "country": "Microsoft",
-    "description": "Business analytics service"
+    "description": "Business analytics service",
+    "owner": "Microsoft",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "Microsoft Project",
@@ -4455,7 +6184,11 @@
     "category": "Tool",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "owner": "Microsoft",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "Microsoft SharePoint Server",
@@ -4463,7 +6196,11 @@
     "category": "Tool",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "owner": "Microsoft",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "Microsoft Small Basic",
@@ -4471,7 +6208,11 @@
     "category": "Tool",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "owner": "Microsoft",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "Microsoft Team Foundation Server",
@@ -4479,7 +6220,11 @@
     "category": "Tool",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "owner": "Microsoft",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "Microsoft Visual Studio",
@@ -4487,7 +6232,11 @@
     "category": "Tool",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "owner": "Microsoft",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "Microsoft Windows",
@@ -4495,7 +6244,11 @@
     "category": "Tool",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "owner": "Microsoft",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "MicroStrategy",
@@ -4503,7 +6256,10 @@
     "category": "Tool",
     "sector": "Business Intelligence",
     "country": "USA",
-    "description": "Enterprise analytics platform"
+    "description": "Enterprise analytics platform",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "Microweber",
@@ -4511,7 +6267,10 @@
     "category": "Tool",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "Midgard CMS",
@@ -4519,7 +6278,10 @@
     "category": "Tool",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "MinEd",
@@ -4527,7 +6289,10 @@
     "category": "Tool",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "mod_perl",
@@ -4535,7 +6300,10 @@
     "category": "Tool",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "mojoPortal",
@@ -4543,7 +6311,10 @@
     "category": "Tool",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "Monday.com",
@@ -4551,7 +6322,10 @@
     "category": "Tool",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "MongoDB",
@@ -4559,7 +6333,10 @@
     "category": "Tool",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "Mono",
@@ -4567,7 +6344,10 @@
     "category": "Tool",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "MonoDevelop",
@@ -4575,7 +6355,10 @@
     "category": "Tool",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "MorphOS",
@@ -4583,7 +6366,10 @@
     "category": "Tool",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "Movable Type",
@@ -4591,7 +6377,10 @@
     "category": "Tool",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "Mozilla",
@@ -4599,7 +6388,10 @@
     "category": "Tool",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "Mozilla Public License",
@@ -4607,7 +6399,10 @@
     "category": "Tool",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "Mule (software)",
@@ -4615,7 +6410,10 @@
     "category": "Tool",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "Mustache",
@@ -4623,7 +6421,10 @@
     "category": "Tool",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "MyEclipse",
@@ -4631,7 +6432,10 @@
     "category": "Tool",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "MySQL",
@@ -4639,7 +6443,10 @@
     "category": "Tool",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "Name.com",
@@ -4647,7 +6454,10 @@
     "category": "Tool",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "Namecheap",
@@ -4655,7 +6465,10 @@
     "category": "Tool",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "NameSilo",
@@ -4663,7 +6476,10 @@
     "category": "Tool",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "NearlyFreeSpeech",
@@ -4671,7 +6487,10 @@
     "category": "Tool",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "NeoOffice",
@@ -4679,7 +6498,10 @@
     "category": "Tool",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "NetBeans C/C++ pack",
@@ -4687,7 +6509,10 @@
     "category": "Tool",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "NetBSD",
@@ -4695,7 +6520,10 @@
     "category": "Tool",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "Netlify",
@@ -4703,7 +6531,10 @@
     "category": "Tool",
     "sector": "Hosting",
     "country": "USA",
-    "description": "Static site hosting"
+    "description": "Static site hosting",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "NetSuite",
@@ -4711,7 +6542,10 @@
     "category": "Tool",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "Network Solutions",
@@ -4719,7 +6553,10 @@
     "category": "Tool",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "Nintendo DS",
@@ -4727,7 +6564,10 @@
     "category": "Tool",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "Nintendo Wii",
@@ -4735,7 +6575,10 @@
     "category": "Tool",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "Node.js",
@@ -4743,7 +6586,10 @@
     "category": "Tool",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "Nominet",
@@ -4751,7 +6597,10 @@
     "category": "Tool",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "nopCommerce",
@@ -4759,7 +6608,10 @@
     "category": "Tool",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "Novell",
@@ -4767,7 +6619,10 @@
     "category": "Tool",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "Novell DOS 7",
@@ -4775,7 +6630,10 @@
     "category": "Tool",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "Novius OS",
@@ -4783,7 +6641,10 @@
     "category": "Tool",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "NPM",
@@ -4791,7 +6652,10 @@
     "category": "Tool",
     "sector": "Developer Tools",
     "country": "Worldwide",
-    "description": "Node package manager"
+    "description": "Node package manager",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "Nucleus CMS",
@@ -4799,7 +6663,10 @@
     "category": "Tool",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "O3Spaces",
@@ -4807,7 +6674,10 @@
     "category": "Tool",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "OctoberCMS",
@@ -4815,7 +6685,10 @@
     "category": "Tool",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "Omeka",
@@ -4823,7 +6696,10 @@
     "category": "Tool",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "Onepager pro",
@@ -4831,7 +6707,10 @@
     "category": "Tool",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "ONLYOFFICE",
@@ -4839,7 +6718,10 @@
     "category": "Tool",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "Open Semantic Framework",
@@ -4847,7 +6729,10 @@
     "category": "Tool",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "Open Software License 3.0",
@@ -4855,7 +6740,10 @@
     "category": "Tool",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "OpenACS",
@@ -4863,7 +6751,10 @@
     "category": "Tool",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "OpenBSD",
@@ -4871,7 +6762,10 @@
     "category": "Tool",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "OpenCart",
@@ -4879,7 +6773,10 @@
     "category": "Tool",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "OpenCms",
@@ -4887,7 +6784,10 @@
     "category": "Tool",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "OpenIndiana",
@@ -4895,7 +6795,10 @@
     "category": "Tool",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "OpenKM",
@@ -4903,7 +6806,10 @@
     "category": "Tool",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "OpenOffice.org",
@@ -4911,7 +6817,10 @@
     "category": "Tool",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "OpenProject",
@@ -4919,7 +6828,10 @@
     "category": "Tool",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "OpenWatcom",
@@ -4927,7 +6839,10 @@
     "category": "Tool",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "OpenWGA",
@@ -4935,7 +6850,10 @@
     "category": "Tool",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "Oracle",
@@ -4943,7 +6861,10 @@
     "category": "Tool",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "Oracle Corporation",
@@ -4951,7 +6872,11 @@
     "category": "Tool",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "owner": "Oracle",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "Oracle Developer Studio",
@@ -4959,7 +6884,11 @@
     "category": "Tool",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "owner": "Oracle",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "Oracle JDeveloper",
@@ -4967,7 +6896,11 @@
     "category": "Tool",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "owner": "Oracle",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "Oracle Primavera EPPM",
@@ -4975,7 +6908,11 @@
     "category": "Tool",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "owner": "Oracle",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "Orchard Project",
@@ -4983,7 +6920,10 @@
     "category": "Tool",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "OVH",
@@ -4991,7 +6931,10 @@
     "category": "Tool",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "Padre",
@@ -4999,7 +6942,10 @@
     "category": "Tool",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "PascalABC.NET",
@@ -5007,7 +6953,10 @@
     "category": "Tool",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "PC World",
@@ -5015,7 +6964,10 @@
     "category": "Tool",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "PCWorld",
@@ -5023,7 +6975,10 @@
     "category": "Tool",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "Percona Server",
@@ -5031,7 +6986,10 @@
     "category": "Tool",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "Perforce",
@@ -5039,7 +6997,10 @@
     "category": "Tool",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "Phire CMS",
@@ -5047,7 +7008,10 @@
     "category": "Tool",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "PHP-Fusion",
@@ -5055,7 +7019,10 @@
     "category": "Tool",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "PHPEclipse",
@@ -5063,7 +7030,10 @@
     "category": "Tool",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "PHProjekt",
@@ -5071,7 +7041,10 @@
     "category": "Tool",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "Pimcore",
@@ -5079,7 +7052,10 @@
     "category": "Tool",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "PIR",
@@ -5087,7 +7063,10 @@
     "category": "Tool",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "Pivotal Tracker",
@@ -5095,7 +7074,10 @@
     "category": "Tool",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "Pixie (CMS)",
@@ -5103,7 +7085,10 @@
     "category": "Tool",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "Planisware",
@@ -5111,7 +7096,10 @@
     "category": "Tool",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "PLANTA Project",
@@ -5119,7 +7107,10 @@
     "category": "Tool",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "Plesk",
@@ -5127,7 +7118,10 @@
     "category": "Tool",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "Plone",
@@ -5135,7 +7129,10 @@
     "category": "Tool",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "PM World Today",
@@ -5143,7 +7140,10 @@
     "category": "Tool",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "PmWiki",
@@ -5151,7 +7151,10 @@
     "category": "Tool",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "POSIX",
@@ -5159,7 +7162,10 @@
     "category": "Tool",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "PostgreSQL",
@@ -5167,7 +7173,10 @@
     "category": "Tool",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "Postman",
@@ -5175,7 +7184,10 @@
     "category": "Tool",
     "sector": "Developer Tools",
     "country": "Worldwide",
-    "description": "API development environment"
+    "description": "API development environment",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "Powerflasher FDT",
@@ -5183,7 +7195,10 @@
     "category": "Tool",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "Prestashop",
@@ -5191,7 +7206,10 @@
     "category": "Tool",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "Prettier",
@@ -5199,7 +7217,10 @@
     "category": "Tool",
     "sector": "Developer Tools",
     "country": "Worldwide",
-    "description": "Code formatter"
+    "description": "Code formatter",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "ProcessWire",
@@ -5207,7 +7228,10 @@
     "category": "Tool",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "Project KickStart",
@@ -5215,7 +7239,10 @@
     "category": "Tool",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "project management software",
@@ -5223,7 +7250,10 @@
     "category": "Tool",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "Project.net",
@@ -5231,7 +7261,10 @@
     "category": "Tool",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "ProjectLibre",
@@ -5239,7 +7272,10 @@
     "category": "Tool",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "ProjectManager.com",
@@ -5247,7 +7283,10 @@
     "category": "Tool",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "Projektron BCS",
@@ -5255,7 +7294,10 @@
     "category": "Tool",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "ProjeQtOr",
@@ -5263,7 +7305,10 @@
     "category": "Tool",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "PSPad",
@@ -5271,7 +7316,10 @@
     "category": "Tool",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "PureBasic",
@@ -5279,7 +7327,10 @@
     "category": "Tool",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "PyDev",
@@ -5287,7 +7338,10 @@
     "category": "Tool",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "Pylint",
@@ -5295,7 +7349,10 @@
     "category": "Tool",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "Pyrus",
@@ -5303,7 +7360,10 @@
     "category": "Tool",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "PySide",
@@ -5311,7 +7371,10 @@
     "category": "Tool",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "Pyspread",
@@ -5319,7 +7382,10 @@
     "category": "Tool",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "PythonAnywhere",
@@ -5327,7 +7393,10 @@
     "category": "Tool",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "Qlik",
@@ -5335,7 +7404,10 @@
     "category": "Tool",
     "sector": "Business Intelligence",
     "country": "Sweden",
-    "description": "Analytics and data integration"
+    "description": "Analytics and data integration",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "R Tools for Visual Studio",
@@ -5343,7 +7415,11 @@
     "category": "Tool",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "owner": "Microsoft",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "RapidQ",
@@ -5351,7 +7427,10 @@
     "category": "Tool",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "Rational Software Architect (Eclipse IBM)",
@@ -5359,7 +7438,11 @@
     "category": "Tool",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "owner": "IBM",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "RationalPlan",
@@ -5367,7 +7450,10 @@
     "category": "Tool",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "Red Hat",
@@ -5375,7 +7461,10 @@
     "category": "Tool",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "Redash",
@@ -5383,7 +7472,10 @@
     "category": "Tool",
     "sector": "Business Intelligence",
     "country": "Worldwide",
-    "description": "Query and visualization tool"
+    "description": "Query and visualization tool",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "Redmine",
@@ -5391,7 +7483,10 @@
     "category": "Tool",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "Register.com",
@@ -5399,7 +7494,10 @@
     "category": "Tool",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "RemObjects Software",
@@ -5407,7 +7505,10 @@
     "category": "Tool",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "Rillsoft Project",
@@ -5415,7 +7516,10 @@
     "category": "Tool",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "RJ TextEd",
@@ -5423,7 +7527,10 @@
     "category": "Tool",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "Sam",
@@ -5431,7 +7538,10 @@
     "category": "Tool",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "SAP Business ByDesign",
@@ -5439,7 +7549,11 @@
     "category": "Tool",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "owner": "SAP",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "SAP BusinessObjects",
@@ -5447,12 +7561,19 @@
     "category": "Tool",
     "sector": "Business Intelligence",
     "country": "Germany",
-    "description": "Business intelligence suite"
+    "description": "Business intelligence suite",
+    "owner": "SAP",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "Sciforma",
     "url": "http://www.sciforma.com",
-    "category": "Tool"
+    "category": "Tool",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "Scintilla",
@@ -5460,7 +7581,10 @@
     "category": "Tool",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "Scoro",
@@ -5468,7 +7592,10 @@
     "category": "Tool",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "SdlBasic",
@@ -5476,7 +7603,10 @@
     "category": "Tool",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "Seavus Project Viewer (software)",
@@ -5484,7 +7614,10 @@
     "category": "Tool",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "Sellerdeck",
@@ -5492,7 +7625,10 @@
     "category": "Tool",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "Severa",
@@ -5500,7 +7636,10 @@
     "category": "Tool",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "Sheetster",
@@ -5508,7 +7647,10 @@
     "category": "Tool",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "Shopware",
@@ -5516,7 +7658,10 @@
     "category": "Tool",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "Shortcut Software",
@@ -5524,7 +7669,10 @@
     "category": "Tool",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "Siag",
@@ -5532,7 +7680,10 @@
     "category": "Tool",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "Silverstripe CMS",
@@ -5540,7 +7691,11 @@
     "category": "Tool",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "owner": "Stripe",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "Simply Fortran",
@@ -5548,7 +7703,10 @@
     "category": "Tool",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "Sisense",
@@ -5556,7 +7714,10 @@
     "category": "Tool",
     "sector": "Business Intelligence",
     "country": "USA",
-    "description": "Analytics and BI platform"
+    "description": "Analytics and BI platform",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "Smartsheet",
@@ -5564,7 +7725,10 @@
     "category": "Tool",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "Smarty",
@@ -5572,7 +7736,10 @@
     "category": "Tool",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "Socket.io",
@@ -5580,7 +7747,10 @@
     "category": "Tool",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "SoftMaker Office",
@@ -5588,7 +7758,10 @@
     "category": "Tool",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "SourceLair",
@@ -5596,7 +7769,10 @@
     "category": "Tool",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "spacemacs",
@@ -5604,7 +7780,10 @@
     "category": "Tool",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "SPARC",
@@ -5612,7 +7791,10 @@
     "category": "Tool",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "Spider Project",
@@ -5620,7 +7802,10 @@
     "category": "Tool",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "SPIP",
@@ -5628,7 +7813,10 @@
     "category": "Tool",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "Spyder",
@@ -5636,12 +7824,19 @@
     "category": "Tool",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "SQL Azure",
     "url": "https://azure.microsoft.com/en-us/products/azure-sql/",
-    "category": "Tool"
+    "category": "Tool",
+    "owner": "Microsoft",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "SQLite",
@@ -5649,7 +7844,10 @@
     "category": "Tool",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "Squarespace",
@@ -5657,7 +7855,10 @@
     "category": "Tool",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "Stack Overflow",
@@ -5665,7 +7866,10 @@
     "category": "Tool",
     "sector": "Community",
     "country": "Worldwide",
-    "description": "Q&A for programmers"
+    "description": "Q&A for programmers",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "StarOffice",
@@ -5673,7 +7877,10 @@
     "category": "Tool",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "Streamtime Software",
@@ -5681,7 +7888,10 @@
     "category": "Tool",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "Sublime Text",
@@ -5689,7 +7899,10 @@
     "category": "Tool",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "Symbian",
@@ -5697,7 +7910,10 @@
     "category": "Tool",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "Tableau",
@@ -5705,7 +7921,10 @@
     "category": "Tool",
     "sector": "Business Intelligence",
     "country": "USA",
-    "description": "Interactive data visualization"
+    "description": "Interactive data visualization",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "Taiga",
@@ -5713,7 +7932,10 @@
     "category": "Tool",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "TaskJuggler",
@@ -5721,12 +7943,18 @@
     "category": "Tool",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "Tcl",
     "url": "https://www.tcl-lang.org",
-    "category": "Tool"
+    "category": "Tool",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "Telligent Community",
@@ -5734,7 +7962,10 @@
     "category": "Tool",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "Terraform",
@@ -5742,7 +7973,10 @@
     "category": "Tool",
     "sector": "DevOps",
     "country": "Worldwide",
-    "description": "Infrastructure as code"
+    "description": "Infrastructure as code",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "TeXnicCenter",
@@ -5750,7 +7984,10 @@
     "category": "Tool",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "TextPad",
@@ -5758,7 +7995,10 @@
     "category": "Tool",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "Textpattern",
@@ -5766,7 +8006,10 @@
     "category": "Tool",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "The Calligra Suite",
@@ -5774,7 +8017,10 @@
     "category": "Tool",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "The Document Foundation",
@@ -5782,7 +8028,10 @@
     "category": "Tool",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "ThinkFree Online",
@@ -5790,7 +8039,10 @@
     "category": "Tool",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "Thonny",
@@ -5798,7 +8050,10 @@
     "category": "Tool",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "TiddlyWiki",
@@ -5806,7 +8061,10 @@
     "category": "Tool",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "Tiki Wiki CMS Groupware",
@@ -5814,7 +8072,10 @@
     "category": "Tool",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "Tom's Planner",
@@ -5822,7 +8083,10 @@
     "category": "Tool",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "Traction TeamPage",
@@ -5830,7 +8094,10 @@
     "category": "Tool",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "Trello",
@@ -5838,7 +8105,10 @@
     "category": "Tool",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "Tuleap",
@@ -5846,7 +8116,10 @@
     "category": "Tool",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "Turbo Delphi",
@@ -5854,7 +8127,10 @@
     "category": "Tool",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "TWiki",
@@ -5862,7 +8138,10 @@
     "category": "Tool",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "Twproject",
@@ -5870,7 +8149,10 @@
     "category": "Tool",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "TYPO3",
@@ -5878,7 +8160,10 @@
     "category": "Tool",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "Ubuntu",
@@ -5886,7 +8171,10 @@
     "category": "Tool",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "uCoz",
@@ -5894,7 +8182,10 @@
     "category": "Tool",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "Ulysses",
@@ -5902,7 +8193,10 @@
     "category": "Tool",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "Umbraco",
@@ -5910,7 +8204,10 @@
     "category": "Tool",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "UML class diagramming",
@@ -5918,7 +8215,10 @@
     "category": "Tool",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "Unicode",
@@ -5926,7 +8226,10 @@
     "category": "Tool",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "Unisys",
@@ -5934,7 +8237,10 @@
     "category": "Tool",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "Unknown Worlds Entertainment",
@@ -5942,7 +8248,10 @@
     "category": "Tool",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "Valgrind",
@@ -5950,7 +8259,10 @@
     "category": "Tool",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "Vercel",
@@ -5958,7 +8270,10 @@
     "category": "Tool",
     "sector": "Hosting",
     "country": "USA",
-    "description": "Frontend deployment platform"
+    "description": "Frontend deployment platform",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "Verisign",
@@ -5966,12 +8281,18 @@
     "category": "Tool",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "vim",
     "url": "https://www.vim.org/",
-    "category": "Tool"
+    "category": "Tool",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "Visual Studio Code",
@@ -5979,7 +8300,10 @@
     "category": "Tool",
     "sector": "Developer Tools",
     "country": "Microsoft",
-    "description": "Popular source-code editor"
+    "description": "Popular source-code editor",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "Wagtail",
@@ -5987,7 +8311,10 @@
     "category": "Tool",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "Web.com",
@@ -5995,7 +8322,10 @@
     "category": "Tool",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "web2project",
@@ -6003,7 +8333,10 @@
     "category": "Tool",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "Webcentral",
@@ -6011,7 +8344,10 @@
     "category": "Tool",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "Webflow",
@@ -6019,7 +8355,10 @@
     "category": "Tool",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "Webmin",
@@ -6027,7 +8366,10 @@
     "category": "Tool",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "Wiki.js",
@@ -6035,12 +8377,18 @@
     "category": "Tool",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "Windows",
     "url": "https://windows.com",
-    "category": "Tool"
+    "category": "Tool",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "Wine",
@@ -6048,7 +8396,10 @@
     "category": "Tool",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "WinEdt",
@@ -6056,7 +8407,10 @@
     "category": "Tool",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "Wing",
@@ -6064,7 +8418,10 @@
     "category": "Tool",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "WordPerfect Office",
@@ -6072,7 +8429,10 @@
     "category": "Tool",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "WordStar",
@@ -6080,7 +8440,10 @@
     "category": "Tool",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "Workamajig",
@@ -6088,7 +8451,10 @@
     "category": "Tool",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "Workfront",
@@ -6096,7 +8462,10 @@
     "category": "Tool",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "Workspace.com",
@@ -6104,12 +8473,18 @@
     "category": "Tool",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "WPS Office",
     "url": "https://www.wps.com/",
-    "category": "Tool"
+    "category": "Tool",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "Wrike",
@@ -6117,7 +8492,10 @@
     "category": "Tool",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "wxWidget",
@@ -6125,7 +8503,10 @@
     "category": "Tool",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "wxWidgets",
@@ -6133,7 +8514,10 @@
     "category": "Tool",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "Xamarin",
@@ -6141,7 +8525,10 @@
     "category": "Tool",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "Xamarin Studio",
@@ -6149,7 +8536,10 @@
     "category": "Tool",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "Xcode (Apple)",
@@ -6157,7 +8547,11 @@
     "category": "Tool",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "owner": "Apple",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "XEmacs",
@@ -6165,7 +8559,10 @@
     "category": "Tool",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "Xfce",
@@ -6173,7 +8570,10 @@
     "category": "Tool",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "XOOPS",
@@ -6181,7 +8581,10 @@
     "category": "Tool",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "XWiki",
@@ -6189,7 +8592,10 @@
     "category": "Tool",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "Yudit",
@@ -6197,7 +8603,10 @@
     "category": "Tool",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "Zed",
@@ -6205,7 +8614,10 @@
     "category": "Tool",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "Zend",
@@ -6213,7 +8625,10 @@
     "category": "Tool",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "Zend Studio",
@@ -6221,7 +8636,10 @@
     "category": "Tool",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "ZeroBrane Studio",
@@ -6229,7 +8647,10 @@
     "category": "Tool",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "Zoho Projects",
@@ -6237,7 +8658,11 @@
     "category": "Tool",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "owner": "Zoho",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "Zoho Sheet",
@@ -6245,7 +8670,11 @@
     "category": "Tool",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "owner": "Zoho",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "Zope",
@@ -6253,7 +8682,10 @@
     "category": "Tool",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   },
   {
     "name": "ZX81",
@@ -6261,6 +8693,9 @@
     "category": "Tool",
     "sector": "",
     "country": "",
-    "description": ""
+    "description": "",
+    "domains": [
+      "AI/ML"
+    ]
   }
 ]
