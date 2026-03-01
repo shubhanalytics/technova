@@ -218,7 +218,7 @@
   {
     "name": "Angular",
     "url": "https://angular.io/",
-    "category": "Framework",
+    "category": "Frontend",
     "sector": "Web",
     "country": "Worldwide",
     "description": "Full-featured front-end framework by Google",
@@ -227,7 +227,7 @@
   {
     "name": "Django",
     "url": "https://www.djangoproject.com/",
-    "category": "Framework",
+    "category": "Backend",
     "sector": "Web",
     "country": "Worldwide",
     "description": "High-level Python web framework",
@@ -236,7 +236,7 @@
   {
     "name": "Flask",
     "url": "https://flask.palletsprojects.com/",
-    "category": "Framework",
+    "category": "Backend",
     "sector": "Web",
     "country": "Worldwide",
     "description": "Lightweight Python web microframework",
@@ -245,7 +245,7 @@
   {
     "name": "Laravel",
     "url": "https://laravel.com/",
-    "category": "Framework",
+    "category": "Backend",
     "sector": "Web",
     "country": "Worldwide",
     "description": "PHP web framework",
@@ -254,7 +254,7 @@
   {
     "name": "Next.js",
     "url": "https://nextjs.org/",
-    "category": "Framework",
+    "category": "Frontend",
     "sector": "Web",
     "country": "Worldwide",
     "description": "React framework for hybrid apps",
@@ -263,7 +263,7 @@
   {
     "name": "Nuxt",
     "url": "https://nuxt.com/",
-    "category": "Framework",
+    "category": "Frontend",
     "sector": "Web",
     "country": "Worldwide",
     "description": "Vue framework for server-side rendering",
@@ -272,7 +272,7 @@
   {
     "name": "React",
     "url": "https://reactjs.org/",
-    "category": "Framework",
+    "category": "Frontend",
     "sector": "Web",
     "country": "Worldwide",
     "description": "UI library for building web apps",
@@ -281,7 +281,7 @@
   {
     "name": "Ruby on Rails",
     "url": "https://rubyonrails.org/",
-    "category": "Framework",
+    "category": "Backend",
     "sector": "Web",
     "country": "Worldwide",
     "description": "Opinionated Ruby web framework",
@@ -290,7 +290,7 @@
   {
     "name": "Spring",
     "url": "https://spring.io/",
-    "category": "Framework",
+    "category": "Backend",
     "sector": "Enterprise",
     "country": "Worldwide",
     "description": "Java application framework",
@@ -299,7 +299,7 @@
   {
     "name": "Svelte",
     "url": "https://svelte.dev/",
-    "category": "Framework",
+    "category": "Frontend",
     "sector": "Web",
     "country": "Worldwide",
     "description": "Compile-time UI framework",
@@ -308,7 +308,7 @@
   {
     "name": "Vue.js",
     "url": "https://vuejs.org/",
-    "category": "Framework",
+    "category": "Frontend",
     "sector": "Web",
     "country": "Worldwide",
     "description": "Progressive JavaScript framework",
@@ -4871,7 +4871,7 @@
   {
     "name": "Unreal Engine",
     "url": "https://www.unrealengine.com/",
-    "category": "Tool",
+    "category": "Game Engine",
     "sector": "AR/VR & Metaverse",
     "country": "Worldwide",
     "description": "High-fidelity real-time 3D creation platform used for games, simulations and immersive experiences.",
@@ -5591,19 +5591,10 @@
   {
     "name": "ARM Architecture",
     "url": "https://www.arm.com/",
-    "category": "Technology",
+    "category": "Hardware",
     "sector": "Hardware & Chips",
     "country": "Worldwide",
     "description": "Family of RISC-based processor architectures widely used in mobile and embedded devices.",
-    "popular": false
-  },
-  {
-    "name": "Battery Storage",
-    "url": "https://en.wikipedia.org/wiki/Energy_storage",
-    "category": "Technology",
-    "sector": "Green Tech & Sustainability",
-    "country": "Worldwide",
-    "description": "Technologies and systems for storing electrical energy (e.g., lithium-ion, flow batteries) used with renewables.",
     "popular": false
   },
   {
@@ -5618,7 +5609,7 @@
   {
     "name": "CRM",
     "url": "https://en.wikipedia.org/wiki/Customer_relationship_management",
-    "category": "Technology",
+    "category": "Business",
     "sector": "Business & Venture",
     "country": "Worldwide",
     "description": "Customer relationship management systems for sales, marketing and customer support.",
@@ -5627,7 +5618,7 @@
   {
     "name": "Design Systems",
     "url": "https://en.wikipedia.org/wiki/Design_system",
-    "category": "Technology",
+    "category": "Design",
     "sector": "Product & Design",
     "country": "Worldwide",
     "description": "Reusable component libraries, standards and guidelines that ensure consistent product design at scale.",
@@ -5663,7 +5654,7 @@
   {
     "name": "FPGA",
     "url": "https://en.wikipedia.org/wiki/Field-programmable_gate_array",
-    "category": "Technology",
+    "category": "Hardware",
     "sector": "Hardware & Chips",
     "country": "Worldwide",
     "description": "Field-programmable gate arrays — reconfigurable integrated circuits used for hardware acceleration and prototyping.",
@@ -5681,7 +5672,7 @@
   {
     "name": "Miro",
     "url": "https://miro.com/",
-    "category": "Technology",
+    "category": "Collaboration",
     "sector": "Product & Design",
     "country": "Worldwide",
     "description": "Online collaborative whiteboard platform for product teams and design workshops.",
@@ -5690,7 +5681,7 @@
   {
     "name": "MQTT",
     "url": "https://mqtt.org/",
-    "category": "Technology",
+    "category": "IoT",
     "sector": "Robotics & IoT",
     "country": "Worldwide",
     "description": "Lightweight publish/subscribe messaging protocol designed for constrained devices and low-bandwidth networks.",
@@ -5708,7 +5699,7 @@
   {
     "name": "OpenXR",
     "url": "https://www.khronos.org/openxr/",
-    "category": "Technology",
+    "category": "VR/AR",
     "sector": "AR/VR & Metaverse",
     "country": "Worldwide",
     "description": "Open, royalty-free standard for access to VR and AR platforms and devices.",
@@ -5735,7 +5726,7 @@
   {
     "name": "Raspberry Pi",
     "url": "https://www.raspberrypi.org/",
-    "category": "Technology",
+    "category": "Hardware",
     "sector": "Robotics & IoT",
     "country": "Worldwide",
     "description": "Low-cost, credit-card sized computers used for education, prototyping and edge IoT projects.",
@@ -5753,7 +5744,7 @@
   {
     "name": "RISC-V",
     "url": "https://riscv.org/",
-    "category": "Technology",
+    "category": "Hardware",
     "sector": "Hardware & Chips",
     "country": "Worldwide",
     "description": "Open standard instruction set architecture (ISA) based on established RISC principles.",
@@ -5762,19 +5753,10 @@
   {
     "name": "ROS",
     "url": "https://www.ros.org/",
-    "category": "Technology",
+    "category": "IoT",
     "sector": "Robotics & IoT",
     "country": "Worldwide",
     "description": "Robot Operating System — a flexible framework for writing robot software and modular robotics tooling.",
-    "popular": false
-  },
-  {
-    "name": "Smart Grid",
-    "url": "https://en.wikipedia.org/wiki/Smart_grid",
-    "category": "Technology",
-    "sector": "Green Tech & Sustainability",
-    "country": "Worldwide",
-    "description": "Modernized electrical grid using digital communications, control and automation to improve efficiency and reliability.",
     "popular": false
   },
   {
@@ -5787,18 +5769,9 @@
     "popular": false
   },
   {
-    "name": "Solar PV",
-    "url": "https://en.wikipedia.org/wiki/Photovoltaics",
-    "category": "Technology",
-    "sector": "Green Tech & Sustainability",
-    "country": "Worldwide",
-    "description": "Photovoltaic systems for converting sunlight into electricity — core technology for solar power generation.",
-    "popular": false
-  },
-  {
     "name": "Unity",
     "url": "https://unity.com/",
-    "category": "Technology",
+    "category": "Game Engine",
     "sector": "AR/VR & Metaverse",
     "country": "Worldwide",
     "description": "Real-time 3D platform for creating immersive AR/VR experiences, games and simulations.",
@@ -5807,7 +5780,7 @@
   {
     "name": "WebXR",
     "url": "https://www.w3.org/TR/webxr/",
-    "category": "Technology",
+    "category": "VR/AR",
     "sector": "AR/VR & Metaverse",
     "country": "Worldwide",
     "description": "Web standards for accessing virtual and augmented reality devices on the web.",
@@ -5825,7 +5798,7 @@
   {
     "name": ".NET",
     "url": "https://docs.microsoft.com/dotnet/visual-basic/",
-    "category": "Tool",
+    "category": "Runtime",
     "sector": "",
     "country": "",
     "description": "Capability-based language",
@@ -5877,18 +5850,9 @@
     "popular": false
   },
   {
-    "name": "Adobe",
-    "url": "https://www.adobe.com/",
-    "category": "Tool",
-    "sector": "",
-    "country": "",
-    "description": "Systems programming language",
-    "popular": false
-  },
-  {
     "name": "Adobe Animate",
     "url": "http://adobe.com/products/animate.html",
-    "category": "Tool",
+    "category": "Design",
     "sector": "",
     "country": "",
     "description": "Efficient compiled systems language",
@@ -5897,7 +5861,7 @@
   {
     "name": "Adobe Business Catalyst",
     "url": "http://businesscatalyst.com",
-    "category": "Tool",
+    "category": "CMS",
     "sector": "",
     "country": "",
     "description": "Low-level systems programming language",
@@ -5906,7 +5870,7 @@
   {
     "name": "Adobe Dreamweaver",
     "url": "https://www.adobe.com/products/dreamweaver.html",
-    "category": "Tool",
+    "category": "IDE/Editor",
     "sector": "",
     "country": "",
     "description": "Statistical computing and graphics language",
@@ -5924,46 +5888,10 @@
   {
     "name": "Adobe Flash Builder",
     "url": "https://www.adobe.com/products/flash-builder-family.html",
-    "category": "Tool",
+    "category": "IDE/Editor",
     "sector": "",
     "country": "",
     "description": "Statistical computing and graphics language",
-    "popular": false
-  },
-  {
-    "name": "Adobe Systems",
-    "url": "https://www.adobe.com/",
-    "category": "Tool",
-    "sector": "",
-    "country": "",
-    "description": "Systems programming language",
-    "popular": false
-  },
-  {
-    "name": "AFL Ver. 3",
-    "url": "http://rosenlaw.com/OSL3.0-explained.htm",
-    "category": "Tool",
-    "sector": "",
-    "country": "",
-    "description": "Statistical computing and graphics language",
-    "popular": false
-  },
-  {
-    "name": "AFNIC",
-    "url": "https://www.afnic.fr/",
-    "category": "Tool",
-    "sector": "",
-    "country": "",
-    "description": "Low-level systems programming language",
-    "popular": false
-  },
-  {
-    "name": "AGPL",
-    "url": "https://www.gnu.org/licenses/agpl.html",
-    "category": "Tool",
-    "sector": "",
-    "country": "",
-    "description": "",
     "popular": false
   },
   {
@@ -5978,7 +5906,7 @@
   {
     "name": "AIX",
     "url": "http://ibm.com/products/aix",
-    "category": "Tool",
+    "category": "Operating System",
     "sector": "",
     "country": "",
     "description": "",
@@ -5987,7 +5915,7 @@
   {
     "name": "Alchemy CMS",
     "url": "http://alchemy-cms.com",
-    "category": "Tool",
+    "category": "CMS",
     "sector": "",
     "country": "",
     "description": "Low-level systems programming language",
@@ -5996,7 +5924,7 @@
   {
     "name": "Alfresco",
     "url": "http://www.alfresco.com",
-    "category": "Tool",
+    "category": "CMS",
     "sector": "",
     "country": "",
     "description": "Low-level systems programming language",
@@ -6023,7 +5951,7 @@
   {
     "name": "Altitude3.Net",
     "url": "http://altitude3.net",
-    "category": "Tool",
+    "category": "Hosting",
     "sector": "",
     "country": "",
     "description": "Systems programming language",
@@ -6032,7 +5960,7 @@
   {
     "name": "Ametys CMS",
     "url": "http://www.ametys.org",
-    "category": "Tool",
+    "category": "CMS",
     "sector": "",
     "country": "",
     "description": "Low-level systems programming language",
@@ -6041,7 +5969,7 @@
   {
     "name": "AmigaOS",
     "url": "https://www.amigaos.net",
-    "category": "Tool",
+    "category": "Operating System",
     "sector": "",
     "country": "",
     "description": "",
@@ -6050,7 +5978,7 @@
   {
     "name": "Analytics",
     "url": "https://link.springer.com/10.1007/s42803-021-00033-4",
-    "category": "Tool",
+    "category": "Analytics",
     "sector": "",
     "country": "",
     "description": "Low-level systems programming language",
@@ -6059,7 +5987,7 @@
   {
     "name": "Android",
     "url": "https://www.android.com/",
-    "category": "Tool",
+    "category": "Mobile",
     "sector": "",
     "country": "",
     "description": "Statistical computing and graphics language",
@@ -6068,7 +5996,7 @@
   {
     "name": "Android app development",
     "url": "https://en.wikiversity.org/wiki/Android_programming",
-    "category": "Tool",
+    "category": "Mobile",
     "sector": "",
     "country": "",
     "description": "Statistical computing and graphics language",
@@ -6086,7 +6014,7 @@
   {
     "name": "AnyChart",
     "url": "https://www.anychart.com",
-    "category": "Tool",
+    "category": "Data Science",
     "sector": "",
     "country": "",
     "description": "Low-level systems programming language",
@@ -6104,7 +6032,7 @@
   {
     "name": "AonixADT",
     "url": "http://atego.com",
-    "category": "Tool",
+    "category": "IDE/Editor",
     "sector": "",
     "country": "",
     "description": "Systems programming language",
@@ -6122,15 +6050,6 @@
   {
     "name": "Apache Bloodhound",
     "url": "http://trac.edgewall.org",
-    "category": "Tool",
-    "sector": "",
-    "country": "",
-    "description": "Low-level systems programming language",
-    "popular": true
-  },
-  {
-    "name": "Apache Foundation",
-    "url": "https://apache.org",
     "category": "Tool",
     "sector": "",
     "country": "",
@@ -6194,7 +6113,7 @@
   {
     "name": "Apache Subversion",
     "url": "https://subversion.apache.org/",
-    "category": "Tool",
+    "category": "Version Control",
     "sector": "",
     "country": "",
     "description": "Low-level systems programming language",
@@ -6221,7 +6140,7 @@
   {
     "name": "Apple II",
     "url": "http://www.epocalc.net/php/liste_models.php?texte=apple+2+clone&look=All+fields",
-    "category": "Tool",
+    "category": "Hardware",
     "sector": "",
     "country": "",
     "description": "Capability-based language",
@@ -6248,7 +6167,7 @@
   {
     "name": "Aptana Studio",
     "url": "http://www.aptana.com",
-    "category": "Tool",
+    "category": "IDE/Editor",
     "sector": "",
     "country": "",
     "description": "Systems programming language",
@@ -6257,7 +6176,7 @@
   {
     "name": "Arachnophilia",
     "url": "http://arachnoid.com/arachnophilia",
-    "category": "Tool",
+    "category": "IDE/Editor",
     "sector": "",
     "country": "",
     "description": "Low-level systems programming language",
@@ -6266,7 +6185,7 @@
   {
     "name": "Arduino",
     "url": "https://www.arduino.cc/",
-    "category": "Tool",
+    "category": "Hardware",
     "sector": "Robotics & IoT",
     "country": "Worldwide",
     "description": "Open-source electronics platform for building digital devices and interactive objects using microcontrollers.",
@@ -6527,7 +6446,7 @@
   {
     "name": "Bluehost",
     "url": "http://bluehost.com",
-    "category": "Tool",
+    "category": "Hosting",
     "sector": "",
     "country": "",
     "description": "Capability-based language",
@@ -6626,15 +6545,6 @@
   {
     "name": "BSD 3-clause",
     "url": "https://cgit.freebsd.org/src/plain/share/misc/bsd-family-tree",
-    "category": "Tool",
-    "sector": "",
-    "country": "",
-    "description": "Low-level systems programming language",
-    "popular": false
-  },
-  {
-    "name": "BSD license",
-    "url": "http://www.oreilly.com/catalog/opensources/book/kirkmck.html",
     "category": "Tool",
     "sector": "",
     "country": "",
@@ -6788,7 +6698,7 @@
   {
     "name": "ChromeOS",
     "url": "https://chromeos.google",
-    "category": "Tool",
+    "category": "Operating System",
     "sector": "",
     "country": "",
     "description": "Low-level systems programming language",
@@ -6878,7 +6788,7 @@
   {
     "name": "Classic Mac OS",
     "url": "https://discussions.apple.com/community/mac_os/classic_mac_os",
-    "category": "Tool",
+    "category": "Operating System",
     "sector": "",
     "country": "",
     "description": "Low-level systems programming language",
@@ -7130,7 +7040,7 @@
   {
     "name": "Composr CMS",
     "url": "http://compo.sr",
-    "category": "Tool",
+    "category": "CMS",
     "sector": "",
     "country": "",
     "description": "Low-level systems programming language",
@@ -7508,7 +7418,7 @@
   {
     "name": "DR DOS 3.31",
     "url": "http://drdos.com",
-    "category": "Tool",
+    "category": "Operating System",
     "sector": "",
     "country": "",
     "description": "Statistical computing and graphics language",
@@ -7526,7 +7436,7 @@
   {
     "name": "DreamHost",
     "url": "https://dreamhost.com",
-    "category": "Tool",
+    "category": "Hosting",
     "sector": "",
     "country": "",
     "description": "Statistical computing and graphics language",
@@ -8003,7 +7913,7 @@
   {
     "name": "Fossil-scm",
     "url": "https://www.fossil-scm.org",
-    "category": "Tool",
+    "category": "Version Control",
     "sector": "",
     "country": "",
     "description": "Low-level systems programming language",
@@ -8057,7 +7967,7 @@
   {
     "name": "FreeBSD",
     "url": "https://www.freebsd.org",
-    "category": "Tool",
+    "category": "Operating System",
     "sector": "",
     "country": "",
     "description": "Statistical computing and graphics language",
@@ -8273,7 +8183,7 @@
   {
     "name": "GlowHost",
     "url": "https://glowhost.com/",
-    "category": "Tool",
+    "category": "Hosting",
     "sector": "",
     "country": "",
     "description": "",
@@ -8316,39 +8226,12 @@
     "popular": false
   },
   {
-    "name": "GNU Affero GPL",
-    "url": "https://www.gnu.org/licenses/agpl.html",
-    "category": "Tool",
-    "sector": "",
-    "country": "",
-    "description": "Statistical computing and graphics language",
-    "popular": false
-  },
-  {
-    "name": "GNU GPL",
-    "url": "https://www.gnu.org/licenses/gpl.html",
-    "category": "Tool",
-    "sector": "",
-    "country": "",
-    "description": "Functional shell language",
-    "popular": false
-  },
-  {
     "name": "GNU GPLv2",
     "url": "https://www.gnu.org/licenses/gpl.html",
     "category": "Tool",
     "sector": "",
     "country": "",
     "description": "Simple, fast compiled language",
-    "popular": false
-  },
-  {
-    "name": "GNU LGPL",
-    "url": "https://www.gnu.org/licenses/lgpl.html",
-    "category": "Tool",
-    "sector": "",
-    "country": "",
-    "description": "Functional shell language",
     "popular": false
   },
   {
@@ -8417,15 +8300,6 @@
   {
     "name": "GoldED",
     "url": "http://www.softwareandcircuits.com/division/amiga/products/cubic/",
-    "category": "Tool",
-    "sector": "",
-    "country": "",
-    "description": "Fast, statically typed language by Google",
-    "popular": false
-  },
-  {
-    "name": "Google",
-    "url": "https://about.google/",
     "category": "Tool",
     "sector": "",
     "country": "",
@@ -8541,15 +8415,6 @@
     "popular": false
   },
   {
-    "name": "Guido van Rossum",
-    "url": "https://gvanrossum.github.io/",
-    "category": "Tool",
-    "sector": "",
-    "country": "",
-    "description": "Statistical computing and graphics language",
-    "popular": false
-  },
-  {
     "name": "H2",
     "url": "https://h2database.com",
     "category": "Database",
@@ -8561,7 +8426,7 @@
   {
     "name": "Haiku",
     "url": "https://www.haiku-os.org",
-    "category": "Tool",
+    "category": "Operating System",
     "sector": "",
     "country": "",
     "description": "Array programming for finance",
@@ -8709,15 +8574,6 @@
     "sector": "",
     "country": "",
     "description": "Systems programming language",
-    "popular": false
-  },
-  {
-    "name": "IBM",
-    "url": "https://www.ibm.com/",
-    "category": "Tool",
-    "sector": "",
-    "country": "",
-    "description": "",
     "popular": false
   },
   {
@@ -8894,7 +8750,7 @@
   {
     "name": "IRIX",
     "url": "https://techpubs.jurassic.nl",
-    "category": "Tool",
+    "category": "Operating System",
     "sector": "",
     "country": "",
     "description": "Statistical computing and graphics language",
@@ -9603,15 +9459,6 @@
     "popular": false
   },
   {
-    "name": "Microsoft",
-    "url": "https://www.microsoft.com/",
-    "category": "Tool",
-    "sector": "",
-    "country": "",
-    "description": "Low-level systems programming language",
-    "popular": false
-  },
-  {
     "name": "Microsoft 365",
     "url": "https://m365.cloud.microsoft",
     "category": "Tool",
@@ -9789,15 +9636,6 @@
     "sector": "",
     "country": "",
     "description": "",
-    "popular": false
-  },
-  {
-    "name": "MIT License",
-    "url": "https://fedoraproject.org/wiki/Licensing:MIT?rd=Licensing/MIT",
-    "category": "Tool",
-    "sector": "",
-    "country": "",
-    "description": "Low-level systems programming language",
     "popular": false
   },
   {
@@ -10037,7 +9875,7 @@
   {
     "name": "NetBSD",
     "url": "https://www.NetBSD.org",
-    "category": "Tool",
+    "category": "Operating System",
     "sector": "",
     "country": "",
     "description": "Systems programming language",
@@ -10388,7 +10226,7 @@
   {
     "name": "OpenBSD",
     "url": "https://www.openbsd.org",
-    "category": "Tool",
+    "category": "Operating System",
     "sector": "",
     "country": "",
     "description": "Systems programming language",
@@ -11774,7 +11612,7 @@
   {
     "name": "Solaris",
     "url": "https://www.oracle.com/solaris",
-    "category": "Tool",
+    "category": "Operating System",
     "sector": "",
     "country": "",
     "description": "Statistical computing and graphics language",
@@ -17581,19 +17419,19 @@
     "name": "Bokeh",
     "description": "Interactive visualization library for modern web browsers with elegant graphics",
     "url": "https://bokeh.org/",
-    "category": "Data Visualization"
+    "category": "Data Science"
   },
   {
     "name": "Altair",
     "description": "Declarative statistical visualization library for Python based on Vega-Lite",
     "url": "https://altair-viz.github.io/",
-    "category": "Data Visualization"
+    "category": "Data Science"
   },
   {
     "name": "OpenCV",
     "description": "Open source computer vision and machine learning software library",
     "url": "https://opencv.org/",
-    "category": "ML/AI",
+    "category": "AI/ML",
     "popular": true
   },
   {
@@ -17606,47 +17444,47 @@
     "name": "NLTK",
     "description": "Natural Language Toolkit - platform for building Python programs to work with human language data",
     "url": "https://www.nltk.org/",
-    "category": "ML/AI",
+    "category": "AI/ML",
     "popular": true
   },
   {
     "name": "spaCy",
     "description": "Industrial-strength Natural Language Processing library with pre-trained pipelines",
     "url": "https://spacy.io/",
-    "category": "ML/AI",
+    "category": "AI/ML",
     "popular": true
   },
   {
     "name": "Transformers",
     "description": "State-of-the-art machine learning library for PyTorch, TensorFlow, and JAX",
     "url": "https://huggingface.co/transformers",
-    "category": "ML/AI",
+    "category": "AI/ML",
     "popular": true
   },
   {
     "name": "FastAI",
     "description": "Deep learning library providing high-level components for fast practical results",
     "url": "https://www.fast.ai/",
-    "category": "ML/AI"
+    "category": "AI/ML"
   },
   {
     "name": "XGBoost",
     "description": "Optimized distributed gradient boosting library for efficient machine learning",
     "url": "https://xgboost.readthedocs.io/",
-    "category": "ML/AI",
+    "category": "AI/ML",
     "popular": true
   },
   {
     "name": "LightGBM",
     "description": "Fast gradient boosting framework using tree-based learning algorithms",
     "url": "https://lightgbm.readthedocs.io/",
-    "category": "ML/AI"
+    "category": "AI/ML"
   },
   {
     "name": "CatBoost",
     "description": "Gradient boosting library with categorical feature support by Yandex",
     "url": "https://catboost.ai/",
-    "category": "ML/AI"
+    "category": "AI/ML"
   },
   {
     "name": "Dask",
@@ -17664,25 +17502,25 @@
     "name": "Neptune.ai",
     "description": "Experiment tracker for ML teams that struggle with debugging models",
     "url": "https://neptune.ai/",
-    "category": "ML/AI"
+    "category": "AI/ML"
   },
   {
     "name": "Optuna",
     "description": "Automatic hyperparameter optimization framework for machine learning",
     "url": "https://optuna.org/",
-    "category": "ML/AI"
+    "category": "AI/ML"
   },
   {
     "name": "ONNX",
     "description": "Open Neural Network Exchange - open format for AI models",
     "url": "https://onnx.ai/",
-    "category": "ML/AI"
+    "category": "AI/ML"
   },
   {
     "name": "TensorRT",
     "description": "NVIDIA SDK for high-performance deep learning inference",
     "url": "https://developer.nvidia.com/tensorrt",
-    "category": "ML/AI"
+    "category": "AI/ML"
   },
   {
     "name": "Apache Airflow",
