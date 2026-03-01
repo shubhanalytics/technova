@@ -449,21 +449,63 @@ body {
   margin-top: 0;
 }
 
-/* Category Description */
-.category-description {
+/* Category Header with Inline Description */
+.category-header {
   grid-column: 1 / -1;
-  background: linear-gradient(135deg, rgba(139, 92, 246, 0.08) 0%, rgba(59, 130, 246, 0.08) 100%);
-  border: 1px solid rgba(139, 92, 246, 0.2);
-  border-radius: var(--radius-lg);
-  padding: 20px 24px;
-  margin-bottom: 16px;
+  margin: 24px 0 8px;
 }
 
-.category-description p {
-  font-size: 0.95rem;
-  line-height: 1.7;
+.category-header:first-child {
+  margin-top: 0;
+}
+
+.category-header .category-heading {
+  margin: 0 0 8px;
+  padding-bottom: 0;
+  border-bottom: none;
+}
+
+.category-desc-inline {
+  font-size: 0.9rem;
+  line-height: 1.6;
   color: var(--text-secondary);
   margin: 0;
+  padding: 12px 16px;
+  background: linear-gradient(135deg, rgba(139, 92, 246, 0.08) 0%, rgba(59, 130, 246, 0.08) 100%);
+  border-left: 3px solid var(--primary);
+  border-radius: 0 var(--radius-md) var(--radius-md) 0;
+}
+
+/* Status Legend */
+.status-legend {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20px;
+  padding: 12px 16px;
+  background: var(--bg-surface);
+  border: 1px solid var(--border-subtle);
+  border-radius: var(--radius-md);
+  font-size: 0.85rem;
+}
+
+.legend-item {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+
+.legend-label {
+  color: var(--text-secondary);
+}
+
+.legend-count {
+  font-weight: 600;
+  color: var(--text-primary);
+  background: var(--bg-elevated);
+  padding: 2px 8px;
+  border-radius: var(--radius-sm);
+  min-width: 28px;
+  text-align: center;
 }
 
 /* Cards */

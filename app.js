@@ -72,6 +72,8 @@ const elements = {
   azBar: document.getElementById('azBar'),
   itemCount: document.getElementById('itemCount'),
   backToTop: document.getElementById('backToTop'),
+  activeCount: document.getElementById('activeCount'),
+  inactiveCount: document.getElementById('inactiveCount'),
 };
 
 // ============================================
@@ -244,6 +246,21 @@ function updateItemCount() {
 }
 
 // ============================================
+// Update Status Legend Counts
+// ============================================
+function updateStatusLegend() {
+  const activeItems = filteredItems.filter(item => item.status !== 'inactive').length;
+  const inactiveItems = filteredItems.filter(item => item.status === 'inactive').length;
+  
+  if (elements.activeCount) {
+    elements.activeCount.textContent = activeItems;
+  }
+  if (elements.inactiveCount) {
+    elements.inactiveCount.textContent = inactiveItems;
+  }
+}
+
+// ============================================
 // Attach Event Listeners
 // ============================================
 function attachEvents() {
@@ -349,6 +366,7 @@ function render() {
   
   // Update UI
   updateItemCount();
+  updateStatusLegend();
   updateAZBar();
   renderItems(activeTab);
 }
@@ -366,16 +384,6 @@ function renderItems(activeTab) {
       </p>
     `;
     return;
-  }
-  
-  // Show category description if viewing a specific category
-  if (activeTab !== 'All' && CATEGORY_DESCRIPTIONS[activeTab]) {
-    const descDiv = document.createElement('div');
-    descDiv.className = 'category-description';
-    descDiv.innerHTML = `
-      <p>${escapeHtml(CATEGORY_DESCRIPTIONS[activeTab])}</p>
-    `;
-    elements.list.appendChild(descDiv);
   }
   
   // Group by category
@@ -400,12 +408,25 @@ function renderItems(activeTab) {
       (a.name || '').localeCompare(b.name || '')
     );
     
-    // Category heading
+    // Category heading with inline description
+    const headingWrapper = document.createElement('div');
+    headingWrapper.className = 'category-header';
+    
     const heading = document.createElement('h2');
     heading.className = 'category-heading';
     heading.id = `cat-${category.replace(/\s+/g, '-').toLowerCase()}`;
     heading.textContent = category;
-    elements.list.appendChild(heading);
+    headingWrapper.appendChild(heading);
+    
+    // Add description if viewing specific category and description exists
+    if (activeTab !== 'All' && CATEGORY_DESCRIPTIONS[category]) {
+      const desc = document.createElement('p');
+      desc.className = 'category-desc-inline';
+      desc.textContent = CATEGORY_DESCRIPTIONS[category];
+      headingWrapper.appendChild(desc);
+    }
+    
+    elements.list.appendChild(headingWrapper);
     
     // Render all items alphabetically
     for (const item of categoryItems) {
