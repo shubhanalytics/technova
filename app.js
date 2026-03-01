@@ -5,7 +5,7 @@
 
 // Constants
 const DATA_URL = 'data.json';
-const ALPHABET = 'ABCDEFGHIJKLMNOPQRSTUVWXYZ#'.split('');
+const ALPHABET = 'ABCDEFGHIJKLMNOPQRSTUVWXYZ'.split('');
 
 // State
 let items = [];
