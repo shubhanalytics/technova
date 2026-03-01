@@ -1,70 +1,101 @@
-<!doctype html>
+<!DOCTYPE html>
 <html lang="en">
-  <head>
-    <meta charset="utf-8" />
-    <meta name="viewport" content="width=device-width,initial-scale=1" />
-    <title>About — Technova</title>
-    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600;700&family=Poppins:wght@600;700&display=swap" rel="stylesheet">
-    <link rel="stylesheet" href="styles.css" />
-  </head>
-  <body>
-    <header class="site-header">
-      <a class="sr-only" href="#main">Skip to content</a>
-      <div class="container header-row">
-        <div class="brand-row">
-          <div class="logo-wrap" aria-hidden="true">
-            <!-- small logo copy -->
-            <svg class="logo-svg" width="40" height="40" viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg">
-              <defs>
-                <linearGradient id="g1a" x1="0" x2="1" y1="0" y2="1">
-                  <stop offset="0%" stop-color="#8b5cf6" />
-                  <stop offset="100%" stop-color="#06b6d4" />
-                </linearGradient>
-              </defs>
-              <circle cx="24" cy="24" r="10" fill="url(#g1a)" opacity="0.95"></circle>
-            </svg>
-          </div>
-          <div>
-            <h1 class="logo"><span class="brand-accent">technova</span></h1>
-            <p class="tagline">Your map to the tech universe</p>
-          </div>
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">
+  <meta name="description" content="About Technova - A community-maintained directory for discovering technology projects and tools.">
+  <meta name="theme-color" content="#0A0E1A">
+  
+  <title>About — Technova</title>
+  
+  <!-- Fonts -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Poppins:wght@600;700&display=swap" rel="stylesheet">
+  
+  <!-- Styles -->
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <!-- Skip Link -->
+  <a class="sr-only" href="#main">Skip to main content</a>
+  
+  <!-- Header -->
+  <header class="site-header">
+    <div class="container header-row">
+      <div class="brand-row">
+        <div class="logo-wrap" aria-hidden="true">
+          <svg class="logo-svg" width="40" height="40" viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg">
+            <defs>
+              <linearGradient id="logo-gradient" x1="0" x2="1" y1="0" y2="1">
+                <stop offset="0%" stop-color="#8B5CF6"/>
+                <stop offset="100%" stop-color="#06B6D4"/>
+              </linearGradient>
+            </defs>
+            <circle cx="24" cy="24" r="10" fill="url(#logo-gradient)" opacity="0.95"/>
+          </svg>
         </div>
-
-        <button class="nav-toggle" id="navToggle" aria-controls="main-nav" aria-expanded="false" aria-label="Toggle navigation">
-          <span class="hamburger" aria-hidden="true"></span>
-        </button>
-
-        <nav class="site-nav" id="main-nav" role="navigation" aria-label="Main navigation">
-          <a class="nav-link" href="index.html">Home</a>
-          <a class="nav-link active" href="about.html">About</a>
-          <a class="nav-link" href="contribute.html">Contribute</a>
-          <a class="nav-link" href="community.html">Community</a>
-        </nav>
+        <div>
+          <h1 class="logo"><span class="brand-accent">technova</span></h1>
+          <p class="tagline">Your map to the tech universe</p>
+        </div>
       </div>
-    </header>
+      
+      <button class="nav-toggle" id="navToggle" type="button" aria-controls="main-nav" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="hamburger" aria-hidden="true"></span>
+      </button>
+      
+      <nav class="site-nav" id="main-nav" role="navigation" aria-label="Main navigation">
+        <a class="nav-link" href="index.html">Home</a>
+        <a class="nav-link active" href="about.html">About</a>
+        <a class="nav-link" href="contribute.html">Contribute</a>
+        <a class="nav-link" href="community.html">Community</a>
+      </nav>
+    </div>
+  </header>
 
-    <main id="main" class="container">
-      <article class="content">
-        <h2>About Technova</h2>
-        <p>Technova is a lightweight directory for quickly discovering technology projects, companies, and tools. We prioritise clarity, accessibility, and simple attribution.</p>
+  <!-- Main Content -->
+  <main id="main" class="container">
+    <article class="content">
+      <h2>About Technova</h2>
+      <p>Technova is a lightweight, community-maintained directory for quickly discovering technology projects, companies, programming languages, and developer tools. We prioritize clarity, accessibility, and simple attribution.</p>
 
-        <h3>Why this exists</h3>
-        <ul>
-          <li>Fast discovery: scan names and short descriptions quickly.</li>
-          <li>Accessible: keyboard-first navigation, skip-link, and high-contrast colors.</li>
-          <li>Community-driven: suggest additions on the Contribute page.</li>
-        </ul>
+      <h3>Why This Exists</h3>
+      <ul>
+        <li><strong>Fast discovery:</strong> Scan names and short descriptions quickly without information overload.</li>
+        <li><strong>Accessible:</strong> Keyboard-first navigation, skip links, and WCAG-compliant contrast ratios.</li>
+        <li><strong>Community-driven:</strong> Suggest additions via the Contribute page — no gatekeeping.</li>
+        <li><strong>Privacy-focused:</strong> No tracking, no analytics, no cookies.</li>
+      </ul>
 
-        <h3>What’s next</h3>
-        <p>Curated lists, tagging, and contribution moderation are planned. Help by suggesting entries via the Contribute form.</p>
+      <h3>Categories</h3>
+      <p>Items are organized into clear categories:</p>
+      <ul>
+        <li><strong>Tool:</strong> Developer tools, utilities, and productivity software</li>
+        <li><strong>Programming Language:</strong> Actual programming languages (Python, Rust, etc.)</li>
+        <li><strong>Software:</strong> Commercial software products and platforms</li>
+        <li><strong>Framework:</strong> Development frameworks and libraries</li>
+        <li><strong>AI/ML:</strong> Artificial intelligence and machine learning platforms</li>
+        <li><strong>Startup:</strong> Tech startups and emerging companies</li>
+        <li><strong>Cloud:</strong> Cloud infrastructure and services</li>
+      </ul>
 
-        <p><a class="btn" href="contribute.html">Contribute a site</a></p>
-      </article>
-    </main>
+      <h3>What's Next</h3>
+      <p>We're planning to add curated lists, better tagging, and contribution moderation. Help us grow by suggesting entries via the Contribute form.</p>
 
-    <footer class="footer container">
-      <p>© technova — community-maintained.</p>
-    </footer>
-    <script src="scripts/nav.js" defer></script>
-  </body>
+      <p style="margin-top: 32px;">
+        <a class="btn" href="contribute.html">Contribute a Site</a>
+      </p>
+    </article>
+  </main>
+
+  <!-- Footer -->
+  <footer class="footer">
+    <div class="container">
+      <p>&copy; 2026 Technova — Community-maintained.</p>
+    </div>
+  </footer>
+
+  <script src="scripts/nav.js" defer></script>
+</body>
 </html>

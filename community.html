@@ -1,102 +1,124 @@
-<!doctype html>
+<!DOCTYPE html>
 <html lang="en">
-  <head>
-    <meta charset="utf-8" />
-    <meta name="viewport" content="width=device-width,initial-scale=1" />
-    <title>Community — technova</title>
-    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600;700&family=Poppins:wght@600;700&display=swap" rel="stylesheet">
-    <link rel="stylesheet" href="styles.css" />
-  </head>
-  <body class="community-closed">
-    <header class="site-header">
-      <a class="sr-only" href="#main">Skip to content</a>
-      <div class="container header-row">
-        <div class="brand-row">
-          <div class="logo-wrap" aria-hidden="true">
-            <svg class="logo-svg" width="40" height="40" viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg">
-              <defs>
-                <linearGradient id="g1c" x1="0" x2="1" y1="0" y2="1">
-                  <stop offset="0%" stop-color="#8b5cf6" />
-                  <stop offset="100%" stop-color="#06b6d4" />
-                </linearGradient>
-              </defs>
-              <circle cx="24" cy="24" r="10" fill="url(#g1c)" opacity="0.95"></circle>
-            </svg>
-          </div>
-          <div>
-            <h1 class="logo"><span class="brand-accent">technova</span></h1>
-            <p class="tagline">Community discussions and Q&A</p>
-          </div>
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">
+  <meta name="description" content="Technova Community - Discussions and Q&A for the tech community.">
+  <meta name="theme-color" content="#0A0E1A">
+  
+  <title>Community — Technova</title>
+  
+  <!-- Fonts -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Poppins:wght@600;700&display=swap" rel="stylesheet">
+  
+  <!-- Styles -->
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body class="community-closed">
+  <!-- Skip Link -->
+  <a class="sr-only" href="#main">Skip to main content</a>
+  
+  <!-- Header -->
+  <header class="site-header">
+    <div class="container header-row">
+      <div class="brand-row">
+        <div class="logo-wrap" aria-hidden="true">
+          <svg class="logo-svg" width="40" height="40" viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg">
+            <defs>
+              <linearGradient id="logo-gradient" x1="0" x2="1" y1="0" y2="1">
+                <stop offset="0%" stop-color="#8B5CF6"/>
+                <stop offset="100%" stop-color="#06B6D4"/>
+              </linearGradient>
+            </defs>
+            <circle cx="24" cy="24" r="10" fill="url(#logo-gradient)" opacity="0.95"/>
+          </svg>
         </div>
-
-        <button type="button" class="nav-toggle" id="navToggle" aria-controls="main-nav" aria-expanded="false" aria-label="Toggle navigation">
-          <span class="hamburger" aria-hidden="true"></span>
-        </button>
-
-        <nav class="site-nav" id="main-nav" role="navigation" aria-label="Main navigation">
-          <a class="nav-link" href="index.html">Home</a>
-          <a class="nav-link" href="about.html">About</a>
-          <a class="nav-link" href="contribute.html">Contribute</a>
-          <a class="nav-link active" href="community.html">Community</a>
-        </nav>
+        <div>
+          <h1 class="logo"><span class="brand-accent">technova</span></h1>
+          <p class="tagline">Community discussions</p>
+        </div>
       </div>
-    </header>
+      
+      <button class="nav-toggle" id="navToggle" type="button" aria-controls="main-nav" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="hamburger" aria-hidden="true"></span>
+      </button>
+      
+      <nav class="site-nav" id="main-nav" role="navigation" aria-label="Main navigation">
+        <a class="nav-link" href="index.html">Home</a>
+        <a class="nav-link" href="about.html">About</a>
+        <a class="nav-link" href="contribute.html">Contribute</a>
+        <a class="nav-link active" href="community.html">Community</a>
+      </nav>
+    </div>
+  </header>
 
-    <main id="main" class="container">
-      <article class="content">
-        <h2>Community</h2>
-        <p>Create discussions, comment, reply and like. Choose to post as yourself, via Twitter handle, or anonymously.</p>
+  <!-- Main Content -->
+  <main id="main" class="container">
+    <article class="content">
+      <h2>Community</h2>
+      <p>Connect with fellow tech enthusiasts, share discoveries, and discuss the latest in technology.</p>
 
-        <!-- Community temporarily closed for public contributions — keep UI in code but hidden -->
-        <div class="community-coming" role="status" aria-live="polite">
-          <h3>Community opening soon</h3>
-          <p>Community features are coming shortly — stay tuned.</p>
+      <!-- Community Coming Soon Banner -->
+      <div class="community-coming" role="status" aria-live="polite">
+        <h3>Community Features Coming Soon</h3>
+        <p>We're building a space for discussions, Q&A, and community contributions. Stay tuned for updates!</p>
+      </div>
+
+      <h3>What's Planned</h3>
+      <ul>
+        <li><strong>Discussions:</strong> Start and participate in tech discussions</li>
+        <li><strong>Q&A:</strong> Ask questions and get answers from the community</li>
+        <li><strong>Recommendations:</strong> Share and discover community-curated resources</li>
+        <li><strong>Weekly Highlights:</strong> Featured tools and projects from the community</li>
+      </ul>
+
+      <h3>Stay Connected</h3>
+      <p>In the meantime, you can:</p>
+      <ul>
+        <li><a href="contribute.html">Contribute new resources</a> to the directory</li>
+        <li>Follow us on <a href="https://x.com/shubhanalytics" target="_blank" rel="noopener">X (@shubhanalytics)</a> for updates</li>
+        <li>Email us at <a href="mailto:shubhank.katarey@outlook.com">shubhank.katarey@outlook.com</a></li>
+      </ul>
+
+      <!-- Hidden sections for future use -->
+      <section id="newDiscussion" style="display: none;">
+        <h3>Start a New Discussion</h3>
+        <label for="discussionTitle">Title</label>
+        <input type="text" id="discussionTitle" placeholder="Discussion title">
+        
+        <label for="authorType">Post as</label>
+        <select id="authorType">
+          <option value="anonymous">Anonymous</option>
+          <option value="name">Your Name</option>
+          <option value="twitter">Twitter Handle</option>
+        </select>
+        
+        <input type="text" id="authorValue" placeholder="Name or @twitter" style="display: none; margin-top: 8px;">
+        
+        <label for="discussionBody">Message</label>
+        <textarea id="discussionBody" placeholder="Write your message..."></textarea>
+        
+        <div class="form-actions">
+          <button class="btn" id="createDiscussion">Create Discussion</button>
         </div>
+      </section>
 
-        <section id="newDiscussion">
-          <h3>Start a new discussion</h3>
-          <label>Title</label>
-          <input id="discussionTitle" placeholder="Discussion title" />
-          <label>Post as</label>
-          <select id="authorType">
-            <option value="anonymous">Anonymous</option>
-            <option value="name">Your Name</option>
-            <option value="twitter">Twitter (handle)</option>
-          </select>
-          <input id="authorValue" placeholder="Name or @twitter" style="display:none;margin-top:8px;" />
-          <label>Message</label>
-          <textarea id="discussionBody" placeholder="Write starting message (optional)"></textarea>
-          <div class="form-actions">
-              <button class="btn" id="createDiscussion">Create discussion</button>
-            </div>
+      <section id="discussionsList" style="display: none;">
+        <h3>Discussions</h3>
+        <div id="discussions"></div>
+      </section>
+    </article>
+  </main>
 
-          <div style="margin-top:12px;">
-            <button class="btn-secondary" id="adminToggle">Admin tools</button>
-            <div id="adminPanel" style="display:none;margin-top:8px;">
-              <button class="btn" id="exportData">Export discussions (JSON)</button>
-              <input type="file" id="importFile" accept="application/json" style="margin-left:8px;display:inline-block" />
-              <button class="btn-secondary" id="importData" style="margin-left:8px;">Import</button>
-              <button class="btn-secondary" id="exitAdmin" style="margin-left:12px;">Exit admin</button>
-              <p class="muted" style="margin-top:8px;">Admin mode enables edit/delete and export/import for moderation.</p>
-            </div>
-          </div>
-        </section>
+  <!-- Footer -->
+  <footer class="footer">
+    <div class="container">
+      <p>&copy; 2026 Technova — Community-maintained.</p>
+    </div>
+  </footer>
 
-        <hr />
-
-        <section id="discussionsList">
-          <h3>Discussions</h3>
-          <div id="discussions"></div>
-        </section>
-      </article>
-    </main>
-
-    <footer class="footer container">
-      <p>© technova — community-maintained.</p>
-    </footer>
-
-    <script src="scripts/community.config.js"></script>
-    <script src="scripts/community.remote.js" defer></script>
-    <script src="scripts/nav.js" defer></script>
-  </body>
+  <script src="scripts/nav.js" defer></script>
+</body>
 </html>

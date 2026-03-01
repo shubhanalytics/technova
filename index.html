@@ -1,80 +1,124 @@
-<!doctype html>
+<!DOCTYPE html>
 <html lang="en">
-  <head>
-    <meta charset="utf-8" />
-    <!-- Content Security Policy: restrict sources; adjust when adding external services -->
-    <meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'self'; connect-src 'self' https:; img-src 'self' data: https:; style-src 'self' 'unsafe-inline' https://fonts.googleapis.com; font-src 'self' https://fonts.gstatic.com;">
-    <meta name="viewport" content="width=device-width,initial-scale=1" />
-    <title>technova — Discover tech at a glance</title>
-    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600;700&family=Poppins:wght@600;700&display=swap" rel="stylesheet">
-    <link rel="stylesheet" href="styles.css" />
-  </head>
-  <body>
-    <header class="site-header">
-      <a class="sr-only" href="#main">Skip to content</a>
-      <div class="container header-row">
-        <div class="brand-row">
-          <!-- Animated SVG logo -->
-          <div class="logo-wrap" aria-hidden="true">
-            <svg class="logo-svg" width="40" height="40" viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg" role="img">
-              <defs>
-                <linearGradient id="g1" x1="0" x2="1" y1="0" y2="1">
-                  <stop offset="0%" stop-color="#8b5cf6" />
-                  <stop offset="100%" stop-color="#06b6d4" />
-                </linearGradient>
-              </defs>
-              <circle cx="24" cy="24" r="10" fill="url(#g1)" opacity="0.95"></circle>
-              <g class="orbit" stroke="rgba(255,255,255,0.18)" stroke-width="1.2" fill="none">
-                <ellipse cx="24" cy="24" rx="16" ry="7" transform="rotate(-25 24 24)" />
-              </g>
-            </svg>
-          </div>
-          <div>
-            <h1 class="logo"><span class="brand-accent">technova</span></h1>
-            <p class="tagline">Your map to the tech universe</p>
-          </div>
-
-          <button class="nav-toggle" id="navToggle" aria-controls="main-nav" aria-expanded="false" aria-label="Toggle navigation">
-            <span class="hamburger" aria-hidden="true"></span>
-          </button>
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">
+  <meta name="description" content="Technova - Discover technology projects, companies, tools, and programming languages at a glance.">
+  <meta name="theme-color" content="#0A0E1A">
+  
+  <!-- Security: Content Security Policy -->
+  <meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'self'; connect-src 'self' https:; img-src 'self' data: https:; style-src 'self' 'unsafe-inline' https://fonts.googleapis.com; font-src 'self' https://fonts.gstatic.com;">
+  
+  <title>Technova — Discover tech at a glance</title>
+  
+  <!-- Fonts -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Poppins:wght@600;700&display=swap" rel="stylesheet">
+  
+  <!-- Styles -->
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <!-- Skip Link for Accessibility -->
+  <a class="sr-only" href="#main">Skip to main content</a>
+  
+  <!-- Header -->
+  <header class="site-header">
+    <div class="container header-row">
+      <div class="brand-row">
+        <!-- Logo -->
+        <div class="logo-wrap" aria-hidden="true">
+          <svg class="logo-svg" width="40" height="40" viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Technova logo">
+            <defs>
+              <linearGradient id="logo-gradient" x1="0" x2="1" y1="0" y2="1">
+                <stop offset="0%" stop-color="#8B5CF6"/>
+                <stop offset="100%" stop-color="#06B6D4"/>
+              </linearGradient>
+            </defs>
+            <circle cx="24" cy="24" r="10" fill="url(#logo-gradient)" opacity="0.95"/>
+            <g class="orbit" stroke="rgba(255,255,255,0.2)" stroke-width="1.2" fill="none">
+              <ellipse cx="24" cy="24" rx="16" ry="7" transform="rotate(-25 24 24)"/>
+            </g>
+          </svg>
         </div>
-
         
-        <nav class="site-nav" role="navigation" aria-label="Main navigation">
-          <a class="nav-link" href="index.html">Home</a>
-          <a class="nav-link" href="about.html">About</a>
-          <a class="nav-link" href="contribute.html">Contribute</a>
-          <a class="nav-link" href="community.html">Community</a>
-        </nav>
+        <div>
+          <h1 class="logo"><span class="brand-accent">technova</span></h1>
+          <p class="tagline">Your map to the tech universe</p>
+        </div>
       </div>
-    </header>
+      
+      <!-- Mobile Nav Toggle -->
+      <button class="nav-toggle" id="navToggle" type="button" aria-controls="main-nav" aria-expanded="false" aria-label="Toggle navigation menu">
+        <span class="hamburger" aria-hidden="true"></span>
+      </button>
+      
+      <!-- Navigation -->
+      <nav class="site-nav" id="main-nav" role="navigation" aria-label="Main navigation">
+        <a class="nav-link active" href="index.html">Home</a>
+        <a class="nav-link" href="about.html">About</a>
+        <a class="nav-link" href="contribute.html">Contribute</a>
+        <a class="nav-link" href="community.html">Community</a>
+      </nav>
+    </div>
+  </header>
 
-    <main id="main" class="container">
-      <section class="controls">
-        <div class="tabs" id="categoryTabs" role="tablist" aria-label="Categories">
-          <!-- tabs generated from data.json -->
-        </div>
+  <!-- Main Content -->
+  <main id="main" class="container">
+    <!-- Controls -->
+    <section class="controls" aria-label="Filters and categories">
+      <!-- Category Tabs -->
+      <div class="tabs" id="categoryTabs" role="tablist" aria-label="Filter by category">
+        <!-- Tabs populated by JavaScript -->
+      </div>
+      
+      <!-- Filters -->
+      <div class="filters">
+        <input 
+          type="search" 
+          id="search" 
+          placeholder="Search by name or description..." 
+          aria-label="Search items"
+        >
+        <select id="sectorSelect" aria-label="Filter by sector">
+          <option value="">All sectors</option>
+        </select>
+        <select id="countrySelect" aria-label="Filter by country">
+          <option value="">All countries</option>
+        </select>
+        <select id="ownerSelect" aria-label="Filter by owner" hidden>
+          <option value="">All owners</option>
+        </select>
+        <select id="sortSelect" aria-label="Sort results">
+          <option value="name_asc">Sort: Name A-Z</option>
+          <option value="name_desc">Sort: Name Z-A</option>
+          <option value="country_asc">Sort: Country A-Z</option>
+        </select>
+        <button type="button" id="resetFilters" class="btn-reset" aria-label="Reset all filters">
+          <svg width="16" height="16" viewBox="0 0 16 16" fill="none" aria-hidden="true">
+            <path d="M2 4h12M4 4v9a1 1 0 001 1h6a1 1 0 001-1V4M6 4V3a1 1 0 011-1h2a1 1 0 011 1v1" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+          </svg>
+          Reset
+        </button>
+      </div>
+    </section>
 
-        <div class="filters">
-          <input id="search" placeholder="Search by name or description" />
-          <select id="sectorSelect"><option value="">All sectors</option></select>
-          <select id="countrySelect"><option value="">All countries</option></select>
-          <select id="ownerSelect"><option value="">All owners</option></select>
-          <select id="sortSelect">
-            <option value="name_asc">Sort: Name ↑</option>
-            <option value="name_desc">Sort: Name ↓</option>
-            <option value="country_asc">Sort: Country ↑</option>
-          </select>
-        </div>
-      </section>
+    <!-- Results List -->
+    <section id="list" class="list" aria-label="Results" aria-live="polite">
+      <!-- Items populated by JavaScript -->
+    </section>
+  </main>
 
-      <section id="list" class="list"></section>
-      <footer class="footer container">
-        <p>© technova — community-maintained.</p>
-      </footer>
-    </main>
+  <!-- Footer -->
+  <footer class="footer">
+    <div class="container">
+      <p>&copy; 2026 Technova — Community-maintained directory of technology resources.</p>
+    </div>
+  </footer>
 
-    <script src="scripts/nav.js" defer></script>
-    <script src="app.js" type="module"></script>
-  </body>
+  <!-- Scripts -->
+  <script src="scripts/nav.js" defer></script>
+  <script src="app.js" type="module"></script>
+</body>
 </html>
