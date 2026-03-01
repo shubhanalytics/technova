@@ -930,7 +930,7 @@
     "status": "active"
   },
   {
-    "name": "Caché ObjectScript",
+    "name": "Cach\u00e9 ObjectScript",
     "url": "http://www.intersystems.com/cache",
     "category": "Programming Language",
     "sector": "",
@@ -1350,7 +1350,7 @@
     "status": "active"
   },
   {
-    "name": "Céu",
+    "name": "C\u00e9u",
     "url": "http://www.ceu-lang.org/",
     "category": "Programming Language",
     "sector": "",
@@ -1990,7 +1990,7 @@
     "status": "active"
   },
   {
-    "name": "Gödel",
+    "name": "G\u00f6del",
     "url": "https://www.cs.unipr.it/~hill/GOEDEL/expgoedel.html",
     "category": "Programming Language",
     "sector": "",
@@ -3320,7 +3320,7 @@
     "status": "active"
   },
   {
-    "name": "occam-π",
+    "name": "occam-\u03c0",
     "url": "http://www.wotug.org/occam/",
     "category": "Programming Language",
     "sector": "",
@@ -5705,7 +5705,7 @@
     "category": "Blockchain",
     "sector": "Blockchain & Web3",
     "country": "Worldwide",
-    "description": "InterPlanetary File System — a peer-to-peer protocol for storing and sharing hypermedia in a distributed file system.",
+    "description": "InterPlanetary File System \u2014 a peer-to-peer protocol for storing and sharing hypermedia in a distributed file system.",
     "popular": false,
     "status": "active"
   },
@@ -5805,7 +5805,7 @@
     "category": "IoT",
     "sector": "Robotics & IoT",
     "country": "Worldwide",
-    "description": "Robot Operating System — a flexible framework for writing robot software and modular robotics tooling.",
+    "description": "Robot Operating System \u2014 a flexible framework for writing robot software and modular robotics tooling.",
     "popular": false,
     "status": "active"
   },
@@ -6036,16 +6036,6 @@
     "sector": "",
     "country": "",
     "description": "",
-    "popular": false,
-    "status": "active"
-  },
-  {
-    "name": "Google Analytics",
-    "url": "https://analytics.google.com/",
-    "category": "Analytics",
-    "sector": "",
-    "country": "",
-    "description": "Data analytics and business intelligence tools",
     "popular": false,
     "status": "active"
   },
@@ -10240,7 +10230,7 @@
     "status": "active"
   },
   {
-    "name": "NIC México",
+    "name": "NIC M\u00e9xico",
     "url": "https://www.nicmexico.mx",
     "category": "Hosting",
     "sector": "",
