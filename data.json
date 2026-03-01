@@ -399,7 +399,7 @@
   {
     "name": "A+ (A plus)",
     "url": "http://www.aplusdev.org/",
-    "category": "Programming Language",
+    "category": "Software",
     "sector": "",
     "country": "",
     "description": "",
@@ -410,7 +410,7 @@
   {
     "name": "A.NET (A#/A sharp)",
     "url": "http://www.asharp.martincarlisle.com",
-    "category": "Programming Language",
+    "category": "Software",
     "sector": "",
     "country": "",
     "description": "",
@@ -421,7 +421,7 @@
   {
     "name": "ACC",
     "url": "https://www.openacc.org/get-started",
-    "category": "Programming Language",
+    "category": "Software",
     "sector": "",
     "country": "",
     "description": "",
@@ -432,7 +432,7 @@
   {
     "name": "Ada",
     "url": "https://www.adaic.org/",
-    "category": "Programming Language",
+    "category": "Software",
     "sector": "",
     "country": "",
     "description": "",
@@ -443,7 +443,7 @@
   {
     "name": "Adenine (Haystack)",
     "url": "http://haystack.csail.mit.edu/#projects",
-    "category": "Programming Language",
+    "category": "Software",
     "sector": "",
     "country": "",
     "description": "",
@@ -454,7 +454,7 @@
   {
     "name": "AIMMS",
     "url": "https://www.aimms.com/",
-    "category": "Programming Language",
+    "category": "Software",
     "sector": "",
     "country": "",
     "description": "",
@@ -465,7 +465,7 @@
   {
     "name": "Aldor",
     "url": "https://aldor.org",
-    "category": "Programming Language",
+    "category": "Software",
     "sector": "",
     "country": "",
     "description": "",
@@ -476,7 +476,7 @@
   {
     "name": "ALGOL 68",
     "url": "http://algol68-lang.org",
-    "category": "Programming Language",
+    "category": "Software",
     "sector": "",
     "country": "",
     "description": "",
@@ -487,7 +487,7 @@
   {
     "name": "AMPL",
     "url": "http://www.ampl.com",
-    "category": "Programming Language",
+    "category": "Software",
     "sector": "",
     "country": "",
     "description": "",
@@ -498,7 +498,7 @@
   {
     "name": "Apache Pig latin",
     "url": "https://pig.apache.org",
-    "category": "Programming Language",
+    "category": "Software",
     "sector": "",
     "country": "",
     "description": "",
@@ -509,7 +509,7 @@
   {
     "name": "Apex (Salesforce.com, Inc)",
     "url": "https://www.salesforce.com/",
-    "category": "Programming Language",
+    "category": "Software",
     "sector": "",
     "country": "",
     "description": "",
@@ -521,7 +521,7 @@
   {
     "name": "APL",
     "url": "https://aplwiki.com/",
-    "category": "Programming Language",
+    "category": "Software",
     "sector": "",
     "country": "",
     "description": "",
@@ -532,7 +532,7 @@
   {
     "name": "App Inventor for Android's visual block language (MIT App Inventor)",
     "url": "http://appinventor.mit.edu",
-    "category": "Programming Language",
+    "category": "Software",
     "sector": "",
     "country": "",
     "description": "",
@@ -543,7 +543,7 @@
   {
     "name": "Arc",
     "url": "http://arclanguage.org",
-    "category": "Programming Language",
+    "category": "Software",
     "sector": "",
     "country": "",
     "description": "",
@@ -554,7 +554,7 @@
   {
     "name": "AssemblyScript",
     "url": "http://www.assemblyscript.org",
-    "category": "Programming Language",
+    "category": "Software",
     "sector": "",
     "country": "",
     "description": "",
@@ -565,7 +565,7 @@
   {
     "name": "ATS",
     "url": "http://www.ats-lang.org",
-    "category": "Programming Language",
+    "category": "Software",
     "sector": "",
     "country": "",
     "description": "",
@@ -576,7 +576,7 @@
   {
     "name": "AutoHotkey",
     "url": "https://www.autohotkey.com/",
-    "category": "Programming Language",
+    "category": "Software",
     "sector": "",
     "country": "",
     "description": "",
@@ -587,7 +587,7 @@
   {
     "name": "AutoIt",
     "url": "https://www.autoitscript.com",
-    "category": "Programming Language",
+    "category": "Software",
     "sector": "",
     "country": "",
     "description": "",
@@ -598,7 +598,7 @@
   {
     "name": "Averest",
     "url": "http://www.averest.org/",
-    "category": "Programming Language",
+    "category": "Software",
     "sector": "",
     "country": "",
     "description": "",
@@ -609,7 +609,7 @@
   {
     "name": "Ballerina",
     "url": "http://ballerina.io",
-    "category": "Programming Language",
+    "category": "Software",
     "sector": "",
     "country": "",
     "description": "",
@@ -620,7 +620,7 @@
   {
     "name": "BETA",
     "url": "http://beta.cs.au.dk",
-    "category": "Programming Language",
+    "category": "Software",
     "sector": "",
     "country": "",
     "description": "",
@@ -631,7 +631,7 @@
   {
     "name": "BlackBox Component Builder",
     "url": "http://blackboxframework.org",
-    "category": "Programming Language",
+    "category": "Software",
     "sector": "",
     "country": "",
     "description": "",
@@ -642,7 +642,7 @@
   {
     "name": "Caml",
     "url": "http://caml.inria.fr",
-    "category": "Programming Language",
+    "category": "Software",
     "sector": "",
     "country": "",
     "description": "",
@@ -653,7 +653,7 @@
   {
     "name": "Catrobat",
     "url": "https://catrobat.org",
-    "category": "Programming Language",
+    "category": "Software",
     "sector": "",
     "country": "",
     "description": "",
@@ -664,7 +664,7 @@
   {
     "name": "Cayenne (Lennart Augustsson)",
     "url": "http://www.augustsson.net",
-    "category": "Programming Language",
+    "category": "Software",
     "sector": "",
     "country": "",
     "description": "",
@@ -675,7 +675,7 @@
   {
     "name": "Ceylon",
     "url": "https://ceylon-lang.org",
-    "category": "Programming Language",
+    "category": "Software",
     "sector": "",
     "country": "",
     "description": "",
@@ -686,7 +686,7 @@
   {
     "name": "CFEngine",
     "url": "https://cfengine.com/",
-    "category": "Programming Language",
+    "category": "Software",
     "sector": "",
     "country": "",
     "description": "",
@@ -697,7 +697,7 @@
   {
     "name": "Chapel (Cascade High Productivity Language)",
     "url": "https://chapel-lang.org/",
-    "category": "Programming Language",
+    "category": "Software",
     "sector": "",
     "country": "",
     "description": "",
@@ -708,7 +708,7 @@
   {
     "name": "Charm",
     "url": "http://charm.qu-bit.co.uk",
-    "category": "Programming Language",
+    "category": "Software",
     "sector": "",
     "country": "",
     "description": "",
@@ -719,7 +719,7 @@
   {
     "name": "ChucK",
     "url": "http://chuck.cs.princeton.edu",
-    "category": "Programming Language",
+    "category": "Software",
     "sector": "",
     "country": "",
     "description": "",
@@ -730,7 +730,7 @@
   {
     "name": "Cilk (also Cilk++ and Cilk plus)",
     "url": "https://cilk.mit.edu/",
-    "category": "Programming Language",
+    "category": "Software",
     "sector": "",
     "country": "",
     "description": "",
@@ -741,7 +741,7 @@
   {
     "name": "Claire",
     "url": "http://www.claire-language.com",
-    "category": "Programming Language",
+    "category": "Software",
     "sector": "",
     "country": "",
     "description": "",
@@ -752,7 +752,7 @@
   {
     "name": "Clean",
     "url": "https://clean.cs.ru.nl",
-    "category": "Programming Language",
+    "category": "Software",
     "sector": "",
     "country": "",
     "description": "",
@@ -763,7 +763,7 @@
   {
     "name": "CLIPS",
     "url": "http://clipsrules.net",
-    "category": "Programming Language",
+    "category": "Software",
     "sector": "",
     "country": "",
     "description": "",
@@ -774,7 +774,7 @@
   {
     "name": "Clojure",
     "url": "https://clojure.org",
-    "category": "Programming Language",
+    "category": "Software",
     "sector": "",
     "country": "",
     "description": "",
@@ -785,7 +785,7 @@
   {
     "name": "Cobra",
     "url": "http://cobra-language.com/",
-    "category": "Programming Language",
+    "category": "Software",
     "sector": "",
     "country": "",
     "description": "",
@@ -796,7 +796,7 @@
   {
     "name": "CoffeeScript",
     "url": "https://coffeescript.org/",
-    "category": "Programming Language",
+    "category": "Software",
     "sector": "",
     "country": "",
     "description": "",
@@ -807,7 +807,7 @@
   {
     "name": "ColdFusion",
     "url": "https://coldfusion.com/",
-    "category": "Programming Language",
+    "category": "Software",
     "sector": "",
     "country": "",
     "description": "",
@@ -818,7 +818,7 @@
   {
     "name": "Common Lisp",
     "url": "http://common-lisp.net",
-    "category": "Programming Language",
+    "category": "Software",
     "sector": "",
     "country": "",
     "description": "",
@@ -829,7 +829,7 @@
   {
     "name": "Constraint Handling Rules",
     "url": "http://constraint-handling-rules.org",
-    "category": "Programming Language",
+    "category": "Software",
     "sector": "",
     "country": "",
     "description": "",
@@ -840,7 +840,7 @@
   {
     "name": "Cryptol",
     "url": "http://www.cryptol.net",
-    "category": "Programming Language",
+    "category": "Software",
     "sector": "",
     "country": "",
     "description": "",
@@ -851,7 +851,7 @@
   {
     "name": "Crystal",
     "url": "https://crystal-lang.org/",
-    "category": "Programming Language",
+    "category": "Software",
     "sector": "",
     "country": "",
     "description": "",
@@ -862,7 +862,7 @@
   {
     "name": "Csound",
     "url": "http://csound.com",
-    "category": "Programming Language",
+    "category": "Software",
     "sector": "",
     "country": "",
     "description": "",
@@ -873,7 +873,7 @@
   {
     "name": "Cuneiform",
     "url": "http://cuneiform-lang.org/",
-    "category": "Programming Language",
+    "category": "Software",
     "sector": "",
     "country": "",
     "description": "",
@@ -884,7 +884,7 @@
   {
     "name": "Curl",
     "url": "https://www.curl.com",
-    "category": "Programming Language",
+    "category": "Software",
     "sector": "",
     "country": "",
     "description": "",
@@ -895,7 +895,7 @@
   {
     "name": "Curry",
     "url": "http://www.curry-lang.org",
-    "category": "Programming Language",
+    "category": "Software",
     "sector": "",
     "country": "",
     "description": "",
@@ -906,7 +906,7 @@
   {
     "name": "Cyclone",
     "url": "http://cyclone.thelanguage.org",
-    "category": "Programming Language",
+    "category": "Software",
     "sector": "",
     "country": "",
     "description": "",
@@ -917,7 +917,7 @@
   {
     "name": "Cython",
     "url": "https://cython.org",
-    "category": "Programming Language",
+    "category": "Software",
     "sector": "",
     "country": "",
     "description": "",
@@ -928,7 +928,7 @@
   {
     "name": "Dart",
     "url": "https://dart.dev/",
-    "category": "Programming Language",
+    "category": "Software",
     "sector": "Mobile",
     "country": "Worldwide",
     "description": "Language optimized for UI, used with Flutter",
@@ -939,7 +939,7 @@
   {
     "name": "dBase",
     "url": "http://www.dbase.com",
-    "category": "Programming Language",
+    "category": "Software",
     "sector": "",
     "country": "",
     "description": "",
@@ -950,7 +950,7 @@
   {
     "name": "DRAKON",
     "url": "https://drakon.su/start",
-    "category": "Programming Language",
+    "category": "Software",
     "sector": "",
     "country": "",
     "description": "",
@@ -961,7 +961,7 @@
   {
     "name": "Dylan",
     "url": "https://opendylan.org/",
-    "category": "Programming Language",
+    "category": "Software",
     "sector": "",
     "country": "",
     "description": "",
@@ -972,7 +972,7 @@
   {
     "name": "Eiffel",
     "url": "http://eiffel.org",
-    "category": "Programming Language",
+    "category": "Software",
     "sector": "",
     "country": "",
     "description": "",
@@ -983,7 +983,7 @@
   {
     "name": "Elixir",
     "url": "https://elixir-lang.org",
-    "category": "Programming Language",
+    "category": "Software",
     "sector": "",
     "country": "",
     "description": "",
@@ -994,7 +994,7 @@
   {
     "name": "Elm",
     "url": "https://elm-lang.org/",
-    "category": "Programming Language",
+    "category": "Software",
     "sector": "",
     "country": "",
     "description": "",
@@ -1005,7 +1005,7 @@
   {
     "name": "Emerald",
     "url": "http://www.emeraldprogramminglanguage.org",
-    "category": "Programming Language",
+    "category": "Software",
     "sector": "",
     "country": "",
     "description": "",
@@ -1016,7 +1016,7 @@
   {
     "name": "EPL (Easy Programming Language)",
     "url": "http://epl.eyuyan.com/",
-    "category": "Programming Language",
+    "category": "Software",
     "sector": "",
     "country": "",
     "description": "",
@@ -1027,7 +1027,7 @@
   {
     "name": "Erlang",
     "url": "https://www.erlang.org",
-    "category": "Programming Language",
+    "category": "Software",
     "sector": "",
     "country": "",
     "description": "",
@@ -1038,7 +1038,7 @@
   {
     "name": "Euphoria",
     "url": "http://openeuphoria.org",
-    "category": "Programming Language",
+    "category": "Software",
     "sector": "",
     "country": "",
     "description": "",
@@ -1049,7 +1049,7 @@
   {
     "name": "Executable UML",
     "url": "http://executableumlbook.com",
-    "category": "Programming Language",
+    "category": "Software",
     "sector": "",
     "country": "",
     "description": "",
@@ -1060,7 +1060,7 @@
   {
     "name": "Ezhil",
     "url": "http://ezhillang.org",
-    "category": "Programming Language",
+    "category": "Software",
     "sector": "",
     "country": "",
     "description": "",
@@ -1071,7 +1071,7 @@
   {
     "name": "F# (F sharp)",
     "url": "https://fsharp.org/",
-    "category": "Programming Language",
+    "category": "Software",
     "sector": "",
     "country": "",
     "description": "",
@@ -1082,7 +1082,7 @@
   {
     "name": "Factor",
     "url": "http://factorcode.org/",
-    "category": "Programming Language",
+    "category": "Software",
     "sector": "",
     "country": "",
     "description": "",
@@ -1093,7 +1093,7 @@
   {
     "name": "Fantom",
     "url": "http://www.fantom.org",
-    "category": "Programming Language",
+    "category": "Software",
     "sector": "",
     "country": "",
     "description": "",
@@ -1104,7 +1104,7 @@
   {
     "name": "FAUST",
     "url": "http://faust.grame.fr",
-    "category": "Programming Language",
+    "category": "Software",
     "sector": "",
     "country": "",
     "description": "",
@@ -1115,7 +1115,7 @@
   {
     "name": "fish",
     "url": "https://fishshell.com",
-    "category": "Programming Language",
+    "category": "Software",
     "sector": "",
     "country": "",
     "description": "",
@@ -1126,7 +1126,7 @@
   {
     "name": "Flix",
     "url": "https://flix.dev/",
-    "category": "Programming Language",
+    "category": "Software",
     "sector": "",
     "country": "",
     "description": "",
@@ -1137,7 +1137,7 @@
   {
     "name": "Forth",
     "url": "https://forth-standard.org",
-    "category": "Programming Language",
+    "category": "Software",
     "sector": "",
     "country": "",
     "description": "",
@@ -1148,7 +1148,7 @@
   {
     "name": "Fortran",
     "url": "https://fortran-lang.org",
-    "category": "Programming Language",
+    "category": "Software",
     "sector": "",
     "country": "",
     "description": "",
@@ -1159,7 +1159,7 @@
   {
     "name": "FoxBase/FoxPro",
     "url": "http://www.foxprohistory.org/foxprotimeline.htm",
-    "category": "Programming Language",
+    "category": "Software",
     "sector": "",
     "country": "",
     "description": "",
@@ -1170,7 +1170,7 @@
   {
     "name": "Futhark",
     "url": "http://futhark-lang.org",
-    "category": "Programming Language",
+    "category": "Software",
     "sector": "",
     "country": "",
     "description": "",
@@ -1181,7 +1181,7 @@
   {
     "name": "Game Maker Language",
     "url": "https://gamemaker.io",
-    "category": "Programming Language",
+    "category": "Software",
     "sector": "",
     "country": "",
     "description": "",
@@ -1192,7 +1192,7 @@
   {
     "name": "GameMonkey Script",
     "url": "http://www.gmscript.com",
-    "category": "Programming Language",
+    "category": "Software",
     "sector": "",
     "country": "",
     "description": "",
@@ -1203,7 +1203,7 @@
   {
     "name": "GAP",
     "url": "https://www.gap-system.org/",
-    "category": "Programming Language",
+    "category": "Software",
     "sector": "",
     "country": "",
     "description": "",
@@ -1214,7 +1214,7 @@
   {
     "name": "GDScript (Godot)",
     "url": "https://godotengine.org/",
-    "category": "Programming Language",
+    "category": "Software",
     "sector": "",
     "country": "",
     "description": "",
@@ -1225,7 +1225,7 @@
   {
     "name": "Gleam",
     "url": "https://gleam.run/",
-    "category": "Programming Language",
+    "category": "Software",
     "sector": "",
     "country": "",
     "description": "",
@@ -1236,7 +1236,7 @@
   {
     "name": "GNU Guile (GNU Ubiquitous Intelligent Language for Extensions)",
     "url": "https://gnu.org/software/guile",
-    "category": "Programming Language",
+    "category": "Software",
     "sector": "",
     "country": "",
     "description": "",
@@ -1247,7 +1247,7 @@
   {
     "name": "GNU Octave",
     "url": "https://octave.org/",
-    "category": "Programming Language",
+    "category": "Software",
     "sector": "",
     "country": "",
     "description": "",
@@ -1258,7 +1258,7 @@
   {
     "name": "Golo",
     "url": "http://golo-lang.org",
-    "category": "Programming Language",
+    "category": "Software",
     "sector": "",
     "country": "",
     "description": "",
@@ -1269,7 +1269,7 @@
   {
     "name": "Google Apps Script",
     "url": "https://script.google.com",
-    "category": "Programming Language",
+    "category": "Software",
     "sector": "",
     "country": "",
     "description": "",
@@ -1281,7 +1281,7 @@
   {
     "name": "Gosu",
     "url": "https://gosu-lang.github.io/",
-    "category": "Programming Language",
+    "category": "Software",
     "sector": "",
     "country": "",
     "description": "",
@@ -1292,7 +1292,7 @@
   {
     "name": "Grasshopper",
     "url": "http://grasshopper3d.com",
-    "category": "Programming Language",
+    "category": "Software",
     "sector": "",
     "country": "",
     "description": "",
@@ -1303,7 +1303,7 @@
   {
     "name": "Groovy",
     "url": "https://groovy-lang.org",
-    "category": "Programming Language",
+    "category": "Software",
     "sector": "",
     "country": "",
     "description": "",
@@ -1314,7 +1314,7 @@
   {
     "name": "Groovy (programming language)",
     "url": "https://groovy-lang.org",
-    "category": "Programming Language",
+    "category": "Software",
     "sector": "",
     "country": "",
     "description": "",
@@ -1325,7 +1325,7 @@
   {
     "name": "Hack",
     "url": "http://hacklang.org",
-    "category": "Programming Language",
+    "category": "Software",
     "sector": "",
     "country": "",
     "description": "",
@@ -1336,7 +1336,7 @@
   {
     "name": "Halide (programming language)",
     "url": "http://halide-lang.org",
-    "category": "Programming Language",
+    "category": "Software",
     "sector": "",
     "country": "",
     "description": "",
@@ -1347,7 +1347,7 @@
   {
     "name": "Hamilton C shell",
     "url": "https://hamiltonlabs.com/Cshell.htm",
-    "category": "Programming Language",
+    "category": "Software",
     "sector": "",
     "country": "",
     "description": "",
@@ -1358,7 +1358,7 @@
   {
     "name": "Harbour",
     "url": "http://harbour.github.io",
-    "category": "Programming Language",
+    "category": "Software",
     "sector": "",
     "country": "",
     "description": "",
@@ -1369,7 +1369,7 @@
   {
     "name": "Haskell",
     "url": "http://haskell.org",
-    "category": "Programming Language",
+    "category": "Software",
     "sector": "",
     "country": "",
     "description": "",
@@ -1380,7 +1380,7 @@
   {
     "name": "Haxe",
     "url": "https://haxe.org",
-    "category": "Programming Language",
+    "category": "Software",
     "sector": "",
     "country": "",
     "description": "",
@@ -1391,7 +1391,7 @@
   {
     "name": "Hollywood",
     "url": "http://www.hollywood-mal.com",
-    "category": "Programming Language",
+    "category": "Software",
     "sector": "",
     "country": "",
     "description": "",
@@ -1402,7 +1402,7 @@
   {
     "name": "Hop",
     "url": "http://hop.inria.fr/",
-    "category": "Programming Language",
+    "category": "Software",
     "sector": "",
     "country": "",
     "description": "",
@@ -1413,7 +1413,7 @@
   {
     "name": "Hopscotch",
     "url": "https://www.gethopscotch.com",
-    "category": "Programming Language",
+    "category": "Software",
     "sector": "",
     "country": "",
     "description": "",
@@ -1424,7 +1424,7 @@
   {
     "name": "HTML",
     "url": "https://html.spec.whatwg.org/",
-    "category": "Programming Language",
+    "category": "Software",
     "sector": "",
     "country": "",
     "description": "",
@@ -1435,7 +1435,7 @@
   {
     "name": "IBM Basic assembly language",
     "url": "https://www.ibm.com/docs/en/hla-and-tf/1.6.0?topic=pdf-format-documentation",
-    "category": "Programming Language",
+    "category": "Software",
     "sector": "",
     "country": "",
     "description": "",
@@ -1447,7 +1447,7 @@
   {
     "name": "Idris",
     "url": "http://www.idris-lang.org",
-    "category": "Programming Language",
+    "category": "Software",
     "sector": "",
     "country": "",
     "description": "",
@@ -1458,7 +1458,7 @@
   {
     "name": "ISLISP",
     "url": "http://islisp.info/specification.html",
-    "category": "Programming Language",
+    "category": "Software",
     "sector": "",
     "country": "",
     "description": "",
@@ -1469,7 +1469,7 @@
   {
     "name": "JADE",
     "url": "https://www.jadeworld.com/",
-    "category": "Programming Language",
+    "category": "Software",
     "sector": "",
     "country": "",
     "description": "",
@@ -1480,7 +1480,7 @@
   {
     "name": "Join Java",
     "url": "http://join.inria.fr/",
-    "category": "Programming Language",
+    "category": "Software",
     "sector": "",
     "country": "",
     "description": "",
@@ -1491,7 +1491,7 @@
   {
     "name": "Julia",
     "url": "https://julialang.org/",
-    "category": "Programming Language",
+    "category": "Software",
     "sector": "Scientific",
     "country": "Worldwide",
     "description": "High-performance language for numerical computing",
@@ -1502,7 +1502,7 @@
   {
     "name": "Jython",
     "url": "https://www.jython.org/",
-    "category": "Programming Language",
+    "category": "Software",
     "sector": "",
     "country": "",
     "description": "",
@@ -1513,7 +1513,7 @@
   {
     "name": "Karel",
     "url": "https://xkarel.sourceforge.net/",
-    "category": "Programming Language",
+    "category": "Software",
     "sector": "",
     "country": "",
     "description": "",
@@ -1524,7 +1524,7 @@
   {
     "name": "KiXtart",
     "url": "http://www.kixtart.org/",
-    "category": "Programming Language",
+    "category": "Software",
     "sector": "",
     "country": "",
     "description": "",
@@ -1535,7 +1535,7 @@
   {
     "name": "Kodu",
     "url": "http://kodugamelab.com",
-    "category": "Programming Language",
+    "category": "Software",
     "sector": "",
     "country": "",
     "description": "",
@@ -1546,7 +1546,7 @@
   {
     "name": "KornShell",
     "url": "http://kornshell.com",
-    "category": "Programming Language",
+    "category": "Software",
     "sector": "",
     "country": "",
     "description": "",
@@ -1557,7 +1557,7 @@
   {
     "name": "Kotlin",
     "url": "https://kotlinlang.org/",
-    "category": "Programming Language",
+    "category": "Software",
     "sector": "Mobile",
     "country": "Worldwide",
     "description": "JVM language popular for Android",
@@ -1568,7 +1568,7 @@
   {
     "name": "Kv (Kivy)",
     "url": "https://kivy.org/",
-    "category": "Programming Language",
+    "category": "Software",
     "sector": "",
     "country": "",
     "description": "",
@@ -1579,7 +1579,7 @@
   {
     "name": "LANSA",
     "url": "https://lansa.com/",
-    "category": "Programming Language",
+    "category": "Software",
     "sector": "",
     "country": "",
     "description": "",
@@ -1590,7 +1590,7 @@
   {
     "name": "Lasso",
     "url": "http://www.lassosoft.com",
-    "category": "Programming Language",
+    "category": "Software",
     "sector": "",
     "country": "",
     "description": "",
@@ -1601,7 +1601,7 @@
   {
     "name": "Lean",
     "url": "http://lean-lang.org",
-    "category": "Programming Language",
+    "category": "Software",
     "sector": "",
     "country": "",
     "description": "",
@@ -1612,7 +1612,7 @@
   {
     "name": "LilyPond",
     "url": "https://lilypond.org",
-    "category": "Programming Language",
+    "category": "Software",
     "sector": "",
     "country": "",
     "description": "",
@@ -1623,7 +1623,7 @@
   {
     "name": "LiveCode",
     "url": "http://livecode.org",
-    "category": "Programming Language",
+    "category": "Software",
     "sector": "",
     "country": "",
     "description": "",
@@ -1634,7 +1634,7 @@
   {
     "name": "LiveScript",
     "url": "https://livescript.net",
-    "category": "Programming Language",
+    "category": "Software",
     "sector": "",
     "country": "",
     "description": "",
@@ -1645,7 +1645,7 @@
   {
     "name": "Logtalk",
     "url": "https://logtalk.org",
-    "category": "Programming Language",
+    "category": "Software",
     "sector": "",
     "country": "",
     "description": "",
@@ -1656,7 +1656,7 @@
   {
     "name": "Lua",
     "url": "https://www.lua.org/",
-    "category": "Programming Language",
+    "category": "Software",
     "sector": "",
     "country": "",
     "description": "",
@@ -1667,7 +1667,7 @@
   {
     "name": "Lua (programming language)",
     "url": "https://www.lua.org/",
-    "category": "Programming Language",
+    "category": "Software",
     "sector": "",
     "country": "",
     "description": "",
@@ -1678,7 +1678,7 @@
   {
     "name": "Magma",
     "url": "http://magma.maths.usyd.edu.au",
-    "category": "Programming Language",
+    "category": "Software",
     "sector": "",
     "country": "",
     "description": "",
@@ -1689,7 +1689,7 @@
   {
     "name": "Maple",
     "url": "https://www.maplesoft.com/products/maple/",
-    "category": "Programming Language",
+    "category": "Software",
     "sector": "",
     "country": "",
     "description": "",
@@ -1700,7 +1700,7 @@
   {
     "name": "MASM Microsoft Assembly x86",
     "url": "https://docs.microsoft.com/en-us/cpp/assembler/masm/microsoft-macro-assembler-reference",
-    "category": "Programming Language",
+    "category": "Software",
     "sector": "",
     "country": "",
     "description": "",
@@ -1712,7 +1712,7 @@
   {
     "name": "Maude system",
     "url": "http://maude.cs.uiuc.edu/",
-    "category": "Programming Language",
+    "category": "Software",
     "sector": "",
     "country": "",
     "description": "",
@@ -1723,7 +1723,7 @@
   {
     "name": "Maxima",
     "url": "https://maxima.sourceforge.io/",
-    "category": "Programming Language",
+    "category": "Software",
     "sector": "",
     "country": "",
     "description": "",
@@ -1734,7 +1734,7 @@
   {
     "name": "Mercury",
     "url": "http://www.mercurylang.org",
-    "category": "Programming Language",
+    "category": "Software",
     "sector": "",
     "country": "",
     "description": "",
@@ -1745,7 +1745,7 @@
   {
     "name": "MHEG-5 (Interactive TV programming language)",
     "url": "http://www.mheg.org",
-    "category": "Programming Language",
+    "category": "Software",
     "sector": "",
     "country": "",
     "description": "",
@@ -1756,7 +1756,7 @@
   {
     "name": "Microsoft Power Fx",
     "url": "https://docs.microsoft.com/en-us/power-platform/power-fx/overview",
-    "category": "Programming Language",
+    "category": "Software",
     "sector": "",
     "country": "",
     "description": "",
@@ -1768,7 +1768,7 @@
   {
     "name": "Mirah",
     "url": "https://mirah.org/",
-    "category": "Programming Language",
+    "category": "Software",
     "sector": "",
     "country": "",
     "description": "",
@@ -1779,7 +1779,7 @@
   {
     "name": "Miranda",
     "url": "http://miranda.org.uk",
-    "category": "Programming Language",
+    "category": "Software",
     "sector": "",
     "country": "",
     "description": "",
@@ -1790,7 +1790,7 @@
   {
     "name": "MIVA Script",
     "url": "http://www.mivascript.com",
-    "category": "Programming Language",
+    "category": "Software",
     "sector": "",
     "country": "",
     "description": "",
@@ -1801,7 +1801,7 @@
   {
     "name": "Modelica",
     "url": "https://www.modelica.org/",
-    "category": "Programming Language",
+    "category": "Software",
     "sector": "",
     "country": "",
     "description": "",
@@ -1812,7 +1812,7 @@
   {
     "name": "Modula-2",
     "url": "http://www.modula2.org",
-    "category": "Programming Language",
+    "category": "Software",
     "sector": "",
     "country": "",
     "description": "",
@@ -1823,7 +1823,7 @@
   {
     "name": "Modula-3",
     "url": "http://www.modula3.org",
-    "category": "Programming Language",
+    "category": "Software",
     "sector": "",
     "country": "",
     "description": "",
@@ -1834,7 +1834,7 @@
   {
     "name": "MOO",
     "url": "https://www.moo.mud.org/",
-    "category": "Programming Language",
+    "category": "Software",
     "sector": "",
     "country": "",
     "description": "",
@@ -1845,7 +1845,7 @@
   {
     "name": "Mystic Programming Language",
     "url": "http://www.mysticbbs.com",
-    "category": "Programming Language",
+    "category": "Software",
     "sector": "",
     "country": "",
     "description": "",
@@ -1856,7 +1856,7 @@
   {
     "name": "NASM",
     "url": "https://www.nasm.us/",
-    "category": "Programming Language",
+    "category": "Software",
     "sector": "",
     "country": "",
     "description": "",
@@ -1867,7 +1867,7 @@
   {
     "name": "Neko",
     "url": "http://nekovm.org/doc/vm",
-    "category": "Programming Language",
+    "category": "Software",
     "sector": "",
     "country": "",
     "description": "",
@@ -1878,7 +1878,7 @@
   {
     "name": "Nemerle",
     "url": "http://nemerle.org",
-    "category": "Programming Language",
+    "category": "Software",
     "sector": "",
     "country": "",
     "description": "",
@@ -1889,7 +1889,7 @@
   {
     "name": "NetLogo",
     "url": "http://www.netlogo.org",
-    "category": "Programming Language",
+    "category": "Software",
     "sector": "",
     "country": "",
     "description": "",
@@ -1900,7 +1900,7 @@
   {
     "name": "NetRexx",
     "url": "https://www.netrexx.org/",
-    "category": "Programming Language",
+    "category": "Software",
     "sector": "",
     "country": "",
     "description": "",
@@ -1911,7 +1911,7 @@
   {
     "name": "NewLISP",
     "url": "http://www.newlisp.org",
-    "category": "Programming Language",
+    "category": "Software",
     "sector": "",
     "country": "",
     "description": "",
@@ -1922,7 +1922,7 @@
   {
     "name": "Newspeak",
     "url": "http://newspeaklanguage.org",
-    "category": "Programming Language",
+    "category": "Software",
     "sector": "",
     "country": "",
     "description": "",
@@ -1933,7 +1933,7 @@
   {
     "name": "Nial",
     "url": "https://www.nial-array-language.org/",
-    "category": "Programming Language",
+    "category": "Software",
     "sector": "",
     "country": "",
     "description": "",
@@ -1944,7 +1944,7 @@
   {
     "name": "Nim",
     "url": "http://nim-lang.org",
-    "category": "Programming Language",
+    "category": "Software",
     "sector": "",
     "country": "",
     "description": "",
@@ -1955,7 +1955,7 @@
   {
     "name": "Nix",
     "url": "https://nixos.org",
-    "category": "Programming Language",
+    "category": "Software",
     "sector": "",
     "country": "",
     "description": "",
@@ -1966,7 +1966,7 @@
   {
     "name": "o:XML",
     "url": "http://www.o-xml.org",
-    "category": "Programming Language",
+    "category": "Software",
     "sector": "",
     "country": "",
     "description": "",
@@ -1977,7 +1977,7 @@
   {
     "name": "Oberon",
     "url": "https://projectoberon.net",
-    "category": "Programming Language",
+    "category": "Software",
     "sector": "",
     "country": "",
     "description": "",
@@ -1988,7 +1988,7 @@
   {
     "name": "Object REXX",
     "url": "https://www.rexxla.org/",
-    "category": "Programming Language",
+    "category": "Software",
     "sector": "",
     "country": "",
     "description": "",
@@ -1999,7 +1999,7 @@
   {
     "name": "OCaml",
     "url": "https://ocaml.org/",
-    "category": "Programming Language",
+    "category": "Software",
     "sector": "",
     "country": "",
     "description": "",
@@ -2010,7 +2010,7 @@
   {
     "name": "Odin",
     "url": "https://odin-lang.org/",
-    "category": "Programming Language",
+    "category": "Software",
     "sector": "",
     "country": "",
     "description": "",
@@ -2021,7 +2021,7 @@
   {
     "name": "Opa",
     "url": "http://opalang.org",
-    "category": "Programming Language",
+    "category": "Software",
     "sector": "",
     "country": "",
     "description": "",
@@ -2032,7 +2032,7 @@
   {
     "name": "OpenGL Shading Language",
     "url": "https://www.opengl.org/",
-    "category": "Programming Language",
+    "category": "Software",
     "sector": "",
     "country": "",
     "description": "",
@@ -2043,7 +2043,7 @@
   {
     "name": "OpenQASM",
     "url": "https://openqasm.com/",
-    "category": "Programming Language",
+    "category": "Software",
     "sector": "",
     "country": "",
     "description": "",
@@ -2054,7 +2054,7 @@
   {
     "name": "Orc",
     "url": "https://orc.csres.utexas.edu/",
-    "category": "Programming Language",
+    "category": "Software",
     "sector": "",
     "country": "",
     "description": "",
@@ -2065,7 +2065,7 @@
   {
     "name": "ParaSail",
     "url": "http://parasail-lang.org",
-    "category": "Programming Language",
+    "category": "Software",
     "sector": "",
     "country": "",
     "description": "",
@@ -2076,7 +2076,7 @@
   {
     "name": "PARI/GP",
     "url": "http://pari.math.u-bordeaux.fr/",
-    "category": "Programming Language",
+    "category": "Software",
     "sector": "",
     "country": "",
     "description": "",
@@ -2087,7 +2087,7 @@
   {
     "name": "Pascal Script",
     "url": "http://wiki.freepascal.org/Pascal_Script/License",
-    "category": "Programming Language",
+    "category": "Software",
     "sector": "",
     "country": "",
     "description": "",
@@ -2098,7 +2098,7 @@
   {
     "name": "PDL",
     "url": "https://pdl.perl.org/",
-    "category": "Programming Language",
+    "category": "Software",
     "sector": "",
     "country": "",
     "description": "",
@@ -2109,7 +2109,7 @@
   {
     "name": "Perl",
     "url": "https://www.perl.org/",
-    "category": "Programming Language",
+    "category": "Software",
     "sector": "",
     "country": "",
     "description": "",
@@ -2120,7 +2120,7 @@
   {
     "name": "Pharo",
     "url": "https://pharo.org/",
-    "category": "Programming Language",
+    "category": "Software",
     "sector": "",
     "country": "",
     "description": "",
@@ -2131,7 +2131,7 @@
   {
     "name": "PHP",
     "url": "https://www.php.net/",
-    "category": "Programming Language",
+    "category": "Software",
     "sector": "Web",
     "country": "Worldwide",
     "description": "Server-side scripting language",
@@ -2142,7 +2142,7 @@
   {
     "name": "Pico",
     "url": "http://pico.vub.ac.be",
-    "category": "Programming Language",
+    "category": "Software",
     "sector": "",
     "country": "",
     "description": "",
@@ -2153,7 +2153,7 @@
   {
     "name": "Picolisp",
     "url": "http://picolisp.com",
-    "category": "Programming Language",
+    "category": "Software",
     "sector": "",
     "country": "",
     "description": "",
@@ -2164,7 +2164,7 @@
   {
     "name": "Pike",
     "url": "https://pike.lysator.liu.se/",
-    "category": "Programming Language",
+    "category": "Software",
     "sector": "",
     "country": "",
     "description": "",
@@ -2175,7 +2175,7 @@
   {
     "name": "PILOT",
     "url": "https://rpilot.sourceforge.net/pilot.html",
-    "category": "Programming Language",
+    "category": "Software",
     "sector": "",
     "country": "",
     "description": "",
@@ -2186,7 +2186,7 @@
   {
     "name": "Pizza",
     "url": "http://pizzacompiler.sourceforge.net",
-    "category": "Programming Language",
+    "category": "Software",
     "sector": "",
     "country": "",
     "description": "",
@@ -2197,7 +2197,7 @@
   {
     "name": "Pony",
     "url": "http://www.ponylang.org",
-    "category": "Programming Language",
+    "category": "Software",
     "sector": "",
     "country": "",
     "description": "",
@@ -2208,7 +2208,7 @@
   {
     "name": "POV-Ray SDL",
     "url": "https://www.povray.org/",
-    "category": "Programming Language",
+    "category": "Software",
     "sector": "",
     "country": "",
     "description": "",
@@ -2219,7 +2219,7 @@
   {
     "name": "Processing",
     "url": "https://processing.org/",
-    "category": "Programming Language",
+    "category": "Software",
     "sector": "",
     "country": "",
     "description": "",
@@ -2230,7 +2230,7 @@
   {
     "name": "Processing.js",
     "url": "https://processing.org/",
-    "category": "Programming Language",
+    "category": "Software",
     "sector": "",
     "country": "",
     "description": "",
@@ -2241,7 +2241,7 @@
   {
     "name": "Pure Data",
     "url": "https://puredata.info/",
-    "category": "Programming Language",
+    "category": "Software",
     "sector": "",
     "country": "",
     "description": "",
@@ -2252,7 +2252,7 @@
   {
     "name": "PureScript",
     "url": "https://www.purescript.org/",
-    "category": "Programming Language",
+    "category": "Software",
     "sector": "",
     "country": "",
     "description": "",
@@ -2263,7 +2263,7 @@
   {
     "name": "Python",
     "url": "https://www.python.org/",
-    "category": "Programming Language",
+    "category": "Software",
     "sector": "General",
     "country": "Worldwide",
     "description": "General-purpose language for many domains",
@@ -2274,7 +2274,7 @@
   {
     "name": "Raku",
     "url": "https://raku.org/",
-    "category": "Programming Language",
+    "category": "Software",
     "sector": "",
     "country": "",
     "description": "",
@@ -2285,7 +2285,7 @@
   {
     "name": "Reason",
     "url": "https://reasonml.github.io/",
-    "category": "Programming Language",
+    "category": "Software",
     "sector": "",
     "country": "",
     "description": "",
@@ -2296,7 +2296,7 @@
   {
     "name": "REBOL",
     "url": "http://www.rebol.com",
-    "category": "Programming Language",
+    "category": "Software",
     "sector": "",
     "country": "",
     "description": "",
@@ -2307,7 +2307,7 @@
   {
     "name": "Red",
     "url": "https://www.red-lang.org/",
-    "category": "Programming Language",
+    "category": "Software",
     "sector": "",
     "country": "",
     "description": "",
@@ -2318,7 +2318,7 @@
   {
     "name": "REFAL",
     "url": "http://www.refal.net",
-    "category": "Programming Language",
+    "category": "Software",
     "sector": "",
     "country": "",
     "description": "",
@@ -2329,7 +2329,7 @@
   {
     "name": "ReScript",
     "url": "https://rescript-lang.org/",
-    "category": "Programming Language",
+    "category": "Software",
     "sector": "",
     "country": "",
     "description": "",
@@ -2340,7 +2340,7 @@
   {
     "name": "Rocq",
     "url": "https://rocq-prover.org",
-    "category": "Programming Language",
+    "category": "Software",
     "sector": "",
     "country": "",
     "description": "",
@@ -2351,7 +2351,7 @@
   {
     "name": "Ruby",
     "url": "https://www.ruby-lang.org/",
-    "category": "Programming Language",
+    "category": "Software",
     "sector": "Web",
     "country": "Worldwide",
     "description": "Productive language often used with Rails",
@@ -2362,7 +2362,7 @@
   {
     "name": "Rust",
     "url": "https://www.rust-lang.org/",
-    "category": "Programming Language",
+    "category": "Software",
     "sector": "Systems",
     "country": "Worldwide",
     "description": "Memory-safe systems programming language",
@@ -2373,7 +2373,7 @@
   {
     "name": "SAS",
     "url": "https://www.sas.com",
-    "category": "Programming Language",
+    "category": "Software",
     "sector": "",
     "country": "",
     "description": "",
@@ -2384,7 +2384,7 @@
   {
     "name": "Scala",
     "url": "https://www.scala-lang.org/",
-    "category": "Programming Language",
+    "category": "Software",
     "sector": "Data",
     "country": "Worldwide",
     "description": "JVM language blending FP and OOP",
@@ -2395,7 +2395,7 @@
   {
     "name": "Scheme",
     "url": "https://www.scheme.org/",
-    "category": "Programming Language",
+    "category": "Software",
     "sector": "",
     "country": "",
     "description": "",
@@ -2406,7 +2406,7 @@
   {
     "name": "Scilab",
     "url": "https://www.scilab.org",
-    "category": "Programming Language",
+    "category": "Software",
     "sector": "",
     "country": "",
     "description": "",
@@ -2417,7 +2417,7 @@
   {
     "name": "Scratch",
     "url": "https://scratch.mit.edu/",
-    "category": "Programming Language",
+    "category": "Software",
     "sector": "",
     "country": "",
     "description": "",
@@ -2428,7 +2428,7 @@
   {
     "name": "ScratchJr",
     "url": "http://www.scratchjr.org",
-    "category": "Programming Language",
+    "category": "Software",
     "sector": "",
     "country": "",
     "description": "",
@@ -2439,7 +2439,7 @@
   {
     "name": "Seed7",
     "url": "https://seed7.sourceforge.net/",
-    "category": "Programming Language",
+    "category": "Software",
     "sector": "",
     "country": "",
     "description": "",
@@ -2450,7 +2450,7 @@
   {
     "name": "Self",
     "url": "http://www.selflanguage.org",
-    "category": "Programming Language",
+    "category": "Software",
     "sector": "",
     "country": "",
     "description": "",
@@ -2461,7 +2461,7 @@
   {
     "name": "SenseTalk",
     "url": "https://www.sensetalk.com/",
-    "category": "Programming Language",
+    "category": "Software",
     "sector": "",
     "country": "",
     "description": "",
@@ -2472,7 +2472,7 @@
   {
     "name": "SETL",
     "url": "http://setl.org",
-    "category": "Programming Language",
+    "category": "Software",
     "sector": "",
     "country": "",
     "description": "",
@@ -2483,7 +2483,7 @@
   {
     "name": "SiMPLE",
     "url": "http://www.simplecodeworks.com/website.html",
-    "category": "Programming Language",
+    "category": "Software",
     "sector": "",
     "country": "",
     "description": "",
@@ -2494,7 +2494,7 @@
   {
     "name": "Simula",
     "url": "http://www.simula67.info",
-    "category": "Programming Language",
+    "category": "Software",
     "sector": "",
     "country": "",
     "description": "",
@@ -2505,7 +2505,7 @@
   {
     "name": "SML",
     "url": "https://smlfamily.github.io/",
-    "category": "Programming Language",
+    "category": "Software",
     "sector": "",
     "country": "",
     "description": "",
@@ -2516,7 +2516,7 @@
   {
     "name": "Snap!",
     "url": "http://snap.berkeley.edu",
-    "category": "Programming Language",
+    "category": "Software",
     "sector": "",
     "country": "",
     "description": "",
@@ -2527,7 +2527,7 @@
   {
     "name": "Snowball",
     "url": "http://snowballstem.org",
-    "category": "Programming Language",
+    "category": "Software",
     "sector": "",
     "country": "",
     "description": "",
@@ -2538,7 +2538,7 @@
   {
     "name": "Solidity",
     "url": "http://soliditylang.org",
-    "category": "Programming Language",
+    "category": "Software",
     "sector": "Blockchain & Web3",
     "country": "Worldwide",
     "description": "Contract-oriented programming language for writing smart contracts on Ethereum and compatible chains.",
@@ -2549,7 +2549,7 @@
   {
     "name": "Source",
     "url": "http://docs.sourceacademy.org",
-    "category": "Programming Language",
+    "category": "Software",
     "sector": "",
     "country": "",
     "description": "",
@@ -2560,7 +2560,7 @@
   {
     "name": "Squeak",
     "url": "http://www.squeak.org",
-    "category": "Programming Language",
+    "category": "Software",
     "sector": "",
     "country": "",
     "description": "",
@@ -2571,7 +2571,7 @@
   {
     "name": "Squirrel",
     "url": "http://squirrel-lang.org/",
-    "category": "Programming Language",
+    "category": "Software",
     "sector": "",
     "country": "",
     "description": "",
@@ -2582,7 +2582,7 @@
   {
     "name": "Stata",
     "url": "https://www.stata.com/",
-    "category": "Programming Language",
+    "category": "Software",
     "sector": "",
     "country": "",
     "description": "",
@@ -2593,7 +2593,7 @@
   {
     "name": "Strongtalk",
     "url": "http://www.strongtalk.org",
-    "category": "Programming Language",
+    "category": "Software",
     "sector": "",
     "country": "",
     "description": "",
@@ -2604,7 +2604,7 @@
   {
     "name": "Subtext",
     "url": "http://subtextual.org/",
-    "category": "Programming Language",
+    "category": "Software",
     "sector": "",
     "country": "",
     "description": "",
@@ -2615,7 +2615,7 @@
   {
     "name": "SuperCollider",
     "url": "http://supercollider.github.io",
-    "category": "Programming Language",
+    "category": "Software",
     "sector": "",
     "country": "",
     "description": "",
@@ -2626,7 +2626,7 @@
   {
     "name": "Swift (Apple programming language)",
     "url": "https://www.swift.org/",
-    "category": "Programming Language",
+    "category": "Software",
     "sector": "",
     "country": "",
     "description": "",
@@ -2638,7 +2638,7 @@
   {
     "name": "Swift (parallel scripting language)",
     "url": "http://swift-lang.org",
-    "category": "Programming Language",
+    "category": "Software",
     "sector": "",
     "country": "",
     "description": "",
@@ -2649,7 +2649,7 @@
   {
     "name": "TADS (Text Adventure Development System)",
     "url": "http://www.tads.org",
-    "category": "Programming Language",
+    "category": "Software",
     "sector": "",
     "country": "",
     "description": "",
@@ -2660,7 +2660,7 @@
   {
     "name": "tcl (aka tcl/tk )",
     "url": "https://www.tcl-lang.org",
-    "category": "Programming Language",
+    "category": "Software",
     "sector": "",
     "country": "",
     "description": "",
@@ -2671,7 +2671,7 @@
   {
     "name": "TempleOS",
     "url": "http://templeos.org/",
-    "category": "Programming Language",
+    "category": "Software",
     "sector": "",
     "country": "",
     "description": "",
@@ -2682,7 +2682,7 @@
   {
     "name": "Tom",
     "url": "http://tom.loria.fr",
-    "category": "Programming Language",
+    "category": "Software",
     "sector": "",
     "country": "",
     "description": "",
@@ -2693,7 +2693,7 @@
   {
     "name": "Transcript (LiveCode)",
     "url": "http://livecode.org",
-    "category": "Programming Language",
+    "category": "Software",
     "sector": "",
     "country": "",
     "description": "",
@@ -2704,7 +2704,7 @@
   {
     "name": "TXL",
     "url": "https://www.txl.ca/",
-    "category": "Programming Language",
+    "category": "Software",
     "sector": "",
     "country": "",
     "description": "",
@@ -2715,7 +2715,7 @@
   {
     "name": "Tynker",
     "url": "https://www.tynker.com/",
-    "category": "Programming Language",
+    "category": "Software",
     "sector": "",
     "country": "",
     "description": "",
@@ -2726,7 +2726,7 @@
   {
     "name": "TypeScript",
     "url": "https://www.typescriptlang.org/",
-    "category": "Programming Language",
+    "category": "Software",
     "sector": "Web",
     "country": "Worldwide",
     "description": "Typed superset of JavaScript",
@@ -2737,7 +2737,7 @@
   {
     "name": "Ubercode",
     "url": "http://www.ubercode.com",
-    "category": "Programming Language",
+    "category": "Software",
     "sector": "",
     "country": "",
     "description": "",
@@ -2748,7 +2748,7 @@
   {
     "name": "Umple",
     "url": "https://www.umple.org/",
-    "category": "Programming Language",
+    "category": "Software",
     "sector": "",
     "country": "",
     "description": "",
@@ -2759,7 +2759,7 @@
   {
     "name": "Unicon",
     "url": "https://unicon.sourceforge.net/",
-    "category": "Programming Language",
+    "category": "Software",
     "sector": "",
     "country": "",
     "description": "",
@@ -2770,7 +2770,7 @@
   {
     "name": "Vala",
     "url": "https://vala.dev",
-    "category": "Programming Language",
+    "category": "Software",
     "sector": "",
     "country": "",
     "description": "",
@@ -2781,7 +2781,7 @@
   {
     "name": "Vim script",
     "url": "https://www.vim.org/",
-    "category": "Programming Language",
+    "category": "Software",
     "sector": "",
     "country": "",
     "description": "",
@@ -2792,7 +2792,7 @@
   {
     "name": "Viper (Ethereum/Ether (ETH))",
     "url": "http://ethereum.org",
-    "category": "Programming Language",
+    "category": "Software",
     "sector": "",
     "country": "",
     "description": "",
@@ -2803,7 +2803,7 @@
   {
     "name": "Visual DialogScript",
     "url": "http://www.dialogscript.com/",
-    "category": "Programming Language",
+    "category": "Software",
     "sector": "",
     "country": "",
     "description": "",
@@ -2814,7 +2814,7 @@
   {
     "name": "Visual Prolog",
     "url": "https://www.visual-prolog.com/",
-    "category": "Programming Language",
+    "category": "Software",
     "sector": "",
     "country": "",
     "description": "",
@@ -2825,7 +2825,7 @@
   {
     "name": "WebAssembly",
     "url": "https://webassembly.org/",
-    "category": "Programming Language",
+    "category": "Software",
     "sector": "",
     "country": "",
     "description": "",
@@ -2836,7 +2836,7 @@
   {
     "name": "Whiley",
     "url": "http://whiley.org",
-    "category": "Programming Language",
+    "category": "Software",
     "sector": "",
     "country": "",
     "description": "",
@@ -2847,7 +2847,7 @@
   {
     "name": "Wolfram Language",
     "url": "https://www.wolfram.com/language/",
-    "category": "Programming Language",
+    "category": "Software",
     "sector": "",
     "country": "",
     "description": "",
@@ -2858,7 +2858,7 @@
   {
     "name": "Wyvern",
     "url": "https://wyvernlang.github.io",
-    "category": "Programming Language",
+    "category": "Software",
     "sector": "",
     "country": "",
     "description": "",
@@ -2869,7 +2869,7 @@
   {
     "name": "X++ (X plus plus/Microsoft Dynamics AX)",
     "url": "https://www.microsoft.com/en-us/dynamics-365",
-    "category": "Programming Language",
+    "category": "Software",
     "sector": "",
     "country": "",
     "description": "",
@@ -2881,7 +2881,7 @@
   {
     "name": "X10",
     "url": "http://x10-lang.org",
-    "category": "Programming Language",
+    "category": "Software",
     "sector": "",
     "country": "",
     "description": "",
@@ -2892,7 +2892,7 @@
   {
     "name": "XMOS architecture",
     "url": "http://www.xmos.com/",
-    "category": "Programming Language",
+    "category": "Software",
     "sector": "",
     "country": "",
     "description": "",
@@ -2903,7 +2903,7 @@
   {
     "name": "Xod",
     "url": "http://xod.io",
-    "category": "Programming Language",
+    "category": "Software",
     "sector": "",
     "country": "",
     "description": "",
@@ -2914,7 +2914,7 @@
   {
     "name": "Xojo",
     "url": "https://xojo.com/",
-    "category": "Programming Language",
+    "category": "Software",
     "sector": "",
     "country": "",
     "description": "",
@@ -2925,7 +2925,7 @@
   {
     "name": "XPL0",
     "url": "http://www.xpl0.org",
-    "category": "Programming Language",
+    "category": "Software",
     "sector": "",
     "country": "",
     "description": "",
@@ -2936,7 +2936,7 @@
   {
     "name": "XSB",
     "url": "http://xsb.sf.net",
-    "category": "Programming Language",
+    "category": "Software",
     "sector": "",
     "country": "",
     "description": "",
@@ -2947,7 +2947,7 @@
   {
     "name": "Zig",
     "url": "https://ziglang.org/",
-    "category": "Programming Language",
+    "category": "Software",
     "sector": "",
     "country": "",
     "description": "",
@@ -2958,7 +2958,7 @@
   {
     "name": "Zonnon",
     "url": "https://zonnon.org/",
-    "category": "Programming Language",
+    "category": "Software",
     "sector": "",
     "country": "",
     "description": "",
