@@ -7,49 +7,6 @@
 const DATA_URL = 'data.json';
 const ALPHABET = 'ABCDEFGHIJKLMNOPQRSTUVWXYZ#'.split('');
 
-// Preferred category order (unspecified categories go at end alphabetically)
-const CATEGORY_ORDER = [
-  'Programming Language',
-  'Framework',
-  'Library',
-  'Database',
-  'ORM',
-  'API',
-  'Authentication',
-  'Hosting',
-  'Serverless',
-  'CDN',
-  'Storage',
-  'DevOps',
-  'Container',
-  'Build Tool',
-  'Package Manager',
-  'Version Control',
-  'Testing',
-  'IDE/Editor',
-  'Runtime',
-  'Security',
-  'Monitoring',
-  'Message Queue',
-  'Search',
-  'Email',
-  'Payment',
-  'Analytics',
-  'Feature Flags',
-  'AI/ML',
-  'Cloud',
-  'Mobile',
-  'Blockchain',
-  'CMS',
-  'Low-Code',
-  'Design',
-  'Documentation',
-  'Collaboration',
-  'Tool',
-  'Technology',
-  'Startup'
-];
-
 // State
 let items = [];
 let filteredItems = [];
@@ -119,15 +76,8 @@ async function init() {
 function buildTabs() {
   const allCategories = [...new Set(items.map(i => i.category).filter(Boolean))];
   
-  // Sort categories by preferred order
-  const categories = allCategories.sort((a, b) => {
-    const indexA = CATEGORY_ORDER.indexOf(a);
-    const indexB = CATEGORY_ORDER.indexOf(b);
-    if (indexA === -1 && indexB === -1) return a.localeCompare(b);
-    if (indexA === -1) return 1;
-    if (indexB === -1) return -1;
-    return indexA - indexB;
-  });
+  // Sort categories alphabetically
+  const categories = allCategories.sort((a, b) => a.localeCompare(b));
   
   const counts = {};
   items.forEach(item => {
@@ -382,9 +332,10 @@ function renderItems(activeTab) {
   for (const category of categoriesToRender) {
     if (!grouped[category]) continue;
     
-    // Separate popular and non-popular items
-    const popularItems = grouped[category].filter(item => item.popular === true);
-    const otherItems = grouped[category].filter(item => item.popular !== true);
+    // Get all items and sort alphabetically
+    const categoryItems = grouped[category].sort((a, b) => 
+      (a.name || '').localeCompare(b.name || '')
+    );
     
     // Category heading
     const heading = document.createElement('h2');
@@ -393,28 +344,9 @@ function renderItems(activeTab) {
     heading.textContent = category;
     elements.list.appendChild(heading);
     
-    // Popular section
-    if (popularItems.length > 0) {
-      const popularHeading = document.createElement('h3');
-      popularHeading.className = 'section-heading popular-heading';
-      popularHeading.innerHTML = '<span class="star-icon">★</span> Most Popular';
-      elements.list.appendChild(popularHeading);
-      
-      for (const item of popularItems) {
-        elements.list.appendChild(createCard(item, true));
-      }
-    }
-    
-    // More section
-    if (otherItems.length > 0) {
-      const moreHeading = document.createElement('h3');
-      moreHeading.className = 'section-heading more-heading';
-      moreHeading.textContent = 'More';
-      elements.list.appendChild(moreHeading);
-      
-      for (const item of otherItems) {
-        elements.list.appendChild(createCard(item, false));
-      }
+    // Render all items alphabetically
+    for (const item of categoryItems) {
+      elements.list.appendChild(createCard(item, item.popular === true));
     }
   }
 }
