@@ -15,7 +15,7 @@
     "sector": "AI",
     "country": "Worldwide",
     "description": "LLM research company (Claude)",
-    "popular": true
+    "popular": false
   },
   {
     "name": "Cohere",
@@ -24,7 +24,7 @@
     "sector": "AI",
     "country": "Worldwide",
     "description": "Embeddings and LLM APIs",
-    "popular": true
+    "popular": false
   },
   {
     "name": "Databricks",
@@ -33,7 +33,7 @@
     "sector": "Data",
     "country": "Worldwide",
     "description": "Unified data and AI platform (MLflow founder)",
-    "popular": true
+    "popular": false
   },
   {
     "name": "Google DeepMind / Google AI",
@@ -42,7 +42,7 @@
     "sector": "AI",
     "country": "Worldwide",
     "description": "Research labs and applied AI from Google",
-    "popular": true
+    "popular": false
   },
   {
     "name": "Hugging Face",
@@ -60,7 +60,7 @@
     "sector": "AI",
     "country": "Worldwide",
     "description": "Meta's AI research and LLM initiatives",
-    "popular": true
+    "popular": false
   },
   {
     "name": "Mistral AI",
@@ -69,7 +69,7 @@
     "sector": "AI",
     "country": "Worldwide",
     "description": "Provider of performant open and proprietary LLMs",
-    "popular": true
+    "popular": false
   },
   {
     "name": "MLflow",
@@ -78,7 +78,7 @@
     "sector": "AI",
     "country": "Worldwide",
     "description": "Open-source platform for managing ML lifecycle",
-    "popular": true
+    "popular": false
   },
   {
     "name": "OpenAI",
@@ -114,7 +114,7 @@
     "sector": "AI",
     "country": "Worldwide",
     "description": "Open models for generative AI and research",
-    "popular": true
+    "popular": false
   },
   {
     "name": "TensorFlow",
@@ -339,7 +339,7 @@
     "sector": "",
     "country": "",
     "description": "Statistical computing and graphics language",
-    "popular": true
+    "popular": false
   },
   {
     "name": "ABAP",
@@ -357,12 +357,12 @@
     "sector": "",
     "country": "",
     "description": "Interactive programming language",
-    "popular": true
+    "popular": false
   },
   {
     "name": "ACC",
     "url": "https://www.openacc.org/get-started",
-    "category": "Software",
+    "category": "Programming Language",
     "sector": "",
     "country": "",
     "description": "Low-level systems programming language",
@@ -371,7 +371,7 @@
   {
     "name": "Accent (Rational Synergy)",
     "url": "https://www.ibm.com/products/rational-synergy",
-    "category": "Software",
+    "category": "Programming Language",
     "sector": "",
     "country": "",
     "description": "Low-level systems programming language",
@@ -380,7 +380,7 @@
   {
     "name": "Action!",
     "url": "https://sourceforge.net/projects/atari-action/",
-    "category": "Software",
+    "category": "Programming Language",
     "sector": "",
     "country": "",
     "description": "Low-level systems programming language",
@@ -393,7 +393,7 @@
     "sector": "",
     "country": "",
     "description": "Language for Flash applications",
-    "popular": true
+    "popular": false
   },
   {
     "name": "Ada",
@@ -402,7 +402,7 @@
     "sector": "",
     "country": "",
     "description": "High-integrity systems language",
-    "popular": false
+    "popular": true
   },
   {
     "name": "Adenine (Haystack)",
@@ -411,7 +411,7 @@
     "sector": "",
     "country": "",
     "description": "Low-level systems programming language",
-    "popular": true
+    "popular": false
   },
   {
     "name": "AdvPL",
@@ -434,7 +434,7 @@
   {
     "name": "Agilent VEE",
     "url": "https://www.keysight.com/us/en/product/W4000D/vee-pro-9-33.html",
-    "category": "Software",
+    "category": "Programming Language",
     "sector": "",
     "country": "",
     "description": "Simple, fast compiled language",
@@ -447,12 +447,12 @@
     "sector": "",
     "country": "",
     "description": "Fast, statically typed language by Google",
-    "popular": true
+    "popular": false
   },
   {
     "name": "AIMMS",
     "url": "https://www.aimms.com/",
-    "category": "Software",
+    "category": "Programming Language",
     "sector": "",
     "country": "",
     "description": "",
@@ -465,7 +465,7 @@
     "sector": "",
     "country": "",
     "description": "Statistical computing and graphics language",
-    "popular": true
+    "popular": false
   },
   {
     "name": "Alef",
@@ -483,7 +483,7 @@
     "sector": "",
     "country": "",
     "description": "Low-level systems programming language",
-    "popular": true
+    "popular": false
   },
   {
     "name": "ALGOL",
@@ -492,7 +492,7 @@
     "sector": "",
     "country": "",
     "description": "Influential algorithmic language",
-    "popular": true
+    "popular": false
   },
   {
     "name": "ALGOL 58",
@@ -501,7 +501,7 @@
     "sector": "",
     "country": "",
     "description": "Early version of ALGOL",
-    "popular": true
+    "popular": false
   },
   {
     "name": "ALGOL 60",
@@ -510,7 +510,7 @@
     "sector": "",
     "country": "",
     "description": "Influential structured language",
-    "popular": true
+    "popular": false
   },
   {
     "name": "ALGOL 68",
@@ -519,7 +519,7 @@
     "sector": "",
     "country": "",
     "description": "Advanced ALGOL variant",
-    "popular": true
+    "popular": false
   },
   {
     "name": "Alice ML",
@@ -528,7 +528,7 @@
     "sector": "",
     "country": "",
     "description": "Concurrent functional language",
-    "popular": true
+    "popular": false
   },
   {
     "name": "Alma-0",
@@ -573,7 +573,7 @@
     "sector": "",
     "country": "",
     "description": "Game scripting language",
-    "popular": true
+    "popular": false
   },
   {
     "name": "Apache Pig latin",
@@ -582,7 +582,7 @@
     "sector": "",
     "country": "",
     "description": "Low-level systems programming language",
-    "popular": true
+    "popular": false
   },
   {
     "name": "Apex (Salesforce.com, Inc)",
@@ -591,12 +591,12 @@
     "sector": "",
     "country": "",
     "description": "Salesforce proprietary language",
-    "popular": true
+    "popular": false
   },
   {
     "name": "APL",
     "url": "https://aplwiki.com/",
-    "category": "Software",
+    "category": "Programming Language",
     "sector": "",
     "country": "",
     "description": "Array-oriented language with symbols",
@@ -618,7 +618,7 @@
     "sector": "",
     "country": "",
     "description": "macOS automation language",
-    "popular": true
+    "popular": false
   },
   {
     "name": "APT",
@@ -636,7 +636,7 @@
     "sector": "",
     "country": "",
     "description": "Lisp dialect for web apps",
-    "popular": true
+    "popular": false
   },
   {
     "name": "ArkTS",
@@ -645,16 +645,16 @@
     "sector": "",
     "country": "",
     "description": "TypeScript variant for HarmonyOS",
-    "popular": true
+    "popular": false
   },
   {
     "name": "Assembly language",
     "url": "https://www.ibm.com/support/knowledgecenter/SSLTBW_2.1.0/com.ibm.zos.v2r1.asma400/asmr102112.htm",
-    "category": "Software",
+    "category": "Programming Language",
     "sector": "",
     "country": "",
     "description": "Low-level processor instructions",
-    "popular": false
+    "popular": true
   },
   {
     "name": "AssemblyScript",
@@ -663,7 +663,7 @@
     "sector": "",
     "country": "",
     "description": "TypeScript to WebAssembly",
-    "popular": true
+    "popular": false
   },
   {
     "name": "ATS",
@@ -699,7 +699,7 @@
     "sector": "",
     "country": "",
     "description": "AutoCAD scripting language",
-    "popular": true
+    "popular": false
   },
   {
     "name": "Averest",
@@ -708,7 +708,7 @@
     "sector": "",
     "country": "",
     "description": "Statistical computing and graphics language",
-    "popular": true
+    "popular": false
   },
   {
     "name": "AWK",
@@ -735,7 +735,7 @@
     "sector": "",
     "country": "",
     "description": "Cloud-native integration language",
-    "popular": true
+    "popular": false
   },
   {
     "name": "Bash",
@@ -753,7 +753,7 @@
     "sector": "",
     "country": "",
     "description": "Low-level systems programming language",
-    "popular": true
+    "popular": false
   },
   {
     "name": "bc (basic calculator)",
@@ -762,7 +762,7 @@
     "sector": "",
     "country": "",
     "description": "Arbitrary precision calculator",
-    "popular": true
+    "popular": false
   },
   {
     "name": "BCPL",
@@ -771,7 +771,7 @@
     "sector": "",
     "country": "",
     "description": "Low-level systems programming language",
-    "popular": true
+    "popular": false
   },
   {
     "name": "BeanShell",
@@ -798,7 +798,7 @@
     "sector": "",
     "country": "",
     "description": "Low-level systems programming language",
-    "popular": true
+    "popular": false
   },
   {
     "name": "BLISS",
@@ -816,7 +816,7 @@
     "sector": "",
     "country": "",
     "description": "Low-level systems programming language",
-    "popular": true
+    "popular": false
   },
   {
     "name": "BlooP",
@@ -843,12 +843,12 @@
     "sector": "",
     "country": "",
     "description": "Statistical computing and graphics language",
-    "popular": true
+    "popular": false
   },
   {
     "name": "Bosque",
     "url": "https://www.microsoft.com/en-us/research/project/bosque-programming-language/",
-    "category": "Software",
+    "category": "Programming Language",
     "sector": "",
     "country": "",
     "description": "Capability-based language",
@@ -861,12 +861,12 @@
     "sector": "",
     "country": "",
     "description": "Low-level systems programming language",
-    "popular": true
+    "popular": false
   },
   {
     "name": "C/AL",
     "url": "http://www.microsoft.com/en-us/dynamics/erp-nav-overview.aspx",
-    "category": "Software",
+    "category": "Programming Language",
     "sector": "",
     "country": "",
     "description": "Low-level systems programming language",
@@ -879,7 +879,7 @@
     "sector": "",
     "country": "",
     "description": "Low-level systems programming language",
-    "popular": true
+    "popular": false
   },
   {
     "name": "Caml",
@@ -888,7 +888,7 @@
     "sector": "",
     "country": "",
     "description": "Functional ML dialect",
-    "popular": true
+    "popular": false
   },
   {
     "name": "Carbon",
@@ -897,7 +897,7 @@
     "sector": "",
     "country": "",
     "description": "C++ successor by Google",
-    "popular": true
+    "popular": false
   },
   {
     "name": "Categorical",
@@ -906,7 +906,7 @@
     "sector": "",
     "country": "",
     "description": "Low-level systems programming language",
-    "popular": true
+    "popular": false
   },
   {
     "name": "Categories",
@@ -915,7 +915,7 @@
     "sector": "",
     "country": "",
     "description": "Low-level systems programming language",
-    "popular": true
+    "popular": false
   },
   {
     "name": "Catrobat",
@@ -924,7 +924,7 @@
     "sector": "",
     "country": "",
     "description": "Low-level systems programming language",
-    "popular": true
+    "popular": false
   },
   {
     "name": "Cayenne (Lennart Augustsson)",
@@ -933,7 +933,7 @@
     "sector": "",
     "country": "",
     "description": "Low-level systems programming language",
-    "popular": true
+    "popular": false
   },
   {
     "name": "Cecil",
@@ -942,7 +942,7 @@
     "sector": "",
     "country": "",
     "description": "Low-level systems programming language",
-    "popular": true
+    "popular": false
   },
   {
     "name": "CEEMAC",
@@ -951,7 +951,7 @@
     "sector": "",
     "country": "",
     "description": "Low-level systems programming language",
-    "popular": true
+    "popular": false
   },
   {
     "name": "CESIL (Computer Education in Schools Instruction Language)",
@@ -960,7 +960,7 @@
     "sector": "",
     "country": "",
     "description": "Low-level systems programming language",
-    "popular": true
+    "popular": false
   },
   {
     "name": "Ceylon",
@@ -969,7 +969,7 @@
     "sector": "",
     "country": "",
     "description": "JVM language by Red Hat",
-    "popular": true
+    "popular": false
   },
   {
     "name": "CFEngine",
@@ -978,7 +978,7 @@
     "sector": "",
     "country": "",
     "description": "Low-level systems programming language",
-    "popular": true
+    "popular": false
   },
   {
     "name": "Cg (High-Level Shader/Shading Language [HLSL])",
@@ -987,12 +987,12 @@
     "sector": "",
     "country": "",
     "description": "Low-level systems programming language",
-    "popular": true
+    "popular": false
   },
   {
     "name": "Ch",
     "url": "http://www.softintegration.com",
-    "category": "Software",
+    "category": "Programming Language",
     "sector": "",
     "country": "",
     "description": "Low-level systems programming language",
@@ -1005,12 +1005,12 @@
     "sector": "",
     "country": "",
     "description": "Parallel programming language",
-    "popular": true
+    "popular": false
   },
   {
     "name": "Charm",
     "url": "http://charm.qu-bit.co.uk",
-    "category": "Software",
+    "category": "Programming Language",
     "sector": "",
     "country": "",
     "description": "Low-level systems programming language",
@@ -1023,7 +1023,7 @@
     "sector": "",
     "country": "",
     "description": "Telecom programming language",
-    "popular": true
+    "popular": false
   },
   {
     "name": "CHIP-8",
@@ -1032,7 +1032,7 @@
     "sector": "",
     "country": "",
     "description": "Low-level systems programming language",
-    "popular": true
+    "popular": false
   },
   {
     "name": "Chronological",
@@ -1041,7 +1041,7 @@
     "sector": "",
     "country": "",
     "description": "Low-level systems programming language",
-    "popular": true
+    "popular": false
   },
   {
     "name": "ChucK",
@@ -1050,7 +1050,7 @@
     "sector": "",
     "country": "",
     "description": "Low-level systems programming language",
-    "popular": true
+    "popular": false
   },
   {
     "name": "Cilk (also Cilk++ and Cilk plus)",
@@ -1059,7 +1059,7 @@
     "sector": "",
     "country": "",
     "description": "Parallel programming extension",
-    "popular": true
+    "popular": false
   },
   {
     "name": "Claire",
@@ -1068,7 +1068,7 @@
     "sector": "",
     "country": "",
     "description": "Low-level systems programming language",
-    "popular": true
+    "popular": false
   },
   {
     "name": "Clarion",
@@ -1077,7 +1077,7 @@
     "sector": "",
     "country": "",
     "description": "Low-level systems programming language",
-    "popular": true
+    "popular": false
   },
   {
     "name": "classic",
@@ -1086,7 +1086,7 @@
     "sector": "",
     "country": "",
     "description": "Low-level systems programming language",
-    "popular": true
+    "popular": false
   },
   {
     "name": "Clean",
@@ -1095,7 +1095,7 @@
     "sector": "",
     "country": "",
     "description": "Pure functional language",
-    "popular": true
+    "popular": false
   },
   {
     "name": "Clipper",
@@ -1104,12 +1104,12 @@
     "sector": "",
     "country": "",
     "description": "Low-level systems programming language",
-    "popular": true
+    "popular": false
   },
   {
     "name": "CLIPS",
     "url": "http://clipsrules.net",
-    "category": "Software",
+    "category": "Programming Language",
     "sector": "",
     "country": "",
     "description": "Expert systems language",
@@ -1131,7 +1131,7 @@
     "sector": "",
     "country": "",
     "description": "Low-level systems programming language",
-    "popular": true
+    "popular": false
   },
   {
     "name": "CMS EXEC",
@@ -1140,7 +1140,7 @@
     "sector": "",
     "country": "",
     "description": "Low-level systems programming language",
-    "popular": true
+    "popular": false
   },
   {
     "name": "Cobra",
@@ -1149,7 +1149,7 @@
     "sector": "",
     "country": "",
     "description": "Low-level systems programming language",
-    "popular": true
+    "popular": false
   },
   {
     "name": "CoffeeScript",
@@ -1158,7 +1158,7 @@
     "sector": "",
     "country": "",
     "description": "Language that compiles to JavaScript",
-    "popular": true
+    "popular": false
   },
   {
     "name": "ColdFusion",
@@ -1167,7 +1167,7 @@
     "sector": "",
     "country": "",
     "description": "Low-level systems programming language",
-    "popular": true
+    "popular": false
   },
   {
     "name": "COMAL",
@@ -1176,7 +1176,7 @@
     "sector": "",
     "country": "",
     "description": "Low-level systems programming language",
-    "popular": true
+    "popular": false
   },
   {
     "name": "Common Intermediate Language",
@@ -1185,7 +1185,7 @@
     "sector": "",
     "country": "",
     "description": "Low-level systems programming language",
-    "popular": true
+    "popular": false
   },
   {
     "name": "Common Lisp",
@@ -1194,7 +1194,7 @@
     "sector": "",
     "country": "",
     "description": "Low-level systems programming language",
-    "popular": true
+    "popular": false
   },
   {
     "name": "Computer Sciences Corporation",
@@ -1203,7 +1203,7 @@
     "sector": "",
     "country": "",
     "description": "Low-level systems programming language",
-    "popular": true
+    "popular": false
   },
   {
     "name": "COMTRAN",
@@ -1212,7 +1212,7 @@
     "sector": "",
     "country": "",
     "description": "Low-level systems programming language",
-    "popular": true
+    "popular": false
   },
   {
     "name": "Constraint Handling Rules",
@@ -1221,7 +1221,7 @@
     "sector": "",
     "country": "",
     "description": "Low-level systems programming language",
-    "popular": true
+    "popular": false
   },
   {
     "name": "CORAL",
@@ -1230,7 +1230,7 @@
     "sector": "",
     "country": "",
     "description": "Low-level systems programming language",
-    "popular": true
+    "popular": false
   },
   {
     "name": "CorVision",
@@ -1239,7 +1239,7 @@
     "sector": "",
     "country": "",
     "description": "Low-level systems programming language",
-    "popular": true
+    "popular": false
   },
   {
     "name": "CPL",
@@ -1248,7 +1248,7 @@
     "sector": "",
     "country": "",
     "description": "Low-level systems programming language",
-    "popular": true
+    "popular": false
   },
   {
     "name": "Cryptol",
@@ -1257,7 +1257,7 @@
     "sector": "",
     "country": "",
     "description": "Low-level systems programming language",
-    "popular": true
+    "popular": false
   },
   {
     "name": "Crystal",
@@ -1266,7 +1266,7 @@
     "sector": "",
     "country": "",
     "description": "Ruby-like compiled language",
-    "popular": true
+    "popular": false
   },
   {
     "name": "Csound",
@@ -1275,7 +1275,7 @@
     "sector": "",
     "country": "",
     "description": "Low-level systems programming language",
-    "popular": true
+    "popular": false
   },
   {
     "name": "Cuneiform",
@@ -1284,7 +1284,7 @@
     "sector": "",
     "country": "",
     "description": "Low-level systems programming language",
-    "popular": true
+    "popular": false
   },
   {
     "name": "Curl",
@@ -1293,7 +1293,7 @@
     "sector": "",
     "country": "",
     "description": "Web content language",
-    "popular": true
+    "popular": false
   },
   {
     "name": "Curry",
@@ -1302,7 +1302,7 @@
     "sector": "",
     "country": "",
     "description": "Low-level systems programming language",
-    "popular": true
+    "popular": false
   },
   {
     "name": "Cybil",
@@ -1311,7 +1311,7 @@
     "sector": "",
     "country": "",
     "description": "Low-level systems programming language",
-    "popular": true
+    "popular": false
   },
   {
     "name": "Cyclone",
@@ -1320,7 +1320,7 @@
     "sector": "",
     "country": "",
     "description": "Safe C dialect",
-    "popular": true
+    "popular": false
   },
   {
     "name": "Cypher Query Language",
@@ -1329,7 +1329,7 @@
     "sector": "",
     "country": "",
     "description": "Low-level systems programming language",
-    "popular": true
+    "popular": false
   },
   {
     "name": "Cython",
@@ -1338,7 +1338,7 @@
     "sector": "",
     "country": "",
     "description": "C extensions for Python",
-    "popular": true
+    "popular": false
   },
   {
     "name": "Céu",
@@ -1347,7 +1347,7 @@
     "sector": "",
     "country": "",
     "description": "Low-level systems programming language",
-    "popular": true
+    "popular": false
   },
   {
     "name": "Dart",
@@ -1365,7 +1365,7 @@
     "sector": "",
     "country": "",
     "description": "Statistical computing and graphics language",
-    "popular": true
+    "popular": false
   },
   {
     "name": "DataFlex",
@@ -1388,7 +1388,7 @@
   {
     "name": "DATATRIEVE",
     "url": "https://vmssoftware.com/products/datatrieve/",
-    "category": "Software",
+    "category": "Programming Language",
     "sector": "",
     "country": "",
     "description": "Statistical computing and graphics language",
@@ -1415,7 +1415,7 @@
   {
     "name": "Delphi",
     "url": "https://www.embarcadero.com/products/delphi",
-    "category": "Software",
+    "category": "Programming Language",
     "sector": "",
     "country": "",
     "description": "RAD tool for native applications",
@@ -1437,12 +1437,12 @@
     "sector": "",
     "country": "",
     "description": "Low-level systems programming language",
-    "popular": true
+    "popular": false
   },
   {
     "name": "Dog",
     "url": "http://www.kamvar.org/",
-    "category": "Software",
+    "category": "Programming Language",
     "sector": "",
     "country": "",
     "description": "Systems programming language",
@@ -1455,7 +1455,7 @@
     "sector": "",
     "country": "",
     "description": "Low-level systems programming language",
-    "popular": true
+    "popular": false
   },
   {
     "name": "DRAKON",
@@ -1464,7 +1464,7 @@
     "sector": "",
     "country": "",
     "description": "Statistical computing and graphics language",
-    "popular": true
+    "popular": false
   },
   {
     "name": "DrRacket",
@@ -1473,7 +1473,7 @@
     "sector": "",
     "country": "",
     "description": "Low-level systems programming language",
-    "popular": true
+    "popular": false
   },
   {
     "name": "Dylan",
@@ -1487,7 +1487,7 @@
   {
     "name": "Easy PL/I",
     "url": "https://www.ibm.com/products/pli-compiler-zos",
-    "category": "Software",
+    "category": "Programming Language",
     "sector": "",
     "country": "",
     "description": "Capability-based language",
@@ -1496,7 +1496,7 @@
   {
     "name": "EASYTRIEVE PLUS",
     "url": "https://www.broadcom.com/products/mainframe/application-development/easytrieve-report-generator",
-    "category": "Software",
+    "category": "Programming Language",
     "sector": "",
     "country": "",
     "description": "Statistical computing and graphics language",
@@ -1509,7 +1509,7 @@
     "sector": "",
     "country": "",
     "description": "Low-level systems programming language",
-    "popular": true
+    "popular": false
   },
   {
     "name": "Edinburgh IMP",
@@ -1518,7 +1518,7 @@
     "sector": "",
     "country": "",
     "description": "Statistical computing and graphics language",
-    "popular": true
+    "popular": false
   },
   {
     "name": "EGL",
@@ -1572,7 +1572,7 @@
     "sector": "",
     "country": "",
     "description": "Low-level systems programming language",
-    "popular": true
+    "popular": false
   },
   {
     "name": "Emerald",
@@ -1581,7 +1581,7 @@
     "sector": "",
     "country": "",
     "description": "Statistical computing and graphics language",
-    "popular": true
+    "popular": false
   },
   {
     "name": "EPL (Easy Programming Language)",
@@ -1590,7 +1590,7 @@
     "sector": "",
     "country": "",
     "description": "Statistical computing and graphics language",
-    "popular": true
+    "popular": false
   },
   {
     "name": "Erlang",
@@ -1604,11 +1604,11 @@
   {
     "name": "es",
     "url": "http://doc.cat-v.org/plan_9/4th_edition/papers/rc",
-    "category": "Software",
+    "category": "Programming Language",
     "sector": "",
     "country": "",
     "description": "Typed superset of JavaScript",
-    "popular": true
+    "popular": false
   },
   {
     "name": "Escher",
@@ -1617,7 +1617,7 @@
     "sector": "",
     "country": "",
     "description": "Low-level systems programming language",
-    "popular": true
+    "popular": false
   },
   {
     "name": "esoteric programming languages",
@@ -1626,7 +1626,7 @@
     "sector": "",
     "country": "",
     "description": "Low-level systems programming language",
-    "popular": true
+    "popular": false
   },
   {
     "name": "ESPOL",
@@ -1644,7 +1644,7 @@
     "sector": "",
     "country": "",
     "description": "Statistical computing and graphics language",
-    "popular": true
+    "popular": false
   },
   {
     "name": "Etoys",
@@ -1662,7 +1662,7 @@
     "sector": "",
     "country": "",
     "description": "Low-level systems programming language",
-    "popular": true
+    "popular": false
   },
   {
     "name": "Euler",
@@ -1671,7 +1671,7 @@
     "sector": "",
     "country": "",
     "description": "Statistical computing and graphics language",
-    "popular": true
+    "popular": false
   },
   {
     "name": "Euphoria",
@@ -1680,7 +1680,7 @@
     "sector": "",
     "country": "",
     "description": "Simple programming language",
-    "popular": true
+    "popular": false
   },
   {
     "name": "EusLisp Robot Programming Language",
@@ -1689,7 +1689,7 @@
     "sector": "",
     "country": "",
     "description": "Statistical computing and graphics language",
-    "popular": true
+    "popular": false
   },
   {
     "name": "executable",
@@ -1698,7 +1698,7 @@
     "sector": "",
     "country": "",
     "description": "Low-level systems programming language",
-    "popular": true
+    "popular": false
   },
   {
     "name": "Executable UML",
@@ -1707,7 +1707,7 @@
     "sector": "",
     "country": "",
     "description": "Low-level systems programming language",
-    "popular": true
+    "popular": false
   },
   {
     "name": "Ezhil",
@@ -1725,7 +1725,7 @@
     "sector": "",
     "country": "",
     "description": "Functional-first language on .NET",
-    "popular": true
+    "popular": false
   },
   {
     "name": "Factor",
@@ -1734,7 +1734,7 @@
     "sector": "",
     "country": "",
     "description": "Stack-based language",
-    "popular": true
+    "popular": false
   },
   {
     "name": "Fantom",
@@ -1788,7 +1788,7 @@
     "sector": "",
     "country": "",
     "description": "Low-level systems programming language",
-    "popular": true
+    "popular": false
   },
   {
     "name": "FOCAL (Formulating On-Line Calculations in Algebraic Language/FOrmula CALculator)",
@@ -1797,7 +1797,7 @@
     "sector": "",
     "country": "",
     "description": "Low-level systems programming language",
-    "popular": true
+    "popular": false
   },
   {
     "name": "Forth",
@@ -1806,7 +1806,7 @@
     "sector": "",
     "country": "",
     "description": "Stack-based programming language",
-    "popular": true
+    "popular": false
   },
   {
     "name": "Fortran",
@@ -1824,7 +1824,7 @@
     "sector": "",
     "country": "",
     "description": "Statistical computing and graphics language",
-    "popular": true
+    "popular": false
   },
   {
     "name": "FoxBase/FoxPro",
@@ -1833,7 +1833,7 @@
     "sector": "",
     "country": "",
     "description": "Statistical computing and graphics language",
-    "popular": true
+    "popular": false
   },
   {
     "name": "Franz Lisp",
@@ -1842,7 +1842,7 @@
     "sector": "",
     "country": "",
     "description": "Statistical computing and graphics language",
-    "popular": true
+    "popular": false
   },
   {
     "name": "Futhark",
@@ -1851,7 +1851,7 @@
     "sector": "",
     "country": "",
     "description": "Functional GPU programming",
-    "popular": true
+    "popular": false
   },
   {
     "name": "G-code",
@@ -1860,7 +1860,7 @@
     "sector": "",
     "country": "",
     "description": "Low-level systems programming language",
-    "popular": true
+    "popular": false
   },
   {
     "name": "Game Maker Language",
@@ -1869,7 +1869,7 @@
     "sector": "",
     "country": "",
     "description": "Statistical computing and graphics language",
-    "popular": true
+    "popular": false
   },
   {
     "name": "Game Oriented Assembly Lisp",
@@ -1878,7 +1878,7 @@
     "sector": "",
     "country": "",
     "description": "Statistical computing and graphics language",
-    "popular": true
+    "popular": false
   },
   {
     "name": "GameMonkey Script",
@@ -1887,7 +1887,7 @@
     "sector": "",
     "country": "",
     "description": "Low-level systems programming language",
-    "popular": true
+    "popular": false
   },
   {
     "name": "GAP",
@@ -1901,7 +1901,7 @@
   {
     "name": "GDScript (Godot)",
     "url": "https://godotengine.org/",
-    "category": "Software",
+    "category": "Programming Language",
     "sector": "",
     "country": "",
     "description": "Godot game engine language",
@@ -1914,7 +1914,7 @@
     "sector": "",
     "country": "",
     "description": "Low-level systems programming language",
-    "popular": true
+    "popular": false
   },
   {
     "name": "Generational",
@@ -1923,7 +1923,7 @@
     "sector": "",
     "country": "",
     "description": "Statistical computing and graphics language",
-    "popular": true
+    "popular": false
   },
   {
     "name": "Geometric Description Language",
@@ -1932,7 +1932,7 @@
     "sector": "",
     "country": "",
     "description": "Low-level systems programming language",
-    "popular": true
+    "popular": false
   },
   {
     "name": "Gleam",
@@ -1959,7 +1959,7 @@
     "sector": "",
     "country": "",
     "description": "Statistical computing and graphics language",
-    "popular": true
+    "popular": false
   },
   {
     "name": "GNU Octave",
@@ -1968,25 +1968,25 @@
     "sector": "",
     "country": "",
     "description": "Low-level systems programming language",
-    "popular": true
+    "popular": false
   },
   {
     "name": "Go",
     "url": "https://golang.org/",
-    "category": "Software",
+    "category": "Programming Language",
     "sector": "Cloud",
     "country": "Worldwide",
     "description": "Compiled language by Google for cloud services",
-    "popular": false
+    "popular": true
   },
   {
     "name": "Go!",
     "url": "https://golang.org/",
-    "category": "Software",
+    "category": "Programming Language",
     "sector": "Cloud",
     "country": "Worldwide",
     "description": "Compiled language by Google for cloud services",
-    "popular": false
+    "popular": true
   },
   {
     "name": "Golo",
@@ -1995,7 +1995,7 @@
     "sector": "",
     "country": "",
     "description": "Lightweight JVM language",
-    "popular": true
+    "popular": false
   },
   {
     "name": "GOM",
@@ -2004,7 +2004,7 @@
     "sector": "",
     "country": "",
     "description": "Fast, statically typed language by Google",
-    "popular": true
+    "popular": false
   },
   {
     "name": "Google Apps Script",
@@ -2013,7 +2013,7 @@
     "sector": "",
     "country": "",
     "description": "Low-level systems programming language",
-    "popular": true
+    "popular": false
   },
   {
     "name": "Gosu",
@@ -2022,7 +2022,7 @@
     "sector": "",
     "country": "",
     "description": "Fast, statically typed language by Google",
-    "popular": true
+    "popular": false
   },
   {
     "name": "GRASS",
@@ -2031,7 +2031,7 @@
     "sector": "",
     "country": "",
     "description": "Statistical computing and graphics language",
-    "popular": true
+    "popular": false
   },
   {
     "name": "Grasshopper",
@@ -2040,7 +2040,7 @@
     "sector": "",
     "country": "",
     "description": "Statistical computing and graphics language",
-    "popular": true
+    "popular": false
   },
   {
     "name": "Groovy",
@@ -2058,7 +2058,7 @@
     "sector": "",
     "country": "",
     "description": "Dynamic JVM language for scripting",
-    "popular": true
+    "popular": false
   },
   {
     "name": "Gödel",
@@ -2076,7 +2076,7 @@
     "sector": "",
     "country": "",
     "description": "PHP dialect by Facebook",
-    "popular": true
+    "popular": false
   },
   {
     "name": "HAGGIS",
@@ -2103,7 +2103,7 @@
     "sector": "",
     "country": "",
     "description": "Statistical computing and graphics language",
-    "popular": true
+    "popular": false
   },
   {
     "name": "Hamilton C shell",
@@ -2112,7 +2112,7 @@
     "sector": "",
     "country": "",
     "description": "Low-level systems programming language",
-    "popular": true
+    "popular": false
   },
   {
     "name": "Harbour",
@@ -2121,7 +2121,7 @@
     "sector": "",
     "country": "",
     "description": "xBase compiler",
-    "popular": true
+    "popular": false
   },
   {
     "name": "Hartmann pipelines",
@@ -2130,7 +2130,7 @@
     "sector": "",
     "country": "",
     "description": "Statistical computing and graphics language",
-    "popular": true
+    "popular": false
   },
   {
     "name": "Haskell",
@@ -2157,7 +2157,7 @@
     "sector": "",
     "country": "",
     "description": "Statistical computing and graphics language",
-    "popular": true
+    "popular": false
   },
   {
     "name": "High Level Assembly",
@@ -2166,7 +2166,7 @@
     "sector": "",
     "country": "",
     "description": "Low-level processor instructions",
-    "popular": true
+    "popular": false
   },
   {
     "name": "History of programming languages",
@@ -2175,7 +2175,7 @@
     "sector": "",
     "country": "",
     "description": "Statistical computing and graphics language",
-    "popular": true
+    "popular": false
   },
   {
     "name": "Hollywood",
@@ -2193,12 +2193,12 @@
     "sector": "",
     "country": "",
     "description": "Low-level systems programming language",
-    "popular": true
+    "popular": false
   },
   {
     "name": "Hop",
     "url": "http://hop.inria.fr/",
-    "category": "Software",
+    "category": "Programming Language",
     "sector": "",
     "country": "",
     "description": "",
@@ -2211,7 +2211,7 @@
     "sector": "",
     "country": "",
     "description": "Low-level systems programming language",
-    "popular": true
+    "popular": false
   },
   {
     "name": "HTML",
@@ -2220,7 +2220,7 @@
     "sector": "",
     "country": "",
     "description": "Functional programming family",
-    "popular": false
+    "popular": true
   },
   {
     "name": "Hy",
@@ -2234,7 +2234,7 @@
   {
     "name": "IBM Basic assembly language",
     "url": "https://www.ibm.com/docs/en/hla-and-tf/1.6.0?topic=pdf-format-documentation",
-    "category": "Software",
+    "category": "Programming Language",
     "sector": "",
     "country": "",
     "description": "Low-level systems programming language",
@@ -2247,7 +2247,7 @@
     "sector": "",
     "country": "",
     "description": "Statistical computing and graphics language",
-    "popular": true
+    "popular": false
   },
   {
     "name": "Icon",
@@ -2256,12 +2256,12 @@
     "sector": "",
     "country": "",
     "description": "High-level pattern language",
-    "popular": true
+    "popular": false
   },
   {
     "name": "IDL",
     "url": "https://www.nv5geospatialsoftware.com/Products/IDL",
-    "category": "Software",
+    "category": "Programming Language",
     "sector": "",
     "country": "",
     "description": "Systems programming language",
@@ -2274,7 +2274,7 @@
     "sector": "",
     "country": "",
     "description": "Dependently typed language",
-    "popular": true
+    "popular": false
   },
   {
     "name": "Inform",
@@ -2283,16 +2283,16 @@
     "sector": "",
     "country": "",
     "description": "Interactive fiction language",
-    "popular": true
+    "popular": false
   },
   {
     "name": "Io",
     "url": "https://iolanguage.org/",
-    "category": "Software",
+    "category": "Programming Language",
     "sector": "",
     "country": "",
     "description": "Prototype-based language",
-    "popular": true
+    "popular": false
   },
   {
     "name": "ISLISP",
@@ -2301,7 +2301,7 @@
     "sector": "",
     "country": "",
     "description": "Family of functional programming languages",
-    "popular": true
+    "popular": false
   },
   {
     "name": "ISO/IEC 8652",
@@ -2310,7 +2310,7 @@
     "sector": "",
     "country": "",
     "description": "Low-level systems programming language",
-    "popular": true
+    "popular": false
   },
   {
     "name": "J# (J sharp)",
@@ -2319,7 +2319,7 @@
     "sector": "",
     "country": "",
     "description": "Statistical computing and graphics language",
-    "popular": true
+    "popular": false
   },
   {
     "name": "J++ (J plus plus)",
@@ -2364,7 +2364,7 @@
     "sector": "",
     "country": "",
     "description": "Low-level systems programming language",
-    "popular": true
+    "popular": false
   },
   {
     "name": "Janus (time-reversible computing programming language)",
@@ -2373,7 +2373,7 @@
     "sector": "",
     "country": "",
     "description": "Low-level systems programming language",
-    "popular": true
+    "popular": false
   },
   {
     "name": "JASS",
@@ -2387,11 +2387,11 @@
   {
     "name": "Java",
     "url": "https://www.oracle.com/java/",
-    "category": "Software",
+    "category": "Programming Language",
     "sector": "Enterprise",
     "country": "Worldwide",
     "description": "Popular enterprise and Android language",
-    "popular": false
+    "popular": true
   },
   {
     "name": "JavaScript",
@@ -2418,7 +2418,7 @@
     "sector": "",
     "country": "",
     "description": "Object-oriented language for enterprise apps",
-    "popular": true
+    "popular": false
   },
   {
     "name": "Joule",
@@ -2445,7 +2445,7 @@
     "sector": "",
     "country": "",
     "description": "Low-level systems programming language",
-    "popular": true
+    "popular": false
   },
   {
     "name": "JScript .NET",
@@ -2454,7 +2454,7 @@
     "sector": "",
     "country": "",
     "description": "Low-level systems programming language",
-    "popular": true
+    "popular": false
   },
   {
     "name": "Julia",
@@ -2481,7 +2481,7 @@
     "sector": "",
     "country": "",
     "description": "Statistical computing and graphics language",
-    "popular": true
+    "popular": false
   },
   {
     "name": "Kent Recursive Calculator",
@@ -2490,7 +2490,7 @@
     "sector": "",
     "country": "",
     "description": "Low-level systems programming language",
-    "popular": true
+    "popular": false
   },
   {
     "name": "KiXtart",
@@ -2499,7 +2499,7 @@
     "sector": "",
     "country": "",
     "description": "Statistical computing and graphics language",
-    "popular": true
+    "popular": false
   },
   {
     "name": "Klerer-May System",
@@ -2508,7 +2508,7 @@
     "sector": "",
     "country": "",
     "description": "Statistical computing and graphics language",
-    "popular": true
+    "popular": false
   },
   {
     "name": "Kodu",
@@ -2535,7 +2535,7 @@
     "sector": "",
     "country": "",
     "description": "Statistical computing and graphics language",
-    "popular": true
+    "popular": false
   },
   {
     "name": "Kotlin",
@@ -2553,7 +2553,7 @@
     "sector": "",
     "country": "",
     "description": "Statistical computing and graphics language",
-    "popular": true
+    "popular": false
   },
   {
     "name": "Kv (Kivy)",
@@ -2567,11 +2567,11 @@
   {
     "name": "LabVIEW",
     "url": "https://www.ni.com/labview",
-    "category": "Software",
+    "category": "Programming Language",
     "sector": "",
     "country": "",
     "description": "Visual programming for hardware",
-    "popular": true
+    "popular": false
   },
   {
     "name": "Ladder",
@@ -2580,7 +2580,7 @@
     "sector": "",
     "country": "",
     "description": "Statistical computing and graphics language",
-    "popular": true
+    "popular": false
   },
   {
     "name": "LANSA",
@@ -2616,7 +2616,7 @@
     "sector": "",
     "country": "",
     "description": "Low-level systems programming language",
-    "popular": true
+    "popular": false
   },
   {
     "name": "LIL",
@@ -2643,7 +2643,7 @@
     "sector": "",
     "country": "",
     "description": "Low-level systems programming language",
-    "popular": true
+    "popular": false
   },
   {
     "name": "Lingo",
@@ -2652,7 +2652,7 @@
     "sector": "",
     "country": "",
     "description": "Director scripting language",
-    "popular": true
+    "popular": false
   },
   {
     "name": "LINQ",
@@ -2670,7 +2670,7 @@
     "sector": "",
     "country": "",
     "description": "Family of functional programming languages",
-    "popular": true
+    "popular": false
   },
   {
     "name": "LISA",
@@ -2697,7 +2697,7 @@
     "sector": "",
     "country": "",
     "description": "Low-level systems programming language",
-    "popular": true
+    "popular": false
   },
   {
     "name": "LiveScript",
@@ -2706,7 +2706,7 @@
     "sector": "",
     "country": "",
     "description": "Low-level systems programming language",
-    "popular": true
+    "popular": false
   },
   {
     "name": "LLL",
@@ -2724,7 +2724,7 @@
     "sector": "",
     "country": "",
     "description": "Educational programming language",
-    "popular": true
+    "popular": false
   },
   {
     "name": "Logtalk",
@@ -2738,7 +2738,7 @@
   {
     "name": "LotusScript",
     "url": "http://www.ibm.com/developerworks/lotus/documentation/dominodesigner/",
-    "category": "Software",
+    "category": "Programming Language",
     "sector": "",
     "country": "",
     "description": "Notes/Domino scripting",
@@ -2751,7 +2751,7 @@
     "sector": "",
     "country": "",
     "description": "Low-level systems programming language",
-    "popular": true
+    "popular": false
   },
   {
     "name": "LSE",
@@ -2787,7 +2787,7 @@
     "sector": "",
     "country": "",
     "description": "Lightweight embeddable scripting language",
-    "popular": true
+    "popular": false
   },
   {
     "name": "Lucid",
@@ -2796,7 +2796,7 @@
     "sector": "",
     "country": "",
     "description": "Low-level systems programming language",
-    "popular": true
+    "popular": false
   },
   {
     "name": "Lustre",
@@ -2805,7 +2805,7 @@
     "sector": "",
     "country": "",
     "description": "Statistical computing and graphics language",
-    "popular": true
+    "popular": false
   },
   {
     "name": "LYaPAS",
@@ -2832,7 +2832,7 @@
     "sector": "",
     "country": "",
     "description": "Statistical computing and graphics language",
-    "popular": true
+    "popular": false
   },
   {
     "name": "M4",
@@ -2850,12 +2850,12 @@
     "sector": "",
     "country": "",
     "description": "Low-level systems programming language",
-    "popular": true
+    "popular": false
   },
   {
     "name": "Magik",
     "url": "http://www.ge-energy.com/products_and_services/products/geospatial_systems_and_mobile_workforce/index.jsp",
-    "category": "Software",
+    "category": "Programming Language",
     "sector": "",
     "country": "",
     "description": "Array programming for finance",
@@ -2873,7 +2873,7 @@
   {
     "name": "Maple",
     "url": "https://www.maplesoft.com/products/maple/",
-    "category": "Software",
+    "category": "Programming Language",
     "sector": "",
     "country": "",
     "description": "Computer algebra system",
@@ -2886,7 +2886,7 @@
     "sector": "",
     "country": "",
     "description": "Statistical computing and graphics language",
-    "popular": true
+    "popular": false
   },
   {
     "name": "markup languages",
@@ -2895,7 +2895,7 @@
     "sector": "",
     "country": "",
     "description": "Statistical computing and graphics language",
-    "popular": true
+    "popular": false
   },
   {
     "name": "MASM Microsoft Assembly x86",
@@ -2904,12 +2904,12 @@
     "sector": "",
     "country": "",
     "description": "Low-level systems programming language",
-    "popular": true
+    "popular": false
   },
   {
     "name": "MATLAB",
     "url": "https://www.mathworks.com/products/matlab.html",
-    "category": "Software",
+    "category": "Programming Language",
     "sector": "Scientific",
     "country": "Worldwide",
     "description": "Numeric computing environment",
@@ -2927,7 +2927,7 @@
   {
     "name": "Max",
     "url": "https://cycling74.com/products/max",
-    "category": "Software",
+    "category": "Programming Language",
     "sector": "",
     "country": "",
     "description": "3ds Max scripting",
@@ -2945,7 +2945,7 @@
   {
     "name": "MaxScript",
     "url": "https://www.autodesk.com/products/3ds-max/overview",
-    "category": "Software",
+    "category": "Programming Language",
     "sector": "",
     "country": "",
     "description": "3ds Max scripting",
@@ -2954,7 +2954,7 @@
   {
     "name": "Maya (MEL)",
     "url": "https://www.autodesk.com/products/maya/overview",
-    "category": "Software",
+    "category": "Programming Language",
     "sector": "",
     "country": "",
     "description": "Capability-based language",
@@ -2967,7 +2967,7 @@
     "sector": "",
     "country": "",
     "description": "Logic/functional language",
-    "popular": true
+    "popular": false
   },
   {
     "name": "MHEG-5 (Interactive TV programming language)",
@@ -2976,7 +2976,7 @@
     "sector": "",
     "country": "",
     "description": "Low-level systems programming language",
-    "popular": true
+    "popular": false
   },
   {
     "name": "Microcode",
@@ -2985,7 +2985,7 @@
     "sector": "",
     "country": "",
     "description": "Low-level systems programming language",
-    "popular": true
+    "popular": false
   },
   {
     "name": "Microsoft Power Fx",
@@ -2994,7 +2994,7 @@
     "sector": "",
     "country": "",
     "description": "Low-level systems programming language",
-    "popular": true
+    "popular": false
   },
   {
     "name": "MIMIC",
@@ -3003,7 +3003,7 @@
     "sector": "",
     "country": "",
     "description": "Low-level systems programming language",
-    "popular": true
+    "popular": false
   },
   {
     "name": "Mirah",
@@ -3012,7 +3012,7 @@
     "sector": "",
     "country": "",
     "description": "Ruby-like JVM language",
-    "popular": true
+    "popular": false
   },
   {
     "name": "Miranda",
@@ -3021,7 +3021,7 @@
     "sector": "",
     "country": "",
     "description": "Statistical computing and graphics language",
-    "popular": true
+    "popular": false
   },
   {
     "name": "MIVA Script",
@@ -3030,7 +3030,7 @@
     "sector": "",
     "country": "",
     "description": "Low-level systems programming language",
-    "popular": true
+    "popular": false
   },
   {
     "name": "ML",
@@ -3057,7 +3057,7 @@
     "sector": "",
     "country": "",
     "description": "Low-level systems programming language",
-    "popular": true
+    "popular": false
   },
   {
     "name": "Modula-2",
@@ -3102,7 +3102,7 @@
     "sector": "",
     "country": "",
     "description": "Statistical computing and graphics language",
-    "popular": true
+    "popular": false
   },
   {
     "name": "Mouse",
@@ -3143,7 +3143,7 @@
   {
     "name": "MuPAD",
     "url": "https://www.mathworks.com/discovery/mupad.html",
-    "category": "Software",
+    "category": "Programming Language",
     "sector": "",
     "country": "",
     "description": "Computer algebra system",
@@ -3156,7 +3156,7 @@
     "sector": "",
     "country": "",
     "description": "Low-level systems programming language",
-    "popular": true
+    "popular": false
   },
   {
     "name": "Napier88",
@@ -3165,7 +3165,7 @@
     "sector": "",
     "country": "",
     "description": "Statistical computing and graphics language",
-    "popular": true
+    "popular": false
   },
   {
     "name": "NASM",
@@ -3192,7 +3192,7 @@
     "sector": "",
     "country": "",
     "description": "Statistical computing and graphics language",
-    "popular": true
+    "popular": false
   },
   {
     "name": "NESL",
@@ -3206,7 +3206,7 @@
   {
     "name": "Net.Data",
     "url": "http://www-306.ibm.com/software/data/net.data/",
-    "category": "Software",
+    "category": "Programming Language",
     "sector": "",
     "country": "",
     "description": "Systems programming language",
@@ -3219,7 +3219,7 @@
     "sector": "",
     "country": "",
     "description": "Fast, statically typed language by Google",
-    "popular": true
+    "popular": false
   },
   {
     "name": "NetRexx",
@@ -3228,7 +3228,7 @@
     "sector": "",
     "country": "",
     "description": "REXX for JVM",
-    "popular": true
+    "popular": false
   },
   {
     "name": "NewLISP",
@@ -3237,7 +3237,7 @@
     "sector": "",
     "country": "",
     "description": "Scripting Lisp dialect",
-    "popular": true
+    "popular": false
   },
   {
     "name": "Newspeak",
@@ -3255,7 +3255,7 @@
     "sector": "",
     "country": "",
     "description": "Low-level systems programming language",
-    "popular": true
+    "popular": false
   },
   {
     "name": "Nial",
@@ -3269,7 +3269,7 @@
   {
     "name": "Nim",
     "url": "http://nim-lang.org",
-    "category": "Software",
+    "category": "Programming Language",
     "sector": "",
     "country": "",
     "description": "Efficient compiled systems language",
@@ -3291,7 +3291,7 @@
     "sector": "",
     "country": "",
     "description": "Low-level systems programming language",
-    "popular": true
+    "popular": false
   },
   {
     "name": "Nu",
@@ -3309,7 +3309,7 @@
     "sector": "",
     "country": "",
     "description": "Low-level systems programming language",
-    "popular": true
+    "popular": false
   },
   {
     "name": "NWScript",
@@ -3318,7 +3318,7 @@
     "sector": "",
     "country": "",
     "description": "Low-level systems programming language",
-    "popular": true
+    "popular": false
   },
   {
     "name": "o:XML",
@@ -3336,7 +3336,7 @@
     "sector": "",
     "country": "",
     "description": "Modula variant",
-    "popular": true
+    "popular": false
   },
   {
     "name": "Object Lisp",
@@ -3345,7 +3345,7 @@
     "sector": "",
     "country": "",
     "description": "Low-level systems programming language",
-    "popular": true
+    "popular": false
   },
   {
     "name": "Object Pascal",
@@ -3354,7 +3354,7 @@
     "sector": "",
     "country": "",
     "description": "OO Pascal variant",
-    "popular": true
+    "popular": false
   },
   {
     "name": "Object REXX",
@@ -3363,7 +3363,7 @@
     "sector": "",
     "country": "",
     "description": "Low-level systems programming language",
-    "popular": true
+    "popular": false
   },
   {
     "name": "Objective-C",
@@ -3381,7 +3381,7 @@
     "sector": "",
     "country": "",
     "description": "High-performance systems programming language",
-    "popular": true
+    "popular": false
   },
   {
     "name": "ObjectLOGO",
@@ -3390,7 +3390,7 @@
     "sector": "",
     "country": "",
     "description": "Low-level systems programming language",
-    "popular": true
+    "popular": false
   },
   {
     "name": "Obliq",
@@ -3408,7 +3408,7 @@
     "sector": "",
     "country": "",
     "description": "Functional language with type inference",
-    "popular": true
+    "popular": false
   },
   {
     "name": "occam",
@@ -3417,7 +3417,7 @@
     "sector": "",
     "country": "",
     "description": "Concurrent programming language",
-    "popular": true
+    "popular": false
   },
   {
     "name": "occam-π",
@@ -3426,7 +3426,7 @@
     "sector": "",
     "country": "",
     "description": "Concurrent programming language",
-    "popular": true
+    "popular": false
   },
   {
     "name": "Odin",
@@ -3440,7 +3440,7 @@
   {
     "name": "OmniMark",
     "url": "http://www.stilo.com/products/omnimark/",
-    "category": "Software",
+    "category": "Programming Language",
     "sector": "",
     "country": "",
     "description": "Statistical computing and graphics language",
@@ -3462,7 +3462,7 @@
     "sector": "",
     "country": "",
     "description": "Statistical computing and graphics language",
-    "popular": true
+    "popular": false
   },
   {
     "name": "OpenCL",
@@ -3471,7 +3471,7 @@
     "sector": "",
     "country": "",
     "description": "Low-level systems programming language",
-    "popular": true
+    "popular": false
   },
   {
     "name": "OpenEdge Advanced Business Language",
@@ -3480,7 +3480,7 @@
     "sector": "",
     "country": "",
     "description": "Low-level systems programming language",
-    "popular": true
+    "popular": false
   },
   {
     "name": "OpenGL Shading Language",
@@ -3521,11 +3521,11 @@
   {
     "name": "Orc",
     "url": "https://orc.csres.utexas.edu/",
-    "category": "Software",
+    "category": "Programming Language",
     "sector": "",
     "country": "",
     "description": "Low-level systems programming language",
-    "popular": true
+    "popular": false
   },
   {
     "name": "Oriel",
@@ -3534,7 +3534,7 @@
     "sector": "",
     "country": "",
     "description": "Statistical computing and graphics language",
-    "popular": true
+    "popular": false
   },
   {
     "name": "Oxygene",
@@ -3570,7 +3570,7 @@
     "sector": "",
     "country": "",
     "description": "Parallel language",
-    "popular": true
+    "popular": false
   },
   {
     "name": "PARI/GP",
@@ -3579,7 +3579,7 @@
     "sector": "",
     "country": "",
     "description": "Statistical computing and graphics language",
-    "popular": true
+    "popular": false
   },
   {
     "name": "Pascal Script",
@@ -3588,7 +3588,7 @@
     "sector": "",
     "country": "",
     "description": "Procedural programming language",
-    "popular": true
+    "popular": false
   },
   {
     "name": "PCASTL",
@@ -3597,7 +3597,7 @@
     "sector": "",
     "country": "",
     "description": "Low-level systems programming language",
-    "popular": true
+    "popular": false
   },
   {
     "name": "PDL",
@@ -3611,7 +3611,7 @@
   {
     "name": "PeopleCode",
     "url": "http://download.oracle.com/docs/cd/E05317_01/psft/html/docset.html",
-    "category": "Software",
+    "category": "Programming Language",
     "sector": "",
     "country": "",
     "description": "Low-level systems programming language",
@@ -3633,7 +3633,7 @@
     "sector": "",
     "country": "",
     "description": "Statistical computing and graphics language",
-    "popular": true
+    "popular": false
   },
   {
     "name": "PHP",
@@ -3651,7 +3651,7 @@
     "sector": "",
     "country": "",
     "description": "Low-level systems programming language",
-    "popular": true
+    "popular": false
   },
   {
     "name": "Picolisp",
@@ -3660,7 +3660,7 @@
     "sector": "",
     "country": "",
     "description": "Low-level systems programming language",
-    "popular": true
+    "popular": false
   },
   {
     "name": "Pict",
@@ -3669,7 +3669,7 @@
     "sector": "",
     "country": "",
     "description": "Concurrent pi-calculus",
-    "popular": true
+    "popular": false
   },
   {
     "name": "Pike",
@@ -3732,7 +3732,7 @@
     "sector": "",
     "country": "",
     "description": "Low-level systems programming language",
-    "popular": true
+    "popular": false
   },
   {
     "name": "PL/M",
@@ -3759,7 +3759,7 @@
     "sector": "",
     "country": "",
     "description": "Standard language for relational databases",
-    "popular": true
+    "popular": false
   },
   {
     "name": "PL360",
@@ -3831,7 +3831,7 @@
     "sector": "",
     "country": "",
     "description": "Statistical computing and graphics language",
-    "popular": true
+    "popular": false
   },
   {
     "name": "POV-Ray SDL",
@@ -3840,7 +3840,7 @@
     "sector": "",
     "country": "",
     "description": "Statistical computing and graphics language",
-    "popular": true
+    "popular": false
   },
   {
     "name": "PowerBuilder",
@@ -3849,12 +3849,12 @@
     "sector": "",
     "country": "",
     "description": "Statistical computing and graphics language",
-    "popular": true
+    "popular": false
   },
   {
     "name": "Powerhouse",
     "url": "https://teamblue.unicomsi.com/products/powerhouse-4gl/",
-    "category": "Software",
+    "category": "Programming Language",
     "sector": "",
     "country": "",
     "description": "Statistical computing and graphics language",
@@ -3876,7 +3876,7 @@
     "sector": "",
     "country": "",
     "description": "Low-level systems programming language",
-    "popular": true
+    "popular": false
   },
   {
     "name": "Processing",
@@ -3885,7 +3885,7 @@
     "sector": "",
     "country": "",
     "description": "Visual arts programming",
-    "popular": true
+    "popular": false
   },
   {
     "name": "Processing.js",
@@ -3894,7 +3894,7 @@
     "sector": "",
     "country": "",
     "description": "Low-level systems programming language",
-    "popular": true
+    "popular": false
   },
   {
     "name": "Prograph",
@@ -3903,12 +3903,12 @@
     "sector": "",
     "country": "",
     "description": "Statistical computing and graphics language",
-    "popular": true
+    "popular": false
   },
   {
     "name": "Project Verona",
     "url": "https://www.microsoft.com/en-us/research/project/project-verona",
-    "category": "Software",
+    "category": "Programming Language",
     "sector": "",
     "country": "",
     "description": "Low-level systems programming language",
@@ -3930,7 +3930,7 @@
     "sector": "",
     "country": "",
     "description": "Statistical computing and graphics language",
-    "popular": true
+    "popular": false
   },
   {
     "name": "Promela",
@@ -3939,7 +3939,7 @@
     "sector": "",
     "country": "",
     "description": "Statistical computing and graphics language",
-    "popular": true
+    "popular": false
   },
   {
     "name": "PROSE modeling language",
@@ -3948,7 +3948,7 @@
     "sector": "",
     "country": "",
     "description": "Statistical computing and graphics language",
-    "popular": true
+    "popular": false
   },
   {
     "name": "Pure",
@@ -3957,7 +3957,7 @@
     "sector": "",
     "country": "",
     "description": "Functional language",
-    "popular": true
+    "popular": false
   },
   {
     "name": "Pure Data",
@@ -3966,7 +3966,7 @@
     "sector": "",
     "country": "",
     "description": "Functional language",
-    "popular": true
+    "popular": false
   },
   {
     "name": "PureScript",
@@ -3975,7 +3975,7 @@
     "sector": "",
     "country": "",
     "description": "Strongly-typed functional for JS",
-    "popular": true
+    "popular": false
   },
   {
     "name": "Python",
@@ -4011,7 +4011,7 @@
     "sector": "",
     "country": "",
     "description": "Low-level systems programming language",
-    "popular": true
+    "popular": false
   },
   {
     "name": "QuakeC",
@@ -4020,7 +4020,7 @@
     "sector": "",
     "country": "",
     "description": "Low-level systems programming language",
-    "popular": true
+    "popular": false
   },
   {
     "name": "Raku",
@@ -4029,7 +4029,7 @@
     "sector": "",
     "country": "",
     "description": "Expressive multi-paradigm language",
-    "popular": true
+    "popular": false
   },
   {
     "name": "Rapira",
@@ -4038,7 +4038,7 @@
     "sector": "",
     "country": "",
     "description": "Educational language",
-    "popular": true
+    "popular": false
   },
   {
     "name": "Ratfiv",
@@ -4047,7 +4047,7 @@
     "sector": "",
     "country": "",
     "description": "Statistical computing and graphics language",
-    "popular": true
+    "popular": false
   },
   {
     "name": "Reason",
@@ -4056,7 +4056,7 @@
     "sector": "",
     "country": "",
     "description": "Syntax for OCaml",
-    "popular": true
+    "popular": false
   },
   {
     "name": "REBOL",
@@ -4065,7 +4065,7 @@
     "sector": "",
     "country": "",
     "description": "Messaging language",
-    "popular": true
+    "popular": false
   },
   {
     "name": "Red",
@@ -4074,7 +4074,7 @@
     "sector": "",
     "country": "",
     "description": "Full-stack programming language",
-    "popular": true
+    "popular": false
   },
   {
     "name": "Redcode",
@@ -4083,7 +4083,7 @@
     "sector": "",
     "country": "",
     "description": "Low-level systems programming language",
-    "popular": true
+    "popular": false
   },
   {
     "name": "REFAL",
@@ -4092,7 +4092,7 @@
     "sector": "",
     "country": "",
     "description": "Pattern matching language",
-    "popular": true
+    "popular": false
   },
   {
     "name": "ReScript",
@@ -4101,7 +4101,7 @@
     "sector": "",
     "country": "",
     "description": "Low-level systems programming language",
-    "popular": true
+    "popular": false
   },
   {
     "name": "Rocq",
@@ -4110,7 +4110,7 @@
     "sector": "",
     "country": "",
     "description": "Low-level systems programming language",
-    "popular": true
+    "popular": false
   },
   {
     "name": "RPL",
@@ -4119,7 +4119,7 @@
     "sector": "",
     "country": "",
     "description": "Statistical computing and graphics language",
-    "popular": true
+    "popular": false
   },
   {
     "name": "RTL/2",
@@ -4128,7 +4128,7 @@
     "sector": "",
     "country": "",
     "description": "Statistical computing and graphics language",
-    "popular": true
+    "popular": false
   },
   {
     "name": "Ruby",
@@ -4182,12 +4182,12 @@
     "sector": "",
     "country": "",
     "description": "Low-level systems programming language",
-    "popular": true
+    "popular": false
   },
   {
     "name": "SAS",
     "url": "https://www.sas.com",
-    "category": "Software",
+    "category": "Programming Language",
     "sector": "",
     "country": "",
     "description": "",
@@ -4200,7 +4200,7 @@
     "sector": "",
     "country": "",
     "description": "Object-oriented language",
-    "popular": true
+    "popular": false
   },
   {
     "name": "Sawzall",
@@ -4245,7 +4245,7 @@
     "sector": "",
     "country": "",
     "description": "Numerical computing",
-    "popular": true
+    "popular": false
   },
   {
     "name": "Scratch",
@@ -4254,7 +4254,7 @@
     "sector": "",
     "country": "",
     "description": "Visual educational language",
-    "popular": true
+    "popular": false
   },
   {
     "name": "ScratchJr",
@@ -4263,7 +4263,7 @@
     "sector": "",
     "country": "",
     "description": "Low-level systems programming language",
-    "popular": true
+    "popular": false
   },
   {
     "name": "Script.NET",
@@ -4272,7 +4272,7 @@
     "sector": "",
     "country": "",
     "description": "Low-level systems programming language",
-    "popular": true
+    "popular": false
   },
   {
     "name": "Sed",
@@ -4317,7 +4317,7 @@
     "sector": "",
     "country": "",
     "description": "Low-level systems programming language",
-    "popular": true
+    "popular": false
   },
   {
     "name": "SETL",
@@ -4344,7 +4344,7 @@
     "sector": "",
     "country": "",
     "description": "Low-level systems programming language",
-    "popular": true
+    "popular": false
   },
   {
     "name": "SIGNAL",
@@ -4385,7 +4385,7 @@
   {
     "name": "Simulink",
     "url": "https://www.mathworks.com/products/simulink.html",
-    "category": "Software",
+    "category": "Programming Language",
     "sector": "",
     "country": "",
     "description": "Array programming for finance",
@@ -4407,7 +4407,7 @@
     "sector": "",
     "country": "",
     "description": "Low-level systems programming language",
-    "popular": true
+    "popular": false
   },
   {
     "name": "SKILL",
@@ -4479,7 +4479,7 @@
     "sector": "",
     "country": "",
     "description": "Low-level systems programming language",
-    "popular": true
+    "popular": false
   },
   {
     "name": "SP/k",
@@ -4497,7 +4497,7 @@
     "sector": "",
     "country": "",
     "description": "Statistical computing and graphics language",
-    "popular": true
+    "popular": false
   },
   {
     "name": "Speedcode",
@@ -4506,7 +4506,7 @@
     "sector": "",
     "country": "",
     "description": "Low-level systems programming language",
-    "popular": true
+    "popular": false
   },
   {
     "name": "SPITBOL",
@@ -4520,7 +4520,7 @@
   {
     "name": "SPL",
     "url": "https://www.hp.com/hpinfo/abouthp/histnfacts/museum/earlyinstruments/0001/0001history.html",
-    "category": "Software",
+    "category": "Programming Language",
     "sector": "",
     "country": "",
     "description": "",
@@ -4551,7 +4551,7 @@
     "sector": "",
     "country": "",
     "description": "Game scripting language",
-    "popular": true
+    "popular": false
   },
   {
     "name": "SR",
@@ -4560,7 +4560,7 @@
     "sector": "",
     "country": "",
     "description": "Statistical computing and graphics language",
-    "popular": true
+    "popular": false
   },
   {
     "name": "Starlogo",
@@ -4569,12 +4569,12 @@
     "sector": "",
     "country": "",
     "description": "Fast, statically typed language by Google",
-    "popular": true
+    "popular": false
   },
   {
     "name": "Stata",
     "url": "https://www.stata.com/",
-    "category": "Software",
+    "category": "Programming Language",
     "sector": "",
     "country": "",
     "description": "Statistical analysis language",
@@ -4583,7 +4583,7 @@
   {
     "name": "Stateflow",
     "url": "http://www.mathworks.com/products/stateflow?s_cid=wiki_stateflow_2",
-    "category": "Software",
+    "category": "Programming Language",
     "sector": "",
     "country": "",
     "description": "Capability-based language",
@@ -4596,7 +4596,7 @@
     "sector": "",
     "country": "",
     "description": "Statistical computing and graphics language",
-    "popular": true
+    "popular": false
   },
   {
     "name": "Structured Text",
@@ -4605,7 +4605,7 @@
     "sector": "",
     "country": "",
     "description": "Low-level systems programming language",
-    "popular": true
+    "popular": false
   },
   {
     "name": "Subtext",
@@ -4623,7 +4623,7 @@
     "sector": "",
     "country": "",
     "description": "Audio synthesis language",
-    "popular": true
+    "popular": false
   },
   {
     "name": "Swift",
@@ -4641,7 +4641,7 @@
     "sector": "",
     "country": "",
     "description": "Modern language for Apple platforms",
-    "popular": true
+    "popular": false
   },
   {
     "name": "Swift (parallel scripting language)",
@@ -4650,7 +4650,7 @@
     "sector": "",
     "country": "",
     "description": "Modern language for Apple platforms",
-    "popular": true
+    "popular": false
   },
   {
     "name": "SYCL",
@@ -4659,7 +4659,7 @@
     "sector": "",
     "country": "",
     "description": "Low-level systems programming language",
-    "popular": true
+    "popular": false
   },
   {
     "name": "SYMPL",
@@ -4677,7 +4677,7 @@
     "sector": "",
     "country": "",
     "description": "Low-level systems programming language",
-    "popular": true
+    "popular": false
   },
   {
     "name": "TADS (Text Adventure Development System)",
@@ -4686,7 +4686,7 @@
     "sector": "",
     "country": "",
     "description": "Interactive fiction language",
-    "popular": true
+    "popular": false
   },
   {
     "name": "TAL",
@@ -4704,12 +4704,12 @@
     "sector": "",
     "country": "",
     "description": "Dynamic scripting language",
-    "popular": true
+    "popular": false
   },
   {
     "name": "Tea",
     "url": "https://github.com/jorgefranconunes/tea",
-    "category": "Software",
+    "category": "Programming Language",
     "sector": "",
     "country": "",
     "description": "Scripting language",
@@ -4758,7 +4758,7 @@
     "sector": "",
     "country": "",
     "description": "Low-level systems programming language",
-    "popular": true
+    "popular": false
   },
   {
     "name": "Transcript (LiveCode)",
@@ -4767,7 +4767,7 @@
     "sector": "",
     "country": "",
     "description": "Low-level systems programming language",
-    "popular": true
+    "popular": false
   },
   {
     "name": "TTCN (Tree and Tabular Combined Notation)",
@@ -4776,7 +4776,7 @@
     "sector": "",
     "country": "",
     "description": "Low-level systems programming language",
-    "popular": true
+    "popular": false
   },
   {
     "name": "TTM",
@@ -4794,7 +4794,7 @@
     "sector": "",
     "country": "",
     "description": "Educational language",
-    "popular": true
+    "popular": false
   },
   {
     "name": "Turing-complete",
@@ -4803,7 +4803,7 @@
     "sector": "",
     "country": "",
     "description": "Low-level systems programming language",
-    "popular": true
+    "popular": false
   },
   {
     "name": "TXL",
@@ -4821,7 +4821,7 @@
     "sector": "",
     "country": "",
     "description": "Statistical computing and graphics language",
-    "popular": true
+    "popular": false
   },
   {
     "name": "TypeScript",
@@ -4839,7 +4839,7 @@
     "sector": "",
     "country": "",
     "description": "Low-level systems programming language",
-    "popular": true
+    "popular": false
   },
   {
     "name": "Umple",
@@ -4857,7 +4857,7 @@
     "sector": "",
     "country": "",
     "description": "Low-level systems programming language",
-    "popular": true
+    "popular": false
   },
   {
     "name": "Uniface",
@@ -4866,7 +4866,7 @@
     "sector": "",
     "country": "",
     "description": "Low-level systems programming language",
-    "popular": true
+    "popular": false
   },
   {
     "name": "Unreal Engine",
@@ -4884,7 +4884,7 @@
     "sector": "",
     "country": "",
     "description": "Unreal Engine scripting",
-    "popular": true
+    "popular": false
   },
   {
     "name": "Vala",
@@ -4902,7 +4902,7 @@
     "sector": "",
     "country": "",
     "description": "Low-level systems programming language",
-    "popular": true
+    "popular": false
   },
   {
     "name": "Viper (Ethereum/Ether (ETH))",
@@ -4911,7 +4911,7 @@
     "sector": "",
     "country": "",
     "description": "Statistical computing and graphics language",
-    "popular": true
+    "popular": false
   },
   {
     "name": "Visual DataFlex",
@@ -4920,7 +4920,7 @@
     "sector": "",
     "country": "",
     "description": "Systems programming language",
-    "popular": true
+    "popular": false
   },
   {
     "name": "Visual DialogScript",
@@ -4929,7 +4929,7 @@
     "sector": "",
     "country": "",
     "description": "Low-level systems programming language",
-    "popular": true
+    "popular": false
   },
   {
     "name": "Visual FoxPro",
@@ -4938,7 +4938,7 @@
     "sector": "",
     "country": "",
     "description": "Statistical computing and graphics language",
-    "popular": true
+    "popular": false
   },
   {
     "name": "Visual Objects",
@@ -4947,7 +4947,7 @@
     "sector": "",
     "country": "",
     "description": "Low-level systems programming language",
-    "popular": true
+    "popular": false
   },
   {
     "name": "Visual Prolog",
@@ -4956,7 +4956,7 @@
     "sector": "",
     "country": "",
     "description": "Statistical computing and graphics language",
-    "popular": true
+    "popular": false
   },
   {
     "name": "WATFIV",
@@ -4974,7 +4974,7 @@
     "sector": "",
     "country": "",
     "description": "Binary instruction format",
-    "popular": true
+    "popular": false
   },
   {
     "name": "Whiley",
@@ -4988,7 +4988,7 @@
   {
     "name": "Wolfram Language",
     "url": "https://www.wolfram.com/language/",
-    "category": "Software",
+    "category": "Programming Language",
     "sector": "",
     "country": "",
     "description": "Computational language",
@@ -5001,12 +5001,12 @@
     "sector": "",
     "country": "",
     "description": "Statistical computing and graphics language",
-    "popular": true
+    "popular": false
   },
   {
     "name": "X++ (X plus plus/Microsoft Dynamics AX)",
     "url": "https://www.microsoft.com/en-us/dynamics-365",
-    "category": "Software",
+    "category": "Programming Language",
     "sector": "",
     "country": "",
     "description": "Low-level systems programming language",
@@ -5033,7 +5033,7 @@
   {
     "name": "XC",
     "url": "http://www.xmos.com/",
-    "category": "Software",
+    "category": "Programming Language",
     "sector": "",
     "country": "",
     "description": "Concurrent systems language",
@@ -5055,7 +5055,7 @@
     "sector": "",
     "country": "",
     "description": "Low-level systems programming language",
-    "popular": true
+    "popular": false
   },
   {
     "name": "Xod",
@@ -5082,7 +5082,7 @@
     "sector": "",
     "country": "",
     "description": "Low-level systems programming language",
-    "popular": true
+    "popular": false
   },
   {
     "name": "XPL",
@@ -5109,7 +5109,7 @@
     "sector": "",
     "country": "",
     "description": "XML query language",
-    "popular": true
+    "popular": false
   },
   {
     "name": "XSB",
@@ -5145,7 +5145,7 @@
     "sector": "",
     "country": "",
     "description": "Scientific computing language",
-    "popular": true
+    "popular": false
   },
   {
     "name": "YQL",
@@ -6063,7 +6063,7 @@
     "sector": "",
     "country": "",
     "description": "Low-level systems programming language",
-    "popular": true
+    "popular": false
   },
   {
     "name": "\"Download :: Concrete CMS - Org\"",
@@ -6108,7 +6108,7 @@
     "sector": "",
     "country": "",
     "description": "High-level, general-purpose programming language",
-    "popular": true
+    "popular": false
   },
   {
     "name": "\"Embarcadero Delphi Product Page\"",
@@ -6468,7 +6468,7 @@
     "sector": "",
     "country": "",
     "description": "High-level text processing language",
-    "popular": true
+    "popular": false
   },
   {
     "name": "\"Peygir Project and Team Management System\"",
@@ -7008,7 +7008,7 @@
     "sector": "",
     "country": "",
     "description": "Event-driven language by Microsoft",
-    "popular": true
+    "popular": false
   },
   {
     "name": "\"WebStorm 2019.1: smart intentions for JavaScript, improvements in Angular support, updated CSS and HTML docs, and new debug console\"",
@@ -7044,7 +7044,7 @@
     "sector": "",
     "country": "",
     "description": "Statistical computing and graphics language",
-    "popular": true
+    "popular": false
   },
   {
     "name": "\"À propos de nous - nopCommerce\"",
@@ -7353,15 +7353,6 @@
     "popular": false
   },
   {
-    "name": "Apache 2.0",
-    "url": "https://www.apache.org/licenses/",
-    "category": "Tool",
-    "sector": "",
-    "country": "",
-    "description": "Low-level systems programming language",
-    "popular": true
-  },
-  {
     "name": "Apache Allura",
     "url": "https://allura.apache.org",
     "category": "Tool",
@@ -7391,15 +7382,6 @@
   {
     "name": "Apache Jackrabbit",
     "url": "https://jackrabbit.apache.org/",
-    "category": "Tool",
-    "sector": "",
-    "country": "",
-    "description": "Low-level systems programming language",
-    "popular": true
-  },
-  {
-    "name": "Apache License 2.0",
-    "url": "https://www.apache.org/licenses/",
     "category": "Tool",
     "sector": "",
     "country": "",
@@ -8507,11 +8489,11 @@
   {
     "name": "CSS",
     "url": "https://w3.org/TR/CSS/#css",
-    "category": "Tool",
+    "category": "Programming Language",
     "sector": "",
     "country": "",
     "description": "Low-level systems programming language",
-    "popular": false
+    "popular": true
   },
   {
     "name": "CVS",
@@ -8565,7 +8547,7 @@
     "sector": "",
     "country": "",
     "description": "RAD tool for native applications",
-    "popular": true
+    "popular": false
   },
   {
     "name": "dead link",
@@ -8925,7 +8907,7 @@
     "sector": "",
     "country": "",
     "description": "Stream editor for text transformation",
-    "popular": true
+    "popular": false
   },
   {
     "name": "Eddie",
@@ -9222,7 +9204,7 @@
     "sector": "Design",
     "country": "Worldwide",
     "description": "Collaborative UI design tool",
-    "popular": true
+    "popular": false
   },
   {
     "name": "FinancialForce.com",
@@ -9936,42 +9918,6 @@
     "popular": false
   },
   {
-    "name": "https://blog.spip.net/Mise-a-jour-corrective-sortie-de-SPIP-4-4-11.html",
-    "url": "https://blog.spip.net/Mise-a-jour-corrective-sortie-de-SPIP-4-4-11.html",
-    "category": "Tool",
-    "sector": "",
-    "country": "",
-    "description": "Low-level systems programming language",
-    "popular": true
-  },
-  {
-    "name": "https://github.com/icsharpcode/SharpDevelop/blob/master/doc/license.txt",
-    "url": "https://github.com/icsharpcode/SharpDevelop/blob/master/doc/license.txt",
-    "category": "Tool",
-    "sector": "",
-    "country": "",
-    "description": "Low-level systems programming language",
-    "popular": true
-  },
-  {
-    "name": "https://github.com/unknownworlds/decoda/blob/master/COPYING.txt",
-    "url": "https://github.com/unknownworlds/decoda/blob/master/COPYING.txt",
-    "category": "Tool",
-    "sector": "",
-    "country": "",
-    "description": "Low-level systems programming language",
-    "popular": true
-  },
-  {
-    "name": "https://www.jetbrains.com/resharper-cpp/",
-    "url": "https://www.jetbrains.com/resharper-cpp/",
-    "category": "Tool",
-    "sector": "",
-    "country": "",
-    "description": "Low-level systems programming language",
-    "popular": false
-  },
-  {
     "name": "Huddle",
     "url": "http://www.huddle.com",
     "category": "Tool",
@@ -10176,7 +10122,7 @@
     "sector": "",
     "country": "",
     "description": "Systems programming language",
-    "popular": true
+    "popular": false
   },
   {
     "name": "Invoicing",
@@ -10338,7 +10284,7 @@
     "sector": "",
     "country": "",
     "description": "Statistical computing and graphics language",
-    "popular": true
+    "popular": false
   },
   {
     "name": "JOE",
@@ -10599,7 +10545,7 @@
     "sector": "",
     "country": "",
     "description": "Cloud-native integration language",
-    "popular": true
+    "popular": false
   },
   {
     "name": "Leo",
@@ -10914,7 +10860,7 @@
     "sector": "",
     "country": "",
     "description": "Low-level systems programming language",
-    "popular": true
+    "popular": false
   },
   {
     "name": "Microsoft",
@@ -11022,7 +10968,7 @@
     "sector": "",
     "country": "",
     "description": "Low-level systems programming language",
-    "popular": true
+    "popular": false
   },
   {
     "name": "Microsoft Windows",
@@ -11319,7 +11265,7 @@
     "sector": "",
     "country": "",
     "description": "Safe C dialect",
-    "popular": true
+    "popular": false
   },
   {
     "name": "NearlyFreeSpeech",
@@ -12597,7 +12543,7 @@
     "sector": "",
     "country": "",
     "description": "Statistical computing and graphics language",
-    "popular": true
+    "popular": false
   },
   {
     "name": "Railo",
@@ -12777,7 +12723,7 @@
     "sector": "",
     "country": "",
     "description": "Dynamic, object-oriented scripting language",
-    "popular": true
+    "popular": false
   },
   {
     "name": "SaaS",
@@ -12831,7 +12777,7 @@
     "sector": "",
     "country": "",
     "description": "Dynamic language for web development",
-    "popular": true
+    "popular": false
   },
   {
     "name": "Scintilla",
@@ -12876,7 +12822,7 @@
     "sector": "",
     "country": "",
     "description": "Low-level processor instructions",
-    "popular": true
+    "popular": false
   },
   {
     "name": "Seavus Project Viewer (software)",
@@ -13119,7 +13065,7 @@
     "sector": "",
     "country": "",
     "description": "Low-level systems programming language",
-    "popular": true
+    "popular": false
   },
   {
     "name": "SPARC",
@@ -13146,7 +13092,7 @@
     "sector": "",
     "country": "",
     "description": "",
-    "popular": true
+    "popular": false
   },
   {
     "name": "SPMOL-II",
@@ -13866,7 +13812,7 @@
     "sector": "",
     "country": "",
     "description": "Low-level systems programming language",
-    "popular": true
+    "popular": false
   },
   {
     "name": "Virtual",
@@ -13893,7 +13839,7 @@
     "sector": "",
     "country": "",
     "description": "Low-level systems programming language",
-    "popular": true
+    "popular": false
   },
   {
     "name": "Visual Studio Code",
@@ -13902,7 +13848,7 @@
     "sector": "Developer Tools",
     "country": "Microsoft",
     "description": "Popular source-code editor",
-    "popular": true
+    "popular": false
   },
   {
     "name": "Visual Studio Code - Open Source (\"Code - OSS\")",
@@ -13911,7 +13857,7 @@
     "sector": "",
     "country": "",
     "description": "Low-level systems programming language",
-    "popular": true
+    "popular": false
   },
   {
     "name": "VisualWorks",
@@ -13965,7 +13911,7 @@
     "sector": "",
     "country": "",
     "description": "Capability-based language",
-    "popular": true
+    "popular": false
   },
   {
     "name": "Web application",
@@ -14226,7 +14172,7 @@
     "sector": "",
     "country": "",
     "description": "Low-level systems programming language",
-    "popular": true
+    "popular": false
   },
   {
     "name": "wxWidget",
@@ -14289,7 +14235,7 @@
     "sector": "",
     "country": "",
     "description": "Low-level systems programming language",
-    "popular": true
+    "popular": false
   },
   {
     "name": "Xfce",
@@ -14416,5 +14362,37 @@
     "country": "",
     "description": "Formal specification language",
     "popular": false
+  },
+  {
+    "name": "C++",
+    "description": "General-purpose programming language with object-oriented, generic, and functional features",
+    "url": "https://isocpp.org/",
+    "category": "Programming Language",
+    "popular": true,
+    "year": 1985
+  },
+  {
+    "name": "C#",
+    "description": "Modern object-oriented programming language developed by Microsoft for .NET",
+    "url": "https://docs.microsoft.com/en-us/dotnet/csharp/",
+    "category": "Programming Language",
+    "popular": true,
+    "year": 2000
+  },
+  {
+    "name": "C",
+    "description": "General-purpose procedural programming language supporting structured programming",
+    "url": "https://en.wikipedia.org/wiki/C_(programming_language)",
+    "category": "Programming Language",
+    "popular": true,
+    "year": 1972
+  },
+  {
+    "name": "R",
+    "description": "Programming language for statistical computing and graphics",
+    "url": "https://www.r-project.org/",
+    "category": "Programming Language",
+    "popular": true,
+    "year": 1993
   }
 ]

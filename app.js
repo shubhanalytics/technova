@@ -1,10 +1,11 @@
 /**
- * Technova - Main Application
- * Clean, modern, secure implementation
+ * Technova - Lightweight Directory
+ * Clean, fast, user-friendly
  */
 
 // Constants
 const DATA_URL = 'data.json';
+const ALPHABET = 'ABCDEFGHIJKLMNOPQRSTUVWXYZ#'.split('');
 
 // State
 let items = [];
@@ -14,12 +15,10 @@ let filteredItems = [];
 const elements = {
   list: document.getElementById('list'),
   search: document.getElementById('search'),
-  sectorSelect: document.getElementById('sectorSelect'),
-  countrySelect: document.getElementById('countrySelect'),
-  ownerSelect: document.getElementById('ownerSelect'),
-  sortSelect: document.getElementById('sortSelect'),
   tabsContainer: document.getElementById('categoryTabs'),
-  resetFilters: document.getElementById('resetFilters'),
+  azBar: document.getElementById('azBar'),
+  itemCount: document.getElementById('itemCount'),
+  backToTop: document.getElementById('backToTop'),
 };
 
 // ============================================
@@ -27,17 +26,12 @@ const elements = {
 // ============================================
 function sanitizeUrl(url) {
   if (!url) return '#';
-  
   try {
     const parsed = new URL(url, window.location.origin);
-    // Only allow http and https protocols
     if (parsed.protocol === 'http:' || parsed.protocol === 'https:') {
       return parsed.href;
     }
-  } catch (e) {
-    // Invalid URL
-  }
-  
+  } catch (e) {}
   return '#';
 }
 
@@ -62,8 +56,8 @@ async function init() {
     items = await response.json();
     if (!Array.isArray(items)) throw new Error('Invalid data format');
     
-    populateFilters();
     buildTabs();
+    buildAZBar();
     attachEvents();
     render();
   } catch (error) {
@@ -81,11 +75,11 @@ async function init() {
 // ============================================
 function buildTabs() {
   const categories = [...new Set(items.map(i => i.category).filter(Boolean))].sort();
-  const counts = items.reduce((acc, item) => {
+  const counts = {};
+  items.forEach(item => {
     const cat = item.category || 'Uncategorized';
-    acc[cat] = (acc[cat] || 0) + 1;
-    return acc;
-  }, {});
+    counts[cat] = (counts[cat] || 0) + 1;
+  });
   
   elements.tabsContainer.innerHTML = '';
   
@@ -93,7 +87,7 @@ function buildTabs() {
   const allBtn = document.createElement('button');
   allBtn.className = 'tab active';
   allBtn.dataset.category = 'All';
-  allBtn.textContent = `All (${items.length})`;
+  allBtn.innerHTML = `All <span class="tab-count">${items.length}</span>`;
   allBtn.type = 'button';
   allBtn.setAttribute('role', 'tab');
   allBtn.setAttribute('aria-selected', 'true');
@@ -104,7 +98,7 @@ function buildTabs() {
     const btn = document.createElement('button');
     btn.className = 'tab';
     btn.dataset.category = category;
-    btn.textContent = `${category} (${counts[category] || 0})`;
+    btn.innerHTML = `${category} <span class="tab-count">${counts[category] || 0}</span>`;
     btn.type = 'button';
     btn.setAttribute('role', 'tab');
     btn.setAttribute('aria-selected', 'false');
@@ -113,100 +107,83 @@ function buildTabs() {
 }
 
 // ============================================
-// Update Tab Counts Based on Filters
+// Build A-Z Quick Jump Bar
+// ============================================
+function buildAZBar() {
+  elements.azBar.innerHTML = '';
+  
+  for (const letter of ALPHABET) {
+    const btn = document.createElement('button');
+    btn.className = 'az-letter';
+    btn.textContent = letter;
+    btn.type = 'button';
+    btn.dataset.letter = letter;
+    btn.setAttribute('aria-label', `Jump to ${letter === '#' ? 'numbers and symbols' : letter}`);
+    elements.azBar.appendChild(btn);
+  }
+}
+
+// ============================================
+// Update A-Z Bar Active Letters
+// ============================================
+function updateAZBar() {
+  const activeLetters = new Set();
+  
+  filteredItems.forEach(item => {
+    const name = (item.name || '').trim();
+    if (name) {
+      const firstChar = name[0].toUpperCase();
+      if (/[A-Z]/.test(firstChar)) {
+        activeLetters.add(firstChar);
+      } else {
+        activeLetters.add('#');
+      }
+    }
+  });
+  
+  elements.azBar.querySelectorAll('.az-letter').forEach(btn => {
+    const letter = btn.dataset.letter;
+    const hasItems = activeLetters.has(letter);
+    btn.disabled = !hasItems;
+    btn.classList.toggle('has-items', hasItems);
+  });
+}
+
+// ============================================
+// Update Tab Counts Based on Search
 // ============================================
 function updateTabCounts(filteredForCounts) {
-  const counts = filteredForCounts.reduce((acc, item) => {
+  const counts = {};
+  filteredForCounts.forEach(item => {
     const cat = item.category || 'Uncategorized';
-    acc[cat] = (acc[cat] || 0) + 1;
-    return acc;
-  }, {});
+    counts[cat] = (counts[cat] || 0) + 1;
+  });
   
-  const tabs = elements.tabsContainer.querySelectorAll('.tab');
-  tabs.forEach(tab => {
+  elements.tabsContainer.querySelectorAll('.tab').forEach(tab => {
     const cat = tab.dataset.category;
+    const countSpan = tab.querySelector('.tab-count');
     if (cat === 'All') {
-      tab.textContent = `All (${filteredForCounts.length})`;
+      countSpan.textContent = filteredForCounts.length;
     } else {
       const count = counts[cat] || 0;
-      tab.textContent = `${cat} (${count})`;
+      countSpan.textContent = count;
       tab.disabled = count === 0;
-      tab.style.opacity = count ? '1' : '0.4';
     }
   });
 }
 
 // ============================================
-// Populate Filter Dropdowns
+// Update Item Count Display
 // ============================================
-function populateFilters() {
-  const sectors = [...new Set(items.map(i => i.sector).filter(Boolean))].sort();
-  const countries = [...new Set(items.map(i => i.country).filter(Boolean))].sort();
-  const owners = [...new Set(items.map(i => i.owner).filter(Boolean))].sort();
+function updateItemCount() {
+  const total = items.length;
+  const showing = filteredItems.length;
   
-  // Sectors
-  sectors.forEach(sector => {
-    const option = document.createElement('option');
-    option.value = sector;
-    option.textContent = sector;
-    elements.sectorSelect.appendChild(option);
-  });
-  
-  // Countries
-  countries.forEach(country => {
-    const option = document.createElement('option');
-    option.value = country;
-    option.textContent = country;
-    elements.countrySelect.appendChild(option);
-  });
-  
-  // Owners - only show dropdown if there are owners
-  if (owners.length > 0) {
-    elements.ownerSelect.hidden = false;
-    owners.forEach(owner => {
-      const option = document.createElement('option');
-      option.value = owner;
-      option.textContent = owner;
-      elements.ownerSelect.appendChild(option);
-    });
-    
-    // Special "Unowned items" option
-    const othersOption = document.createElement('option');
-    othersOption.value = '__UNOWNED__';
-    othersOption.textContent = 'Unowned items';
-    elements.ownerSelect.appendChild(othersOption);
+  if (showing === total) {
+    elements.itemCount.textContent = `Showing ${total} items`;
   } else {
-    // Hide if no owners
-    elements.ownerSelect.hidden = true;
+    elements.itemCount.textContent = `Showing ${showing} of ${total} items`;
   }
-}
-
-// ============================================
-// Reset All Filters
-// ============================================
-function resetAllFilters() {
-  // Reset search
-  elements.search.value = '';
-  
-  // Reset dropdowns
-  elements.sectorSelect.value = '';
-  elements.countrySelect.value = '';
-  elements.ownerSelect.value = '';
-  elements.sortSelect.value = 'name_asc';
-  
-  // Reset to All tab
-  elements.tabsContainer.querySelectorAll('.tab').forEach(t => {
-    t.classList.remove('active');
-    t.setAttribute('aria-selected', 'false');
-  });
-  const allTab = elements.tabsContainer.querySelector('[data-category="All"]');
-  if (allTab) {
-    allTab.classList.add('active');
-    allTab.setAttribute('aria-selected', 'true');
-  }
-  
-  // Re-render
-  render();
 }
 
 // ============================================
@@ -220,21 +197,11 @@ function attachEvents() {
     searchTimeout = setTimeout(render, 150);
   });
   
-  // Filters
-  elements.sectorSelect.addEventListener('change', render);
-  elements.countrySelect.addEventListener('change', render);
-  elements.ownerSelect.addEventListener('change', render);
-  elements.sortSelect.addEventListener('change', render);
-  
-  // Reset filters
-  elements.resetFilters.addEventListener('click', resetAllFilters);
-  
   // Tab clicks (delegation)
   elements.tabsContainer.addEventListener('click', (e) => {
     const tab = e.target.closest('.tab');
     if (!tab || tab.disabled) return;
     
-    // Update active state
     elements.tabsContainer.querySelectorAll('.tab').forEach(t => {
       t.classList.remove('active');
       t.setAttribute('aria-selected', 'false');
@@ -244,6 +211,55 @@ function attachEvents() {
     
     render();
   });
+  
+  // A-Z bar clicks
+  elements.azBar.addEventListener('click', (e) => {
+    const btn = e.target.closest('.az-letter');
+    if (!btn || btn.disabled) return;
+    
+    const letter = btn.dataset.letter;
+    jumpToLetter(letter);
+  });
+  
+  // Back to top button
+  elements.backToTop.addEventListener('click', () => {
+    window.scrollTo({ top: 0, behavior: 'smooth' });
+  });
+  
+  // Show/hide back to top on scroll
+  let scrollTimeout;
+  window.addEventListener('scroll', () => {
+    clearTimeout(scrollTimeout);
+    scrollTimeout = setTimeout(() => {
+      elements.backToTop.hidden = window.scrollY < 400;
+    }, 100);
+  }, { passive: true });
+}
+
+// ============================================
+// Jump to Letter
+// ============================================
+function jumpToLetter(letter) {
+  const cards = elements.list.querySelectorAll('.card');
+  
+  for (const card of cards) {
+    const name = card.querySelector('h3 a')?.textContent || '';
+    const firstChar = name.trim()[0]?.toUpperCase() || '';
+    
+    let matches = false;
+    if (letter === '#') {
+      matches = !/[A-Z]/.test(firstChar);
+    } else {
+      matches = firstChar === letter;
+    }
+    
+    if (matches) {
+      card.scrollIntoView({ behavior: 'smooth', block: 'center' });
+      card.classList.add('highlight');
+      setTimeout(() => card.classList.remove('highlight'), 1500);
+      break;
+    }
+  }
 }
 
 // ============================================
@@ -251,35 +267,14 @@ function attachEvents() {
 // ============================================
 function render() {
   const query = (elements.search.value || '').trim().toLowerCase();
-  const sector = elements.sectorSelect.value;
-  const country = elements.countrySelect.value;
-  const owner = elements.ownerSelect.value;
-  const sort = elements.sortSelect.value;
   const activeTab = document.querySelector('.tab.active')?.dataset?.category || 'All';
   
-  // Filter items (excluding category for tab counts)
+  // Filter by search
   const filteredForCounts = items.filter(item => {
-    // Sector filter
-    if (sector && item.sector !== sector) return false;
-    
-    // Country filter
-    if (country && item.country !== country) return false;
-    
-    // Owner filter
-    if (owner) {
-      if (owner === '__UNOWNED__') {
-        if (item.owner) return false;
-      } else {
-        if (item.owner !== owner) return false;
-      }
-    }
-    
-    // Search filter
     if (query) {
       const searchText = `${item.name || ''} ${item.description || ''}`.toLowerCase();
       if (!searchText.includes(query)) return false;
     }
-    
     return true;
   });
   
@@ -292,20 +287,12 @@ function render() {
     return true;
   });
   
-  // Sort
-  switch (sort) {
-    case 'name_asc':
-      filteredItems.sort((a, b) => (a.name || '').localeCompare(b.name || ''));
-      break;
-    case 'name_desc':
-      filteredItems.sort((a, b) => (b.name || '').localeCompare(a.name || ''));
-      break;
-    case 'country_asc':
-      filteredItems.sort((a, b) => (a.country || '').localeCompare(b.country || ''));
-      break;
-  }
+  // Sort alphabetically
+  filteredItems.sort((a, b) => (a.name || '').localeCompare(b.name || ''));
   
-  // Render
+  // Update UI
+  updateItemCount();
+  updateAZBar();
   renderItems(activeTab);
 }
 
@@ -318,7 +305,7 @@ function renderItems(activeTab) {
   if (!filteredItems.length) {
     elements.list.innerHTML = `
       <p class="muted" style="grid-column: 1 / -1; text-align: center; padding: 40px;">
-        No results found. Try adjusting your filters.
+        No items found. Try a different search.
       </p>
     `;
     return;
@@ -347,6 +334,8 @@ function renderItems(activeTab) {
     
     // Category heading
     const heading = document.createElement('h2');
+    heading.className = 'category-heading';
+    heading.id = `cat-${category.replace(/\s+/g, '-').toLowerCase()}`;
     heading.textContent = category;
     elements.list.appendChild(heading);
     
@@ -358,8 +347,7 @@ function renderItems(activeTab) {
       elements.list.appendChild(popularHeading);
       
       for (const item of popularItems) {
-        const card = createCard(item, true);
-        elements.list.appendChild(card);
+        elements.list.appendChild(createCard(item, true));
       }
     }
     
@@ -371,8 +359,7 @@ function renderItems(activeTab) {
       elements.list.appendChild(moreHeading);
       
       for (const item of otherItems) {
-        const card = createCard(item, false);
-        elements.list.appendChild(card);
+        elements.list.appendChild(createCard(item, false));
       }
     }
   }
@@ -385,23 +372,26 @@ function createCard(item, isPopular = false) {
   const card = document.createElement('article');
   card.className = isPopular ? 'card popular' : 'card';
   
-  // Clean up name (remove quotes)
+  // Clean up name
   const displayName = (item.name || '')
     .replace(/^['"\u201C\u201D`]+|['"\u201C\u201D`]+$/g, '')
     .trim() || 'Unnamed';
   
-  // Build card HTML
   const safeUrl = sanitizeUrl(item.url);
   const safeName = escapeHtml(displayName);
   const safeDesc = escapeHtml(item.description || '');
-  const yearHtml = item.year ? `<span class="year">· ${escapeHtml(String(item.year))}</span>` : '';
+  const isValidUrl = safeUrl !== '#';
+  
+  // Verified icon for working links
+  const verifiedIcon = isValidUrl ? 
+    `<span class="verified-icon" title="Verified link">✓</span>` : '';
   
   card.innerHTML = `
     <h3>
       <a href="${safeUrl}" target="_blank" rel="noopener noreferrer">${safeName}</a>
-      ${yearHtml}
+      ${verifiedIcon}
     </h3>
-    ${safeDesc ? `<div class="muted">${safeDesc}</div>` : ''}
+    ${safeDesc ? `<p class="description">${safeDesc}</p>` : ''}
   `;
   
   return card;
