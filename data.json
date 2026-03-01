@@ -909,15 +909,6 @@
     "popular": false
   },
   {
-    "name": "Categories",
-    "url": "https://www.mediawiki.org/wiki/Extension:TimedMediaHandler",
-    "category": "Programming Language",
-    "sector": "",
-    "country": "",
-    "description": "Low-level systems programming language",
-    "popular": false
-  },
-  {
     "name": "Catrobat",
     "url": "https://catrobat.org",
     "category": "Programming Language",
@@ -1233,24 +1224,6 @@
     "popular": false
   },
   {
-    "name": "CorVision",
-    "url": "https://en.wiktionary.org/wiki/vesting",
-    "category": "Programming Language",
-    "sector": "",
-    "country": "",
-    "description": "Low-level systems programming language",
-    "popular": false
-  },
-  {
-    "name": "CPL",
-    "url": "https://doi.org/10.1093%2Fcomjnl%2F6.2.134",
-    "category": "Programming Language",
-    "sector": "",
-    "country": "",
-    "description": "Low-level systems programming language",
-    "popular": false
-  },
-  {
     "name": "Cryptol",
     "url": "http://www.cryptol.net",
     "category": "Programming Language",
@@ -1359,15 +1332,6 @@
     "popular": true
   },
   {
-    "name": "Darwin",
-    "url": "https://doi.org/10.1093%2Fbioinformatics%2F16.2.101",
-    "category": "Programming Language",
-    "sector": "",
-    "country": "",
-    "description": "Statistical computing and graphics language",
-    "popular": false
-  },
-  {
     "name": "DataFlex",
     "url": "http://www.DataAccess.com/DataFlex",
     "category": "Programming Language",
@@ -1397,15 +1361,6 @@
   {
     "name": "dBase",
     "url": "http://www.dbase.com",
-    "category": "Programming Language",
-    "sector": "",
-    "country": "",
-    "description": "Systems programming language",
-    "popular": false
-  },
-  {
-    "name": "Definitions",
-    "url": "https://en.wiktionary.org/wiki/programming_language",
     "category": "Programming Language",
     "sector": "",
     "country": "",
@@ -2151,15 +2106,6 @@
     "popular": false
   },
   {
-    "name": "Hermes",
-    "url": "https://doi.org/10.1145%2F142137.142148",
-    "category": "Programming Language",
-    "sector": "",
-    "country": "",
-    "description": "Statistical computing and graphics language",
-    "popular": false
-  },
-  {
     "name": "High Level Assembly",
     "url": "https://plantation-productions.com/Webster/HighLevelAsm/index.html",
     "category": "Programming Language",
@@ -2502,15 +2448,6 @@
     "popular": false
   },
   {
-    "name": "Klerer-May System",
-    "url": "https://doi.org/10.1093%2Fcomjnl%2F8.2.103",
-    "category": "Programming Language",
-    "sector": "",
-    "country": "",
-    "description": "Statistical computing and graphics language",
-    "popular": false
-  },
-  {
     "name": "Kodu",
     "url": "http://kodugamelab.com",
     "category": "Programming Language",
@@ -2808,15 +2745,6 @@
     "popular": false
   },
   {
-    "name": "LYaPAS",
-    "url": "http://wiki.tsu.ru/wiki/index.php/Закревский,_Аркадий_Дмитриевич",
-    "category": "Programming Language",
-    "sector": "",
-    "country": "",
-    "description": "",
-    "popular": false
-  },
-  {
     "name": "Lynx",
     "url": "https://foldoc.org/LYNX",
     "category": "Programming Language",
@@ -2845,11 +2773,11 @@
   },
   {
     "name": "Machine code",
-    "url": "https://en.wiktionary.org/wiki/machine_code",
+    "url": "https://en.wikipedia.org/wiki/Machine_code",
     "category": "Programming Language",
     "sector": "",
     "country": "",
-    "description": "Low-level systems programming language",
+    "description": "Low-level CPU instructions",
     "popular": false
   },
   {
@@ -3030,15 +2958,6 @@
     "sector": "",
     "country": "",
     "description": "Low-level systems programming language",
-    "popular": false
-  },
-  {
-    "name": "ML",
-    "url": "https://doi.org/10.1007%2F3-540-09724-4",
-    "category": "Programming Language",
-    "sector": "",
-    "country": "",
-    "description": "Functional programming family",
     "popular": false
   },
   {
@@ -5607,24 +5526,6 @@
     "popular": false
   },
   {
-    "name": "CRM",
-    "url": "https://en.wikipedia.org/wiki/Customer_relationship_management",
-    "category": "Business",
-    "sector": "Business & Venture",
-    "country": "Worldwide",
-    "description": "Customer relationship management systems for sales, marketing and customer support.",
-    "popular": false
-  },
-  {
-    "name": "Design Systems",
-    "url": "https://en.wikipedia.org/wiki/Design_system",
-    "category": "Design",
-    "sector": "Product & Design",
-    "country": "Worldwide",
-    "description": "Reusable component libraries, standards and guidelines that ensure consistent product design at scale.",
-    "popular": false
-  },
-  {
     "name": "Docker",
     "url": "https://www.docker.com/",
     "category": "Container",
@@ -5653,11 +5554,11 @@
   },
   {
     "name": "FPGA",
-    "url": "https://en.wikipedia.org/wiki/Field-programmable_gate_array",
+    "url": "https://www.xilinx.com/",
     "category": "Hardware",
     "sector": "Hardware & Chips",
     "country": "Worldwide",
-    "description": "Field-programmable gate arrays — reconfigurable integrated circuits used for hardware acceleration and prototyping.",
+    "description": "Field-programmable gate arrays for custom hardware logic",
     "popular": false
   },
   {
@@ -5860,11 +5761,11 @@
   },
   {
     "name": "Adobe Business Catalyst",
-    "url": "http://businesscatalyst.com",
+    "url": "https://www.adobe.com/",
     "category": "CMS",
     "sector": "",
     "country": "",
-    "description": "Low-level systems programming language",
+    "description": "All-in-one hosted solution for web designers",
     "popular": false
   },
   {
@@ -5873,7 +5774,7 @@
     "category": "IDE/Editor",
     "sector": "",
     "country": "",
-    "description": "Statistical computing and graphics language",
+    "description": "Web design and development IDE from Adobe",
     "popular": false
   },
   {
@@ -5891,7 +5792,7 @@
     "category": "IDE/Editor",
     "sector": "",
     "country": "",
-    "description": "Statistical computing and graphics language",
+    "description": "IDE for developing mobile and web apps using Flex/ActionScript",
     "popular": false
   },
   {
@@ -5918,7 +5819,7 @@
     "category": "CMS",
     "sector": "",
     "country": "",
-    "description": "Low-level systems programming language",
+    "description": "Open source Rails content management system",
     "popular": false
   },
   {
@@ -5950,11 +5851,11 @@
   },
   {
     "name": "Altitude3.Net",
-    "url": "http://altitude3.net",
+    "url": "https://altitude3.net",
     "category": "Hosting",
     "sector": "",
     "country": "",
-    "description": "Systems programming language",
+    "description": "Web hosting provider",
     "popular": false
   },
   {
@@ -5963,7 +5864,7 @@
     "category": "CMS",
     "sector": "",
     "country": "",
-    "description": "Low-level systems programming language",
+    "description": "Java-based open source content management system",
     "popular": false
   },
   {
@@ -5976,12 +5877,12 @@
     "popular": false
   },
   {
-    "name": "Analytics",
-    "url": "https://link.springer.com/10.1007/s42803-021-00033-4",
+    "name": "Google Analytics",
+    "url": "https://analytics.google.com/",
     "category": "Analytics",
     "sector": "",
     "country": "",
-    "description": "Low-level systems programming language",
+    "description": "Data analytics and business intelligence tools",
     "popular": false
   },
   {
@@ -5995,11 +5896,11 @@
   },
   {
     "name": "Android app development",
-    "url": "https://en.wikiversity.org/wiki/Android_programming",
+    "url": "https://developer.android.com/",
     "category": "Mobile",
     "sector": "",
     "country": "",
-    "description": "Statistical computing and graphics language",
+    "description": "Native app development for Android platform",
     "popular": false
   },
   {
@@ -6031,11 +5932,11 @@
   },
   {
     "name": "AonixADT",
-    "url": "http://atego.com",
+    "url": "https://www.adacore.com/",
     "category": "IDE/Editor",
     "sector": "",
     "country": "",
-    "description": "Systems programming language",
+    "description": "Ada development toolkit for Eclipse IDE",
     "popular": false
   },
   {
@@ -6170,7 +6071,7 @@
     "category": "IDE/Editor",
     "sector": "",
     "country": "",
-    "description": "Systems programming language",
+    "description": "Open source web development IDE based on Eclipse",
     "popular": false
   },
   {
@@ -6179,7 +6080,7 @@
     "category": "IDE/Editor",
     "sector": "",
     "country": "",
-    "description": "Low-level systems programming language",
+    "description": "Free HTML and programming editor for Windows",
     "popular": false
   },
   {
@@ -6445,11 +6346,11 @@
   },
   {
     "name": "Bluehost",
-    "url": "http://bluehost.com",
+    "url": "https://www.bluehost.com",
     "category": "Hosting",
     "sector": "",
     "country": "",
-    "description": "Capability-based language",
+    "description": "Web hosting and WordPress hosting provider",
     "popular": false
   },
   {
@@ -6804,15 +6705,6 @@
     "popular": false
   },
   {
-    "name": "Click tracking",
-    "url": "https://doi.org/10.1145%2F2529995.2529996",
-    "category": "Analytics",
-    "sector": "",
-    "country": "",
-    "description": "Tracking user click patterns",
-    "popular": false
-  },
-  {
     "name": "Cloud CMS",
     "url": "https://www.cloudcms.com/",
     "category": "CMS",
@@ -6912,15 +6804,6 @@
     "popular": false
   },
   {
-    "name": "Code completion",
-    "url": "https://doi.org/10.1109%2FASE.2008.42",
-    "category": "Code Quality",
-    "sector": "",
-    "country": "",
-    "description": "Intelligent code suggestions",
-    "popular": false
-  },
-  {
     "name": "Code coverage",
     "url": "https://msdn.microsoft.com/en-us/library/jj159344.aspx",
     "category": "Testing",
@@ -6984,15 +6867,6 @@
     "popular": false
   },
   {
-    "name": "Collaborative software",
-    "url": "https://doi.org/10.1016%2F0020-7373%2891%2990027-5",
-    "category": "Collaboration",
-    "sector": "",
-    "country": "",
-    "description": "Software enabling team collaboration",
-    "popular": false
-  },
-  {
     "name": "Colossal Typewriter",
     "url": "http://www.computerhistory.org/pdp-1/",
     "category": "IDE/Editor",
@@ -7008,15 +6882,6 @@
     "sector": "",
     "country": "",
     "description": "Text-based interface for programs",
-    "popular": false
-  },
-  {
-    "name": "commercial",
-    "url": "https://doi.org/10.1017/9781108381376.005",
-    "category": "Documentation",
-    "sector": "",
-    "country": "",
-    "description": "Commercial license",
     "popular": false
   },
   {
@@ -7043,7 +6908,7 @@
     "category": "CMS",
     "sector": "",
     "country": "",
-    "description": "Low-level systems programming language",
+    "description": "Powerful open source website CMS and social platform",
     "popular": false
   },
   {
@@ -7080,15 +6945,6 @@
     "sector": "",
     "country": "",
     "description": "Multi-user CP/M for x86",
-    "popular": false
-  },
-  {
-    "name": "content management frameworks",
-    "url": "https://www.wikidata.org/wiki/Q856341?uselang=en#P348",
-    "category": "CMS",
-    "sector": "",
-    "country": "",
-    "description": "Frameworks for building CMS",
     "popular": false
   },
   {
@@ -7237,11 +7093,11 @@
   },
   {
     "name": "DENIC",
-    "url": "https://www.wikidata.org/wiki/Q314624?uselang=en#P749",
+    "url": "https://www.denic.de/",
     "category": "Hosting",
     "sector": "",
     "country": "",
-    "description": "German domain registry",
+    "description": "German .de domain name registry",
     "popular": false
   },
   {
@@ -7281,15 +7137,6 @@
     "popular": false
   },
   {
-    "name": "Developer",
-    "url": "https://doi.org/10.1016%2Fj.infsof.2016.10.001",
-    "category": "Documentation",
-    "sector": "",
-    "country": "",
-    "description": "Software developer role",
-    "popular": false
-  },
-  {
     "name": "DirectAdmin",
     "url": "https://www.directadmin.com/",
     "category": "Hosting",
@@ -7318,29 +7165,20 @@
   },
   {
     "name": "DNS Belgium",
-    "url": "https://www.wikidata.org/wiki/Q2272248?uselang=en#P571",
+    "url": "https://www.dnsbelgium.be/",
     "category": "Hosting",
     "sector": "",
     "country": "",
-    "description": "[Needs review] Systems programming language",
+    "description": "Registry for .be domain names",
     "popular": false
   },
   {
     "name": "Document management system",
-    "url": "https://d-nb.info/gnd/4303691-0",
+    "url": "https://en.wikipedia.org/wiki/Document_management_system",
     "category": "Collaboration",
     "sector": "",
     "country": "",
-    "description": "[Needs review] Low-level systems programming language",
-    "popular": false
-  },
-  {
-    "name": "doi",
-    "url": "https://www.doi.org/the-identifier/what-is-a-doi/",
-    "category": "Documentation",
-    "sector": "",
-    "country": "",
-    "description": "Digital Object Identifier",
+    "description": "Systems for organizing and managing digital documents",
     "popular": false
   },
   {
@@ -7358,7 +7196,7 @@
     "category": "IDE/Editor",
     "sector": "",
     "country": "",
-    "description": "Pure object-oriented language",
+    "description": "Smalltalk development environment for Windows",
     "popular": false
   },
   {
@@ -7435,11 +7273,11 @@
   },
   {
     "name": "DreamHost",
-    "url": "https://dreamhost.com",
+    "url": "https://www.dreamhost.com",
     "category": "Hosting",
     "sector": "",
     "country": "",
-    "description": "Statistical computing and graphics language",
+    "description": "Web hosting and cloud services provider",
     "popular": false
   },
   {
@@ -7938,15 +7776,6 @@
     "popular": false
   },
   {
-    "name": "free",
-    "url": "https://en.wiktionary.org/wiki/libre",
-    "category": "Documentation",
-    "sector": "",
-    "country": "",
-    "description": "Free software concept",
-    "popular": false
-  },
-  {
     "name": "Free and open-source",
     "url": "https://code.gov",
     "category": "Documentation",
@@ -8406,15 +8235,6 @@
     "popular": false
   },
   {
-    "name": "GUI-baseddesign",
-    "url": "https://en.wikiversity.org/wiki/User_interfaces",
-    "category": "Design",
-    "sector": "",
-    "country": "",
-    "description": "GUI design approaches",
-    "popular": false
-  },
-  {
     "name": "H2",
     "url": "https://h2database.com",
     "category": "Database",
@@ -8605,11 +8425,11 @@
   },
   {
     "name": "IBM Lotus Symphony",
-    "url": "https://www.wikidata.org/wiki/Q259201?uselang=en#P348",
+    "url": "https://www.ibm.com/",
     "category": "Collaboration",
     "sector": "",
     "country": "",
-    "description": "Free office suite by IBM",
+    "description": "Free office suite by IBM (discontinued)",
     "popular": false
   },
   {
@@ -8718,15 +8538,6 @@
     "sector": "",
     "country": "",
     "description": "Java IDE by JetBrains",
-    "popular": false
-  },
-  {
-    "name": "Invoicing",
-    "url": "https://en.wiktionary.org/wiki/timesheet",
-    "category": "Collaboration",
-    "sector": "",
-    "country": "",
-    "description": "Time and billing software",
     "popular": false
   },
   {
@@ -8937,15 +8748,6 @@
     "popular": false
   },
   {
-    "name": "Kanban (development)",
-    "url": "https://www.wikidata.org/wiki/Q180591",
-    "category": "Documentation",
-    "sector": "",
-    "country": "",
-    "description": "Agile development methodology",
-    "popular": false
-  },
-  {
     "name": "Kate",
     "url": "https://kate-editor.org/",
     "category": "IDE/Editor",
@@ -8956,11 +8758,11 @@
   },
   {
     "name": "KCells",
-    "url": "https://www.wikidata.org/wiki/Q270431?uselang=en#P348",
+    "url": "https://calligra.org/sheets/",
     "category": "Collaboration",
     "sector": "",
     "country": "",
-    "description": "KDE spreadsheet (Calligra Sheets)",
+    "description": "KDE spreadsheet application (now Calligra Sheets)",
     "popular": false
   },
   {
@@ -9046,11 +8848,11 @@
   },
   {
     "name": "KOffice",
-    "url": "https://www.wikidata.org/wiki/Q270431?uselang=en#P348",
+    "url": "https://calligra.org/",
     "category": "Collaboration",
     "sector": "",
     "country": "",
-    "description": "[Needs review] Low-level systems programming language",
+    "description": "KDE office suite (deprecated, now Calligra)",
     "popular": false
   },
   {
@@ -9343,11 +9145,11 @@
   },
   {
     "name": "Magento",
-    "url": "https://magento-opensource.com/",
+    "url": "https://business.adobe.com/products/magento/magento-commerce.html",
     "category": "CMS",
     "sector": "",
     "country": "",
-    "description": "Capability-based language",
+    "description": "Open source e-commerce platform",
     "popular": false
   },
   {
@@ -9595,11 +9397,11 @@
   },
   {
     "name": "Midnight Commander",
-    "url": "https://www.wikidata.org/wiki/Q1340000?uselang=en#P348",
+    "url": "https://midnight-commander.org/",
     "category": "CLI",
     "sector": "",
     "country": "",
-    "description": "Visual file manager",
+    "description": "Visual file manager for Unix-like systems",
     "popular": false
   },
   {
@@ -10197,15 +9999,6 @@
     "popular": false
   },
   {
-    "name": "Open source",
-    "url": "https://en.wiktionary.org/wiki/Appendix:Glossary_of_legal_terms_in_technology",
-    "category": "Documentation",
-    "sector": "",
-    "country": "",
-    "description": "Open-source software concept",
-    "popular": false
-  },
-  {
     "name": "Open Workbench",
     "url": "https://sourceforge.net/projects/openworkbench/",
     "category": "Collaboration",
@@ -10377,15 +10170,6 @@
     "popular": false
   },
   {
-    "name": "Other platforms",
-    "url": "https://www.wikidata.org/wiki/Property_talk:P400",
-    "category": "Documentation",
-    "sector": "",
-    "country": "",
-    "description": "Alternative platform support",
-    "popular": false
-  },
-  {
     "name": "OVH",
     "url": "https://www.ovhcloud.com",
     "category": "Cloud",
@@ -10467,15 +10251,6 @@
     "popular": false
   },
   {
-    "name": "PDP-11s",
-    "url": "https://en.wiktionary.org/wiki/bottleneck",
-    "category": "Hardware",
-    "sector": "",
-    "country": "",
-    "description": "DEC minicomputer series",
-    "popular": false
-  },
-  {
     "name": "Pe",
     "url": "https://github.com/olta/pe",
     "category": "IDE/Editor",
@@ -10518,24 +10293,6 @@
     "sector": "",
     "country": "",
     "description": "Enterprise version control",
-    "popular": false
-  },
-  {
-    "name": "Permissive",
-    "url": "https://en.wiktionary.org/wiki/pushover",
-    "category": "Documentation",
-    "sector": "",
-    "country": "",
-    "description": "Permissive software licenses",
-    "popular": false
-  },
-  {
-    "name": "Personalization management system (PMS)",
-    "url": "https://doi.ieeecomputersociety.org/10.1109/HICSS.2003.1174584",
-    "category": "CMS",
-    "sector": "",
-    "country": "",
-    "description": "Content personalization",
     "popular": false
   },
   {
@@ -10917,15 +10674,6 @@
     "popular": false
   },
   {
-    "name": "proprietary",
-    "url": "https://en.wiktionary.org/wiki/",
-    "category": "Documentation",
-    "sector": "",
-    "country": "",
-    "description": "Proprietary software concept",
-    "popular": false
-  },
-  {
     "name": "PSFL",
     "url": "https://www.python.org/psf/license/",
     "category": "Documentation",
@@ -11242,11 +10990,11 @@
   },
   {
     "name": "Resolver One",
-    "url": "https://www.wikidata.org/wiki/Q2858086?uselang=en#P348",
+    "url": "https://www.resolversystems.com/",
     "category": "Collaboration",
     "sector": "",
     "country": "",
-    "description": "Python-based spreadsheet",
+    "description": "Python-based spreadsheet (discontinued)",
     "popular": false
   },
   {
@@ -11741,7 +11489,7 @@
     "category": "CMS",
     "sector": "",
     "country": "",
-    "description": "Low-level systems programming language",
+    "description": "Website builder and hosting platform",
     "popular": false
   },
   {
@@ -12015,15 +11763,6 @@
     "popular": false
   },
   {
-    "name": "the original",
-    "url": "http://marketplace.eclipse.org/content/aonixadt-ada-development-toolkit-gnat-and-objectada",
-    "category": "Documentation",
-    "sector": "",
-    "country": "",
-    "description": "Reference to original source",
-    "popular": false
-  },
-  {
     "name": "TheDraw",
     "url": "http://www.syaross.org/thedraw/",
     "category": "IDE/Editor",
@@ -12097,11 +11836,11 @@
   },
   {
     "name": "Top-level domain",
-    "url": "https://www.wikidata.org/wiki/Property_talk:P78",
+    "url": "https://www.icann.org/resources/pages/tlds-2012-02-25-en",
     "category": "Hosting",
     "sector": "",
     "country": "",
-    "description": "[Needs review] Systems programming language",
+    "description": "Internet domain name classification",
     "popular": false
   },
   {
@@ -12511,11 +12250,11 @@
   },
   {
     "name": "Web document",
-    "url": "https://en.wiktionary.org/wiki/on_the_fly",
+    "url": "https://docs.google.com/",
     "category": "Collaboration",
     "sector": "",
     "country": "",
-    "description": "[Needs review] Low-level systems programming language",
+    "description": "Web-based document creation and sharing",
     "popular": false
   },
   {
@@ -12560,7 +12299,7 @@
     "category": "CMS",
     "sector": "",
     "country": "",
-    "description": "Capability-based language",
+    "description": "Visual web design and development platform",
     "popular": false
   },
   {
@@ -12579,15 +12318,6 @@
     "sector": "",
     "country": "",
     "description": "Unix system administration interface",
-    "popular": false
-  },
-  {
-    "name": "Website governance",
-    "url": "http://www.linkedin.com/groups?home=&gid=1812891",
-    "category": "Documentation",
-    "sector": "",
-    "country": "",
-    "description": "Website management policies",
     "popular": false
   },
   {
@@ -12857,7 +12587,7 @@
     "category": "IDE/Editor",
     "sector": "",
     "country": "",
-    "description": "Systems programming language",
+    "description": "High-performance code editor from the creators of Atom",
     "popular": false
   },
   {
@@ -12950,8 +12680,8 @@
   },
   {
     "name": "C",
-    "description": "Low-level systems language",
-    "url": "https://en.wikipedia.org/wiki/C_(programming_language)",
+    "description": "Low-level systems programming language",
+    "url": "https://www.iso.org/standard/74528.html",
     "category": "Programming Language",
     "popular": true,
     "year": 1972
@@ -13783,13 +13513,6 @@
     "url": "https://openid.net/connect/",
     "category": "Authentication",
     "popular": true,
-    "verified": true
-  },
-  {
-    "name": "SAML",
-    "description": "XML-based standard for enterprise SSO",
-    "url": "https://en.wikipedia.org/wiki/SAML_2.0",
-    "category": "Authentication",
     "verified": true
   },
   {
