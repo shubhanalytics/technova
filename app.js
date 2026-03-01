@@ -7,6 +7,59 @@
 const DATA_URL = 'data.json';
 const ALPHABET = 'ABCDEFGHIJKLMNOPQRSTUVWXYZ'.split('');
 
+// Category Descriptions
+const CATEGORY_DESCRIPTIONS = {
+  'AI/ML': 'Artificial Intelligence and Machine Learning tools help build intelligent systems that can learn from data, recognize patterns, and make predictions. Used for chatbots, image recognition, recommendation engines, and automation.',
+  'API': 'Application Programming Interfaces enable different software applications to communicate with each other. APIs let developers access external services, data, and functionality without building everything from scratch.',
+  'Analytics': 'Analytics tools collect, measure, and analyze data to provide insights about user behavior, business performance, and system metrics. Essential for data-driven decision making.',
+  'Authentication': 'Authentication services verify user identity and manage secure access to applications. They handle login, signup, password management, and multi-factor authentication.',
+  'Backend': 'Backend frameworks and tools power the server-side of applications. They handle data processing, business logic, database operations, and API endpoints.',
+  'Blockchain': 'Blockchain platforms enable decentralized, tamper-proof record keeping. Used for cryptocurrencies, smart contracts, NFTs, and secure transaction systems.',
+  'Build Tool': 'Build tools automate the process of compiling, bundling, and optimizing code for production. They transform source files into deployable applications.',
+  'Business': 'Business tools help organizations manage operations, finances, customer relationships, and internal processes more efficiently.',
+  'CDN': 'Content Delivery Networks distribute content across global servers to deliver web pages, images, and media faster to users based on their geographic location.',
+  'CLI': 'Command Line Interface tools let developers interact with systems through text commands. They automate tasks, manage files, and control applications from the terminal.',
+  'CMS': 'Content Management Systems let users create, edit, and publish digital content without coding. Popular for websites, blogs, and documentation portals.',
+  'Cloud': 'Cloud platforms provide on-demand computing resources including servers, storage, databases, and services over the internet, eliminating the need for physical infrastructure.',
+  'Code Quality': 'Code quality tools analyze source code to find bugs, enforce coding standards, and improve maintainability. They help teams write cleaner, more reliable code.',
+  'Collaboration': 'Collaboration tools help teams communicate, share files, manage projects, and work together effectively, whether in-office or remote.',
+  'Container': 'Container technologies package applications with their dependencies into isolated units that run consistently across different environments.',
+  'Data Engineering': 'Data engineering tools build and maintain systems for collecting, storing, and processing large volumes of data. They power data pipelines and ETL processes.',
+  'Data Science': 'Data science tools help analyze and visualize complex datasets, build statistical models, and extract actionable insights from raw data.',
+  'Database': 'Databases store, organize, and retrieve structured data efficiently. They range from relational SQL databases to NoSQL document stores and graph databases.',
+  'Debugging': 'Debugging tools help developers find and fix errors in code. They provide breakpoints, variable inspection, stack traces, and performance profiling.',
+  'Design': 'Design tools help create user interfaces, graphics, prototypes, and visual assets. Used by designers and developers to build beautiful, user-friendly products.',
+  'DevOps': 'DevOps tools bridge development and operations, automating software delivery, infrastructure management, and deployment pipelines for faster releases.',
+  'Documentation': 'Documentation tools help create, organize, and publish technical docs, user guides, and knowledge bases. Essential for onboarding and reference.',
+  'Email': 'Email services handle sending, receiving, and managing electronic mail. They include transactional email APIs, marketing platforms, and email clients.',
+  'Feature Flags': 'Feature flag tools let teams toggle features on/off without deploying new code. Used for gradual rollouts, A/B testing, and quick rollbacks.',
+  'Frontend': 'Frontend frameworks and libraries build the user-facing part of web applications. They handle UI components, state management, and browser interactions.',
+  'Game Engine': 'Game engines provide the core technology for building video games, including rendering, physics, audio, and input handling across platforms.',
+  'Hardware': 'Hardware platforms and tools for physical computing devices, microcontrollers, and embedded systems development.',
+  'Hosting': 'Hosting services provide servers and infrastructure to make websites and applications accessible on the internet.',
+  'IDE/Editor': 'Integrated Development Environments and code editors provide features like syntax highlighting, autocomplete, debugging, and version control integration for writing code.',
+  'IoT': 'Internet of Things platforms connect physical devices to the internet, enabling remote monitoring, control, and data collection from sensors and appliances.',
+  'Library': 'Code libraries provide pre-written, reusable functions and components that developers can import into their projects to save time and effort.',
+  'Low-Code': 'Low-code platforms let users build applications with minimal hand-coding through visual interfaces and drag-and-drop components.',
+  'Message Queue': 'Message queues enable asynchronous communication between services by storing and forwarding messages. Essential for scalable, distributed systems.',
+  'Mobile': 'Mobile development tools and frameworks build applications for iOS and Android devices, from native apps to cross-platform solutions.',
+  'Monitoring': 'Monitoring tools track application health, performance metrics, and infrastructure status. They alert teams to issues before they impact users.',
+  'ORM': 'Object-Relational Mappers let developers interact with databases using programming language objects instead of raw SQL queries.',
+  'Operating System': 'Operating systems manage computer hardware and provide services for running applications. They\'re the foundation layer of any computing device.',
+  'Package Manager': 'Package managers automate installing, updating, and managing software libraries and dependencies in development projects.',
+  'Payment': 'Payment platforms process financial transactions, handle subscriptions, and manage billing for online businesses and applications.',
+  'Programming Language': 'Programming languages are formal languages with specific syntax and rules used to write instructions that computers can execute.',
+  'Runtime': 'Runtime environments execute code and provide the necessary services for programs to run, like memory management and system calls.',
+  'Search': 'Search tools index and retrieve information from large datasets. They power everything from website search bars to enterprise knowledge discovery.',
+  'Security': 'Security tools protect applications and data from threats. They handle vulnerability scanning, encryption, penetration testing, and compliance.',
+  'Serverless': 'Serverless platforms run code without managing servers. They automatically scale based on demand and charge only for actual compute time used.',
+  'Startup': 'Startup tools help founders launch and grow new businesses, from incorporation services to funding platforms and growth analytics.',
+  'Storage': 'Storage services provide scalable solutions for saving files, media, backups, and application data in the cloud or on-premises.',
+  'Testing': 'Testing tools help verify that software works correctly. They automate unit tests, integration tests, and end-to-end testing scenarios.',
+  'VR/AR': 'Virtual Reality and Augmented Reality tools create immersive digital experiences that overlay or replace the physical world.',
+  'Version Control': 'Version control systems track changes to code over time, enable collaboration, and let teams manage different versions of their projects.'
+};
+
 // State
 let items = [];
 let filteredItems = [];
@@ -313,6 +366,16 @@ function renderItems(activeTab) {
       </p>
     `;
     return;
+  }
+  
+  // Show category description if viewing a specific category
+  if (activeTab !== 'All' && CATEGORY_DESCRIPTIONS[activeTab]) {
+    const descDiv = document.createElement('div');
+    descDiv.className = 'category-description';
+    descDiv.innerHTML = `
+      <p>${escapeHtml(CATEGORY_DESCRIPTIONS[activeTab])}</p>
+    `;
+    elements.list.appendChild(descDiv);
   }
   
   // Group by category
