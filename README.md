@@ -1,4 +1,4 @@
-# Technova — Discover tech at a glance
+# Technova
 
 [![Live Demo](https://img.shields.io/badge/demo-live-brightgreen)](https://shubhanalytics.github.io/technova/)
 [![Resources](https://img.shields.io/badge/resources-2%2C200%2B-blue)]()
