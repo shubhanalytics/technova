@@ -65,9 +65,9 @@
     "category": "AI/ML",
     "sector": "AI",
     "country": "Worldwide",
-    "description": "[Inactive/historical project] Meta's AI research and LLM initiatives",
+    "description": "Meta's AI research and LLM initiatives",
     "popular": false,
-    "status": "inactive"
+    "status": "active"
   },
   {
     "name": "Mistral AI",
@@ -95,9 +95,9 @@
     "category": "AI/ML",
     "sector": "AI",
     "country": "Worldwide",
-    "description": "[Inactive/historical project] Developers of GPT models and API for LLMs",
+    "description": "Developers of GPT models and API for LLMs",
     "popular": true,
-    "status": "inactive"
+    "status": "active"
   },
   {
     "name": "PyTorch",
@@ -205,9 +205,9 @@
     "category": "Cloud",
     "sector": "Cloud",
     "country": "Worldwide",
-    "description": "[Inactive/historical project] Cloud hosting by Akamai (formerly Linode)",
+    "description": "Cloud hosting by Akamai (formerly Linode)",
     "popular": false,
-    "status": "inactive"
+    "status": "active"
   },
   {
     "name": "Microsoft Azure",
@@ -475,9 +475,9 @@
     "category": "Programming Language",
     "sector": "",
     "country": "",
-    "description": "[Historical programming language] Simple, fast compiled language",
+    "description": "Simple, fast compiled language",
     "popular": false,
-    "status": "inactive"
+    "status": "active"
   },
   {
     "name": "Agora",
@@ -2855,9 +2855,9 @@
     "category": "IDE/Editor",
     "sector": "Scientific",
     "country": "Worldwide",
-    "description": "[Legacy development environment] Numerical computing environment",
+    "description": "Numerical computing environment",
     "popular": true,
-    "status": "inactive"
+    "status": "active"
   },
   {
     "name": "Max",
@@ -3055,9 +3055,9 @@
     "category": "Programming Language",
     "sector": "",
     "country": "",
-    "description": "[Historical programming language] Computer algebra system",
+    "description": "Computer algebra system",
     "popular": false,
-    "status": "inactive"
+    "status": "active"
   },
   {
     "name": "Mystic Programming Language",
@@ -4275,9 +4275,9 @@
     "category": "Programming Language",
     "sector": "",
     "country": "",
-    "description": "[Historical programming language] Systems programming language",
+    "description": "Systems programming language",
     "popular": false,
-    "status": "inactive"
+    "status": "active"
   },
   {
     "name": "SenseTalk",
@@ -4365,9 +4365,9 @@
     "category": "Programming Language",
     "sector": "",
     "country": "",
-    "description": "[Historical programming language] Array programming for finance",
+    "description": "Array programming for finance",
     "popular": false,
-    "status": "inactive"
+    "status": "active"
   },
   {
     "name": "SISAL",
@@ -4395,9 +4395,9 @@
     "category": "Programming Language",
     "sector": "",
     "country": "",
-    "description": "[Historical programming language] Array programming for finance",
+    "description": "Array programming for finance",
     "popular": false,
-    "status": "inactive"
+    "status": "active"
   },
   {
     "name": "SMALL",
@@ -4585,9 +4585,9 @@
     "category": "Programming Language",
     "sector": "",
     "country": "",
-    "description": "[Historical programming language] Capability-based language",
+    "description": "Capability-based language",
     "popular": false,
-    "status": "inactive"
+    "status": "active"
   },
   {
     "name": "Structured Text",
@@ -4865,9 +4865,9 @@
     "category": "Programming Language",
     "sector": "",
     "country": "",
-    "description": "[Historical programming language] Low-level systems programming language",
+    "description": "Low-level systems programming language",
     "popular": false,
-    "status": "inactive"
+    "status": "active"
   },
   {
     "name": "Uniface",
@@ -4875,9 +4875,9 @@
     "category": "Programming Language",
     "sector": "",
     "country": "",
-    "description": "[Historical programming language] Low-level systems programming language",
+    "description": "Low-level systems programming language",
     "popular": false,
-    "status": "inactive"
+    "status": "active"
   },
   {
     "name": "Unreal Engine",
@@ -4885,9 +4885,9 @@
     "category": "Game Engine",
     "sector": "AR/VR & Metaverse",
     "country": "Worldwide",
-    "description": "[Inactive/historical project] High-fidelity real-time 3D creation platform used for games, simulations and immersive experiences.",
+    "description": "High-fidelity real-time 3D creation platform used for games, simulations and immersive experiences.",
     "popular": true,
-    "status": "inactive"
+    "status": "active"
   },
   {
     "name": "UnrealScript",
@@ -4895,9 +4895,9 @@
     "category": "Programming Language",
     "sector": "",
     "country": "",
-    "description": "[Historical programming language] Unreal Engine scripting",
+    "description": "Unreal Engine scripting",
     "popular": false,
-    "status": "inactive"
+    "status": "active"
   },
   {
     "name": "Vala",
@@ -5065,9 +5065,9 @@
     "category": "Programming Language",
     "sector": "",
     "country": "",
-    "description": "[Historical programming language] Extensible markup language",
+    "description": "Extensible markup language",
     "popular": false,
-    "status": "inactive"
+    "status": "active"
   },
   {
     "name": "XMOS architecture",
@@ -5135,9 +5135,9 @@
     "category": "Programming Language",
     "sector": "",
     "country": "",
-    "description": "[Historical programming language] XML query language",
+    "description": "XML query language",
     "popular": false,
-    "status": "inactive"
+    "status": "active"
   },
   {
     "name": "XSLT",
@@ -5145,9 +5145,9 @@
     "category": "Programming Language",
     "sector": "",
     "country": "",
-    "description": "[Historical programming language] XML transformation language",
+    "description": "XML transformation language",
     "popular": false,
-    "status": "inactive"
+    "status": "active"
   },
   {
     "name": "Xtend",
@@ -5255,9 +5255,9 @@
     "category": "Startup",
     "sector": "Design",
     "country": "Australia",
-    "description": "[Inactive/historical project] Online design and publishing tool",
+    "description": "Online design and publishing tool",
     "popular": false,
-    "status": "inactive"
+    "status": "active"
   },
   {
     "name": "CarDekho",
@@ -5285,9 +5285,9 @@
     "category": "Startup",
     "sector": "Crypto/Fintech",
     "country": "USA",
-    "description": "[Inactive/historical project] Cryptocurrency exchange",
+    "description": "Cryptocurrency exchange",
     "popular": false,
-    "status": "inactive"
+    "status": "active"
   },
   {
     "name": "CRED",
@@ -5325,9 +5325,9 @@
     "category": "Startup",
     "sector": "Delivery",
     "country": "USA",
-    "description": "[Inactive/historical project] On-demand food delivery",
+    "description": "On-demand food delivery",
     "popular": false,
-    "status": "inactive"
+    "status": "active"
   },
   {
     "name": "Dream11",
@@ -5415,9 +5415,9 @@
     "category": "Startup",
     "sector": "Marketplace",
     "country": "India",
-    "description": "[Inactive/historical project] Social commerce marketplace enabling resellers and small businesses to sell online.",
+    "description": "Social commerce marketplace enabling resellers and small businesses to sell online.",
     "popular": false,
-    "status": "inactive"
+    "status": "active"
   },
   {
     "name": "Notion",
@@ -5435,9 +5435,9 @@
     "category": "Startup",
     "sector": "E-commerce",
     "country": "India",
-    "description": "[Inactive/historical project] Beauty and wellness e-commerce and retail company.",
+    "description": "Beauty and wellness e-commerce and retail company.",
     "popular": false,
-    "status": "inactive"
+    "status": "active"
   },
   {
     "name": "Ola",
@@ -6085,9 +6085,9 @@
     "category": "Data Science",
     "sector": "",
     "country": "",
-    "description": "[Inactive/historical project] Low-level systems programming language",
+    "description": "Low-level systems programming language",
     "popular": false,
-    "status": "inactive"
+    "status": "active"
   },
   {
     "name": "AOLserver",
@@ -6245,7 +6245,7 @@
     "category": "IDE/Editor",
     "sector": "",
     "country": "",
-    "description": "[Legacy development environment] Open source web development IDE based on Eclipse",
+    "description": "[Historical] Discontinued web IDE (last release 2015)",
     "popular": false,
     "status": "inactive"
   },
@@ -6405,9 +6405,9 @@
     "category": "CMS",
     "sector": "",
     "country": "",
-    "description": "[Legacy content management system] Drupal fork for small teams",
+    "description": "Drupal fork for small teams",
     "popular": false,
-    "status": "inactive"
+    "status": "active"
   },
   {
     "name": "Bare Bones Software",
@@ -6545,9 +6545,9 @@
     "category": "Hosting",
     "sector": "",
     "country": "",
-    "description": "[Inactive/historical project] Web hosting and WordPress hosting provider",
+    "description": "Web hosting and WordPress hosting provider",
     "popular": false,
-    "status": "inactive"
+    "status": "active"
   },
   {
     "name": "BlueJ",
@@ -6595,7 +6595,7 @@
     "category": "IDE/Editor",
     "sector": "",
     "country": "",
-    "description": "[Legacy development environment] Delphi for Linux",
+    "description": "[Historical] Discontinued Linux IDE (ended 2005)",
     "popular": false,
     "status": "inactive"
   },
@@ -6865,9 +6865,9 @@
     "category": "Hosting",
     "sector": "",
     "country": "",
-    "description": "[Inactive/historical project] Canadian Internet Registration Authority",
+    "description": "Canadian Internet Registration Authority",
     "popular": false,
-    "status": "inactive"
+    "status": "active"
   },
   {
     "name": "clarification needed",
@@ -7065,9 +7065,9 @@
     "category": "IDE/Editor",
     "sector": "",
     "country": "",
-    "description": "[Legacy development environment] Free PHP IDE",
+    "description": "Free PHP IDE",
     "popular": false,
-    "status": "inactive"
+    "status": "active"
   },
   {
     "name": "CodeWarrior",
@@ -7075,9 +7075,9 @@
     "category": "IDE/Editor",
     "sector": "",
     "country": "",
-    "description": "[Legacy development environment] IDE by Metrowerks/NXP",
+    "description": "IDE by Metrowerks/NXP",
     "popular": false,
-    "status": "inactive"
+    "status": "active"
   },
   {
     "name": "Collabora Online",
@@ -7245,9 +7245,9 @@
     "category": "Programming Language",
     "sector": "",
     "country": "",
-    "description": "[Historical programming language] Web styling language",
+    "description": "Web styling language",
     "popular": true,
-    "status": "inactive"
+    "status": "active"
   },
   {
     "name": "CVS",
@@ -7405,9 +7405,9 @@
     "category": "CMS",
     "sector": "",
     "country": "",
-    "description": "[Legacy content management system] DotNetNuke CMS platform",
+    "description": "DotNetNuke CMS platform",
     "popular": false,
-    "status": "inactive"
+    "status": "active"
   },
   {
     "name": "DNS Belgium",
@@ -7515,7 +7515,7 @@
     "category": "Operating System",
     "sector": "",
     "country": "",
-    "description": "[Legacy operating system] Statistical computing and graphics language",
+    "description": "[Historical] Historical DOS operating system (1988)",
     "popular": false,
     "status": "inactive"
   },
@@ -7555,9 +7555,9 @@
     "category": "CMS",
     "sector": "",
     "country": "",
-    "description": "[Legacy content management system] Enterprise content management system",
+    "description": "Enterprise content management system",
     "popular": false,
-    "status": "inactive"
+    "status": "active"
   },
   {
     "name": "DSpace",
@@ -7705,7 +7705,7 @@
     "category": "IDE/Editor",
     "sector": "",
     "country": "",
-    "description": "[Legacy development environment] DOS line editor",
+    "description": "[Historical] MS-DOS line editor (legacy, included for reference)",
     "popular": false,
     "status": "inactive"
   },
@@ -8445,9 +8445,9 @@
     "category": "Collaboration",
     "sector": "",
     "country": "",
-    "description": "[Discontinued collaboration tool] Visual goal management",
+    "description": "Visual goal management",
     "popular": false,
-    "status": "inactive"
+    "status": "active"
   },
   {
     "name": "GoDaddy",
@@ -8455,9 +8455,9 @@
     "category": "Hosting",
     "sector": "Domain & Hosting",
     "country": "Worldwide",
-    "description": "[Inactive/historical project] Domain registrar, web hosting, and website builder platform",
+    "description": "Domain registrar, web hosting, and website builder platform",
     "popular": true,
-    "status": "inactive"
+    "status": "active"
   },
   {
     "name": "GoldED",
@@ -8695,9 +8695,9 @@
     "category": "Programming Language",
     "sector": "",
     "country": "",
-    "description": "[Historical programming language] Latest HTML standard",
+    "description": "Latest HTML standard",
     "popular": false,
-    "status": "inactive"
+    "status": "active"
   },
   {
     "name": "Huddle",
@@ -9095,9 +9095,9 @@
     "category": "IDE/Editor",
     "sector": "",
     "country": "",
-    "description": "[Legacy development environment] Joe's Own Editor",
+    "description": "Joe's Own Editor",
     "popular": false,
-    "status": "inactive"
+    "status": "active"
   },
   {
     "name": "Joomla!",
@@ -9205,9 +9205,9 @@
     "category": "IDE/Editor",
     "sector": "",
     "country": "",
-    "description": "[Legacy development environment] LaTeX editor for KDE",
+    "description": "LaTeX editor for KDE",
     "popular": false,
-    "status": "inactive"
+    "status": "active"
   },
   {
     "name": "killer application",
@@ -9535,7 +9535,7 @@
     "category": "Collaboration",
     "sector": "",
     "country": "",
-    "description": "[Discontinued collaboration tool] IBM office suite",
+    "description": "[Historical] Discontinued office suite (IBM, ended 2014)",
     "popular": false,
     "status": "inactive"
   },
@@ -9555,9 +9555,9 @@
     "category": "Operating System",
     "sector": "",
     "country": "",
-    "description": "[Legacy operating system] Lightweight X11 desktop environment",
+    "description": "Lightweight X11 desktop environment",
     "popular": false,
-    "status": "inactive"
+    "status": "active"
   },
   {
     "name": "Macintosh",
@@ -9585,7 +9585,7 @@
     "category": "Operating System",
     "sector": "",
     "country": "",
-    "description": "[Legacy operating system] Mobile Linux distribution",
+    "description": "[Historical] Discontinued Linux mobile OS (Nokia)",
     "popular": false,
     "status": "inactive"
   },
@@ -10095,9 +10095,9 @@
     "category": "Database",
     "sector": "",
     "country": "",
-    "description": "[Legacy database system] Open-source relational database",
+    "description": "Open-source relational database",
     "popular": true,
-    "status": "inactive"
+    "status": "active"
   },
   {
     "name": "MyWorkPLAN",
@@ -10125,9 +10125,9 @@
     "category": "Hosting",
     "sector": "",
     "country": "",
-    "description": "[Inactive/historical project] Domain registrar and web hosting provider",
+    "description": "Domain registrar and web hosting provider",
     "popular": false,
-    "status": "inactive"
+    "status": "active"
   },
   {
     "name": "NameSilo",
@@ -10135,9 +10135,9 @@
     "category": "Hosting",
     "sector": "",
     "country": "",
-    "description": "[Inactive/historical project] Domain registrar",
+    "description": "Domain registrar",
     "popular": false,
-    "status": "inactive"
+    "status": "active"
   },
   {
     "name": "ne",
@@ -10205,9 +10205,9 @@
     "category": "Collaboration",
     "sector": "",
     "country": "",
-    "description": "[Discontinued collaboration tool] Project scheduling tool",
+    "description": "Project scheduling tool",
     "popular": false,
-    "status": "inactive"
+    "status": "active"
   },
   {
     "name": "NetSuite",
@@ -10215,9 +10215,9 @@
     "category": "Business",
     "sector": "",
     "country": "",
-    "description": "[Inactive/historical project] Cloud ERP and business software",
+    "description": "Cloud ERP and business software",
     "popular": false,
-    "status": "inactive"
+    "status": "active"
   },
   {
     "name": "Network Solutions",
@@ -10225,9 +10225,9 @@
     "category": "Hosting",
     "sector": "",
     "country": "",
-    "description": "[Inactive/historical project] Domain registrar and hosting",
+    "description": "Domain registrar and hosting",
     "popular": false,
-    "status": "inactive"
+    "status": "active"
   },
   {
     "name": "NeXTSTEP",
@@ -10285,9 +10285,9 @@
     "category": "Library",
     "sector": "",
     "country": "",
-    "description": "[Legacy library] Open-source e-commerce platform",
+    "description": "Open-source e-commerce platform",
     "popular": false,
-    "status": "inactive"
+    "status": "active"
   },
   {
     "name": "Notepad",
@@ -10335,9 +10335,9 @@
     "category": "Package Manager",
     "sector": "Developer Tools",
     "country": "Worldwide",
-    "description": "[Inactive/historical project] Node.js package manager",
+    "description": "Node.js package manager",
     "popular": true,
-    "status": "inactive"
+    "status": "active"
   },
   {
     "name": "NS Basic",
@@ -10355,9 +10355,9 @@
     "category": "CMS",
     "sector": "",
     "country": "",
-    "description": "[Legacy content management system] PHP/MySQL blog CMS",
+    "description": "PHP/MySQL blog CMS",
     "popular": false,
-    "status": "inactive"
+    "status": "active"
   },
   {
     "name": "Numbers",
@@ -10455,9 +10455,9 @@
     "category": "Collaboration",
     "sector": "",
     "country": "",
-    "description": "[Discontinued collaboration tool] Project reporting software",
+    "description": "Project reporting software",
     "popular": false,
-    "status": "inactive"
+    "status": "active"
   },
   {
     "name": "Online integrated development environment",
@@ -10555,9 +10555,9 @@
     "category": "CMS",
     "sector": "",
     "country": "",
-    "description": "[Legacy content management system] Open-source e-commerce platform",
+    "description": "Open-source e-commerce platform",
     "popular": false,
-    "status": "inactive"
+    "status": "active"
   },
   {
     "name": "OpenCms",
@@ -10715,9 +10715,9 @@
     "category": "Documentation",
     "sector": "",
     "country": "",
-    "description": "[Inactive/historical project] Web Ontology Language",
+    "description": "Web Ontology Language",
     "popular": false,
-    "status": "inactive"
+    "status": "active"
   },
   {
     "name": "Padre",
@@ -10815,9 +10815,9 @@
     "category": "Database",
     "sector": "",
     "country": "",
-    "description": "[Legacy database system] MySQL fork with performance improvements",
+    "description": "MySQL fork with performance improvements",
     "popular": false,
-    "status": "inactive"
+    "status": "active"
   },
   {
     "name": "Perforce",
@@ -10865,7 +10865,7 @@
     "category": "IDE/Editor",
     "sector": "",
     "country": "",
-    "description": "[Legacy development environment] PHP IDE for Eclipse",
+    "description": "[Historical] Discontinued PHP Eclipse plugin",
     "popular": false,
     "status": "inactive"
   },
@@ -11475,9 +11475,9 @@
     "category": "Documentation",
     "sector": "",
     "country": "",
-    "description": "[Inactive/historical project] Resource Description Framework",
+    "description": "Resource Description Framework",
     "popular": false,
-    "status": "inactive"
+    "status": "active"
   },
   {
     "name": "ReadWriteWeb",
@@ -11525,9 +11525,9 @@
     "category": "Hosting",
     "sector": "",
     "country": "",
-    "description": "[Inactive/historical project] Domain registrar",
+    "description": "Domain registrar",
     "popular": false,
-    "status": "inactive"
+    "status": "active"
   },
   {
     "name": "RemObjects Software",
@@ -11625,9 +11625,9 @@
     "category": "Business",
     "sector": "",
     "country": "",
-    "description": "[Inactive/historical project] Cloud ERP solution",
+    "description": "Cloud ERP solution",
     "popular": false,
-    "status": "inactive"
+    "status": "active"
   },
   {
     "name": "SAP BusinessObjects",
@@ -11635,9 +11635,9 @@
     "category": "Analytics",
     "sector": "Business Intelligence",
     "country": "Germany",
-    "description": "[Inactive/historical project] Business intelligence suite",
+    "description": "Business intelligence suite",
     "popular": false,
-    "status": "inactive"
+    "status": "active"
   },
   {
     "name": "SASM",
@@ -11745,9 +11745,9 @@
     "category": "CMS",
     "sector": "",
     "country": "",
-    "description": "[Legacy content management system] E-commerce software",
+    "description": "E-commerce software",
     "popular": false,
-    "status": "inactive"
+    "status": "active"
   },
   {
     "name": "Serendipity",
@@ -12185,7 +12185,7 @@
     "category": "Operating System",
     "sector": "",
     "country": "",
-    "description": "[Legacy operating system] Mobile operating system",
+    "description": "[Historical] Discontinued mobile OS (Nokia, ended 2012)",
     "popular": false,
     "status": "inactive"
   },
@@ -12205,7 +12205,7 @@
     "category": "Operating System",
     "sector": "",
     "country": "",
-    "description": "[Legacy operating system] Classic Mac OS version",
+    "description": "[Historical] Historical Mac OS version (1988)",
     "popular": false,
     "status": "inactive"
   },
@@ -12225,9 +12225,9 @@
     "category": "Analytics",
     "sector": "Business Intelligence",
     "country": "USA",
-    "description": "[Inactive/historical project] Data visualization and analytics",
+    "description": "Data visualization and analytics",
     "popular": false,
-    "status": "inactive"
+    "status": "active"
   },
   {
     "name": "Taiga",
@@ -12265,9 +12265,9 @@
     "category": "Collaboration",
     "sector": "",
     "country": "",
-    "description": "[Discontinued collaboration tool] [Needs review] Low-level systems programming language",
+    "description": "[Needs review] Low-level systems programming language",
     "popular": false,
-    "status": "inactive"
+    "status": "active"
   },
   {
     "name": "Teamsite",
@@ -12525,7 +12525,7 @@
     "category": "Operating System",
     "sector": "",
     "country": "",
-    "description": "[Legacy operating system] [Needs review] Statistical computing and graphics language",
+    "description": "[Historical] Discontinued HP/DEC UNIX (support ended 2012)",
     "popular": false,
     "status": "inactive"
   },
@@ -12645,9 +12645,9 @@
     "category": "CMS",
     "sector": "",
     "country": "",
-    "description": "[Legacy content management system] .NET open-source CMS",
+    "description": ".NET open-source CMS",
     "popular": false,
-    "status": "inactive"
+    "status": "active"
   },
   {
     "name": "Understand",
@@ -12795,7 +12795,7 @@
     "category": "Collaboration",
     "sector": "",
     "country": "",
-    "description": "[Discontinued collaboration tool] First spreadsheet application",
+    "description": "[Historical] First spreadsheet program (1979, historical)",
     "popular": false,
     "status": "inactive"
   },
@@ -12835,9 +12835,9 @@
     "category": "IDE/Editor",
     "sector": "",
     "country": "",
-    "description": "[Legacy development environment] Smalltalk development environment",
+    "description": "Smalltalk development environment",
     "popular": false,
-    "status": "inactive"
+    "status": "active"
   },
   {
     "name": "VM/CMS",
@@ -12925,9 +12925,9 @@
     "category": "Hosting",
     "sector": "",
     "country": "",
-    "description": "[Inactive/historical project] Web services company",
+    "description": "Web services company",
     "popular": false,
-    "status": "inactive"
+    "status": "active"
   },
   {
     "name": "web2project",
@@ -13025,9 +13025,9 @@
     "category": "Runtime",
     "sector": "",
     "country": "",
-    "description": "[Inactive/historical project] Windows compatibility layer for Unix",
+    "description": "Windows compatibility layer for Unix",
     "popular": false,
-    "status": "inactive"
+    "status": "active"
   },
   {
     "name": "WinEdt",
@@ -13105,9 +13105,9 @@
     "category": "Collaboration",
     "sector": "",
     "country": "",
-    "description": "[Discontinued collaboration tool] Work management platform",
+    "description": "Work management platform",
     "popular": false,
-    "status": "inactive"
+    "status": "active"
   },
   {
     "name": "Workspace.com",
@@ -13245,9 +13245,9 @@
     "category": "CMS",
     "sector": "",
     "country": "",
-    "description": "[Legacy content management system] Enterprise wiki platform",
+    "description": "Enterprise wiki platform",
     "popular": false,
-    "status": "inactive"
+    "status": "active"
   },
   {
     "name": "Yudit",
@@ -13305,9 +13305,9 @@
     "category": "CMS",
     "sector": "",
     "country": "",
-    "description": "[Legacy content management system] SaaS headless CMS",
+    "description": "SaaS headless CMS",
     "popular": false,
-    "status": "inactive"
+    "status": "active"
   },
   {
     "name": "Zoho Projects",
@@ -13912,11 +13912,11 @@
   },
   {
     "name": "RethinkDB",
-    "description": "[Legacy database system] Real-time database for the pushable web",
+    "description": "Real-time database for the pushable web",
     "url": "https://rethinkdb.com/",
     "category": "Database",
     "verified": true,
-    "status": "inactive"
+    "status": "active"
   },
   {
     "name": "ArangoDB",
@@ -13944,11 +13944,11 @@
   },
   {
     "name": "Couchbase",
-    "description": "[Legacy database system] Distributed NoSQL cloud database",
+    "description": "Distributed NoSQL cloud database",
     "url": "https://www.couchbase.com/",
     "category": "Database",
     "verified": true,
-    "status": "inactive"
+    "status": "active"
   },
   {
     "name": "Apache Druid",
@@ -13992,11 +13992,11 @@
   },
   {
     "name": "FaunaDB",
-    "description": "[Legacy database system] Serverless document-relational database",
+    "description": "Serverless document-relational database",
     "url": "https://fauna.com/",
     "category": "Database",
     "verified": true,
-    "status": "inactive"
+    "status": "active"
   },
   {
     "name": "Vitess",
@@ -14798,11 +14798,11 @@
   },
   {
     "name": "Naive UI",
-    "description": "[Legacy library] Vue 3 component library",
+    "description": "Vue 3 component library",
     "url": "https://www.naiveui.com/",
     "category": "Library",
     "verified": true,
-    "status": "inactive"
+    "status": "active"
   },
   {
     "name": "Motion (Framer Motion)",
@@ -14941,11 +14941,11 @@
   },
   {
     "name": "Nivo",
-    "description": "[Legacy library] Data visualization components for React",
+    "description": "Data visualization components for React",
     "url": "https://nivo.rocks/",
     "category": "Library",
     "verified": true,
-    "status": "inactive"
+    "status": "active"
   },
   {
     "name": "Visx",
@@ -15464,7 +15464,7 @@
   },
   {
     "name": "Rome",
-    "description": "[Inactive/historical project] Unified toolchain for JavaScript and TypeScript",
+    "description": "[Historical] Discontinued JavaScript toolchain (merged into Biome)",
     "url": "https://rome.tools/",
     "category": "Build Tool",
     "verified": true,
@@ -15884,11 +15884,11 @@
   },
   {
     "name": "Redis Pub/Sub",
-    "description": "[Inactive/historical project] Messaging paradigm in Redis",
+    "description": "Messaging paradigm in Redis",
     "url": "https://redis.io/docs/manual/pubsub/",
     "category": "Message Queue",
     "verified": true,
-    "status": "inactive"
+    "status": "active"
   },
   {
     "name": "Apache Pulsar",
@@ -15973,11 +15973,11 @@
   },
   {
     "name": "Upstash Kafka",
-    "description": "[Inactive/historical project] Serverless Kafka",
+    "description": "Serverless Kafka",
     "url": "https://upstash.com/kafka",
     "category": "Message Queue",
     "verified": true,
-    "status": "inactive"
+    "status": "active"
   },
   {
     "name": "Upstash QStash",
@@ -16485,12 +16485,12 @@
   },
   {
     "name": "React Email",
-    "description": "[Inactive/historical project] Build emails using React components",
+    "description": "Build emails using React components",
     "url": "https://react.email/",
     "category": "Email",
     "popular": true,
     "verified": true,
-    "status": "inactive"
+    "status": "active"
   },
   {
     "name": "MJML",
@@ -16510,11 +16510,11 @@
   },
   {
     "name": "Loops",
-    "description": "[Inactive/historical project] Email platform for SaaS companies",
+    "description": "Email platform for SaaS companies",
     "url": "https://loops.so/",
     "category": "Email",
     "verified": true,
-    "status": "inactive"
+    "status": "active"
   },
   {
     "name": "Plunk",
@@ -16534,11 +16534,11 @@
   },
   {
     "name": "ConvertKit",
-    "description": "[Inactive/historical project] Email marketing for creators",
+    "description": "Email marketing for creators",
     "url": "https://convertkit.com/",
     "category": "Email",
     "verified": true,
-    "status": "inactive"
+    "status": "active"
   },
   {
     "name": "PostHog",
@@ -16878,11 +16878,11 @@
   },
   {
     "name": "Ko-fi",
-    "description": "[Inactive/historical project] Support platform for creators",
+    "description": "Support platform for creators",
     "url": "https://ko-fi.com/",
     "category": "Payment",
     "verified": true,
-    "status": "inactive"
+    "status": "active"
   },
   {
     "name": "Buy Me a Coffee",
@@ -17052,12 +17052,12 @@
   },
   {
     "name": "JVM",
-    "description": "[Inactive/historical project] Java Virtual Machine",
+    "description": "Java Virtual Machine",
     "url": "https://www.java.com/",
     "category": "Runtime",
     "popular": true,
     "verified": true,
-    "status": "inactive"
+    "status": "active"
   },
   {
     "name": ".NET Runtime",
@@ -17286,11 +17286,11 @@
   },
   {
     "name": "Height",
-    "description": "[Discontinued collaboration tool] Autonomous project management tool",
+    "description": "Autonomous project management tool",
     "url": "https://height.app/",
     "category": "Collaboration",
     "verified": true,
-    "status": "inactive"
+    "status": "active"
   },
   {
     "name": "Plane",
@@ -17641,12 +17641,12 @@
   },
   {
     "name": "OpenAI API",
-    "description": "[Inactive/historical project] API for GPT models and AI services",
+    "description": "API for GPT models and AI services",
     "url": "https://platform.openai.com/",
     "category": "AI/ML",
     "popular": true,
     "verified": true,
-    "status": "inactive"
+    "status": "active"
   },
   {
     "name": "Anthropic Claude",
@@ -17820,21 +17820,21 @@
   },
   {
     "name": "Midjourney",
-    "description": "[Inactive/historical project] AI image generation",
+    "description": "AI image generation",
     "url": "https://www.midjourney.com/",
     "category": "AI/ML",
     "popular": true,
     "verified": true,
-    "status": "inactive"
+    "status": "active"
   },
   {
     "name": "DALL-E",
-    "description": "[Inactive/historical project] AI image generation by OpenAI",
+    "description": "AI image generation by OpenAI",
     "url": "https://openai.com/dall-e-3",
     "category": "AI/ML",
     "popular": true,
     "verified": true,
-    "status": "inactive"
+    "status": "active"
   },
   {
     "name": "ElevenLabs",
@@ -17846,11 +17846,11 @@
   },
   {
     "name": "Whisper",
-    "description": "[Inactive/historical project] Speech recognition model by OpenAI",
+    "description": "Speech recognition model by OpenAI",
     "url": "https://openai.com/research/whisper",
     "category": "AI/ML",
     "verified": true,
-    "status": "inactive"
+    "status": "active"
   },
   {
     "name": "AssemblyAI",
@@ -18470,11 +18470,11 @@
   },
   {
     "name": "OpenCV",
-    "description": "[Inactive/historical project] Open source computer vision and machine learning software library",
+    "description": "Open source computer vision and machine learning software library",
     "url": "https://opencv.org/",
     "category": "AI/ML",
     "popular": true,
-    "status": "inactive"
+    "status": "active"
   },
   {
     "name": "Pillow",
@@ -19014,10 +19014,10 @@
   },
   {
     "name": "exa",
-    "description": "[Inactive/historical project] Modern replacement for ls with colors and icons",
+    "description": "Modern replacement for ls with colors and icons",
     "url": "https://the.exa.website/",
     "category": "CLI",
-    "status": "inactive"
+    "status": "active"
   },
   {
     "name": "fd",
@@ -19207,10 +19207,10 @@
   },
   {
     "name": "SuperAgent",
-    "description": "[Inactive/historical project] Small progressive client-side HTTP request library",
+    "description": "Small progressive client-side HTTP request library",
     "url": "https://ladjs.github.io/superagent/",
     "category": "API",
-    "status": "inactive"
+    "status": "active"
   },
   {
     "name": "Node-Fetch",
@@ -19360,10 +19360,10 @@
   },
   {
     "name": "AppDynamics",
-    "description": "[Inactive/historical project] Application performance management",
+    "description": "Application performance management",
     "url": "https://www.splunk.com/en_us/products/appdynamics.html",
     "category": "Monitoring",
-    "status": "inactive"
+    "status": "active"
   },
   {
     "name": "Dynatrace",
@@ -19780,10 +19780,10 @@
   },
   {
     "name": "CodePen",
-    "description": "[Legacy development environment] Online code editor and front-end playground",
+    "description": "Online code editor and front-end playground",
     "url": "https://codepen.io/",
     "category": "IDE/Editor",
-    "status": "inactive"
+    "status": "active"
   },
   {
     "name": "Adobe Photoshop",
@@ -19881,10 +19881,10 @@
   },
   {
     "name": "Phaser",
-    "description": "[Inactive/historical project] Fast, free, fun HTML5 game framework",
+    "description": "Fast, free, fun HTML5 game framework",
     "url": "https://phaser.io/",
     "category": "Game Engine",
-    "status": "inactive"
+    "status": "active"
   },
   {
     "name": "Metasploit",
