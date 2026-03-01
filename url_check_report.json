@@ -1,22 +1,30 @@
 {
   "summary": {
-    "total": 2241,
-    "ok": 1774,
-    "broken": 202,
-    "timeout": 57,
-    "ssl_error": 18,
-    "redirect": 184,
+    "total": 2169,
+    "ok": 1844,
+    "broken": 157,
+    "timeout": 52,
+    "ssl_error": 5,
+    "redirect": 105,
     "skipped": 6,
     "other_error": 0
   },
   "broken": [
     {
+      "name": "Meta AI",
+      "url": "https://www.meta.ai/",
+      "category": "AI/ML",
+      "status": "HTTP_403",
+      "error": "HTTP 403",
+      "final_url": "https://www.meta.ai/"
+    },
+    {
       "name": "Linode",
-      "url": "https://www.linode.com/",
+      "url": "https://www.akamai.com/solutions/linode",
       "category": "Cloud",
       "status": "HTTP_403",
       "error": "HTTP 403",
-      "final_url": "https://www.linode.com/"
+      "final_url": "https://www.akamai.com/solutions/linode"
     },
     {
       "name": "Action!",
@@ -43,108 +51,20 @@
       "final_url": "https://www.keysight.com/us/en/product/W4000D/vee-pro-9-33.html"
     },
     {
-      "name": "Ada",
-      "url": "https://www.adaic.org/",
-      "category": "Programming Language",
-      "status": "HTTP_403",
-      "error": "HTTP 403",
-      "final_url": "https://www.adaic.org/"
-    },
-    {
-      "name": "Meta AI",
-      "url": "https://ai.meta.com/",
-      "category": "AI/ML",
-      "status": "HTTP_400",
-      "error": "HTTP 400",
-      "final_url": "https://ai.meta.com/"
-    },
-    {
       "name": "OpenAI",
-      "url": "https://openai.com/",
+      "url": "https://platform.openai.com/",
       "category": "AI/ML",
       "status": "HTTP_403",
       "error": "HTTP 403",
-      "final_url": "https://openai.com/"
+      "final_url": "https://platform.openai.com/"
     },
     {
-      "name": "APT",
-      "url": "http://dl.acm.org/citation.cfm?id=808374&dl=ACM&coll=DL&CFID=203593322&CFTOKEN=45146083",
-      "category": "Programming Language",
-      "status": "HTTP_403",
-      "error": "HTTP 403",
-      "final_url": "https://dl.acm.org/citation.cfm?id=808374&dl=ACM&coll=DL&CFID=203593322&CFTOKEN=45146083"
-    },
-    {
-      "name": "AutoHotkey",
-      "url": "https://www.autohotkey.com/",
-      "category": "Programming Language",
-      "status": "HTTP_403",
-      "error": "HTTP 403",
-      "final_url": "https://www.autohotkey.com/"
-    },
-    {
-      "name": "A+ (A plus)",
-      "url": "http://www.aplusdev.org/",
+      "name": "Alma-0",
+      "url": "http://www.cwi.nl/en/alma",
       "category": "Programming Language",
       "status": "HTTP_404",
       "error": "HTTP 404",
-      "final_url": "http://www.aplusdev.org/index.html"
-    },
-    {
-      "name": "bc (basic calculator)",
-      "url": "https://doi.acm.org/10.1145/152923.152925",
-      "category": "Programming Language",
-      "status": "HTTP_403",
-      "error": "HTTP 403",
-      "final_url": "https://doi.acm.org/10.1145/152923.152925"
-    },
-    {
-      "name": "Chronological",
-      "url": "http://hopl.info/",
-      "category": "Programming Language",
-      "status": "CONNECTION_ERROR",
-      "error": "Connection failed (site may be down)",
-      "final_url": null
-    },
-    {
-      "name": "Clarion",
-      "url": "http://www.softvelocity.com",
-      "category": "Programming Language",
-      "status": "HTTP_403",
-      "error": "HTTP 403",
-      "final_url": "http://www.softvelocity.com/"
-    },
-    {
-      "name": "Algebraic Logic Functional programming language",
-      "url": "http://www.informatik.uni-kiel.de/~mh/systems/ALF",
-      "category": "Programming Language",
-      "status": "CONNECTION_ERROR",
-      "error": "Connection failed (site may be down)",
-      "final_url": null
-    },
-    {
-      "name": "Clipper",
-      "url": "http://www.grafxsoft.com/clipper.htm",
-      "category": "Programming Language",
-      "status": "CONNECTION_ERROR",
-      "error": "Connection failed (site may be down)",
-      "final_url": null
-    },
-    {
-      "name": "COMTRAN",
-      "url": "https://www.ancestry.co.uk/learn/library/article.aspx?article=1159",
-      "category": "Programming Language",
-      "status": "HTTP_403",
-      "error": "HTTP 403",
-      "final_url": "https://www.ancestry.co.uk/learn/library/article.aspx?article=1159"
-    },
-    {
-      "name": "Cybil",
-      "url": "https://dl.acm.org/doi/10.1145/988327.988331",
-      "category": "Programming Language",
-      "status": "HTTP_403",
-      "error": "HTTP 403",
-      "final_url": "https://dl.acm.org/doi/10.1145/988327.988331"
+      "final_url": "https://www.cwi.nl/en/alma/"
     },
     {
       "name": "CLU",
@@ -155,268 +75,20 @@
       "final_url": "http://pmg.csail.mit.edu/CLU.html"
     },
     {
-      "name": "Dog",
-      "url": "http://www.kamvar.org/",
-      "category": "Programming Language",
-      "status": "CONNECTION_ERROR",
-      "error": "Connection failed (site may be down)",
-      "final_url": null
-    },
-    {
-      "name": "DATATRIEVE",
-      "url": "https://vmssoftware.com/products/datatrieve/",
-      "category": "Programming Language",
-      "status": "HTTP_404",
-      "error": "HTTP 404",
-      "final_url": "https://vmssoftware.com/products/datatrieve/"
-    },
-    {
-      "name": "Cayenne (Lennart Augustsson)",
-      "url": "http://www.augustsson.net",
-      "category": "Programming Language",
-      "status": "CONNECTION_ERROR",
-      "error": "Connection failed (site may be down)",
-      "final_url": null
-    },
-    {
-      "name": "Etoys",
-      "url": "http://www.squeakland.org/",
-      "category": "Programming Language",
-      "status": "CONNECTION_ERROR",
-      "error": "Connection failed (site may be down)",
-      "final_url": null
-    },
-    {
-      "name": "ESPOL",
-      "url": "http://www.ianjoyner.name/Burroughs.html",
-      "category": "Programming Language",
-      "status": "CONNECTION_ERROR",
-      "error": "Connection failed (site may be down)",
-      "final_url": null
-    },
-    {
-      "name": "CMS EXEC",
-      "url": "https://archive.today/20140417183004/http://publibfp.boulder.ibm.com/cgi-bin/bookmgr_OS390/BOOKS/HCSD7B00/CCONTENTS#5.1",
-      "category": "Programming Language",
-      "status": "HTTP_429",
-      "error": "HTTP 429",
-      "final_url": "https://archive.ph/20140417183004/http://publibfp.boulder.ibm.com/cgi-bin/bookmgr_OS390/BOOKS/HCSD7B00/CCONTENTS#5.1"
-    },
-    {
-      "name": "ELAN",
-      "url": "https://www.cs.ru.nl/elan",
-      "category": "Programming Language",
-      "status": "HTTP_403",
-      "error": "HTTP 403",
-      "final_url": "https://www.cs.ru.nl/elan"
-    },
-    {
-      "name": "Euclid",
-      "url": "http://portal.acm.org/citation.cfm?id=954666.971189",
-      "category": "Programming Language",
-      "status": "HTTP_403",
-      "error": "HTTP 403",
-      "final_url": "https://dl.acm.org/citation.cfm?id=954666.971189"
-    },
-    {
-      "name": "EusLisp Robot Programming Language",
-      "url": "http://staff.aist.go.jp/t.matsui/eus/",
-      "category": "Programming Language",
-      "status": "HTTP_404",
-      "error": "HTTP 404",
-      "final_url": "https://staff.aist.go.jp/t.matsui/eus/"
-    },
-    {
-      "name": "Generational",
-      "url": "https://merd.sourceforge.net/pixel/language-study/diagram.html",
-      "category": "Programming Language",
-      "status": "HTTP_403",
-      "error": "HTTP 403",
-      "final_url": "https://merd.sourceforge.net/pixel/language-study/diagram.html"
-    },
-    {
-      "name": "FLOW-MATIC (B0)",
-      "url": "http://portal.acm.org/citation.cfm?id=954666.971189",
-      "category": "Programming Language",
-      "status": "HTTP_403",
-      "error": "HTTP 403",
-      "final_url": "https://dl.acm.org/citation.cfm?id=954666.971189"
-    },
-    {
-      "name": "GRASS",
-      "url": "http://dl.acm.org/citation.cfm?id=808374&dl=ACM&coll=DL&CFID=203593322&CFTOKEN=45146083",
-      "category": "Programming Language",
-      "status": "HTTP_403",
-      "error": "HTTP 403",
-      "final_url": "https://dl.acm.org/citation.cfm?id=808374&dl=ACM&coll=DL&CFID=203593322&CFTOKEN=45146083"
-    },
-    {
-      "name": "Cryptol",
-      "url": "http://www.cryptol.net",
-      "category": "Programming Language",
-      "status": "CONNECTION_ERROR",
-      "error": "Connection failed (site may be down)",
-      "final_url": null
-    },
-    {
-      "name": "Janus (concurrent constraint programming language)",
-      "url": "https://www.researchgate.net/publication/221321646",
-      "category": "Programming Language",
-      "status": "HTTP_403",
-      "error": "HTTP 403",
-      "final_url": "https://www.researchgate.net/publication/221321646"
-    },
-    {
-      "name": "Karel",
-      "url": "https://xkarel.sourceforge.net/",
-      "category": "Programming Language",
-      "status": "HTTP_403",
-      "error": "HTTP 403",
-      "final_url": "https://xkarel.sourceforge.net/"
-    },
-    {
-      "name": "Legoscript",
-      "url": "https://www.lego.com/themes/mindstorms/about",
-      "category": "Programming Language",
-      "status": "HTTP_403",
-      "error": "HTTP 403",
-      "final_url": "https://www.lego.com/themes/mindstorms/about"
-    },
-    {
-      "name": "esoteric programming languages",
-      "url": "https://esolangs.org/wiki/Main_Page",
-      "category": "Programming Language",
-      "status": "CONNECTION_ERROR",
-      "error": "Connection failed (site may be down)",
-      "final_url": null
-    },
-    {
-      "name": "Lasso",
-      "url": "http://www.lassosoft.com",
-      "category": "Programming Language",
-      "status": "HTTP_500",
-      "error": "HTTP 500",
-      "final_url": "http://www.lassosoft.com/"
-    },
-    {
-      "name": "JEAN",
-      "url": "https://archive.today/20130105104243/http://www3.interscience.wiley.com/journal/113444330/abstract?CRETRY=1&SRETRY=0",
-      "category": "Programming Language",
-      "status": "HTTP_429",
-      "error": "HTTP 429",
-      "final_url": "https://archive.ph/20130105104243/http://www3.interscience.wiley.com/journal/113444330/abstract?CRETRY=1&SRETRY=0"
-    },
-    {
-      "name": "Magik",
-      "url": "http://www.ge-energy.com/products_and_services/products/geospatial_systems_and_mobile_workforce/index.jsp",
-      "category": "Programming Language",
-      "status": "HTTP_404",
-      "error": "HTTP 404",
-      "final_url": "http://www.ge-energy.com/products_and_services/products/geospatial_systems_and_mobile_workforce/index.jsp"
-    },
-    {
       "name": "MATLAB",
-      "url": "https://www.mathworks.com/products/matlab.html",
+      "url": "https://www.mathworks.com/",
       "category": "IDE/Editor",
       "status": "HTTP_403",
       "error": "HTTP 403",
-      "final_url": "https://www.mathworks.com/products/matlab.html"
+      "final_url": "https://www.mathworks.com/"
     },
     {
-      "name": "Maxima",
-      "url": "https://maxima.sourceforge.io/",
+      "name": "MuPAD",
+      "url": "https://www.mathworks.com/discovery/mupad.html",
       "category": "Programming Language",
       "status": "HTTP_403",
       "error": "HTTP 403",
-      "final_url": "https://maxima.sourceforge.io/"
-    },
-    {
-      "name": "MIMIC",
-      "url": "http://stinet.dtic.mil/oai/oai?verb=getRecord&metadataPrefix=html&identifier=AD0656301",
-      "category": "Programming Language",
-      "status": "CONNECTION_ERROR",
-      "error": "Connection failed (site may be down)",
-      "final_url": null
-    },
-    {
-      "name": "Model 204",
-      "url": "http://www.rocketsoftware.com/brand/rocket-m204",
-      "category": "Programming Language",
-      "status": "HTTP_403",
-      "error": "HTTP 403",
-      "final_url": "https://www.rocketsoftware.com/brand/rocket-m204"
-    },
-    {
-      "name": "Maude system",
-      "url": "http://maude.cs.uiuc.edu/",
-      "category": "Programming Language",
-      "status": "HTTP_404",
-      "error": "HTTP 404",
-      "final_url": "http://maude.cs.uiuc.edu/"
-    },
-    {
-      "name": "GOM",
-      "url": "http://www.catb.org/~esr/mad/",
-      "category": "Programming Language",
-      "status": "CONNECTION_ERROR",
-      "error": "Connection failed (site may be down)",
-      "final_url": null
-    },
-    {
-      "name": "MPD",
-      "url": "http://www.cs.arizona.edu/mpd/",
-      "category": "Programming Language",
-      "status": "HTTP_404",
-      "error": "HTTP 404",
-      "final_url": "https://www.cs.arizona.edu/mpd/"
-    },
-    {
-      "name": "Napier88",
-      "url": "http://www-ppg.dcs.st-and.ac.uk/Languages/Napier88/",
-      "category": "Programming Language",
-      "status": "CONNECTION_ERROR",
-      "error": "Connection failed (site may be down)",
-      "final_url": null
-    },
-    {
-      "name": "Mouse",
-      "url": "http://users.encs.concordia.ca/~grogono/Mouse/mouse.html",
-      "category": "Programming Language",
-      "status": "HTTP_404",
-      "error": "HTTP 404",
-      "final_url": "http://users.encs.concordia.ca/~grogono/Mouse/mouse.html"
-    },
-    {
-      "name": "Not Quite C",
-      "url": "https://www.lego.com/themes/mindstorms/about",
-      "category": "Programming Language",
-      "status": "HTTP_403",
-      "error": "HTTP 403",
-      "final_url": "https://www.lego.com/themes/mindstorms/about"
-    },
-    {
-      "name": "NewLISP",
-      "url": "http://www.newlisp.org",
-      "category": "Programming Language",
-      "status": "CONNECTION_ERROR",
-      "error": "Connection failed (site may be down)",
-      "final_url": null
-    },
-    {
-      "name": "NWScript",
-      "url": "https://www.mobygames.com/game-group/neverwinter-nights-series",
-      "category": "Programming Language",
-      "status": "HTTP_403",
-      "error": "HTTP 403",
-      "final_url": "https://www.mobygames.com/game-group/neverwinter-nights-series"
-    },
-    {
-      "name": "Open Programming Language",
-      "url": "http://opl-dev.sourceforge.net",
-      "category": "Programming Language",
-      "status": "HTTP_403",
-      "error": "HTTP 403",
-      "final_url": "https://opl-dev.sourceforge.net/"
+      "final_url": "https://www.mathworks.com/discovery/mupad.html"
     },
     {
       "name": "NewtonScript",
@@ -427,20 +99,20 @@
       "final_url": "http://waltersmith.us/wp-content/uploads/2005/12/Self-intro.htm"
     },
     {
+      "name": "Open Programming Language",
+      "url": "http://opl-dev.sourceforge.net",
+      "category": "Programming Language",
+      "status": "HTTP_403",
+      "error": "HTTP 403",
+      "final_url": "https://opl-dev.sourceforge.net/"
+    },
+    {
       "name": "OptimJ",
       "url": "http://www.ateji.com/",
       "category": "Programming Language",
       "status": "HTTP_404",
       "error": "HTTP 404",
       "final_url": "http://www.ateji.com/"
-    },
-    {
-      "name": "OPS5",
-      "url": "http://www.pcai.com/web/ai_info/pcai_ops.html",
-      "category": "Programming Language",
-      "status": "HTTP_403",
-      "error": "HTTP 403",
-      "final_url": "http://www.pcai.com/web/ai_info/pcai_ops.html"
     },
     {
       "name": "PILOT",
@@ -467,12 +139,12 @@
       "final_url": null
     },
     {
-      "name": "Plus",
-      "url": "http://doi.acm.org/10.1145/800234.807062",
+      "name": "PL360",
+      "url": "https://doi.org/10.1145%2F321439.321442",
       "category": "Programming Language",
       "status": "HTTP_403",
       "error": "HTTP 403",
-      "final_url": "https://doi.acm.org/10.1145/800234.807062"
+      "final_url": "https://dl.acm.org/doi/10.1145/321439.321442"
     },
     {
       "name": "PLEX",
@@ -483,6 +155,14 @@
       "final_url": "https://dl.acm.org/doi/10.1145/1238844.1238850"
     },
     {
+      "name": "Plus",
+      "url": "http://doi.acm.org/10.1145/800234.807062",
+      "category": "Programming Language",
+      "status": "HTTP_403",
+      "error": "HTTP 403",
+      "final_url": "https://doi.acm.org/10.1145/800234.807062"
+    },
+    {
       "name": "POP-2",
       "url": "http://www-robotics.cs.umass.edu/Popplestone/pop_development.html",
       "category": "Programming Language",
@@ -491,20 +171,12 @@
       "final_url": null
     },
     {
-      "name": "PL360",
-      "url": "https://doi.org/10.1145%2F321439.321442",
+      "name": "OPS5",
+      "url": "http://www.pcai.com/web/ai_info/pcai_ops.html",
       "category": "Programming Language",
       "status": "HTTP_403",
       "error": "HTTP 403",
-      "final_url": "https://dl.acm.org/doi/10.1145/321439.321442"
-    },
-    {
-      "name": "Project Verona",
-      "url": "https://www.microsoft.com/en-us/research/project/project-verona",
-      "category": "Programming Language",
-      "status": "CONNECTION_ERROR",
-      "error": "Connection failed (site may be down)",
-      "final_url": null
+      "final_url": "http://www.pcai.com/web/ai_info/pcai_ops.html"
     },
     {
       "name": "Obliq",
@@ -571,12 +243,12 @@
       "final_url": "https://doi.acm.org/10.1145/359581.359586"
     },
     {
-      "name": "PROMAL",
-      "url": "http://www.lyonlabs.org/commodore/onrequest/PROMAL/",
+      "name": "Stateflow",
+      "url": "http://www.mathworks.com/products/stateflow?s_cid=wiki_stateflow_2",
       "category": "Programming Language",
-      "status": "CONNECTION_ERROR",
-      "error": "Connection failed (site may be down)",
-      "final_url": null
+      "status": "HTTP_403",
+      "error": "HTTP 403",
+      "final_url": "https://www.mathworks.com:443/products/stateflow?s_cid=wiki_stateflow_2"
     },
     {
       "name": "Speedcode",
@@ -587,44 +259,12 @@
       "final_url": "https://ieeexplore.ieee.org/document/5390587/"
     },
     {
-      "name": "Stateflow",
-      "url": "http://www.mathworks.com/products/stateflow?s_cid=wiki_stateflow_2",
-      "category": "Programming Language",
-      "status": "HTTP_403",
-      "error": "HTTP 403",
-      "final_url": "https://www.mathworks.com:443/products/stateflow?s_cid=wiki_stateflow_2"
-    },
-    {
       "name": "Unicon",
       "url": "https://unicon.sourceforge.net/",
       "category": "Programming Language",
       "status": "HTTP_403",
       "error": "HTTP 403",
       "final_url": "https://unicon.sourceforge.net/"
-    },
-    {
-      "name": "Uniface",
-      "url": "https://www.rocketsoftware.com/welcome-uniface",
-      "category": "Programming Language",
-      "status": "HTTP_403",
-      "error": "HTTP 403",
-      "final_url": "https://www.rocketsoftware.com/welcome-uniface"
-    },
-    {
-      "name": "TIE",
-      "url": "http://cadence.com",
-      "category": "Programming Language",
-      "status": "HTTP_403",
-      "error": "HTTP 403",
-      "final_url": "https://www.cadence.com:443/"
-    },
-    {
-      "name": "UnrealScript",
-      "url": "https://www.unrealengine.com/",
-      "category": "Programming Language",
-      "status": "HTTP_403",
-      "error": "HTTP 403",
-      "final_url": "https://www.unrealengine.com/"
     },
     {
       "name": "Unreal Engine",
@@ -635,6 +275,30 @@
       "final_url": "https://www.unrealengine.com/"
     },
     {
+      "name": "Uniface",
+      "url": "https://www.rocketsoftware.com/welcome-uniface",
+      "category": "Programming Language",
+      "status": "HTTP_403",
+      "error": "HTTP 403",
+      "final_url": "https://www.rocketsoftware.com/welcome-uniface"
+    },
+    {
+      "name": "UnrealScript",
+      "url": "https://www.unrealengine.com/",
+      "category": "Programming Language",
+      "status": "HTTP_403",
+      "error": "HTTP 403",
+      "final_url": "https://www.unrealengine.com/"
+    },
+    {
+      "name": "PROMAL",
+      "url": "http://www.lyonlabs.org/commodore/onrequest/PROMAL/",
+      "category": "Programming Language",
+      "status": "CONNECTION_ERROR",
+      "error": "Connection failed (site may be down)",
+      "final_url": null
+    },
+    {
       "name": "XML",
       "url": "https://www.w3.org/XML/",
       "category": "Programming Language",
@@ -643,7 +307,7 @@
       "final_url": "https://www.w3.org/XML/"
     },
     {
-      "name": "XMOS architecture",
+      "name": "XC",
       "url": "http://www.xmos.com/",
       "category": "Programming Language",
       "status": "HTTP_406",
@@ -651,7 +315,7 @@
       "final_url": "http://www.xmos.com/"
     },
     {
-      "name": "XC",
+      "name": "XMOS architecture",
       "url": "http://www.xmos.com/",
       "category": "Programming Language",
       "status": "HTTP_406",
@@ -675,36 +339,12 @@
       "final_url": "https://www.w3.org/XML/Query/"
     },
     {
-      "name": "XSB",
-      "url": "http://xsb.sf.net",
-      "category": "Programming Language",
-      "status": "HTTP_403",
-      "error": "HTTP 403",
-      "final_url": "https://xsb.sourceforge.net/"
-    },
-    {
       "name": "Canva",
       "url": "https://www.canva.com/",
       "category": "Startup",
       "status": "HTTP_403",
       "error": "HTTP 403",
       "final_url": "https://www.canva.com/"
-    },
-    {
-      "name": "Coinbase",
-      "url": "https://www.coinbase.com/",
-      "category": "Startup",
-      "status": "HTTP_403",
-      "error": "HTTP 403",
-      "final_url": "https://www.coinbase.com/"
-    },
-    {
-      "name": "Nykaa",
-      "url": "https://www.nykaa.com/",
-      "category": "Startup",
-      "status": "HTTP_403",
-      "error": "HTTP 403",
-      "final_url": "https://www.nykaa.com/"
     },
     {
       "name": "DoorDash",
@@ -723,20 +363,20 @@
       "final_url": "https://www.meesho.com:443/"
     },
     {
-      "name": "WebXR",
-      "url": "https://www.w3.org/TR/webxr/",
-      "category": "VR/AR",
+      "name": "Nykaa",
+      "url": "https://www.nykaa.com/",
+      "category": "Startup",
       "status": "HTTP_403",
       "error": "HTTP 403",
-      "final_url": "https://www.w3.org/TR/webxr/"
+      "final_url": "https://www.nykaa.com/"
     },
     {
-      "name": "ZOPL",
-      "url": "http://geac.com",
-      "category": "Programming Language",
-      "status": "CONNECTION_ERROR",
-      "error": "Connection failed (site may be down)",
-      "final_url": null
+      "name": "Coinbase",
+      "url": "https://www.coinbase.com/",
+      "category": "Startup",
+      "status": "HTTP_403",
+      "error": "HTTP 403",
+      "final_url": "https://www.coinbase.com/"
     },
     {
       "name": "Aptana Studio",
@@ -763,20 +403,20 @@
       "final_url": "https://basic4.sourceforge.net/"
     },
     {
-      "name": "blosxom",
-      "url": "http://blosxom.sf.net/",
-      "category": "CMS",
-      "status": "HTTP_403",
-      "error": "HTTP 403",
-      "final_url": "https://blosxom.sourceforge.net/"
-    },
-    {
       "name": "BON",
       "url": "https://www.bon-method.com",
       "category": "Programming Language",
       "status": "CONNECTION_ERROR",
       "error": "Connection failed (site may be down)",
       "final_url": null
+    },
+    {
+      "name": "blosxom",
+      "url": "http://blosxom.sf.net/",
+      "category": "CMS",
+      "status": "HTTP_403",
+      "error": "HTTP 403",
+      "final_url": "https://blosxom.sourceforge.net/"
     },
     {
       "name": "Bluehost",
@@ -795,6 +435,14 @@
       "final_url": "https://sourcenav.sourceforge.net/"
     },
     {
+      "name": "Borland Kylix",
+      "url": "http://www.borland.com/kylix/",
+      "category": "IDE/Editor",
+      "status": "HTTP_404",
+      "error": "HTTP 404",
+      "final_url": "http://www.borland.com/kylix/"
+    },
+    {
       "name": "Altitude3.Net",
       "url": "https://altitude3.net",
       "category": "Hosting",
@@ -811,22 +459,6 @@
       "final_url": "https://www.nxp.com/design/software/development-software/codewarrior-development-tools:CW_HOME"
     },
     {
-      "name": "Borland Kylix",
-      "url": "http://www.borland.com/kylix/",
-      "category": "IDE/Editor",
-      "status": "HTTP_404",
-      "error": "HTTP 404",
-      "final_url": "http://www.borland.com/kylix/"
-    },
-    {
-      "name": "CSS",
-      "url": "https://w3.org/TR/CSS/#css",
-      "category": "Programming Language",
-      "status": "HTTP_403",
-      "error": "HTTP 403",
-      "final_url": "https://www.w3.org/TR/CSS/#css"
-    },
-    {
       "name": "CIRA",
       "url": "https://cira.ca",
       "category": "Hosting",
@@ -835,12 +467,12 @@
       "final_url": "https://www.cira.ca/"
     },
     {
-      "name": "Budget management",
-      "url": "http://www.loscostos.info/financial-accounting/accounting-systems.html",
-      "category": "Collaboration",
-      "status": "HTTP_404",
-      "error": "HTTP 404",
-      "final_url": "https://loscostos.info/financial-accounting/accounting-systems.html"
+      "name": "CSS",
+      "url": "https://w3.org/TR/CSS/#css",
+      "category": "Programming Language",
+      "status": "HTTP_403",
+      "error": "HTTP 403",
+      "final_url": "https://www.w3.org/TR/CSS/#css"
     },
     {
       "name": "Contentverse",
@@ -867,20 +499,20 @@
       "final_url": "http://www.gplhost.com/software-dtc.html"
     },
     {
-      "name": "EasyOffice",
-      "url": "http://desktoppub.about.com/cs/software/gr/easyofficefree.htm",
-      "category": "Collaboration",
-      "status": "CONNECTION_ERROR",
-      "error": "Connection failed (site may be down)",
-      "final_url": null
-    },
-    {
       "name": "Drupal",
       "url": "https://www.drupal.org/",
       "category": "CMS",
       "status": "HTTP_403",
       "error": "HTTP 403",
       "final_url": "https://www.drupal.org/"
+    },
+    {
+      "name": "EasyOffice",
+      "url": "http://desktoppub.about.com/cs/software/gr/easyofficefree.htm",
+      "category": "Collaboration",
+      "status": "CONNECTION_ERROR",
+      "error": "Connection failed (site may be down)",
+      "final_url": null
     },
     {
       "name": "ECCE",
@@ -891,12 +523,28 @@
       "final_url": "https://sourceforge.net/projects/ecce/"
     },
     {
+      "name": "Budget management",
+      "url": "http://www.loscostos.info/financial-accounting/accounting-systems.html",
+      "category": "Collaboration",
+      "status": "HTTP_404",
+      "error": "HTTP 404",
+      "final_url": "https://loscostos.info/financial-accounting/accounting-systems.html"
+    },
+    {
       "name": "DynaRoad",
       "url": "http://www.dynaroad.com/",
       "category": "Collaboration",
       "status": "CONNECTION_ERROR",
       "error": "Connection failed (site may be down)",
       "final_url": null
+    },
+    {
+      "name": "EDLIN",
+      "url": "https://www.microsoft.com/resources/documentation/windows/xp/all/proddocs/en-us/edlin_line.mspx?mfr=true",
+      "category": "IDE/Editor",
+      "status": "HTTP_403",
+      "error": "HTTP 403",
+      "final_url": "https://www.microsoft.com/resources/documentation/windows/xp/all/proddocs/en-us/edlin_line.mspx?mfr=true"
     },
     {
       "name": "EDT",
@@ -907,20 +555,20 @@
       "final_url": "https://edt-text-editor.sourceforge.net/"
     },
     {
-      "name": "EDT (Univac)",
-      "url": "http://manuals.ts.fujitsu.com/index.php?id=1-2-3389-15556",
-      "category": "IDE/Editor",
-      "status": "HTTP_502",
-      "error": "HTTP 502",
-      "final_url": "http://manuals.ts.fujitsu.com/index.php?id=1-2-3389-15556"
-    },
-    {
       "name": "Endeavour Software Project Management",
       "url": "https://endeavour-mgmt.sourceforge.net/",
       "category": "Collaboration",
       "status": "HTTP_403",
       "error": "HTTP 403",
       "final_url": "https://endeavour-mgmt.sourceforge.net/"
+    },
+    {
+      "name": "EDT (Univac)",
+      "url": "http://manuals.ts.fujitsu.com/index.php?id=1-2-3389-15556",
+      "category": "IDE/Editor",
+      "status": "HTTP_502",
+      "error": "HTTP 502",
+      "final_url": "http://manuals.ts.fujitsu.com/index.php?id=1-2-3389-15556"
     },
     {
       "name": "Codelobster",
@@ -939,12 +587,12 @@
       "final_url": null
     },
     {
-      "name": "Dolphin Smalltalk",
-      "url": "http://www.object-arts.com",
-      "category": "IDE/Editor",
-      "status": "CONNECTION_ERROR",
-      "error": "Connection failed (site may be down)",
-      "final_url": null
+      "name": "FusionForge",
+      "url": "https://gforge.com",
+      "category": "Version Control",
+      "status": "HTTP_429",
+      "error": "HTTP 429",
+      "final_url": "https://gforge.com/"
     },
     {
       "name": "GoDaddy",
@@ -963,12 +611,28 @@
       "final_url": "https://www.w3.org/standards/history/html52/"
     },
     {
+      "name": "Dolphin Smalltalk",
+      "url": "http://www.object-arts.com",
+      "category": "IDE/Editor",
+      "status": "CONNECTION_ERROR",
+      "error": "Connection failed (site may be down)",
+      "final_url": null
+    },
+    {
       "name": "Goalscape",
       "url": "https://goalscape.com",
       "category": "Collaboration",
       "status": "HTTP_403",
       "error": "HTTP 403",
       "final_url": "https://goalscape.com/"
+    },
+    {
+      "name": "DR DOS 3.31",
+      "url": "http://drdos.com",
+      "category": "Operating System",
+      "status": "CONNECTION_ERROR",
+      "error": "Connection failed (site may be down)",
+      "final_url": null
     },
     {
       "name": "i-MSCP",
@@ -979,20 +643,20 @@
       "final_url": "http://i-mscp.net/"
     },
     {
-      "name": "Headless content management system (Headless CMS)",
-      "url": "http://www.cms-connected.com/News-Archive/December-2016/The-Ultimate-Guide-for-Headless-Content-Management",
-      "category": "CMS",
-      "status": "HTTP_403",
-      "error": "HTTP 403",
-      "final_url": "https://thedxinsider.com"
-    },
-    {
       "name": "JOE",
       "url": "http://joe-editor.sourceforge.net",
       "category": "IDE/Editor",
       "status": "HTTP_403",
       "error": "HTTP 403",
       "final_url": "https://joe-editor.sourceforge.net/"
+    },
+    {
+      "name": "Headless content management system (Headless CMS)",
+      "url": "http://www.cms-connected.com/News-Archive/December-2016/The-Ultimate-Guide-for-Headless-Content-Management",
+      "category": "CMS",
+      "status": "HTTP_403",
+      "error": "HTTP 403",
+      "final_url": "https://thedxinsider.com"
     },
     {
       "name": "Kile",
@@ -1019,25 +683,9 @@
       "final_url": "https://www.techrepublic.com/pictures/dinosaur-sightings-lotus-symphony-30/1/"
     },
     {
-      "name": "Microsoft Windows",
-      "url": "https://windows.com",
-      "category": "Operating System",
-      "status": "CONNECTION_ERROR",
-      "error": "Connection failed (site may be down)",
-      "final_url": null
-    },
-    {
       "name": "Maemo",
       "url": "https://maemo.org",
       "category": "Operating System",
-      "status": "CONNECTION_ERROR",
-      "error": "Connection failed (site may be down)",
-      "final_url": null
-    },
-    {
-      "name": "IPM",
-      "url": "http://www.ipm.ac.ir",
-      "category": "Documentation",
       "status": "CONNECTION_ERROR",
       "error": "Connection failed (site may be down)",
       "final_url": null
@@ -1083,14 +731,6 @@
       "final_url": "https://hexagon.com/products/product-groups/manufacturing-project-management/workplan"
     },
     {
-      "name": "Network Solutions",
-      "url": "http://networksolutions.com",
-      "category": "Hosting",
-      "status": "HTTP_403",
-      "error": "HTTP 403",
-      "final_url": "https://www.networksolutions.com/"
-    },
-    {
       "name": "nopCommerce",
       "url": "https://www.nopcommerce.com/",
       "category": "Library",
@@ -1099,12 +739,36 @@
       "final_url": "https://www.nopcommerce.com/"
     },
     {
+      "name": "Network Solutions",
+      "url": "http://networksolutions.com",
+      "category": "Hosting",
+      "status": "HTTP_403",
+      "error": "HTTP 403",
+      "final_url": "https://www.networksolutions.com/"
+    },
+    {
+      "name": "IPM",
+      "url": "http://www.ipm.ac.ir",
+      "category": "Documentation",
+      "status": "CONNECTION_ERROR",
+      "error": "Connection failed (site may be down)",
+      "final_url": null
+    },
+    {
       "name": "NPM",
       "url": "https://www.npmjs.com/",
       "category": "Package Manager",
       "status": "HTTP_403",
       "error": "HTTP 403",
       "final_url": "https://www.npmjs.com/"
+    },
+    {
+      "name": "Onepager pro",
+      "url": "https://www.onepager.com/products/onepager.php",
+      "category": "Collaboration",
+      "status": "HTTP_403",
+      "error": "HTTP 403",
+      "final_url": "https://www.onepager.com/products/onepager.php"
     },
     {
       "name": "NetPoint",
@@ -1123,14 +787,6 @@
       "final_url": "https://sourceforge.net/projects/nucleuscms/"
     },
     {
-      "name": "Onepager pro",
-      "url": "https://www.onepager.com/products/onepager.php",
-      "category": "Collaboration",
-      "status": "HTTP_403",
-      "error": "HTTP 403",
-      "final_url": "https://www.onepager.com/products/onepager.php"
-    },
-    {
       "name": "Open Workbench",
       "url": "https://sourceforge.net/projects/openworkbench/",
       "category": "Collaboration",
@@ -1147,22 +803,6 @@
       "final_url": "https://www.opencart.com/"
     },
     {
-      "name": "OWL",
-      "url": "https://www.w3.org/TR/owl-ref/",
-      "category": "Documentation",
-      "status": "HTTP_403",
-      "error": "HTTP 403",
-      "final_url": "https://www.w3.org/TR/owl-ref/"
-    },
-    {
-      "name": "Meridian Systems",
-      "url": "http://www.meridiansystems.com/",
-      "category": "Collaboration",
-      "status": "CONNECTION_ERROR",
-      "error": "Connection failed (site may be down)",
-      "final_url": null
-    },
-    {
       "name": "Percona Server",
       "url": "http://www.percona.com/software/percona-server",
       "category": "Database",
@@ -1171,12 +811,12 @@
       "final_url": "https://www.percona.com/software/percona-server"
     },
     {
-      "name": "PHProjekt",
-      "url": "http://www.phprojekt.com/",
-      "category": "Collaboration",
-      "status": "CONNECTION_ERROR",
-      "error": "Connection failed (site may be down)",
-      "final_url": null
+      "name": "OWL",
+      "url": "https://www.w3.org/TR/owl-ref/",
+      "category": "Documentation",
+      "status": "HTTP_403",
+      "error": "HTTP 403",
+      "final_url": "https://www.w3.org/TR/owl-ref/"
     },
     {
       "name": "phpWebLog",
@@ -1187,6 +827,14 @@
       "final_url": "https://sourceforge.net/projects/phpweblog/"
     },
     {
+      "name": "PHProjekt",
+      "url": "http://www.phprojekt.com/",
+      "category": "Collaboration",
+      "status": "CONNECTION_ERROR",
+      "error": "Connection failed (site may be down)",
+      "final_url": null
+    },
+    {
       "name": "PHPEclipse",
       "url": "http://www.phpeclipse.com/",
       "category": "IDE/Editor",
@@ -1195,20 +843,20 @@
       "final_url": "http://www.phpeclipse.com/"
     },
     {
-      "name": "Mozilla Public License",
-      "url": "https://www.mozilla.org/MPL",
-      "category": "Documentation",
+      "name": "Meridian Systems",
+      "url": "http://www.meridiansystems.com/",
+      "category": "Collaboration",
       "status": "CONNECTION_ERROR",
       "error": "Connection failed (site may be down)",
       "final_url": null
     },
     {
-      "name": "Pixie (CMS)",
-      "url": "http://www.getpixie.co.uk/",
-      "category": "CMS",
-      "status": "HTTP_403",
-      "error": "HTTP 403",
-      "final_url": "https://www.getpixie.co.uk/"
+      "name": "Project.net",
+      "url": "http://www.project.net",
+      "category": "Collaboration",
+      "status": "CONNECTION_ERROR",
+      "error": "Connection failed (site may be down)",
+      "final_url": null
     },
     {
       "name": "Project Team Builder",
@@ -1227,12 +875,12 @@
       "final_url": "http://www.ipma.world/"
     },
     {
-      "name": "Project.net",
-      "url": "http://www.project.net",
-      "category": "Collaboration",
-      "status": "CONNECTION_ERROR",
-      "error": "Connection failed (site may be down)",
-      "final_url": null
+      "name": "Pixie (CMS)",
+      "url": "http://www.getpixie.co.uk/",
+      "category": "CMS",
+      "status": "HTTP_403",
+      "error": "HTTP 403",
+      "final_url": "https://www.getpixie.co.uk/"
     },
     {
       "name": "RDF",
@@ -1259,28 +907,12 @@
       "final_url": "https://www.register.com/"
     },
     {
-      "name": "SAP BusinessObjects",
-      "url": "https://www.sap.com/products/businessobjects.html",
-      "category": "Analytics",
-      "status": "HTTP_403",
-      "error": "HTTP 403",
-      "final_url": "https://www.sap.com/products/businessobjects.html"
-    },
-    {
       "name": "Sellerdeck",
       "url": "https://www.sellerdeck.co.uk/",
       "category": "CMS",
       "status": "HTTP_403",
       "error": "HTTP 403",
       "final_url": "https://www.sellerdeck.co.uk/"
-    },
-    {
-      "name": "SAP Business ByDesign",
-      "url": "https://www.sap.com/products/erp/business-bydesign.html",
-      "category": "Business",
-      "status": "HTTP_403",
-      "error": "HTTP 403",
-      "final_url": "https://www.sap.com/products/erp/business-bydesign.html"
     },
     {
       "name": "Sheetster",
@@ -1291,17 +923,25 @@
       "final_url": null
     },
     {
+      "name": "SAP Business ByDesign",
+      "url": "https://www.sap.com/products/erp/business-bydesign.html",
+      "category": "Business",
+      "status": "HTTP_403",
+      "error": "HTTP 403",
+      "final_url": "https://www.sap.com/products/erp/business-bydesign.html"
+    },
+    {
+      "name": "SAP BusinessObjects",
+      "url": "https://www.sap.com/products/businessobjects.html",
+      "category": "Analytics",
+      "status": "HTTP_403",
+      "error": "HTTP 403",
+      "final_url": "https://www.sap.com/products/businessobjects.html"
+    },
+    {
       "name": "spreadsheets",
       "url": "http://www.kingsoftstore.com/spreadsheets.html",
       "category": "Collaboration",
-      "status": "CONNECTION_ERROR",
-      "error": "Connection failed (site may be down)",
-      "final_url": null
-    },
-    {
-      "name": "source code",
-      "url": "https://d-nb.info/gnd/4488209-9",
-      "category": "Documentation",
       "status": "CONNECTION_ERROR",
       "error": "Connection failed (site may be down)",
       "final_url": null
@@ -1355,14 +995,6 @@
       "final_url": "https://photoretoucher.org/static//S100/cromemco/code/disks/174%20CPM%20Users%20vols%2020-24/index.html"
     },
     {
-      "name": "Tuleap",
-      "url": "https://www.tuleap.org",
-      "category": "Collaboration",
-      "status": "CONNECTION_ERROR",
-      "error": "Connection failed (site may be down)",
-      "final_url": null
-    },
-    {
       "name": "Teamcenter",
       "url": "http://www.ugs.com/",
       "category": "Collaboration",
@@ -1379,14 +1011,6 @@
       "final_url": "https://umbraco.com/"
     },
     {
-      "name": "Web.com",
-      "url": "http://web.com",
-      "category": "Hosting",
-      "status": "HTTP_403",
-      "error": "HTTP 403",
-      "final_url": "https://www.web.com/"
-    },
-    {
       "name": "Wine",
       "url": "https://www.winehq.org/",
       "category": "Runtime",
@@ -1395,28 +1019,20 @@
       "final_url": "https://www.winehq.org/"
     },
     {
-      "name": "uCoz",
-      "url": "http://www.ucoz.com/",
-      "category": "CMS",
+      "name": "Workfront",
+      "url": "https://www.workfront.com/",
+      "category": "Collaboration",
       "status": "CONNECTION_ERROR",
       "error": "Connection failed (site may be down)",
       "final_url": null
     },
     {
-      "name": "Zesty.io",
-      "url": "http://www.cmswire.com/d/zestyio-o001524",
-      "category": "CMS",
+      "name": "Web.com",
+      "url": "http://web.com",
+      "category": "Hosting",
       "status": "HTTP_403",
       "error": "HTTP 403",
-      "final_url": "https://www.cmswire.com/d/zestyio-o001524"
-    },
-    {
-      "name": "XWiki",
-      "url": "http://www.xwiki.org/",
-      "category": "CMS",
-      "status": "HTTP_403",
-      "error": "HTTP 403",
-      "final_url": "https://www.xwiki.org/xwiki/bin/view/Main/WebHome"
+      "final_url": "https://www.web.com/"
     },
     {
       "name": "VisiCalc",
@@ -1427,12 +1043,36 @@
       "final_url": "http://danbricklin.com/visicalc.htm"
     },
     {
-      "name": "Vpmi",
-      "url": "http://www.vcsonline.com",
+      "name": "XWiki",
+      "url": "http://www.xwiki.org/",
+      "category": "CMS",
+      "status": "HTTP_403",
+      "error": "HTTP 403",
+      "final_url": "https://www.xwiki.org/xwiki/bin/view/Main/WebHome"
+    },
+    {
+      "name": "Zesty.io",
+      "url": "http://www.cmswire.com/d/zestyio-o001524",
+      "category": "CMS",
+      "status": "HTTP_403",
+      "error": "HTTP 403",
+      "final_url": "https://www.cmswire.com/d/zestyio-o001524"
+    },
+    {
+      "name": "Workspace.com",
+      "url": "http://www.workspace.com/index-home.html",
       "category": "Collaboration",
-      "status": "CONNECTION_ERROR",
-      "error": "Connection failed (site may be down)",
-      "final_url": null
+      "status": "HTTP_404",
+      "error": "HTTP 404",
+      "final_url": "https://workspace.com/index-home.html"
+    },
+    {
+      "name": "Couchbase",
+      "url": "https://www.couchbase.com/",
+      "category": "Database",
+      "status": "HTTP_403",
+      "error": "HTTP 403",
+      "final_url": "https://www.couchbase.com/"
     },
     {
       "name": "VisualWorks",
@@ -1443,12 +1083,12 @@
       "final_url": null
     },
     {
-      "name": "Workspace.com",
-      "url": "http://www.workspace.com/index-home.html",
+      "name": "Vpmi",
+      "url": "http://www.vcsonline.com",
       "category": "Collaboration",
-      "status": "HTTP_404",
-      "error": "HTTP 404",
-      "final_url": "https://workspace.com/index-home.html"
+      "status": "CONNECTION_ERROR",
+      "error": "Connection failed (site may be down)",
+      "final_url": null
     },
     {
       "name": "Naive UI",
@@ -1475,8 +1115,8 @@
       "final_url": null
     },
     {
-      "name": "FaunaDB",
-      "url": "https://fauna.com/",
+      "name": "RethinkDB",
+      "url": "https://rethinkdb.com/",
       "category": "Database",
       "status": "CONNECTION_ERROR",
       "error": "Connection failed (site may be down)",
@@ -1489,6 +1129,14 @@
       "status": "HTTP_404",
       "error": "HTTP 404",
       "final_url": "https://upstash.com/kafka"
+    },
+    {
+      "name": "FaunaDB",
+      "url": "https://fauna.com/",
+      "category": "Database",
+      "status": "CONNECTION_ERROR",
+      "error": "Connection failed (site may be down)",
+      "final_url": null
     },
     {
       "name": "React Email",
@@ -1505,14 +1153,6 @@
       "status": "HTTP_404",
       "error": "HTTP 404",
       "final_url": "https://redis.io/docs/latest/manual/pubsub/"
-    },
-    {
-      "name": "Akamai",
-      "url": "https://www.akamai.com/",
-      "category": "CDN",
-      "status": "HTTP_403",
-      "error": "HTTP 403",
-      "final_url": "https://www.akamai.com/"
     },
     {
       "name": "Loops",
@@ -1555,12 +1195,12 @@
       "final_url": "https://platform.openai.com/"
     },
     {
-      "name": "DALL-E",
-      "url": "https://openai.com/dall-e-3",
+      "name": "Midjourney",
+      "url": "https://www.midjourney.com/",
       "category": "AI/ML",
       "status": "HTTP_403",
       "error": "HTTP 403",
-      "final_url": "https://openai.com/dall-e-3"
+      "final_url": "https://www.midjourney.com/"
     },
     {
       "name": "Whisper",
@@ -1571,12 +1211,12 @@
       "final_url": "https://openai.com/research/whisper"
     },
     {
-      "name": "Midjourney",
-      "url": "https://www.midjourney.com/",
+      "name": "DALL-E",
+      "url": "https://openai.com/dall-e-3",
       "category": "AI/ML",
       "status": "HTTP_403",
       "error": "HTTP 403",
-      "final_url": "https://www.midjourney.com/"
+      "final_url": "https://openai.com/dall-e-3"
     },
     {
       "name": "OpenCV",
@@ -1587,20 +1227,20 @@
       "final_url": "https://opencv.org/"
     },
     {
-      "name": "Checkov",
-      "url": "https://www.checkov.io/",
-      "category": "Security",
-      "status": "CONNECTION_ERROR",
-      "error": "Connection failed (site may be down)",
-      "final_url": null
-    },
-    {
       "name": "SuperAgent",
       "url": "https://ladjs.github.io/superagent/",
       "category": "API",
       "status": "HTTP_404",
       "error": "HTTP 404",
       "final_url": "https://ladjs.github.io/superagent/"
+    },
+    {
+      "name": "AppDynamics",
+      "url": "https://www.splunk.com/en_us/products/appdynamics.html",
+      "category": "Monitoring",
+      "status": "HTTP_404",
+      "error": "HTTP 404",
+      "final_url": "https://www.splunk.com/en_us/products/appdynamics.html"
     },
     {
       "name": "CodePen",
@@ -1637,14 +1277,6 @@
       "final_url": null
     },
     {
-      "name": "Alef",
-      "url": "http://doc.cat-v.org/plan_9/2nd_edition/papers/alef/ref",
-      "category": "Programming Language",
-      "status": "TIMEOUT",
-      "error": "Request timed out after 10s",
-      "final_url": null
-    },
-    {
       "name": "Caché ObjectScript",
       "url": "http://www.intersystems.com/cache",
       "category": "Programming Language",
@@ -1653,24 +1285,24 @@
       "final_url": null
     },
     {
-      "name": "Alice ML",
-      "url": "http://www.ps.uni-saarland.de/alice",
+      "name": "ColdFusion",
+      "url": "https://www.adobe.com/products/coldfusion.html",
       "category": "Programming Language",
       "status": "TIMEOUT",
       "error": "Request timed out after 10s",
       "final_url": null
     },
     {
-      "name": "Alma-0",
-      "url": "http://www.cwi.nl/en/alma",
+      "name": "Common Intermediate Language",
+      "url": "https://www.ecma-international.org/publications-and-standards/standards/ecma-335/",
       "category": "Programming Language",
       "status": "TIMEOUT",
       "error": "Request timed out after 10s",
       "final_url": null
     },
     {
-      "name": "domain-specific languages",
-      "url": "http://catb.org/~esr/writings/taoup/html/minilanguageschapter.html",
+      "name": "Hartmann pipelines",
+      "url": "http://vm.marist.edu/~pipeline",
       "category": "Programming Language",
       "status": "TIMEOUT",
       "error": "Request timed out after 10s",
@@ -1685,9 +1317,9 @@
       "final_url": null
     },
     {
-      "name": "Maple",
-      "url": "https://www.maplesoft.com/products/maple/",
-      "category": "Programming Language",
+      "name": "Microsoft Azure",
+      "url": "https://azure.microsoft.com/",
+      "category": "Cloud",
       "status": "TIMEOUT",
       "error": "Request timed out after 10s",
       "final_url": null
@@ -1695,6 +1327,14 @@
     {
       "name": "MaxScript",
       "url": "https://www.autodesk.com/products/3ds-max/overview",
+      "category": "Programming Language",
+      "status": "TIMEOUT",
+      "error": "Request timed out after 10s",
+      "final_url": null
+    },
+    {
+      "name": "Maple",
+      "url": "https://www.maplesoft.com/products/maple/",
       "category": "Programming Language",
       "status": "TIMEOUT",
       "error": "Request timed out after 10s",
@@ -1709,32 +1349,24 @@
       "final_url": null
     },
     {
-      "name": "MuPAD",
-      "url": "https://www.mathworks.com/discovery/mupad.html",
+      "name": "Prograph",
+      "url": "http://www.mactech.com/articles/mactech/Vol.10/10.11/PrographCPXTutorial/",
       "category": "Programming Language",
       "status": "TIMEOUT",
       "error": "Request timed out after 10s",
       "final_url": null
     },
     {
-      "name": "LISA",
-      "url": "https://www.ice.rwth-aachen.de/cms/ice/Forschung/Abgeschlossene-Projekte/~bjxdmd/LISA/lidx/1/",
+      "name": "XPL0",
+      "url": "http://www.xpl0.org",
       "category": "Programming Language",
       "status": "TIMEOUT",
       "error": "Request timed out after 10s",
       "final_url": null
     },
     {
-      "name": "QtScript",
-      "url": "http://doc.qt.io/qt-4.8/scripting.html",
-      "category": "Programming Language",
-      "status": "TIMEOUT",
-      "error": "Request timed out after 10s",
-      "final_url": null
-    },
-    {
-      "name": "SenseTalk",
-      "url": "https://www.sensetalk.com/",
+      "name": "Xtend",
+      "url": "https://eclipse.dev/Xtext/xtend/",
       "category": "Programming Language",
       "status": "TIMEOUT",
       "error": "Request timed out after 10s",
@@ -1797,25 +1429,17 @@
       "final_url": null
     },
     {
+      "name": "Auto-complete",
+      "url": "http://justaddwater.dk/2006/01/26/live-search-explained/",
+      "category": "Code Quality",
+      "status": "TIMEOUT",
+      "error": "Request timed out after 10s",
+      "final_url": null
+    },
+    {
       "name": "Click analytics",
       "url": "https://topwebsiteworth.com/",
       "category": "Analytics",
-      "status": "TIMEOUT",
-      "error": "Request timed out after 10s",
-      "final_url": null
-    },
-    {
-      "name": "EDLIN",
-      "url": "https://www.microsoft.com/resources/documentation/windows/xp/all/proddocs/en-us/edlin_line.mspx?mfr=true",
-      "category": "IDE/Editor",
-      "status": "TIMEOUT",
-      "error": "Request timed out after 10s",
-      "final_url": null
-    },
-    {
-      "name": "DSpace",
-      "url": "http://www.dspace.org",
-      "category": "CMS",
       "status": "TIMEOUT",
       "error": "Request timed out after 10s",
       "final_url": null
@@ -1829,17 +1453,9 @@
       "final_url": null
     },
     {
-      "name": "Geeklog",
-      "url": "http://www.geeklog.net",
-      "category": "Monitoring",
-      "status": "TIMEOUT",
-      "error": "Request timed out after 10s",
-      "final_url": null
-    },
-    {
-      "name": "GLBasic",
-      "url": "http://www.glbasic.com",
-      "category": "Programming Language",
+      "name": "Jamroom",
+      "url": "https://www.jamroom.net",
+      "category": "CMS",
       "status": "TIMEOUT",
       "error": "Request timed out after 10s",
       "final_url": null
@@ -1861,25 +1477,9 @@
       "final_url": null
     },
     {
-      "name": "Novell DOS 7",
-      "url": "http://drdos.com",
-      "category": "Operating System",
-      "status": "TIMEOUT",
-      "error": "Request timed out after 10s",
-      "final_url": null
-    },
-    {
-      "name": "PostgreSQL",
-      "url": "https://www.postgresql.org",
-      "category": "Database",
-      "status": "TIMEOUT",
-      "error": "Request timed out after 10s",
-      "final_url": null
-    },
-    {
-      "name": "registrars",
-      "url": "https://www.icann.org/registrar-reports/accredited-list.html",
-      "category": "Hosting",
+      "name": "PlanMaker",
+      "url": "https://www.softmaker.com/en/softmaker-office-planmaker",
+      "category": "Collaboration",
       "status": "TIMEOUT",
       "error": "Request timed out after 10s",
       "final_url": null
@@ -1893,16 +1493,16 @@
       "final_url": null
     },
     {
-      "name": "Workfront",
-      "url": "http://workfront.com",
-      "category": "Collaboration",
+      "name": "TYPO3",
+      "url": "http://typo3.org",
+      "category": "CMS",
       "status": "TIMEOUT",
       "error": "Request timed out after 10s",
       "final_url": null
     },
     {
-      "name": "Couchbase",
-      "url": "https://www.couchbase.com/",
+      "name": "Azure Cosmos DB",
+      "url": "https://azure.microsoft.com/en-us/products/cosmos-db/",
       "category": "Database",
       "status": "TIMEOUT",
       "error": "Request timed out after 10s",
@@ -1917,17 +1517,9 @@
       "final_url": null
     },
     {
-      "name": "TanStack Query",
-      "url": "https://tanstack.com/query/",
+      "name": "ApexCharts",
+      "url": "https://apexcharts.com/",
       "category": "Library",
-      "status": "TIMEOUT",
-      "error": "Request timed out after 10s",
-      "final_url": null
-    },
-    {
-      "name": "Azure DevOps",
-      "url": "https://azure.microsoft.com/en-us/products/devops/",
-      "category": "DevOps",
       "status": "TIMEOUT",
       "error": "Request timed out after 10s",
       "final_url": null
@@ -1949,9 +1541,25 @@
       "final_url": null
     },
     {
+      "name": "Akamai",
+      "url": "https://www.akamai.com/",
+      "category": "CDN",
+      "status": "TIMEOUT",
+      "error": "Request timed out after 10s",
+      "final_url": null
+    },
+    {
       "name": "Azure CDN",
       "url": "https://azure.microsoft.com/en-us/products/cdn/",
       "category": "CDN",
+      "status": "TIMEOUT",
+      "error": "Request timed out after 10s",
+      "final_url": null
+    },
+    {
+      "name": "Azure Functions",
+      "url": "https://azure.microsoft.com/en-us/products/functions/",
+      "category": "Serverless",
       "status": "TIMEOUT",
       "error": "Request timed out after 10s",
       "final_url": null
@@ -1968,14 +1576,6 @@
       "name": "Adobe XD",
       "url": "https://www.adobe.com/products/xd.html",
       "category": "Design",
-      "status": "TIMEOUT",
-      "error": "Request timed out after 10s",
-      "final_url": null
-    },
-    {
-      "name": "AutoGPT",
-      "url": "https://autogpt.net/",
-      "category": "AI/ML",
       "status": "TIMEOUT",
       "error": "Request timed out after 10s",
       "final_url": null
@@ -2021,8 +1621,8 @@
       "final_url": null
     },
     {
-      "name": "Adobe Premiere Pro",
-      "url": "https://www.adobe.com/products/premiere.html",
+      "name": "Adobe Photoshop",
+      "url": "https://www.adobe.com/products/photoshop.html",
       "category": "Design",
       "status": "TIMEOUT",
       "error": "Request timed out after 10s",
@@ -2037,8 +1637,8 @@
       "final_url": null
     },
     {
-      "name": "Adobe Photoshop",
-      "url": "https://www.adobe.com/products/photoshop.html",
+      "name": "Adobe Premiere Pro",
+      "url": "https://www.adobe.com/products/premiere.html",
       "category": "Design",
       "status": "TIMEOUT",
       "error": "Request timed out after 10s",
@@ -2087,137 +1687,33 @@
   ],
   "ssl_error": [
     {
-      "name": "ColdFusion",
-      "url": "https://coldfusion.com/",
-      "category": "Programming Language",
-      "status": "SSL_ERROR",
-      "error": "SSL certificate error",
-      "final_url": null
-    },
-    {
-      "name": "Dylan",
-      "url": "https://opendylan.org/",
-      "category": "Programming Language",
-      "status": "SSL_ERROR",
-      "error": "SSL certificate error",
-      "final_url": null
-    },
-    {
-      "name": "Mortran",
-      "url": "http://www.slac.stanford.edu/exp/e871/documentation/offline/mortran2.html",
-      "category": "Programming Language",
-      "status": "SSL_ERROR",
-      "error": "SSL certificate error",
-      "final_url": null
-    },
-    {
-      "name": "SiMPLE",
-      "url": "http://www.simplecodeworks.com/website.html",
-      "category": "Programming Language",
-      "status": "SSL_ERROR",
-      "error": "SSL certificate error",
-      "final_url": null
-    },
-    {
-      "name": "XOTcl",
-      "url": "http://media.wu-wien.ac.at/",
-      "category": "Programming Language",
-      "status": "SSL_ERROR",
-      "error": "SSL certificate error",
-      "final_url": null
-    },
-    {
-      "name": "ACiDDraw",
-      "url": "http://acid.org",
-      "category": "Design",
-      "status": "SSL_ERROR",
-      "error": "SSL certificate error",
-      "final_url": null
-    },
-    {
-      "name": "Appcelerator",
-      "url": "https://www.appcelerator.com",
-      "category": "Mobile",
-      "status": "SSL_ERROR",
-      "error": "SSL certificate error",
-      "final_url": null
-    },
-    {
-      "name": "Atari ST",
-      "url": "http://www.atari.st/",
-      "category": "Hardware",
+      "name": "AnyChart",
+      "url": "https://www.anychart.com",
+      "category": "Data Science",
       "status": "SSL_ERROR",
       "error": "SSL certificate error",
       "final_url": null
     },
     {
       "name": "Bolt (CMS)",
-      "url": "https://docs.bolt.cm/4.0/getting-started/requirements",
+      "url": "https://bolt.cm/",
       "category": "CMS",
-      "status": "SSL_ERROR",
-      "error": "SSL certificate error",
-      "final_url": null
-    },
-    {
-      "name": "C1 CMS",
-      "url": "https://cms.orckestra.com/",
-      "category": "CMS",
-      "status": "SSL_ERROR",
-      "error": "SSL certificate error",
-      "final_url": null
-    },
-    {
-      "name": "Framework",
-      "url": "http://www.framework.com",
-      "category": "IDE/Editor",
       "status": "SSL_ERROR",
       "error": "SSL certificate error",
       "final_url": null
     },
     {
       "name": "LXDE",
-      "url": "https://www.lxde.org/",
+      "url": "https://wiki.lxde.org/en/Main_Page",
       "category": "Operating System",
       "status": "SSL_ERROR",
       "error": "SSL certificate error",
       "final_url": null
     },
     {
-      "name": "Pivotal Tracker",
-      "url": "http://pivotal.io/labs",
-      "category": "Collaboration",
-      "status": "SSL_ERROR",
-      "error": "SSL certificate error",
-      "final_url": null
-    },
-    {
-      "name": "project management software",
-      "url": "http://projectmanagementhistory.com/The_Harmonogram.html",
-      "category": "Collaboration",
-      "status": "SSL_ERROR",
-      "error": "SSL certificate error",
-      "final_url": null
-    },
-    {
-      "name": "Nintendo Wii",
-      "url": "http://wii.com/",
-      "category": "Hardware",
-      "status": "SSL_ERROR",
-      "error": "SSL certificate error",
-      "final_url": null
-    },
-    {
-      "name": "Tom's Planner",
-      "url": "http://tomsplanner.com",
-      "category": "Collaboration",
-      "status": "SSL_ERROR",
-      "error": "SSL certificate error",
-      "final_url": null
-    },
-    {
-      "name": "Widget toolkit",
-      "url": "http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.45.9491",
-      "category": "Library",
+      "name": "source code",
+      "url": "https://d-nb.info/gnd/4488209-9",
+      "category": "Documentation",
       "status": "SSL_ERROR",
       "error": "SSL certificate error",
       "final_url": null
@@ -2232,38 +1728,6 @@
     }
   ],
   "redirect": [
-    {
-      "name": "Cohere",
-      "url": "https://cohere.ai/",
-      "category": "AI/ML",
-      "status": "REDIRECT",
-      "error": "Redirects to different domain: cohere.com",
-      "final_url": "https://cohere.com/"
-    },
-    {
-      "name": "React",
-      "url": "https://reactjs.org/",
-      "category": "Frontend",
-      "status": "REDIRECT",
-      "error": "Redirects to different domain: react.dev",
-      "final_url": "https://react.dev/"
-    },
-    {
-      "name": "Angular",
-      "url": "https://angular.io/",
-      "category": "Frontend",
-      "status": "REDIRECT",
-      "error": "Redirects to different domain: angular.dev",
-      "final_url": "https://angular.dev/"
-    },
-    {
-      "name": "Google DeepMind / Google AI",
-      "url": "https://deepmind.com/",
-      "category": "AI/ML",
-      "status": "REDIRECT",
-      "error": "Redirects to different domain: deepmind.google",
-      "final_url": "https://deepmind.google/"
-    },
     {
       "name": "ABAP",
       "url": "https://community.sap.com/topics/abap",
@@ -2337,38 +1801,6 @@
       "final_url": "https://dxc.com/?merger=true"
     },
     {
-      "name": "DataFlex",
-      "url": "http://www.DataAccess.com/DataFlex",
-      "category": "Programming Language",
-      "status": "REDIRECT",
-      "error": "Redirects to different domain: dataaccess.com",
-      "final_url": "https://www.dataaccess.com/products/dataflex-63"
-    },
-    {
-      "name": "executable",
-      "url": "http://whatis.techtarget.com/fileformat/EXE-Executable-file-program",
-      "category": "Programming Language",
-      "status": "REDIRECT",
-      "error": "Redirects to different domain: techtarget.com",
-      "final_url": "https://www.techtarget.com/whatis/definition/executable-file-exe-file"
-    },
-    {
-      "name": "Go",
-      "url": "https://golang.org/",
-      "category": "Programming Language",
-      "status": "REDIRECT",
-      "error": "Redirects to different domain: go.dev",
-      "final_url": "https://go.dev/"
-    },
-    {
-      "name": "Go!",
-      "url": "https://golang.org/",
-      "category": "Programming Language",
-      "status": "REDIRECT",
-      "error": "Redirects to different domain: go.dev",
-      "final_url": "https://go.dev/"
-    },
-    {
       "name": "Franz Lisp",
       "url": "http://www.cs.berkeley.edu/~fateman/lisp-opus38.92.tar",
       "category": "Programming Language",
@@ -2401,20 +1833,20 @@
       "final_url": "https://learn.microsoft.com/en-us/"
     },
     {
+      "name": "DataFlex",
+      "url": "http://www.DataAccess.com/DataFlex",
+      "category": "Programming Language",
+      "status": "REDIRECT",
+      "error": "Redirects to different domain: dataaccess.com",
+      "final_url": "https://www.dataaccess.com/products/dataflex-63"
+    },
+    {
       "name": "JScript .NET",
       "url": "http://msdn.microsoft.com/en-us/library/3bf5fs13.aspx",
       "category": "Programming Language",
       "status": "REDIRECT",
       "error": "Redirects to different domain: learn.microsoft.com",
       "final_url": "https://learn.microsoft.com/en-us/previous-versions/visualstudio/visual-studio-2010/3bf5fs13(v=vs.100)?redirectedfrom=MSDN"
-    },
-    {
-      "name": "Icon",
-      "url": "http://www.cs.arizona.edu/icon",
-      "category": "Programming Language",
-      "status": "REDIRECT",
-      "error": "Redirects to different domain: www2.cs.arizona.edu",
-      "final_url": "https://www2.cs.arizona.edu/icon/"
     },
     {
       "name": "Kent Recursive Calculator",
@@ -2449,6 +1881,22 @@
       "final_url": "https://learn.microsoft.com/en-us/power-platform/power-fx/overview"
     },
     {
+      "name": "Icon",
+      "url": "http://www.cs.arizona.edu/icon",
+      "category": "Programming Language",
+      "status": "REDIRECT",
+      "error": "Redirects to different domain: www2.cs.arizona.edu",
+      "final_url": "https://www2.cs.arizona.edu/icon/"
+    },
+    {
+      "name": "Miranda",
+      "url": "http://miranda.org.uk",
+      "category": "Programming Language",
+      "status": "REDIRECT",
+      "error": "Redirects to different domain: cs.kent.ac.uk",
+      "final_url": "https://www.cs.kent.ac.uk/people/staff/dat/miranda/"
+    },
+    {
       "name": "KRL",
       "url": "http://purl.umn.edu/107717",
       "category": "Programming Language",
@@ -2463,14 +1911,6 @@
       "status": "REDIRECT",
       "error": "Redirects to different domain: haxefoundation.github.io",
       "final_url": "https://haxefoundation.github.io/nekovm.org/doc/vm/"
-    },
-    {
-      "name": "Miranda",
-      "url": "http://miranda.org.uk",
-      "category": "Programming Language",
-      "status": "REDIRECT",
-      "error": "Redirects to different domain: cs.kent.ac.uk",
-      "final_url": "https://www.cs.kent.ac.uk/people/staff/dat/miranda/"
     },
     {
       "name": "Net.Data",
@@ -2497,22 +1937,6 @@
       "final_url": "https://docs.oracle.com/cd/E05317_01/psft/html/docset.html"
     },
     {
-      "name": "Object Pascal",
-      "url": "http://www.mactech.com/articles/mactech/Vol.02/02.12/ObjectPascal/",
-      "category": "Programming Language",
-      "status": "REDIRECT",
-      "error": "Redirects to different domain: preserve.mactech.com",
-      "final_url": "http://preserve.mactech.com/articles/mactech/Vol.02/02.12/ObjectPascal/index.html"
-    },
-    {
-      "name": "PowerShell",
-      "url": "https://microsoft.com/powershell",
-      "category": "Programming Language",
-      "status": "REDIRECT",
-      "error": "Redirects to different domain: learn.microsoft.com",
-      "final_url": "https://learn.microsoft.com/en-us/powershell/"
-    },
-    {
       "name": "Pony",
       "url": "http://www.ponylang.org",
       "category": "Programming Language",
@@ -2521,12 +1945,12 @@
       "final_url": "https://www.ponylang.io/"
     },
     {
-      "name": "Oxygene",
-      "url": "https://elementscompiler.com/elements/oxygene/",
+      "name": "PowerShell",
+      "url": "https://microsoft.com/powershell",
       "category": "Programming Language",
       "status": "REDIRECT",
-      "error": "Redirects to different domain: remobjects.com",
-      "final_url": "https://www.remobjects.com/elements/oxygene/"
+      "error": "Redirects to different domain: learn.microsoft.com",
+      "final_url": "https://learn.microsoft.com/en-us/powershell"
     },
     {
       "name": "Powerhouse",
@@ -2537,12 +1961,28 @@
       "final_url": "https://www.unicomsi.com/products/powerhouse-4gl/"
     },
     {
+      "name": "Object Pascal",
+      "url": "http://www.mactech.com/articles/mactech/Vol.02/02.12/ObjectPascal/",
+      "category": "Programming Language",
+      "status": "REDIRECT",
+      "error": "Redirects to different domain: preserve.mactech.com",
+      "final_url": "http://preserve.mactech.com/articles/mactech/Vol.02/02.12/ObjectPascal/index.html"
+    },
+    {
       "name": "POP-11",
       "url": "http://www.cs.bham.ac.uk/research/projects/poplog/poplog.info.html",
       "category": "Programming Language",
       "status": "REDIRECT",
       "error": "Redirects to different domain: poplogarchive.getpoplog.org",
       "final_url": "https://poplogarchive.getpoplog.org/poplog.info.html"
+    },
+    {
+      "name": "Oxygene",
+      "url": "https://elementscompiler.com/elements/oxygene/",
+      "category": "Programming Language",
+      "status": "REDIRECT",
+      "error": "Redirects to different domain: remobjects.com",
+      "final_url": "https://www.remobjects.com/elements/oxygene/"
     },
     {
       "name": "Simula",
@@ -2553,20 +1993,20 @@
       "final_url": "https://www.mn.uio.no/tjenester/it/hjelp/programvare/simula/"
     },
     {
-      "name": "Prograph",
-      "url": "http://www.mactech.com/articles/mactech/Vol.10/10.11/PrographCPXTutorial/",
-      "category": "Programming Language",
-      "status": "REDIRECT",
-      "error": "Redirects to different domain: preserve.mactech.com",
-      "final_url": "http://preserve.mactech.com/articles/mactech/Vol.10/10.11/PrographCPXTutorial/index.html"
-    },
-    {
       "name": "T-SQL (Transact-SQL)",
       "url": "https://docs.microsoft.com/en-us/sql/t-sql/language-reference",
       "category": "Programming Language",
       "status": "REDIRECT",
       "error": "Redirects to different domain: learn.microsoft.com",
       "final_url": "https://learn.microsoft.com/en-us/sql/t-sql/language-reference"
+    },
+    {
+      "name": "Visual FoxPro",
+      "url": "http://msdn.microsoft.com/vfoxpro",
+      "category": "Programming Language",
+      "status": "REDIRECT",
+      "error": "Redirects to different domain: learn.microsoft.com",
+      "final_url": "https://learn.microsoft.com/en-us/previous-versions/visualstudio/foxpro/mt490117(v=msdn.10)?redirectedfrom=MSDN"
     },
     {
       "name": "Subtext",
@@ -2585,12 +2025,12 @@
       "final_url": "http://wiki.c2.com/?TuringComplete"
     },
     {
-      "name": "Visual FoxPro",
-      "url": "http://msdn.microsoft.com/vfoxpro",
-      "category": "Programming Language",
+      "name": "Airbnb",
+      "url": "https://www.airbnb.com/",
+      "category": "Startup",
       "status": "REDIRECT",
-      "error": "Redirects to different domain: learn.microsoft.com",
-      "final_url": "https://learn.microsoft.com/en-us/previous-versions/visualstudio/foxpro/mt490117(v=msdn.10)?redirectedfrom=MSDN"
+      "error": "Redirects to different domain: airbnb.co.in",
+      "final_url": "https://www.airbnb.co.in/?locale=en&_set_bev_on_new_domain=1772385851_EAMjU1OTE4Y2RjZG&set_everest_cookie_on_new_domain=1772385851.EANWIwM2QwMDRjMjY5Nz.726CO9J2SuKPkWA8--6xgBTQMUqUUY-717PkvQ_bLFg"
     },
     {
       "name": "Umple",
@@ -2601,12 +2041,12 @@
       "final_url": "https://cruise.umple.org/umple/"
     },
     {
-      "name": "Airbnb",
-      "url": "https://www.airbnb.com/",
-      "category": "Startup",
+      "name": "IPFS",
+      "url": "https://ipfs.io/",
+      "category": "Blockchain",
       "status": "REDIRECT",
-      "error": "Redirects to different domain: airbnb.co.in",
-      "final_url": "https://www.airbnb.co.in/?locale=en&_set_bev_on_new_domain=1772385029_EAOTBkMDRmMDUzNz&set_everest_cookie_on_new_domain=1772385029.EANTJkZjA0MjE1NGQ1Mz._iT67SAKdnq2PtFH2EASN6UYM6627KwnoTWmC-19-2s"
+      "error": "Redirects to different domain: about.ipfs.io",
+      "final_url": "https://about.ipfs.io/"
     },
     {
       "name": "Visual DataFlex",
@@ -2617,30 +2057,6 @@
       "final_url": "https://www.dataaccess.com/products/dataflex-63"
     },
     {
-      "name": "Dream11",
-      "url": "https://dream11.com/",
-      "category": "Startup",
-      "status": "REDIRECT",
-      "error": "Redirects to different domain: dream11.com:443",
-      "final_url": "https://www.dream11.com:443/"
-    },
-    {
-      "name": "Ansible",
-      "url": "https://www.ansible.com/",
-      "category": "DevOps",
-      "status": "REDIRECT",
-      "error": "Redirects to different domain: redhat.com",
-      "final_url": "https://www.redhat.com/en/ansible-collaborative?intcmp=7015Y000003t7aWQAQ"
-    },
-    {
-      "name": "IPFS",
-      "url": "https://ipfs.io/",
-      "category": "Blockchain",
-      "status": "REDIRECT",
-      "error": "Redirects to different domain: about.ipfs.io",
-      "final_url": "https://about.ipfs.io/"
-    },
-    {
       "name": ".NET",
       "url": "https://docs.microsoft.com/dotnet/visual-basic/",
       "category": "Backend",
@@ -2649,20 +2065,12 @@
       "final_url": "https://learn.microsoft.com/en-us/dotnet/visual-basic/"
     },
     {
-      "name": "Alfresco",
-      "url": "http://www.alfresco.com",
-      "category": "CMS",
+      "name": "Dream11",
+      "url": "https://dream11.com/",
+      "category": "Startup",
       "status": "REDIRECT",
-      "error": "Redirects to different domain: hyland.com",
-      "final_url": "https://www.hyland.com/en/solutions/products/alfresco-platform"
-    },
-    {
-      "name": "Atom",
-      "url": "https://atom.io",
-      "category": "IDE/Editor",
-      "status": "REDIRECT",
-      "error": "Redirects to different domain: github.blog",
-      "final_url": "https://github.blog/news-insights/product-news/sunsetting-atom/"
+      "error": "Redirects to different domain: dream11.com:443",
+      "final_url": "https://www.dream11.com:443/"
     },
     {
       "name": "Apps Marketplace Profile",
@@ -2681,30 +2089,6 @@
       "final_url": "https://www.opentext.com/products/listing?o=mf;"
     },
     {
-      "name": "Cloud CMS",
-      "url": "https://www.cloudcms.com/",
-      "category": "CMS",
-      "status": "REDIRECT",
-      "error": "Redirects to different domain: gitana.io",
-      "final_url": "https://gitana.io"
-    },
-    {
-      "name": "Cloud9 IDE",
-      "url": "http://c9.io/",
-      "category": "IDE/Editor",
-      "status": "REDIRECT",
-      "error": "Redirects to different domain: aws.amazon.com",
-      "final_url": "https://aws.amazon.com/cloud9/"
-    },
-    {
-      "name": "Code coverage",
-      "url": "https://msdn.microsoft.com/en-us/library/jj159344.aspx",
-      "category": "Testing",
-      "status": "REDIRECT",
-      "error": "Redirects to different domain: learn.microsoft.com",
-      "final_url": "https://learn.microsoft.com/en-us/previous-versions/msp-n-p/jj159344(v=pandp.10)?redirectedfrom=MSDN"
-    },
-    {
       "name": "Codeanywhere",
       "url": "https://www.codeanywhere.com",
       "category": "IDE/Editor",
@@ -2719,22 +2103,6 @@
       "status": "REDIRECT",
       "error": "Redirects to different domain: planview.com",
       "final_url": "https://www.planview.com/products-solutions/products/adaptivework/"
-    },
-    {
-      "name": "Code refactoring",
-      "url": "http://c2.com/cgi/wiki?WhatIsRefactoring",
-      "category": "Code Quality",
-      "status": "REDIRECT",
-      "error": "Redirects to different domain: wiki.c2.com",
-      "final_url": "http://wiki.c2.com/?WhatIsRefactoring"
-    },
-    {
-      "name": "citation needed",
-      "url": "https://tools.wmflabs.org/citationhunt/en",
-      "category": "Documentation",
-      "status": "REDIRECT",
-      "error": "Redirects to different domain: citationhunt.toolforge.org",
-      "final_url": "https://citationhunt.toolforge.org/en?id=83cc9a37"
     },
     {
       "name": "CDC 6000 series",
@@ -2753,12 +2121,20 @@
       "final_url": "https://www.embarcadero.com:443/free-tools/dev-cpp"
     },
     {
-      "name": "Debugger",
-      "url": "http://www.microsoft.com/whdc/devtools/debugging/",
-      "category": "Debugging",
+      "name": "Easy projects",
+      "url": "http://www.easyprojects.net",
+      "category": "Collaboration",
       "status": "REDIRECT",
-      "error": "Redirects to different domain: developer.microsoft.com",
-      "final_url": "https://developer.microsoft.com/en-us/windows/hardware"
+      "error": "Redirects to different domain: birdviewpsa.com",
+      "final_url": "https://birdviewpsa.com/easyprojects/"
+    },
+    {
+      "name": "DSpace",
+      "url": "https://dspace.lyrasis.org/",
+      "category": "CMS",
+      "status": "REDIRECT",
+      "error": "Redirects to different domain: dspace.org",
+      "final_url": "https://dspace.org/"
     },
     {
       "name": "Domainz",
@@ -2769,68 +2145,12 @@
       "final_url": "https://internetnz.nz"
     },
     {
-      "name": "Easy projects",
-      "url": "http://www.easyprojects.net",
-      "category": "Collaboration",
-      "status": "REDIRECT",
-      "error": "Redirects to different domain: birdviewpsa.com",
-      "final_url": "https://birdviewpsa.com/easyprojects/"
-    },
-    {
-      "name": "Episerver CMS",
-      "url": "https://www.episerver.com",
-      "category": "CMS",
-      "status": "REDIRECT",
-      "error": "Redirects to different domain: optimizely.com",
-      "final_url": "https://www.optimizely.com/"
-    },
-    {
-      "name": "Eclipse Che",
-      "url": "https://www.eclipse.org/che",
-      "category": "IDE/Editor",
-      "status": "REDIRECT",
-      "error": "Redirects to different domain: eclipse.dev",
-      "final_url": "https://eclipse.dev/che/"
-    },
-    {
       "name": "Firebase Studio",
       "url": "https://studio.firebase.google.com",
       "category": "IDE/Editor",
       "status": "REDIRECT",
       "error": "Redirects to different domain: firebase.studio",
       "final_url": "https://firebase.studio"
-    },
-    {
-      "name": "Free and open-source",
-      "url": "https://code.gov",
-      "category": "Documentation",
-      "status": "REDIRECT",
-      "error": "Redirects to different domain: digital.gov",
-      "final_url": "https://digital.gov/resources/requirements-for-achieving-efficiency-transparency-and-innovation-through-reusable-and-open-source-software/"
-    },
-    {
-      "name": "Fujitsu",
-      "url": "https://www.fujitsu.com/",
-      "category": "Hardware",
-      "status": "REDIRECT",
-      "error": "Redirects to different domain: global.fujitsu",
-      "final_url": "https://global.fujitsu/en-global"
-    },
-    {
-      "name": "Gnumeric",
-      "url": "http://gnumeric.org",
-      "category": "Collaboration",
-      "status": "REDIRECT",
-      "error": "Redirects to different domain: gnome.pages.gitlab.gnome.org",
-      "final_url": "https://gnome.pages.gitlab.gnome.org/gnumeric-web//"
-    },
-    {
-      "name": "GMO Internet",
-      "url": "https://www.gmo.jp/en/",
-      "category": "Hosting",
-      "status": "REDIRECT",
-      "error": "Redirects to different domain: group.gmo",
-      "final_url": "https://group.gmo/en/"
     },
     {
       "name": "FogBugz",
@@ -2841,12 +2161,28 @@
       "final_url": "https://ignitetech.ai/software-library/fogbugz/"
     },
     {
+      "name": "GMO Internet",
+      "url": "https://www.gmo.jp/en/",
+      "category": "Hosting",
+      "status": "REDIRECT",
+      "error": "Redirects to different domain: group.gmo",
+      "final_url": "https://group.gmo/en/"
+    },
+    {
       "name": "Google Sheets",
       "url": "https://google.com/sheets",
       "category": "Collaboration",
       "status": "REDIRECT",
       "error": "Redirects to different domain: accounts.google.com",
-      "final_url": "https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fdocs.google.com%2Fspreadsheets%2F&dsh=S-1425519449%3A1772385065781744&followup=https%3A%2F%2Fdocs.google.com%2Fspreadsheets%2F&ifkv=ASfE1-qH1a_vFgCW3kbwK8p7NLpjzmvp9E9rvrEJdZPgWGkrKQQyaKfjNXVZ76T2S8RAVQsSan16cg&ltmpl=sheets&osid=1&passive=1209600&service=wise&flowName=GlifWebSignIn&flowEntry=ServiceLogin"
+      "final_url": "https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fdocs.google.com%2Fspreadsheets%2F&dsh=S-1523271211%3A1772385878492591&followup=https%3A%2F%2Fdocs.google.com%2Fspreadsheets%2F&ifkv=ASfE1-qOywG_vLhxyEQLgbd44qvQJQ7mNdBKPMuBzpcIzaF3W09IyT0cls9rwZS8Dvg8fqdRQI-2HA&ltmpl=sheets&osid=1&passive=1209600&service=wise&flowName=GlifWebSignIn&flowEntry=ServiceLogin"
+    },
+    {
+      "name": "Gnumeric",
+      "url": "http://gnumeric.org",
+      "category": "Collaboration",
+      "status": "REDIRECT",
+      "error": "Redirects to different domain: gnome.pages.gitlab.gnome.org",
+      "final_url": "https://gnome.pages.gitlab.gnome.org/gnumeric-web//"
     },
     {
       "name": "HP Project & Portfolio Software",
@@ -2865,12 +2201,20 @@
       "final_url": "https://www.ideagen.com/solutions/compliance/productivity/document-collaboration-portal"
     },
     {
+      "name": "Fujitsu",
+      "url": "https://www.fujitsu.com/",
+      "category": "Hardware",
+      "status": "REDIRECT",
+      "error": "Redirects to different domain: global.fujitsu",
+      "final_url": "https://global.fujitsu/en-global"
+    },
+    {
       "name": "JotSpot",
       "url": "https://sites.google.com/",
       "category": "CMS",
       "status": "REDIRECT",
       "error": "Redirects to different domain: accounts.google.com",
-      "final_url": "https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fsites.google.com%2F&dsh=S-1893087647%3A1772385072176250&followup=https%3A%2F%2Fsites.google.com%2F&ifkv=ASfE1-qQFykKU4733t0GXR8mLDLVzFaEQxstXjuKVV9PcFg5D05qeFJyHf1dYHntSoylczEJeEos&osid=1&passive=1209600&service=wise&flowName=GlifWebSignIn&flowEntry=ServiceLogin"
+      "final_url": "https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fsites.google.com%2F&dsh=S-703532286%3A1772385883260714&followup=https%3A%2F%2Fsites.google.com%2F&ifkv=ASfE1-q02zyGBQ55SD9J9ddGKpODYo713k1noysZClcuzmG1sQbbE95R88iVzjfKF4V4aTf6ckMDOg&osid=1&passive=1209600&service=wise&flowName=GlifWebSignIn&flowEntry=ServiceLogin"
     },
     {
       "name": "LiquidPlanner",
@@ -2881,14 +2225,6 @@
       "final_url": "https://www.tempo.io/products/portfolio-manager"
     },
     {
-      "name": "Komodo IDE",
-      "url": "https://www.komodoide.com",
-      "category": "IDE/Editor",
-      "status": "REDIRECT",
-      "error": "Redirects to different domain: docs.activestate.com",
-      "final_url": "https://docs.activestate.com/komodo/12/"
-    },
-    {
       "name": "Lucee",
       "url": "http://lucee.org",
       "category": "Programming Language",
@@ -2897,20 +2233,12 @@
       "final_url": "https://www.lucee.org:443/"
     },
     {
-      "name": "Microsoft Power BI",
-      "url": "https://powerbi.microsoft.com/",
-      "category": "Analytics",
+      "name": "Microsoft Windows",
+      "url": "https://windows.com",
+      "category": "Operating System",
       "status": "REDIRECT",
       "error": "Redirects to different domain: microsoft.com",
-      "final_url": "https://www.microsoft.com/en-us/power-platform/products/power-bi/"
-    },
-    {
-      "name": "MicroStrategy",
-      "url": "https://www.microstrategy.com/",
-      "category": "Analytics",
-      "status": "REDIRECT",
-      "error": "Redirects to different domain: strategy.com",
-      "final_url": "https://www.strategy.com/software"
+      "final_url": "https://www.microsoft.com/en-in/windows/"
     },
     {
       "name": "Microsoft Office Project Server",
@@ -2937,20 +2265,20 @@
       "final_url": "https://www.genuitec.com/products/myeclipse/"
     },
     {
-      "name": "Novell",
-      "url": "http://www.novell.com",
-      "category": "Documentation",
-      "status": "REDIRECT",
-      "error": "Redirects to different domain: opentext.com",
-      "final_url": "https://www.opentext.com/about/brands/microfocus"
-    },
-    {
       "name": "ne",
       "url": "https://ne.di.unimi.it/",
       "category": "IDE/Editor",
       "status": "REDIRECT",
       "error": "Redirects to different domain: github.com",
       "final_url": "https://github.com/vigna/ne/"
+    },
+    {
+      "name": "Numbers",
+      "url": "https://www.apple.com/numbers/",
+      "category": "Collaboration",
+      "status": "REDIRECT",
+      "error": "Redirects to different domain: support.apple.com",
+      "final_url": "https://support.apple.com/numbers"
     },
     {
       "name": "O3Spaces",
@@ -2961,36 +2289,12 @@
       "final_url": "https://www.postex.com/"
     },
     {
-      "name": "Numbers",
-      "url": "https://apple.com/numbers",
-      "category": "Collaboration",
-      "status": "REDIRECT",
-      "error": "Redirects to different domain: support.apple.com",
-      "final_url": "https://support.apple.com/numbers"
-    },
-    {
-      "name": "pair programming",
-      "url": "https://www.wikihow.com/Pair-Program",
-      "category": "Documentation",
-      "status": "REDIRECT",
-      "error": "Redirects to different domain: wikihow.tech",
-      "final_url": "https://www.wikihow.tech/Pair-Program"
-    },
-    {
       "name": "Orchard Project",
       "url": "http://orchardproject.net",
       "category": "Collaboration",
       "status": "REDIRECT",
       "error": "Redirects to different domain: orchardcore.net",
       "final_url": "https://orchardcore.net"
-    },
-    {
-      "name": "operating systems",
-      "url": "http://www.cbi.umn.edu/iterations/haigh.html",
-      "category": "Operating System",
-      "status": "REDIRECT",
-      "error": "Redirects to different domain: cse.umn.edu",
-      "final_url": "https://cse.umn.edu/cbi"
     },
     {
       "name": "PascalABC.NET",
@@ -3009,30 +2313,6 @@
       "final_url": "https://docs.python.org/3/license.html"
     },
     {
-      "name": "Profiling",
-      "url": "http://www.ibm.com/developerworks/rational/library/05/1004_gupta/",
-      "category": "Debugging",
-      "status": "REDIRECT",
-      "error": "Redirects to different domain: developer.ibm.com",
-      "final_url": "https://developer.ibm.com/devpractices/devops/"
-    },
-    {
-      "name": "Profiler",
-      "url": "http://www.ibm.com/developerworks/rational/library/05/1004_gupta/",
-      "category": "Debugging",
-      "status": "REDIRECT",
-      "error": "Redirects to different domain: developer.ibm.com",
-      "final_url": "https://developer.ibm.com/devpractices/devops/"
-    },
-    {
-      "name": "ProjeQtOr",
-      "url": "https://www.projeqtor.org",
-      "category": "Collaboration",
-      "status": "REDIRECT",
-      "error": "Redirects to different domain: projeqtor.com",
-      "final_url": "https://www.projeqtor.com"
-    },
-    {
       "name": "PHP-Fusion",
       "url": "https://php-fusion.co.uk",
       "category": "CMS",
@@ -3049,12 +2329,28 @@
       "final_url": "https://pylint.readthedocs.io/en/stable/"
     },
     {
+      "name": "PySide",
+      "url": "https://pyside.org",
+      "category": "IDE/Editor",
+      "status": "REDIRECT",
+      "error": "Redirects to different domain: wiki.qt.io",
+      "final_url": "https://wiki.qt.io/PySide2"
+    },
+    {
       "name": "R Tools for Visual Studio",
       "url": "https://visualstudio.microsoft.com/vs/features/rtvs/",
       "category": "IDE/Editor",
       "status": "REDIRECT",
       "error": "Redirects to different domain: learn.microsoft.com",
       "final_url": "https://learn.microsoft.com/en-us/visualstudio/rtvs/?view=vs-2017"
+    },
+    {
+      "name": "ProjeQtOr",
+      "url": "https://www.projeqtor.org",
+      "category": "Collaboration",
+      "status": "REDIRECT",
+      "error": "Redirects to different domain: projeqtor.com",
+      "final_url": "https://www.projeqtor.com"
     },
     {
       "name": "Quattro Pro",
@@ -3065,28 +2361,12 @@
       "final_url": "https://www.wordperfect.com:443/en/"
     },
     {
-      "name": "PySide",
-      "url": "https://pyside.org",
-      "category": "IDE/Editor",
+      "name": "SoftMaker Office",
+      "url": "https://www.softmaker.com/",
+      "category": "Collaboration",
       "status": "REDIRECT",
-      "error": "Redirects to different domain: wiki.qt.io",
-      "final_url": "https://wiki.qt.io/PySide2"
-    },
-    {
-      "name": "reliable",
-      "url": "https://www.bowdoin.edu/writing-guides/primaries.htm",
-      "category": "Documentation",
-      "status": "REDIRECT",
-      "error": "Redirects to different domain: courses.bowdoin.edu",
-      "final_url": "https://courses.bowdoin.edu/writing-guides/"
-    },
-    {
-      "name": "SaaS",
-      "url": "http://searchservervirtualization.techtarget.com/definition/How-do-you-pronounce-IT",
-      "category": "Documentation",
-      "status": "REDIRECT",
-      "error": "Redirects to different domain: techtarget.com",
-      "final_url": "https://www.techtarget.com/whatis/resources/Tech-Explainers"
+      "error": "Redirects to different domain: softmaker.de",
+      "final_url": "https://www.softmaker.de/"
     },
     {
       "name": "Serendipity",
@@ -3105,52 +2385,12 @@
       "final_url": "https://slime.common-lisp.dev/"
     },
     {
-      "name": "Terraform",
-      "url": "https://www.terraform.io/",
-      "category": "DevOps",
-      "status": "REDIRECT",
-      "error": "Redirects to different domain: developer.hashicorp.com",
-      "final_url": "https://developer.hashicorp.com/terraform"
-    },
-    {
       "name": "Spider Project",
       "url": "http://www.spiderproject.ru",
       "category": "IDE/Editor",
       "status": "REDIRECT",
       "error": "Redirects to different domain: spiderproject.ru:443",
       "final_url": "https://www.spiderproject.ru:443/"
-    },
-    {
-      "name": "SoftMaker Office",
-      "url": "https://www.softmaker.com/",
-      "category": "Collaboration",
-      "status": "REDIRECT",
-      "error": "Redirects to different domain: softmaker.de",
-      "final_url": "https://www.softmaker.de/"
-    },
-    {
-      "name": "The Calligra Suite",
-      "url": "http://www.calligra-suite.org/",
-      "category": "Collaboration",
-      "status": "REDIRECT",
-      "error": "Redirects to different domain: calligra.org",
-      "final_url": "https://calligra.org/"
-    },
-    {
-      "name": "Telligent Community",
-      "url": "http://telligent.com",
-      "category": "CMS",
-      "status": "REDIRECT",
-      "error": "Redirects to different domain: verint.com",
-      "final_url": "https://www.verint.com/"
-    },
-    {
-      "name": "SWT",
-      "url": "http://www.eclipse.org/swt",
-      "category": "Library",
-      "status": "REDIRECT",
-      "error": "Redirects to different domain: eclipse.dev",
-      "final_url": "https://eclipse.dev/eclipse/swt/"
     },
     {
       "name": "Turbo Delphi",
@@ -3169,20 +2409,28 @@
       "final_url": "https://opost.com/tenex/hbook.html"
     },
     {
-      "name": "TrackerSuite.Net",
-      "url": "http://Acentre.com",
-      "category": "Collaboration",
+      "name": "SWT",
+      "url": "http://www.eclipse.org/swt",
+      "category": "Library",
       "status": "REDIRECT",
-      "error": "Redirects to different domain: acentre.com",
-      "final_url": "https://acentre.com/"
+      "error": "Redirects to different domain: eclipse.dev",
+      "final_url": "https://eclipse.dev/eclipse/swt/"
     },
     {
-      "name": "UML class diagramming",
-      "url": "https://www.uml.org/",
-      "category": "Documentation",
+      "name": "The Calligra Suite",
+      "url": "http://www.calligra-suite.org/",
+      "category": "Collaboration",
       "status": "REDIRECT",
-      "error": "Redirects to different domain: omg.org",
-      "final_url": "https://www.omg.org/uml/"
+      "error": "Redirects to different domain: calligra.org",
+      "final_url": "https://calligra.org/"
+    },
+    {
+      "name": "Tuleap",
+      "url": "https://www.tuleap.org",
+      "category": "Collaboration",
+      "status": "REDIRECT",
+      "error": "Redirects to different domain: tuleap.com",
+      "final_url": "https://www.tuleap.com/"
     },
     {
       "name": "Visual Basic .NET",
@@ -3198,7 +2446,15 @@
       "category": "Collaboration",
       "status": "REDIRECT",
       "error": "Redirects to different domain: accounts.google.com",
-      "final_url": "https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fdocs.google.com%2F&dsh=S-653148474%3A1772385105790985&emr=1&followup=https%3A%2F%2Fdocs.google.com%2F&ifkv=ASfE1-r--J80gS8MwKaA338qCBSjBYTG0n1OCIwyE2MU_GkgXmqJ--45bQTb73vcnJVNYYfcl__Vjg&osid=1&passive=1209600&flowName=GlifWebSignIn&flowEntry=ServiceLogin"
+      "final_url": "https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fdocs.google.com%2F&dsh=S-1625316134%3A1772385909317072&emr=1&followup=https%3A%2F%2Fdocs.google.com%2F&ifkv=ASfE1-oTwHQ1hoSrBa1j-szLtv4bB8DFn7-M5qBJGQbCFBVmEm_87m808sz06WGZI5vkggtJSRes3g&osid=1&passive=1209600&flowName=GlifWebSignIn&flowEntry=ServiceLogin"
+    },
+    {
+      "name": "TrackerSuite.Net",
+      "url": "http://Acentre.com",
+      "category": "Collaboration",
+      "status": "REDIRECT",
+      "error": "Redirects to different domain: acentre.com",
+      "final_url": "https://acentre.com/"
     },
     {
       "name": "VM/CMS",
@@ -3217,36 +2473,12 @@
       "final_url": "https://learn.microsoft.com/en-us/previous-versions/windows/embedded/ee504814(v=winembedded.70)?redirectedfrom=MSDN"
     },
     {
-      "name": "Web application",
-      "url": "https://www.whatwg.org/specs/web-apps/current-work/multipage/",
-      "category": "Documentation",
-      "status": "REDIRECT",
-      "error": "Redirects to different domain: html.spec.whatwg.org",
-      "final_url": "https://html.spec.whatwg.org/multipage/"
-    },
-    {
       "name": "C#",
       "url": "https://docs.microsoft.com/en-us/dotnet/csharp/",
       "category": "Programming Language",
       "status": "REDIRECT",
       "error": "Redirects to different domain: learn.microsoft.com",
       "final_url": "https://learn.microsoft.com/en-us/dotnet/csharp/"
-    },
-    {
-      "name": "Xamarin",
-      "url": "http://xamarin.com",
-      "category": "Mobile",
-      "status": "REDIRECT",
-      "error": "Redirects to different domain: dotnet.microsoft.com",
-      "final_url": "https://dotnet.microsoft.com/en-us/apps/xamarin"
-    },
-    {
-      "name": "Cursor",
-      "url": "https://cursor.sh/",
-      "category": "IDE/Editor",
-      "status": "REDIRECT",
-      "error": "Redirects to different domain: cursor.com",
-      "final_url": "https://cursor.com/"
     },
     {
       "name": "Xamarin Studio",
@@ -3257,12 +2489,12 @@
       "final_url": "https://dotnet.microsoft.com/en-us/apps/xamarin"
     },
     {
-      "name": "HashiCorp Vault",
-      "url": "https://www.vaultproject.io/",
-      "category": "Security",
+      "name": "Xamarin",
+      "url": "http://xamarin.com",
+      "category": "Mobile",
       "status": "REDIRECT",
-      "error": "Redirects to different domain: developer.hashicorp.com",
-      "final_url": "https://developer.hashicorp.com/vault"
+      "error": "Redirects to different domain: dotnet.microsoft.com",
+      "final_url": "https://dotnet.microsoft.com/en-us/apps/xamarin"
     },
     {
       "name": "PyTest",
@@ -3273,46 +2505,6 @@
       "final_url": "https://docs.pytest.org/en/stable/"
     },
     {
-      "name": "SonarQube",
-      "url": "https://www.sonarqube.org/",
-      "category": "Security",
-      "status": "REDIRECT",
-      "error": "Redirects to different domain: sonarsource.com",
-      "final_url": "https://www.sonarsource.com/products/sonarqube/"
-    },
-    {
-      "name": "Neon",
-      "url": "https://neon.tech/",
-      "category": "Cloud",
-      "status": "REDIRECT",
-      "error": "Redirects to different domain: neon.com",
-      "final_url": "https://neon.com/"
-    },
-    {
-      "name": "TimescaleDB",
-      "url": "https://www.timescale.com/",
-      "category": "Database",
-      "status": "REDIRECT",
-      "error": "Redirects to different domain: tigerdata.com",
-      "final_url": "https://www.tigerdata.com/"
-    },
-    {
-      "name": "QuestDB",
-      "url": "https://questdb.io/",
-      "category": "Database",
-      "status": "REDIRECT",
-      "error": "Redirects to different domain: questdb.com",
-      "final_url": "https://questdb.com/"
-    },
-    {
-      "name": "ArangoDB",
-      "url": "https://www.arangodb.com/",
-      "category": "Database",
-      "status": "REDIRECT",
-      "error": "Redirects to different domain: arango.ai",
-      "final_url": "https://arango.ai"
-    },
-    {
       "name": "Dgraph",
       "url": "https://dgraph.io/",
       "category": "Database",
@@ -3321,60 +2513,12 @@
       "final_url": "https://docs.dgraph.io"
     },
     {
-      "name": "Railway",
-      "url": "https://railway.app/",
-      "category": "Cloud",
-      "status": "REDIRECT",
-      "error": "Redirects to different domain: railway.com",
-      "final_url": "https://railway.com/"
-    },
-    {
-      "name": "EdgeDB",
-      "url": "https://www.edgedb.com/",
-      "category": "Database",
-      "status": "REDIRECT",
-      "error": "Redirects to different domain: geldata.com",
-      "final_url": "https://www.geldata.com/"
-    },
-    {
-      "name": "Glitch",
-      "url": "https://glitch.com/",
-      "category": "Hosting",
-      "status": "REDIRECT",
-      "error": "Redirects to different domain: blog.glitch.com",
-      "final_url": "https://blog.glitch.com"
-    },
-    {
-      "name": "Platform.sh",
-      "url": "https://platform.sh/",
-      "category": "Hosting",
-      "status": "REDIRECT",
-      "error": "Redirects to different domain: upsun.com",
-      "final_url": "https://upsun.com/"
-    },
-    {
-      "name": "Ory",
-      "url": "https://www.ory.sh/",
-      "category": "Authentication",
-      "status": "REDIRECT",
-      "error": "Redirects to different domain: ory.com",
-      "final_url": "https://www.ory.com/"
-    },
-    {
       "name": "Valtio",
       "url": "https://valtio.pmnd.rs/",
       "category": "Library",
       "status": "REDIRECT",
       "error": "Redirects to different domain: valtio.dev",
       "final_url": "https://valtio.dev/"
-    },
-    {
-      "name": "Framer Motion",
-      "url": "https://www.framer.com/motion/",
-      "category": "Library",
-      "status": "REDIRECT",
-      "error": "Redirects to different domain: motion.dev",
-      "final_url": "https://motion.dev"
     },
     {
       "name": "Victory",
@@ -3401,196 +2545,12 @@
       "final_url": "https://docs.aws.amazon.com/boto3/latest/"
     },
     {
-      "name": "Vite",
-      "url": "https://vitejs.dev/",
-      "category": "Build Tool",
-      "status": "REDIRECT",
-      "error": "Redirects to different domain: vite.dev",
-      "final_url": "https://vite.dev/"
-    },
-    {
-      "name": "Turbopack",
-      "url": "https://turbo.build/pack",
-      "category": "Build Tool",
-      "status": "REDIRECT",
-      "error": "Redirects to different domain: nextjs.org",
-      "final_url": "https://nextjs.org/docs/app/api-reference/turbopack"
-    },
-    {
-      "name": "Turborepo",
-      "url": "https://turbo.build/repo",
-      "category": "Build Tool",
-      "status": "REDIRECT",
-      "error": "Redirects to different domain: turborepo.dev",
-      "final_url": "https://turborepo.dev/docs"
-    },
-    {
-      "name": "GitLab",
-      "url": "https://gitlab.com/",
-      "category": "Version Control",
-      "status": "REDIRECT",
-      "error": "Redirects to different domain: about.gitlab.com",
-      "final_url": "https://about.gitlab.com/"
-    },
-    {
-      "name": "Gitea",
-      "url": "https://gitea.io/",
-      "category": "Version Control",
-      "status": "REDIRECT",
-      "error": "Redirects to different domain: about.gitea.com",
-      "final_url": "https://about.gitea.com/"
-    },
-    {
-      "name": "GitHub Desktop",
-      "url": "https://desktop.github.com/",
-      "category": "Version Control",
-      "status": "REDIRECT",
-      "error": "Redirects to different domain: github.com",
-      "final_url": "https://github.com/apps/desktop"
-    },
-    {
-      "name": "Orama",
-      "url": "https://oramasearch.com/",
-      "category": "Search",
-      "status": "REDIRECT",
-      "error": "Redirects to different domain: orama.com",
-      "final_url": "https://orama.com/"
-    },
-    {
-      "name": "Zinc",
-      "url": "https://zincsearch.com/",
-      "category": "Search",
-      "status": "REDIRECT",
-      "error": "Redirects to different domain: openobserve.ai",
-      "final_url": "https://openobserve.ai"
-    },
-    {
       "name": "Entity Framework",
       "url": "https://docs.microsoft.com/en-us/ef/",
       "category": "ORM",
       "status": "REDIRECT",
       "error": "Redirects to different domain: learn.microsoft.com",
       "final_url": "https://learn.microsoft.com/en-us/ef/"
-    },
-    {
-      "name": "SparkPost",
-      "url": "https://www.sparkpost.com/",
-      "category": "Email",
-      "status": "REDIRECT",
-      "error": "Redirects to different domain: bird.com",
-      "final_url": "https://bird.com/developer/email-api?sp=true"
-    },
-    {
-      "name": "SendGrid",
-      "url": "https://sendgrid.com/",
-      "category": "Email",
-      "status": "REDIRECT",
-      "error": "Redirects to different domain: twilio.com",
-      "final_url": "https://www.twilio.com/en-us/sendgrid"
-    },
-    {
-      "name": "Braintree",
-      "url": "https://www.braintreepayments.com/",
-      "category": "Payment",
-      "status": "REDIRECT",
-      "error": "Redirects to different domain: paypal.com",
-      "final_url": "https://www.paypal.com/us/braintree?utm_campaign=Braintree_Migration&utm_medium=Website&utm_source=Braintree"
-    },
-    {
-      "name": "Segment",
-      "url": "https://segment.com/",
-      "category": "Analytics",
-      "status": "REDIRECT",
-      "error": "Redirects to different domain: twilio.com",
-      "final_url": "https://www.twilio.com/en-us/segment"
-    },
-    {
-      "name": "Buttondown",
-      "url": "https://buttondown.email/",
-      "category": "Email",
-      "status": "REDIRECT",
-      "error": "Redirects to different domain: buttondown.com",
-      "final_url": "https://buttondown.com/"
-    },
-    {
-      "name": "InVision",
-      "url": "https://www.invisionapp.com/",
-      "category": "Design",
-      "status": "REDIRECT",
-      "error": "Redirects to different domain: miro.com:443",
-      "final_url": "https://miro.com:443/"
-    },
-    {
-      "name": "Zoom",
-      "url": "https://zoom.us/",
-      "category": "Collaboration",
-      "status": "REDIRECT",
-      "error": "Redirects to different domain: zoom.com",
-      "final_url": "https://www.zoom.com"
-    },
-    {
-      "name": "Read the Docs",
-      "url": "https://readthedocs.org/",
-      "category": "Documentation",
-      "status": "REDIRECT",
-      "error": "Redirects to different domain: about.readthedocs.com",
-      "final_url": "https://about.readthedocs.com/?ref=app.readthedocs.org"
-    },
-    {
-      "name": "Vercel AI SDK",
-      "url": "https://sdk.vercel.ai/",
-      "category": "AI/ML",
-      "status": "REDIRECT",
-      "error": "Redirects to different domain: ai-sdk.dev",
-      "final_url": "https://ai-sdk.dev/"
-    },
-    {
-      "name": "Ollama",
-      "url": "https://ollama.ai/",
-      "category": "AI/ML",
-      "status": "REDIRECT",
-      "error": "Redirects to different domain: ollama.com",
-      "final_url": "https://ollama.com/"
-    },
-    {
-      "name": "JAX",
-      "url": "https://jax.readthedocs.io/",
-      "category": "AI/ML",
-      "status": "REDIRECT",
-      "error": "Redirects to different domain: docs.jax.dev",
-      "final_url": "https://docs.jax.dev/en/latest/"
-    },
-    {
-      "name": "LambdaTest",
-      "url": "https://www.lambdatest.com/",
-      "category": "Testing",
-      "status": "REDIRECT",
-      "error": "Redirects to different domain: testmuai.com",
-      "final_url": "https://www.testmuai.com/"
-    },
-    {
-      "name": "Waypoint",
-      "url": "https://www.waypointproject.io/",
-      "category": "DevOps",
-      "status": "REDIRECT",
-      "error": "Redirects to different domain: developer.hashicorp.com",
-      "final_url": "https://developer.hashicorp.com/waypoint"
-    },
-    {
-      "name": "Lapce",
-      "url": "https://lapce.dev/",
-      "category": "IDE/Editor",
-      "status": "REDIRECT",
-      "error": "Redirects to different domain: lap.dev",
-      "final_url": "https://lap.dev/lapce/"
-    },
-    {
-      "name": "Gitpod",
-      "url": "https://www.gitpod.io/",
-      "category": "IDE/Editor",
-      "status": "REDIRECT",
-      "error": "Redirects to different domain: ona.com",
-      "final_url": "https://ona.com/"
     },
     {
       "name": "Flipper",
@@ -3601,108 +2561,12 @@
       "final_url": "https://github.com/facebook/flipper"
     },
     {
-      "name": "Vault",
-      "url": "https://www.vaultproject.io/",
-      "category": "Security",
-      "status": "REDIRECT",
-      "error": "Redirects to different domain: developer.hashicorp.com",
-      "final_url": "https://developer.hashicorp.com/vault"
-    },
-    {
-      "name": "Consul",
-      "url": "https://www.consul.io/",
-      "category": "DevOps",
-      "status": "REDIRECT",
-      "error": "Redirects to different domain: developer.hashicorp.com",
-      "final_url": "https://developer.hashicorp.com/consul"
-    },
-    {
-      "name": "Packer",
-      "url": "https://www.packer.io/",
-      "category": "DevOps",
-      "status": "REDIRECT",
-      "error": "Redirects to different domain: developer.hashicorp.com",
-      "final_url": "https://developer.hashicorp.com/packer"
-    },
-    {
-      "name": "Vagrant",
-      "url": "https://www.vagrantup.com/",
-      "category": "DevOps",
-      "status": "REDIRECT",
-      "error": "Redirects to different domain: developer.hashicorp.com",
-      "final_url": "https://developer.hashicorp.com/vagrant"
-    },
-    {
-      "name": "SonarCloud",
-      "url": "https://sonarcloud.io/",
-      "category": "Code Quality",
-      "status": "REDIRECT",
-      "error": "Redirects to different domain: sonarsource.com",
-      "final_url": "https://www.sonarsource.com/products/sonarqube/cloud/"
-    },
-    {
-      "name": "Power Automate",
-      "url": "https://powerautomate.microsoft.com/",
-      "category": "Low-Code",
-      "status": "REDIRECT",
-      "error": "Redirects to different domain: microsoft.com",
-      "final_url": "https://www.microsoft.com/en-us/power-platform/products/power-automate/"
-    },
-    {
-      "name": "Power Apps",
-      "url": "https://powerapps.microsoft.com/",
-      "category": "Low-Code",
-      "status": "REDIRECT",
-      "error": "Redirects to different domain: microsoft.com",
-      "final_url": "https://www.microsoft.com/en-in/power-platform/products/power-apps/"
-    },
-    {
-      "name": "AppDynamics",
-      "url": "https://www.appdynamics.com/",
-      "category": "Monitoring",
-      "status": "REDIRECT",
-      "error": "Redirects to different domain: splunk.com",
-      "final_url": "https://www.splunk.com/en_us/appdynamics-joins-splunk.html?301=appdynamics"
-    },
-    {
       "name": "Dynamics 365",
       "url": "https://dynamics.microsoft.com/",
       "category": "Business",
       "status": "REDIRECT",
       "error": "Redirects to different domain: microsoft.com",
       "final_url": "https://www.microsoft.com/en-in/dynamics-365/"
-    },
-    {
-      "name": "Google Meet",
-      "url": "https://meet.google.com/",
-      "category": "Collaboration",
-      "status": "REDIRECT",
-      "error": "Redirects to different domain: workspace.google.com",
-      "final_url": "https://workspace.google.com/products/meet/"
-    },
-    {
-      "name": "Google Data Studio",
-      "url": "https://datastudio.google.com/",
-      "category": "Analytics",
-      "status": "REDIRECT",
-      "error": "Redirects to different domain: lookerstudio.google.com",
-      "final_url": "https://lookerstudio.google.com/overview"
-    },
-    {
-      "name": "Google Drive",
-      "url": "https://www.google.com/drive/",
-      "category": "Storage",
-      "status": "REDIRECT",
-      "error": "Redirects to different domain: workspace.google.com",
-      "final_url": "https://workspace.google.com/products/drive/"
-    },
-    {
-      "name": "Codeium",
-      "url": "https://codeium.com/",
-      "category": "AI/ML",
-      "status": "REDIRECT",
-      "error": "Redirects to different domain: windsurf.com",
-      "final_url": "https://windsurf.com/"
     }
   ],
   "other_error": []
