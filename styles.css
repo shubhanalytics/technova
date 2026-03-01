@@ -619,14 +619,12 @@ body {
 
 /* Inactive Link Styling */
 .inactive-link {
-  cursor: pointer;
+  cursor: not-allowed;
   color: var(--text-muted);
-  text-decoration: line-through;
-  text-decoration-color: rgba(239, 68, 68, 0.5);
 }
 
 .inactive-link:hover {
-  color: var(--text-secondary);
+  color: var(--text-muted);
 }
 
 /* Inactive Notice */
