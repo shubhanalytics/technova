@@ -19,7 +19,7 @@
   },
   {
     "name": "Cohere",
-    "url": "https://cohere.ai/",
+    "url": "https://cohere.com/",
     "category": "AI/ML",
     "sector": "AI",
     "country": "Worldwide",
@@ -37,7 +37,7 @@
   },
   {
     "name": "Google DeepMind / Google AI",
-    "url": "https://deepmind.com/",
+    "url": "https://deepmind.google/",
     "category": "AI/ML",
     "sector": "AI",
     "country": "Worldwide",
@@ -55,7 +55,7 @@
   },
   {
     "name": "Meta AI",
-    "url": "https://ai.meta.com/",
+    "url": "https://www.meta.ai/",
     "category": "AI/ML",
     "sector": "AI",
     "country": "Worldwide",
@@ -82,7 +82,7 @@
   },
   {
     "name": "OpenAI",
-    "url": "https://openai.com/",
+    "url": "https://platform.openai.com/",
     "category": "AI/ML",
     "sector": "AI",
     "country": "Worldwide",
@@ -181,11 +181,11 @@
   },
   {
     "name": "Linode",
-    "url": "https://www.linode.com/",
+    "url": "https://www.akamai.com/solutions/linode",
     "category": "Cloud",
     "sector": "Cloud",
     "country": "Worldwide",
-    "description": "Cloud hosting and Linux virtual machines",
+    "description": "Cloud hosting by Akamai (formerly Linode)",
     "popular": false
   },
   {
@@ -217,7 +217,7 @@
   },
   {
     "name": "Angular",
-    "url": "https://angular.io/",
+    "url": "https://angular.dev/",
     "category": "Frontend",
     "sector": "Web",
     "country": "Worldwide",
@@ -271,7 +271,7 @@
   },
   {
     "name": "React",
-    "url": "https://reactjs.org/",
+    "url": "https://react.dev/",
     "category": "Frontend",
     "sector": "Web",
     "country": "Worldwide",
@@ -321,15 +321,6 @@
     "sector": "",
     "country": "",
     "description": "Query language for code analysis",
-    "popular": false
-  },
-  {
-    "name": "A+ (A plus)",
-    "url": "http://www.aplusdev.org/",
-    "category": "Programming Language",
-    "sector": "",
-    "country": "",
-    "description": "Array programming language",
     "popular": false
   },
   {
@@ -397,7 +388,7 @@
   },
   {
     "name": "Ada",
-    "url": "https://www.adaic.org/",
+    "url": "https://ada-lang.io/",
     "category": "Programming Language",
     "sector": "",
     "country": "",
@@ -474,15 +465,6 @@
     "sector": "",
     "country": "",
     "description": "Capability-based language",
-    "popular": false
-  },
-  {
-    "name": "Algebraic Logic Functional programming language",
-    "url": "http://www.informatik.uni-kiel.de/~mh/systems/ALF",
-    "category": "Programming Language",
-    "sector": "",
-    "country": "",
-    "description": "Low-level systems programming language",
     "popular": false
   },
   {
@@ -621,15 +603,6 @@
     "popular": false
   },
   {
-    "name": "APT",
-    "url": "http://dl.acm.org/citation.cfm?id=808374&dl=ACM&coll=DL&CFID=203593322&CFTOKEN=45146083",
-    "category": "Programming Language",
-    "sector": "",
-    "country": "",
-    "description": "",
-    "popular": false
-  },
-  {
     "name": "Arc",
     "url": "http://arclanguage.org",
     "category": "Programming Language",
@@ -676,7 +649,7 @@
   },
   {
     "name": "AutoHotkey",
-    "url": "https://www.autohotkey.com/",
+    "url": "https://github.com/AutoHotkey/AutoHotkey",
     "category": "Programming Language",
     "sector": "",
     "country": "",
@@ -753,15 +726,6 @@
     "sector": "",
     "country": "",
     "description": "Low-level systems programming language",
-    "popular": false
-  },
-  {
-    "name": "bc (basic calculator)",
-    "url": "https://doi.acm.org/10.1145/152923.152925",
-    "category": "Programming Language",
-    "sector": "",
-    "country": "",
-    "description": "Arbitrary precision calculator",
     "popular": false
   },
   {
@@ -918,15 +882,6 @@
     "popular": false
   },
   {
-    "name": "Cayenne (Lennart Augustsson)",
-    "url": "http://www.augustsson.net",
-    "category": "Programming Language",
-    "sector": "",
-    "country": "",
-    "description": "Low-level systems programming language",
-    "popular": false
-  },
-  {
     "name": "Cecil",
     "url": "http://www.cs.washington.edu/research/projects/cecil/",
     "category": "Programming Language",
@@ -1026,15 +981,6 @@
     "popular": false
   },
   {
-    "name": "Chronological",
-    "url": "http://hopl.info/",
-    "category": "Programming Language",
-    "sector": "",
-    "country": "",
-    "description": "Low-level systems programming language",
-    "popular": false
-  },
-  {
     "name": "ChucK",
     "url": "http://chuck.cs.princeton.edu",
     "category": "Programming Language",
@@ -1063,7 +1009,7 @@
   },
   {
     "name": "Clarion",
-    "url": "http://www.softvelocity.com",
+    "url": "https://clarionsharp.com/",
     "category": "Programming Language",
     "sector": "",
     "country": "",
@@ -1086,15 +1032,6 @@
     "sector": "",
     "country": "",
     "description": "Pure functional language",
-    "popular": false
-  },
-  {
-    "name": "Clipper",
-    "url": "http://www.grafxsoft.com/clipper.htm",
-    "category": "Programming Language",
-    "sector": "",
-    "country": "",
-    "description": "Low-level systems programming language",
     "popular": false
   },
   {
@@ -1125,15 +1062,6 @@
     "popular": false
   },
   {
-    "name": "CMS EXEC",
-    "url": "https://archive.today/20140417183004/http://publibfp.boulder.ibm.com/cgi-bin/bookmgr_OS390/BOOKS/HCSD7B00/CCONTENTS#5.1",
-    "category": "Programming Language",
-    "sector": "",
-    "country": "",
-    "description": "Low-level systems programming language",
-    "popular": false
-  },
-  {
     "name": "Cobra",
     "url": "http://cobra-language.com/",
     "category": "Programming Language",
@@ -1153,7 +1081,7 @@
   },
   {
     "name": "ColdFusion",
-    "url": "https://coldfusion.com/",
+    "url": "https://www.adobe.com/products/coldfusion.html",
     "category": "Programming Language",
     "sector": "",
     "country": "",
@@ -1197,15 +1125,6 @@
     "popular": false
   },
   {
-    "name": "COMTRAN",
-    "url": "https://www.ancestry.co.uk/learn/library/article.aspx?article=1159",
-    "category": "Programming Language",
-    "sector": "",
-    "country": "",
-    "description": "Low-level systems programming language",
-    "popular": false
-  },
-  {
     "name": "Constraint Handling Rules",
     "url": "http://constraint-handling-rules.org",
     "category": "Programming Language",
@@ -1217,15 +1136,6 @@
   {
     "name": "CORAL",
     "url": "http://history.dcs.ed.ac.uk/archive/os/deimos/ercm09/emas-2900/coral2.txt",
-    "category": "Programming Language",
-    "sector": "",
-    "country": "",
-    "description": "Low-level systems programming language",
-    "popular": false
-  },
-  {
-    "name": "Cryptol",
-    "url": "http://www.cryptol.net",
     "category": "Programming Language",
     "sector": "",
     "country": "",
@@ -1271,15 +1181,6 @@
   {
     "name": "Curry",
     "url": "http://www.curry-lang.org",
-    "category": "Programming Language",
-    "sector": "",
-    "country": "",
-    "description": "Low-level systems programming language",
-    "popular": false
-  },
-  {
-    "name": "Cybil",
-    "url": "https://dl.acm.org/doi/10.1145/988327.988331",
     "category": "Programming Language",
     "sector": "",
     "country": "",
@@ -1350,15 +1251,6 @@
     "popular": false
   },
   {
-    "name": "DATATRIEVE",
-    "url": "https://vmssoftware.com/products/datatrieve/",
-    "category": "Programming Language",
-    "sector": "",
-    "country": "",
-    "description": "Statistical computing and graphics language",
-    "popular": false
-  },
-  {
     "name": "dBase",
     "url": "http://www.dbase.com",
     "category": "Programming Language",
@@ -1395,24 +1287,6 @@
     "popular": false
   },
   {
-    "name": "Dog",
-    "url": "http://www.kamvar.org/",
-    "category": "Programming Language",
-    "sector": "",
-    "country": "",
-    "description": "Systems programming language",
-    "popular": false
-  },
-  {
-    "name": "domain-specific languages",
-    "url": "http://catb.org/~esr/writings/taoup/html/minilanguageschapter.html",
-    "category": "Programming Language",
-    "sector": "",
-    "country": "",
-    "description": "Low-level systems programming language",
-    "popular": false
-  },
-  {
     "name": "DRAKON",
     "url": "https://drakon.su/start",
     "category": "Programming Language",
@@ -1432,7 +1306,7 @@
   },
   {
     "name": "Dylan",
-    "url": "https://opendylan.org/",
+    "url": "https://github.com/opendylan/",
     "category": "Programming Language",
     "sector": "",
     "country": "",
@@ -1491,15 +1365,6 @@
     "sector": "",
     "country": "",
     "description": "Object-oriented with Design by Contract",
-    "popular": false
-  },
-  {
-    "name": "ELAN",
-    "url": "https://www.cs.ru.nl/elan",
-    "category": "Programming Language",
-    "sector": "",
-    "country": "",
-    "description": "Capability-based language",
     "popular": false
   },
   {
@@ -1575,48 +1440,12 @@
     "popular": false
   },
   {
-    "name": "esoteric programming languages",
-    "url": "https://esolangs.org/wiki/Main_Page",
-    "category": "Programming Language",
-    "sector": "",
-    "country": "",
-    "description": "Low-level systems programming language",
-    "popular": false
-  },
-  {
-    "name": "ESPOL",
-    "url": "http://www.ianjoyner.name/Burroughs.html",
-    "category": "Programming Language",
-    "sector": "",
-    "country": "",
-    "description": "Capability-based language",
-    "popular": false
-  },
-  {
     "name": "Esterel",
     "url": "http://www-sop.inria.fr/meije/esterel/esterel-eng.html",
     "category": "Programming Language",
     "sector": "",
     "country": "",
     "description": "Statistical computing and graphics language",
-    "popular": false
-  },
-  {
-    "name": "Etoys",
-    "url": "http://www.squeakland.org/",
-    "category": "Programming Language",
-    "sector": "",
-    "country": "",
-    "description": "Capability-based language",
-    "popular": false
-  },
-  {
-    "name": "Euclid",
-    "url": "http://portal.acm.org/citation.cfm?id=954666.971189",
-    "category": "Programming Language",
-    "sector": "",
-    "country": "",
-    "description": "Low-level systems programming language",
     "popular": false
   },
   {
@@ -1635,24 +1464,6 @@
     "sector": "",
     "country": "",
     "description": "Simple programming language",
-    "popular": false
-  },
-  {
-    "name": "EusLisp Robot Programming Language",
-    "url": "http://staff.aist.go.jp/t.matsui/eus/",
-    "category": "Programming Language",
-    "sector": "",
-    "country": "",
-    "description": "Statistical computing and graphics language",
-    "popular": false
-  },
-  {
-    "name": "executable",
-    "url": "http://whatis.techtarget.com/fileformat/EXE-Executable-file-program",
-    "category": "Programming Language",
-    "sector": "",
-    "country": "",
-    "description": "Low-level systems programming language",
     "popular": false
   },
   {
@@ -1734,15 +1545,6 @@
     "sector": "",
     "country": "",
     "description": "",
-    "popular": false
-  },
-  {
-    "name": "FLOW-MATIC (B0)",
-    "url": "http://portal.acm.org/citation.cfm?id=954666.971189",
-    "category": "Programming Language",
-    "sector": "",
-    "country": "",
-    "description": "Low-level systems programming language",
     "popular": false
   },
   {
@@ -1872,15 +1674,6 @@
     "popular": false
   },
   {
-    "name": "Generational",
-    "url": "https://merd.sourceforge.net/pixel/language-study/diagram.html",
-    "category": "Programming Language",
-    "sector": "",
-    "country": "",
-    "description": "Statistical computing and graphics language",
-    "popular": false
-  },
-  {
     "name": "Geometric Description Language",
     "url": "http://gdl.graphisoft.com",
     "category": "Programming Language",
@@ -1927,7 +1720,7 @@
   },
   {
     "name": "Go",
-    "url": "https://golang.org/",
+    "url": "https://go.dev/",
     "category": "Programming Language",
     "sector": "Cloud",
     "country": "Worldwide",
@@ -1936,11 +1729,11 @@
   },
   {
     "name": "Go!",
-    "url": "https://golang.org/",
+    "url": "https://go.dev/",
     "category": "Programming Language",
     "sector": "Cloud",
     "country": "Worldwide",
-    "description": "Compiled language by Google for cloud services",
+    "description": "Concurrent programming language from Google",
     "popular": true
   },
   {
@@ -1950,15 +1743,6 @@
     "sector": "",
     "country": "",
     "description": "Lightweight JVM language",
-    "popular": false
-  },
-  {
-    "name": "GOM",
-    "url": "http://www.catb.org/~esr/mad/",
-    "category": "Programming Language",
-    "sector": "",
-    "country": "",
-    "description": "Fast, statically typed language by Google",
     "popular": false
   },
   {
@@ -1977,15 +1761,6 @@
     "sector": "",
     "country": "",
     "description": "Fast, statically typed language by Google",
-    "popular": false
-  },
-  {
-    "name": "GRASS",
-    "url": "http://dl.acm.org/citation.cfm?id=808374&dl=ACM&coll=DL&CFID=203593322&CFTOKEN=45146083",
-    "category": "Programming Language",
-    "sector": "",
-    "country": "",
-    "description": "Statistical computing and graphics language",
     "popular": false
   },
   {
@@ -2304,15 +2079,6 @@
     "popular": false
   },
   {
-    "name": "Janus (concurrent constraint programming language)",
-    "url": "https://www.researchgate.net/publication/221321646",
-    "category": "Programming Language",
-    "sector": "",
-    "country": "",
-    "description": "Low-level systems programming language",
-    "popular": false
-  },
-  {
     "name": "Janus (time-reversible computing programming language)",
     "url": "https://tetsuo.jp/ref/janus.html",
     "category": "Programming Language",
@@ -2347,15 +2113,6 @@
     "country": "Worldwide",
     "description": "Web scripting language",
     "popular": true
-  },
-  {
-    "name": "JEAN",
-    "url": "https://archive.today/20130105104243/http://www3.interscience.wiley.com/journal/113444330/abstract?CRETRY=1&SRETRY=0",
-    "category": "Programming Language",
-    "sector": "",
-    "country": "",
-    "description": "Capability-based language",
-    "popular": false
   },
   {
     "name": "Join Java",
@@ -2418,15 +2175,6 @@
     "sector": "",
     "country": "",
     "description": "Array programming language",
-    "popular": false
-  },
-  {
-    "name": "Karel",
-    "url": "https://xkarel.sourceforge.net/",
-    "category": "Programming Language",
-    "sector": "",
-    "country": "",
-    "description": "Statistical computing and graphics language",
     "popular": false
   },
   {
@@ -2530,7 +2278,7 @@
   },
   {
     "name": "Lasso",
-    "url": "http://www.lassosoft.com",
+    "url": "https://en.wikipedia.org/wiki/Lasso_(programming_language)",
     "category": "Programming Language",
     "sector": "",
     "country": "",
@@ -2544,15 +2292,6 @@
     "sector": "",
     "country": "",
     "description": "Theorem prover and language",
-    "popular": false
-  },
-  {
-    "name": "Legoscript",
-    "url": "https://www.lego.com/themes/mindstorms/about",
-    "category": "Programming Language",
-    "sector": "",
-    "country": "",
-    "description": "Low-level systems programming language",
     "popular": false
   },
   {
@@ -2781,15 +2520,6 @@
     "popular": false
   },
   {
-    "name": "Magik",
-    "url": "http://www.ge-energy.com/products_and_services/products/geospatial_systems_and_mobile_workforce/index.jsp",
-    "category": "Programming Language",
-    "sector": "",
-    "country": "",
-    "description": "Array programming for finance",
-    "popular": false
-  },
-  {
     "name": "Magma",
     "url": "http://magma.maths.usyd.edu.au",
     "category": "Programming Language",
@@ -2836,21 +2566,12 @@
   },
   {
     "name": "MATLAB",
-    "url": "https://www.mathworks.com/products/matlab.html",
+    "url": "https://www.mathworks.com/",
     "category": "IDE/Editor",
     "sector": "Scientific",
     "country": "Worldwide",
     "description": "Numerical computing environment",
     "popular": true
-  },
-  {
-    "name": "Maude system",
-    "url": "http://maude.cs.uiuc.edu/",
-    "category": "Programming Language",
-    "sector": "",
-    "country": "",
-    "description": "Systems programming language",
-    "popular": false
   },
   {
     "name": "Max",
@@ -2863,7 +2584,7 @@
   },
   {
     "name": "Maxima",
-    "url": "https://maxima.sourceforge.io/",
+    "url": "https://wxmaxima-developers.github.io/wxmaxima/",
     "category": "Programming Language",
     "sector": "",
     "country": "",
@@ -2925,15 +2646,6 @@
     "popular": false
   },
   {
-    "name": "MIMIC",
-    "url": "http://stinet.dtic.mil/oai/oai?verb=getRecord&metadataPrefix=html&identifier=AD0656301",
-    "category": "Programming Language",
-    "sector": "",
-    "country": "",
-    "description": "Low-level systems programming language",
-    "popular": false
-  },
-  {
     "name": "Mirah",
     "url": "https://mirah.org/",
     "category": "Programming Language",
@@ -2958,15 +2670,6 @@
     "sector": "",
     "country": "",
     "description": "Low-level systems programming language",
-    "popular": false
-  },
-  {
-    "name": "Model 204",
-    "url": "http://www.rocketsoftware.com/brand/rocket-m204",
-    "category": "Programming Language",
-    "sector": "",
-    "country": "",
-    "description": "Systems programming language",
     "popular": false
   },
   {
@@ -3016,29 +2719,11 @@
   },
   {
     "name": "Mortran",
-    "url": "http://www.slac.stanford.edu/exp/e871/documentation/offline/mortran2.html",
+    "url": "https://en.wikipedia.org/wiki/Mortran",
     "category": "Programming Language",
     "sector": "",
     "country": "",
     "description": "Statistical computing and graphics language",
-    "popular": false
-  },
-  {
-    "name": "Mouse",
-    "url": "http://users.encs.concordia.ca/~grogono/Mouse/mouse.html",
-    "category": "Programming Language",
-    "sector": "",
-    "country": "",
-    "description": "Capability-based language",
-    "popular": false
-  },
-  {
-    "name": "MPD",
-    "url": "http://www.cs.arizona.edu/mpd/",
-    "category": "Programming Language",
-    "sector": "",
-    "country": "",
-    "description": "Systems programming language",
     "popular": false
   },
   {
@@ -3075,15 +2760,6 @@
     "sector": "",
     "country": "",
     "description": "Low-level systems programming language",
-    "popular": false
-  },
-  {
-    "name": "Napier88",
-    "url": "http://www-ppg.dcs.st-and.ac.uk/Languages/Napier88/",
-    "category": "Programming Language",
-    "sector": "",
-    "country": "",
-    "description": "Statistical computing and graphics language",
     "popular": false
   },
   {
@@ -3151,7 +2827,7 @@
   },
   {
     "name": "NewLISP",
-    "url": "http://www.newlisp.org",
+    "url": "https://github.com/kosh04/newlisp",
     "category": "Programming Language",
     "sector": "",
     "country": "",
@@ -3204,15 +2880,6 @@
     "popular": false
   },
   {
-    "name": "Not Quite C",
-    "url": "https://www.lego.com/themes/mindstorms/about",
-    "category": "Programming Language",
-    "sector": "",
-    "country": "",
-    "description": "Low-level systems programming language",
-    "popular": false
-  },
-  {
     "name": "Nu",
     "url": "http://programming-nu.github.io",
     "category": "Programming Language",
@@ -3224,15 +2891,6 @@
   {
     "name": "Nullsoft Scriptable Install System",
     "url": "http://www.winamp.com/",
-    "category": "Programming Language",
-    "sector": "",
-    "country": "",
-    "description": "Low-level systems programming language",
-    "popular": false
-  },
-  {
-    "name": "NWScript",
-    "url": "https://www.mobygames.com/game-group/neverwinter-nights-series",
     "category": "Programming Language",
     "sector": "",
     "country": "",
@@ -3300,15 +2958,6 @@
     "sector": "",
     "country": "",
     "description": "High-performance systems programming language",
-    "popular": false
-  },
-  {
-    "name": "ObjectLOGO",
-    "url": "https://dspace.mit.edu/handle/1721.1/6226",
-    "category": "Programming Language",
-    "sector": "",
-    "country": "",
-    "description": "Low-level systems programming language",
     "popular": false
   },
   {
@@ -3978,15 +3627,6 @@
     "popular": false
   },
   {
-    "name": "REBOL",
-    "url": "http://www.rebol.com",
-    "category": "Programming Language",
-    "sector": "",
-    "country": "",
-    "description": "Messaging language",
-    "popular": false
-  },
-  {
     "name": "Red",
     "url": "https://www.red-lang.org/",
     "category": "Programming Language",
@@ -4212,15 +3852,6 @@
     "popular": false
   },
   {
-    "name": "Self",
-    "url": "http://www.selflanguage.org",
-    "category": "Programming Language",
-    "sector": "",
-    "country": "",
-    "description": "Prototype-based language",
-    "popular": false
-  },
-  {
     "name": "SenseTalk",
     "url": "https://www.sensetalk.com/",
     "category": "Programming Language",
@@ -4272,15 +3903,6 @@
     "sector": "",
     "country": "",
     "description": "",
-    "popular": false
-  },
-  {
-    "name": "SiMPLE",
-    "url": "http://www.simplecodeworks.com/website.html",
-    "category": "Programming Language",
-    "sector": "",
-    "country": "",
-    "description": "Capability-based language",
     "popular": false
   },
   {
@@ -4509,15 +4131,6 @@
     "popular": false
   },
   {
-    "name": "Strongtalk",
-    "url": "http://www.strongtalk.org",
-    "category": "Programming Language",
-    "sector": "",
-    "country": "",
-    "description": "Statistical computing and graphics language",
-    "popular": false
-  },
-  {
     "name": "Structured Text",
     "url": "https://www.controldesign.com/articles/2018/should-i-limit-programming-to-ladder-logic-or-use-all-standards-within-iec-61131/",
     "category": "Programming Language",
@@ -4650,15 +4263,6 @@
     "sector": "",
     "country": "",
     "description": "Document typesetting system",
-    "popular": false
-  },
-  {
-    "name": "TIE",
-    "url": "http://cadence.com",
-    "category": "Programming Language",
-    "sector": "",
-    "country": "",
-    "description": "Capability-based language",
     "popular": false
   },
   {
@@ -4869,15 +4473,6 @@
     "popular": false
   },
   {
-    "name": "Visual Prolog",
-    "url": "https://www.visual-prolog.com/",
-    "category": "Programming Language",
-    "sector": "",
-    "country": "",
-    "description": "Statistical computing and graphics language",
-    "popular": false
-  },
-  {
     "name": "WATFIV",
     "url": "http://www.openwatcom.org/",
     "category": "Programming Language",
@@ -4996,7 +4591,7 @@
   },
   {
     "name": "XOTcl",
-    "url": "http://media.wu-wien.ac.at/",
+    "url": "https://wiki.tcl-lang.org/page/XOTcl",
     "category": "Programming Language",
     "sector": "",
     "country": "",
@@ -5031,15 +4626,6 @@
     "popular": false
   },
   {
-    "name": "XSB",
-    "url": "http://xsb.sf.net",
-    "category": "Programming Language",
-    "sector": "",
-    "country": "",
-    "description": "",
-    "popular": false
-  },
-  {
     "name": "XSLT",
     "url": "https://www.w3.org/TR/xslt-30/",
     "category": "Programming Language",
@@ -5067,15 +4653,6 @@
     "popular": false
   },
   {
-    "name": "YQL",
-    "url": "http://developer.yahoo.com/yql/",
-    "category": "Programming Language",
-    "sector": "",
-    "country": "",
-    "description": "Array language for kdb+",
-    "popular": false
-  },
-  {
     "name": "Z shell",
     "url": "https://www.zsh.org/",
     "category": "Programming Language",
@@ -5096,15 +4673,6 @@
   {
     "name": "Zonnon",
     "url": "https://zonnon.org/",
-    "category": "Programming Language",
-    "sector": "",
-    "country": "",
-    "description": "Formal specification language",
-    "popular": false
-  },
-  {
-    "name": "ZOPL",
-    "url": "http://geac.com",
     "category": "Programming Language",
     "sector": "",
     "country": "",
@@ -5500,7 +5068,7 @@
   },
   {
     "name": "Ansible",
-    "url": "https://www.ansible.com/",
+    "url": "https://www.redhat.com/en/technologies/management/ansible",
     "category": "DevOps",
     "sector": "DevOps & Infrastructure",
     "country": "Worldwide",
@@ -5680,7 +5248,7 @@
   },
   {
     "name": "WebXR",
-    "url": "https://www.w3.org/TR/webxr/",
+    "url": "https://immersiveweb.dev/",
     "category": "VR/AR",
     "sector": "AR/VR & Metaverse",
     "country": "Worldwide",
@@ -5721,15 +5289,6 @@
     "sector": "",
     "country": "",
     "description": "Microsoft-compatible office suite",
-    "popular": false
-  },
-  {
-    "name": "ACiDDraw",
-    "url": "http://acid.org",
-    "category": "Design",
-    "sector": "",
-    "country": "",
-    "description": "ANSI art editor",
     "popular": false
   },
   {
@@ -5824,7 +5383,7 @@
   },
   {
     "name": "Alfresco",
-    "url": "http://www.alfresco.com",
+    "url": "https://www.hyland.com/en/solutions/products/alfresco-platform",
     "category": "CMS",
     "sector": "",
     "country": "",
@@ -6021,15 +5580,6 @@
     "popular": true
   },
   {
-    "name": "Appcelerator",
-    "url": "https://www.appcelerator.com",
-    "category": "Mobile",
-    "sector": "",
-    "country": "",
-    "description": "Mobile development platform",
-    "popular": false
-  },
-  {
     "name": "AppCode",
     "url": "https://jetbrains.com/",
     "category": "IDE/Editor",
@@ -6138,21 +5688,12 @@
     "popular": false
   },
   {
-    "name": "Atari ST",
-    "url": "http://www.atari.st/",
-    "category": "Hardware",
-    "sector": "",
-    "country": "",
-    "description": "16/32-bit home computer",
-    "popular": false
-  },
-  {
     "name": "Atom",
-    "url": "https://atom.io",
+    "url": "https://github.blog/news-insights/product-news/sunsetting-atom/",
     "category": "IDE/Editor",
     "sector": "",
     "country": "",
-    "description": "Hackable text editor by GitHub",
+    "description": "Discontinued code editor (open-sourced, archived)",
     "popular": false
   },
   {
@@ -6264,12 +5805,12 @@
     "popular": false
   },
   {
-    "name": "Bazaar",
-    "url": "https://bazaar.canonical.com/",
+    "name": "Breezy (Bazaar)",
+    "url": "https://www.breezy-vcs.org/",
     "category": "Version Control",
     "sector": "",
     "country": "",
-    "description": "Distributed version control system",
+    "description": "Distributed version control system (successor to Bazaar)",
     "popular": false
   },
   {
@@ -6364,7 +5905,7 @@
   },
   {
     "name": "Bolt (CMS)",
-    "url": "https://docs.bolt.cm/4.0/getting-started/requirements",
+    "url": "https://bolt.cm/",
     "category": "CMS",
     "sector": "",
     "country": "",
@@ -6508,7 +6049,7 @@
   },
   {
     "name": "C1 CMS",
-    "url": "https://cms.orckestra.com/",
+    "url": "https://github.com/Orckestra",
     "category": "CMS",
     "sector": "",
     "country": "",
@@ -6642,15 +6183,6 @@
     "popular": false
   },
   {
-    "name": "citation needed",
-    "url": "https://tools.wmflabs.org/citationhunt/en",
-    "category": "Documentation",
-    "sector": "",
-    "country": "",
-    "description": "Wikipedia citation marker",
-    "popular": false
-  },
-  {
     "name": "clarification needed",
     "url": "http://mark-twain.classic-literature.co.uk/fenimore-coopers-literary-offences/",
     "category": "Documentation",
@@ -6706,7 +6238,7 @@
   },
   {
     "name": "Cloud CMS",
-    "url": "https://www.cloudcms.com/",
+    "url": "https://gitana.io",
     "category": "CMS",
     "sector": "",
     "country": "",
@@ -6724,7 +6256,7 @@
   },
   {
     "name": "Cloud9 IDE",
-    "url": "http://c9.io/",
+    "url": "https://aws.amazon.com/cloud9/",
     "category": "IDE/Editor",
     "sector": "",
     "country": "",
@@ -6801,24 +6333,6 @@
     "sector": "",
     "country": "",
     "description": "All-in-one document platform",
-    "popular": false
-  },
-  {
-    "name": "Code coverage",
-    "url": "https://msdn.microsoft.com/en-us/library/jj159344.aspx",
-    "category": "Testing",
-    "sector": "",
-    "country": "",
-    "description": "Measuring test coverage",
-    "popular": false
-  },
-  {
-    "name": "Code refactoring",
-    "url": "http://c2.com/cgi/wiki?WhatIsRefactoring",
-    "category": "Code Quality",
-    "sector": "",
-    "country": "",
-    "description": "Restructuring existing code",
     "popular": false
   },
   {
@@ -7074,15 +6588,6 @@
     "popular": false
   },
   {
-    "name": "Debugger",
-    "url": "http://www.microsoft.com/whdc/devtools/debugging/",
-    "category": "Debugging",
-    "sector": "",
-    "country": "",
-    "description": "Tools for debugging code",
-    "popular": false
-  },
-  {
     "name": "Decoda",
     "url": "https://unknownworlds.com",
     "category": "IDE/Editor",
@@ -7300,7 +6805,7 @@
   },
   {
     "name": "DSpace",
-    "url": "http://www.dspace.org",
+    "url": "https://dspace.lyrasis.org/",
     "category": "CMS",
     "sector": "",
     "country": "",
@@ -7372,7 +6877,7 @@
   },
   {
     "name": "Eclipse Che",
-    "url": "https://www.eclipse.org/che",
+    "url": "https://eclipse.dev/che/",
     "category": "IDE/Editor",
     "sector": "",
     "country": "",
@@ -7533,8 +7038,8 @@
     "popular": false
   },
   {
-    "name": "Episerver CMS",
-    "url": "https://www.episerver.com",
+    "name": "Optimizely (Episerver)",
+    "url": "https://www.optimizely.com/",
     "category": "CMS",
     "sector": "",
     "country": "",
@@ -7767,24 +7272,6 @@
     "popular": false
   },
   {
-    "name": "Framework",
-    "url": "http://www.framework.com",
-    "category": "IDE/Editor",
-    "sector": "",
-    "country": "",
-    "description": "Integrated software suite",
-    "popular": false
-  },
-  {
-    "name": "Free and open-source",
-    "url": "https://code.gov",
-    "category": "Documentation",
-    "sector": "",
-    "country": "",
-    "description": "FOSS software concept",
-    "popular": false
-  },
-  {
     "name": "Free Pascal",
     "url": "https://freepascal.org",
     "category": "Programming Language",
@@ -7912,7 +7399,7 @@
   },
   {
     "name": "Geeklog",
-    "url": "http://www.geeklog.net",
+    "url": "https://github.com/Geeklog-Core/geeklog",
     "category": "Monitoring",
     "sector": "",
     "country": "",
@@ -8857,7 +8344,7 @@
   },
   {
     "name": "Komodo IDE",
-    "url": "https://www.komodoide.com",
+    "url": "https://docs.activestate.com/komodo/12/",
     "category": "IDE/Editor",
     "sector": "",
     "country": "",
@@ -9109,7 +8596,7 @@
   },
   {
     "name": "LXDE",
-    "url": "https://www.lxde.org/",
+    "url": "https://wiki.lxde.org/en/Main_Page",
     "category": "Operating System",
     "sector": "",
     "country": "",
@@ -9307,7 +8794,7 @@
   },
   {
     "name": "Microsoft Power BI",
-    "url": "https://powerbi.microsoft.com/",
+    "url": "https://www.microsoft.com/en-us/power-platform/products/power-bi/",
     "category": "Analytics",
     "sector": "Business Intelligence",
     "country": "Microsoft",
@@ -9369,8 +8856,8 @@
     "popular": false
   },
   {
-    "name": "MicroStrategy",
-    "url": "https://www.microstrategy.com/",
+    "name": "Strategy (MicroStrategy)",
+    "url": "https://www.strategy.com/software",
     "category": "Analytics",
     "sector": "Business Intelligence",
     "country": "USA",
@@ -9747,15 +9234,6 @@
     "popular": false
   },
   {
-    "name": "Nintendo Wii",
-    "url": "http://wii.com/",
-    "category": "Hardware",
-    "sector": "",
-    "country": "",
-    "description": "Home gaming console",
-    "popular": false
-  },
-  {
     "name": "Node.js",
     "url": "https://nodejs.org",
     "category": "Runtime",
@@ -9798,15 +9276,6 @@
     "sector": "",
     "country": "",
     "description": "Free source code editor for Windows",
-    "popular": false
-  },
-  {
-    "name": "Novell",
-    "url": "http://www.novell.com",
-    "category": "Documentation",
-    "sector": "",
-    "country": "",
-    "description": "Software company",
     "popular": false
   },
   {
@@ -9856,7 +9325,7 @@
   },
   {
     "name": "Numbers",
-    "url": "https://apple.com/numbers",
+    "url": "https://www.apple.com/numbers/",
     "category": "Collaboration",
     "sector": "",
     "country": "",
@@ -10107,15 +9576,6 @@
     "popular": false
   },
   {
-    "name": "operating systems",
-    "url": "http://www.cbi.umn.edu/iterations/haigh.html",
-    "category": "Operating System",
-    "sector": "",
-    "country": "",
-    "description": "[Needs review] Statistical computing and graphics language",
-    "popular": false
-  },
-  {
     "name": "Oracle",
     "url": "https://www.oracle.com/database/",
     "category": "Database",
@@ -10194,15 +9654,6 @@
     "sector": "",
     "country": "",
     "description": "Perl IDE",
-    "popular": false
-  },
-  {
-    "name": "pair programming",
-    "url": "https://www.wikihow.com/Pair-Program",
-    "category": "Documentation",
-    "sector": "",
-    "country": "",
-    "description": "Collaborative programming practice",
     "popular": false
   },
   {
@@ -10377,15 +9828,6 @@
     "popular": false
   },
   {
-    "name": "Pivotal Tracker",
-    "url": "http://pivotal.io/labs",
-    "category": "Collaboration",
-    "sector": "",
-    "country": "",
-    "description": "Agile project management tool",
-    "popular": false
-  },
-  {
     "name": "Pixie (CMS)",
     "url": "http://www.getpixie.co.uk/",
     "category": "CMS",
@@ -10557,35 +9999,8 @@
     "popular": false
   },
   {
-    "name": "Profiler",
-    "url": "http://www.ibm.com/developerworks/rational/library/05/1004_gupta/",
-    "category": "Debugging",
-    "sector": "",
-    "country": "",
-    "description": "Performance profiling tool",
-    "popular": false
-  },
-  {
-    "name": "Profiling",
-    "url": "http://www.ibm.com/developerworks/rational/library/05/1004_gupta/",
-    "category": "Debugging",
-    "sector": "",
-    "country": "",
-    "description": "Performance analysis technique",
-    "popular": false
-  },
-  {
     "name": "Project KickStart",
     "url": "http://www.projectkickstart.com/",
-    "category": "Collaboration",
-    "sector": "",
-    "country": "",
-    "description": "[Needs review] Low-level systems programming language",
-    "popular": false
-  },
-  {
-    "name": "project management software",
-    "url": "http://projectmanagementhistory.com/The_Harmonogram.html",
     "category": "Collaboration",
     "sector": "",
     "country": "",
@@ -10962,24 +10377,6 @@
     "popular": false
   },
   {
-    "name": "registrars",
-    "url": "https://www.icann.org/registrar-reports/accredited-list.html",
-    "category": "Hosting",
-    "sector": "",
-    "country": "",
-    "description": "[Needs review] Statistical computing and graphics language",
-    "popular": false
-  },
-  {
-    "name": "reliable",
-    "url": "https://www.bowdoin.edu/writing-guides/primaries.htm",
-    "category": "Documentation",
-    "sector": "",
-    "country": "",
-    "description": "Source reliability concept",
-    "popular": false
-  },
-  {
     "name": "RemObjects Software",
     "url": "https://www.remobjects.com/",
     "category": "Programming Language",
@@ -11049,15 +10446,6 @@
     "sector": "",
     "country": "",
     "description": "Dynamic, object-oriented scripting language",
-    "popular": false
-  },
-  {
-    "name": "SaaS",
-    "url": "http://searchservervirtualization.techtarget.com/definition/How-do-you-pronounce-IT",
-    "category": "Documentation",
-    "sector": "Business & Venture",
-    "country": "Worldwide",
-    "description": "Software-as-a-Service — software distribution model where apps are hosted centrally and licensed on subscription basis.",
     "popular": false
   },
   {
@@ -11674,7 +11062,7 @@
   },
   {
     "name": "Telligent Community",
-    "url": "http://telligent.com",
+    "url": "https://www.verint.com/",
     "category": "CMS",
     "sector": "",
     "country": "",
@@ -11683,7 +11071,7 @@
   },
   {
     "name": "Terraform",
-    "url": "https://www.terraform.io/",
+    "url": "https://developer.hashicorp.com/terraform",
     "category": "DevOps",
     "sector": "DevOps",
     "country": "Worldwide",
@@ -11814,15 +11202,6 @@
     "sector": "",
     "country": "",
     "description": "Python GUI toolkit",
-    "popular": false
-  },
-  {
-    "name": "Tom's Planner",
-    "url": "http://tomsplanner.com",
-    "category": "Collaboration",
-    "sector": "",
-    "country": "",
-    "description": "Online Gantt chart tool",
     "popular": false
   },
   {
@@ -12003,15 +11382,6 @@
     "sector": "",
     "country": "",
     "description": ".NET open-source CMS",
-    "popular": false
-  },
-  {
-    "name": "UML class diagramming",
-    "url": "https://www.uml.org/",
-    "category": "Documentation",
-    "sector": "",
-    "country": "",
-    "description": "Unified modeling language",
     "popular": false
   },
   {
@@ -12231,15 +11601,6 @@
     "popular": false
   },
   {
-    "name": "Web application",
-    "url": "https://www.whatwg.org/specs/web-apps/current-work/multipage/",
-    "category": "Documentation",
-    "sector": "",
-    "country": "",
-    "description": "Application accessed via web browser",
-    "popular": false
-  },
-  {
     "name": "Web content lifecycle",
     "url": "http://cmprofessionals.org/index.cfm?fuseaction=Page.viewPage&pageId=484&parentID=473",
     "category": "Documentation",
@@ -12318,15 +11679,6 @@
     "sector": "",
     "country": "",
     "description": "Unix system administration interface",
-    "popular": false
-  },
-  {
-    "name": "Widget toolkit",
-    "url": "http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.45.9491",
-    "category": "Library",
-    "sector": "",
-    "country": "",
-    "description": "GUI component libraries",
     "popular": false
   },
   {
@@ -12439,7 +11791,7 @@
   },
   {
     "name": "Workfront",
-    "url": "http://workfront.com",
+    "url": "https://www.workfront.com/",
     "category": "Collaboration",
     "sector": "",
     "country": "",
@@ -12798,7 +12150,7 @@
   {
     "name": "Cursor",
     "description": "AI-first code editor built for pair programming with AI",
-    "url": "https://cursor.sh/",
+    "url": "https://cursor.com/",
     "category": "IDE/Editor"
   },
   {
@@ -12878,7 +12230,7 @@
   {
     "name": "HashiCorp Vault",
     "description": "Secrets management and data protection platform",
-    "url": "https://www.vaultproject.io/",
+    "url": "https://developer.hashicorp.com/vault",
     "category": "Security",
     "popular": true
   },
@@ -12891,7 +12243,7 @@
   {
     "name": "SonarQube",
     "description": "Code quality and security",
-    "url": "https://www.sonarqube.org/",
+    "url": "https://www.sonarsource.com/products/sonarqube/",
     "category": "Security"
   },
   {
@@ -13123,7 +12475,7 @@
   {
     "name": "Neon",
     "description": "Serverless Postgres",
-    "url": "https://neon.tech/",
+    "url": "https://neon.com/",
     "category": "Cloud",
     "popular": true,
     "verified": true
@@ -13143,9 +12495,9 @@
     "verified": true
   },
   {
-    "name": "TimescaleDB",
+    "name": "TigerData (TimescaleDB)",
     "description": "Time series database built on PostgreSQL",
-    "url": "https://www.timescale.com/",
+    "url": "https://www.tigerdata.com/",
     "category": "Database",
     "verified": true
   },
@@ -13159,7 +12511,7 @@
   {
     "name": "ArangoDB",
     "description": "Multi-model database for graphs, documents, and key-values",
-    "url": "https://www.arangodb.com/",
+    "url": "https://arango.ai",
     "category": "Database",
     "verified": true
   },
@@ -13194,7 +12546,7 @@
   {
     "name": "QuestDB",
     "description": "High-performance time series database",
-    "url": "https://questdb.io/",
+    "url": "https://questdb.com/",
     "category": "Database",
     "verified": true
   },
@@ -13269,9 +12621,9 @@
     "verified": true
   },
   {
-    "name": "EdgeDB",
+    "name": "Gel (EdgeDB)",
     "description": "Graph-relational database with declarative schema",
-    "url": "https://www.edgedb.com/",
+    "url": "https://www.geldata.com/",
     "category": "Database",
     "verified": true
   },
@@ -13293,7 +12645,7 @@
   {
     "name": "Railway",
     "description": "Infrastructure platform",
-    "url": "https://railway.app/",
+    "url": "https://railway.com/",
     "category": "Cloud",
     "popular": true,
     "verified": true
@@ -13361,7 +12713,7 @@
   {
     "name": "Glitch",
     "description": "Collaborative platform for building web apps",
-    "url": "https://glitch.com/",
+    "url": "https://blog.glitch.com/",
     "category": "Hosting",
     "verified": true
   },
@@ -13408,9 +12760,9 @@
     "verified": true
   },
   {
-    "name": "Platform.sh",
+    "name": "Upsun (Platform.sh)",
     "description": "End-to-end PaaS for web applications",
-    "url": "https://platform.sh/",
+    "url": "https://upsun.com/",
     "category": "Hosting",
     "verified": true
   },
@@ -13568,7 +12920,7 @@
   {
     "name": "Ory",
     "description": "Open-source identity infrastructure",
-    "url": "https://www.ory.sh/",
+    "url": "https://www.ory.com/",
     "category": "Authentication",
     "verified": true
   },
@@ -13937,9 +13289,9 @@
     "verified": true
   },
   {
-    "name": "Framer Motion",
+    "name": "Motion (Framer Motion)",
     "description": "Production-ready motion library for React",
-    "url": "https://www.framer.com/motion/",
+    "url": "https://motion.dev",
     "category": "Library",
     "popular": true,
     "verified": true
@@ -14418,7 +13770,7 @@
   {
     "name": "Vite",
     "description": "Next-gen frontend build tool",
-    "url": "https://vitejs.dev/",
+    "url": "https://vite.dev/",
     "category": "Build Tool",
     "popular": true,
     "verified": true
@@ -14442,7 +13794,7 @@
   {
     "name": "Turbopack",
     "description": "Rust-based bundler",
-    "url": "https://turbo.build/pack",
+    "url": "https://nextjs.org/docs/app/api-reference/turbopack",
     "category": "Build Tool",
     "popular": true,
     "verified": true
@@ -14495,7 +13847,7 @@
   {
     "name": "Turborepo",
     "description": "High-performance build system for monorepos",
-    "url": "https://turbo.build/repo",
+    "url": "https://turborepo.dev/",
     "category": "Build Tool",
     "popular": true,
     "verified": true
@@ -14756,7 +14108,7 @@
   {
     "name": "GitLab",
     "description": "Git repository and DevOps platform",
-    "url": "https://gitlab.com/",
+    "url": "https://about.gitlab.com/",
     "category": "Version Control",
     "popular": true,
     "verified": true
@@ -14779,7 +14131,7 @@
   {
     "name": "Gitea",
     "description": "Self-hosted Git service",
-    "url": "https://gitea.io/",
+    "url": "https://about.gitea.com/",
     "category": "Version Control",
     "verified": true
   },
@@ -14821,7 +14173,7 @@
   {
     "name": "GitHub Desktop",
     "description": "Official GitHub desktop client",
-    "url": "https://desktop.github.com/",
+    "url": "https://github.com/apps/desktop",
     "category": "Version Control",
     "verified": true
   },
@@ -15016,16 +14368,16 @@
     "verified": true
   },
   {
-    "name": "Zinc",
+    "name": "OpenObserve (Zinc)",
     "description": "Lightweight Elasticsearch alternative",
-    "url": "https://zincsearch.com/",
+    "url": "https://openobserve.ai",
     "category": "Search",
     "verified": true
   },
   {
     "name": "Orama",
     "description": "In-memory full-text search engine",
-    "url": "https://oramasearch.com/",
+    "url": "https://orama.com/",
     "category": "Search",
     "verified": true
   },
@@ -15355,7 +14707,7 @@
   {
     "name": "SendGrid",
     "description": "Cloud-based email delivery platform",
-    "url": "https://sendgrid.com/",
+    "url": "https://www.twilio.com/en-us/sendgrid",
     "category": "Email",
     "popular": true,
     "verified": true
@@ -15402,7 +14754,7 @@
   {
     "name": "SparkPost",
     "description": "Email delivery service",
-    "url": "https://www.sparkpost.com/",
+    "url": "https://bird.com/developer/email-api",
     "category": "Email",
     "verified": true
   },
@@ -15453,7 +14805,7 @@
   {
     "name": "Buttondown",
     "description": "Newsletter platform for developers",
-    "url": "https://buttondown.email/",
+    "url": "https://buttondown.com/",
     "category": "Email",
     "verified": true
   },
@@ -15522,7 +14874,7 @@
   {
     "name": "Segment",
     "description": "Customer data platform",
-    "url": "https://segment.com/",
+    "url": "https://www.twilio.com/en-us/segment",
     "category": "Analytics",
     "popular": true,
     "verified": true
@@ -15728,7 +15080,7 @@
   {
     "name": "Braintree",
     "description": "Payment platform by PayPal",
-    "url": "https://www.braintreepayments.com/",
+    "url": "https://www.paypal.com/us/braintree",
     "category": "Payment",
     "verified": true
   },
@@ -16011,8 +15363,8 @@
   },
   {
     "name": "InVision",
-    "description": "Digital product design platform",
-    "url": "https://www.invisionapp.com/",
+    "description": "Collaborative design platform (acquired InVision)",
+    "url": "https://miro.com/",
     "category": "Design",
     "verified": true
   },
@@ -16143,7 +15495,7 @@
   {
     "name": "Zoom",
     "description": "Video conferencing platform",
-    "url": "https://zoom.us/",
+    "url": "https://www.zoom.com",
     "category": "Collaboration",
     "popular": true,
     "verified": true
@@ -16284,7 +15636,7 @@
   {
     "name": "Read the Docs",
     "description": "Documentation hosting",
-    "url": "https://readthedocs.org/",
+    "url": "https://about.readthedocs.com/",
     "category": "Documentation",
     "verified": true
   },
@@ -16474,7 +15826,7 @@
   {
     "name": "Ollama",
     "description": "Run LLMs locally",
-    "url": "https://ollama.ai/",
+    "url": "https://ollama.com/",
     "category": "AI/ML",
     "popular": true,
     "verified": true
@@ -16534,7 +15886,7 @@
   {
     "name": "JAX",
     "description": "High-performance numerical computing",
-    "url": "https://jax.readthedocs.io/",
+    "url": "https://docs.jax.dev/en/latest/",
     "category": "AI/ML",
     "verified": true
   },
@@ -16577,7 +15929,7 @@
   {
     "name": "Vercel AI SDK",
     "description": "Build AI-powered apps with React",
-    "url": "https://sdk.vercel.ai/",
+    "url": "https://ai-sdk.dev/",
     "category": "AI/ML",
     "popular": true,
     "verified": true
@@ -16824,8 +16176,8 @@
     "description": "Continuous testing cloud for web and mobile apps"
   },
   {
-    "name": "LambdaTest",
-    "url": "https://www.lambdatest.com/",
+    "name": "TestMu (LambdaTest)",
+    "url": "https://www.testmuai.com/",
     "category": "Testing",
     "description": "Cross browser testing cloud with real browsers"
   },
@@ -16897,7 +16249,7 @@
   },
   {
     "name": "Waypoint",
-    "url": "https://www.waypointproject.io/",
+    "url": "https://developer.hashicorp.com/waypoint",
     "category": "DevOps",
     "description": "Build, deploy, and release applications by HashiCorp"
   },
@@ -16933,7 +16285,7 @@
   },
   {
     "name": "Lapce",
-    "url": "https://lapce.dev/",
+    "url": "https://lap.dev/lapce/",
     "category": "IDE/Editor",
     "description": "Lightning-fast open source code editor written in Rust"
   },
@@ -16950,8 +16302,8 @@
     "description": "Cloud development environments by GitHub"
   },
   {
-    "name": "Gitpod",
-    "url": "https://www.gitpod.io/",
+    "name": "Ona (Gitpod)",
+    "url": "https://ona.com/",
     "category": "IDE/Editor",
     "description": "Ready-to-code cloud development environments"
   },
@@ -17390,26 +16742,26 @@
   {
     "name": "Consul",
     "description": "Service mesh solution providing service discovery and configuration",
-    "url": "https://www.consul.io/",
+    "url": "https://developer.hashicorp.com/consul",
     "category": "DevOps"
   },
   {
     "name": "Vault",
     "description": "Secrets management by HashiCorp",
-    "url": "https://www.vaultproject.io/",
+    "url": "https://developer.hashicorp.com/vault",
     "category": "Security",
     "popular": true
   },
   {
     "name": "Packer",
     "description": "Machine image builder",
-    "url": "https://www.packer.io/",
+    "url": "https://developer.hashicorp.com/packer",
     "category": "DevOps"
   },
   {
     "name": "Vagrant",
     "description": "Development environment management",
-    "url": "https://www.vagrantup.com/",
+    "url": "https://developer.hashicorp.com/vagrant",
     "category": "DevOps"
   },
   {
@@ -17493,7 +16845,7 @@
   {
     "name": "SonarCloud",
     "description": "Cloud-based code analysis service for clean code",
-    "url": "https://sonarcloud.io/",
+    "url": "https://www.sonarsource.com/products/sonarqube/cloud/",
     "category": "Code Quality"
   },
   {
@@ -17846,9 +17198,9 @@
     "category": "Analytics"
   },
   {
-    "name": "Google Data Studio",
+    "name": "Looker Studio",
     "description": "Free data visualization and reporting tool by Google",
-    "url": "https://datastudio.google.com/",
+    "url": "https://lookerstudio.google.com/",
     "category": "Analytics"
   },
   {
@@ -17874,13 +17226,13 @@
   {
     "name": "Power Automate",
     "description": "Microsoft workflow automation and RPA platform",
-    "url": "https://powerautomate.microsoft.com/",
+    "url": "https://www.microsoft.com/en-us/power-platform/products/power-automate/",
     "category": "Low-Code"
   },
   {
     "name": "Power Apps",
     "description": "Microsoft low-code application development platform",
-    "url": "https://powerapps.microsoft.com/",
+    "url": "https://www.microsoft.com/en-us/power-platform/products/power-apps/",
     "category": "Low-Code"
   },
   {
@@ -17919,7 +17271,7 @@
   {
     "name": "AppDynamics",
     "description": "Application performance management",
-    "url": "https://www.appdynamics.com/",
+    "url": "https://www.splunk.com/en_us/products/appdynamics.html",
     "category": "Monitoring"
   },
   {
@@ -18156,7 +17508,7 @@
   {
     "name": "Google Meet",
     "description": "Video conferencing service by Google",
-    "url": "https://meet.google.com/",
+    "url": "https://workspace.google.com/products/meet/",
     "category": "Collaboration"
   },
   {
@@ -18205,7 +17557,7 @@
   {
     "name": "Google Drive",
     "description": "Cloud storage and file backup by Google",
-    "url": "https://www.google.com/drive/",
+    "url": "https://workspace.google.com/products/drive/",
     "category": "Storage",
     "popular": true
   },
@@ -18272,9 +17624,9 @@
     "category": "AI/ML"
   },
   {
-    "name": "Codeium",
+    "name": "Windsurf (Codeium)",
     "description": "Free AI-powered code completion tool",
-    "url": "https://codeium.com/",
+    "url": "https://windsurf.com/",
     "category": "AI/ML",
     "popular": true
   },
