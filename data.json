@@ -200,7 +200,7 @@
   {
     "name": "Oracle Cloud",
     "url": "https://www.oracle.com/cloud/",
-    "category": "Cloud",
+    "category": "Database",
     "sector": "Cloud",
     "country": "Worldwide",
     "description": "Oracle's cloud with database and analytics services",
@@ -209,7 +209,7 @@
   {
     "name": "Snowflake",
     "url": "https://www.snowflake.com/",
-    "category": "Data",
+    "category": "Database",
     "sector": "Data",
     "country": "Worldwide",
     "description": "Cloud data platform widely used for analytics and ML",
@@ -587,7 +587,7 @@
   {
     "name": "Apex (Salesforce.com, Inc)",
     "url": "https://www.salesforce.com/",
-    "category": "Software",
+    "category": "Tool",
     "sector": "",
     "country": "",
     "description": "Salesforce proprietary language",
@@ -605,7 +605,7 @@
   {
     "name": "App Inventor for Android's visual block language (MIT App Inventor)",
     "url": "http://appinventor.mit.edu",
-    "category": "Software",
+    "category": "Tool",
     "sector": "",
     "country": "",
     "description": "Low-level systems programming language",
@@ -1424,7 +1424,7 @@
   {
     "name": "Delphi Community",
     "url": "https://www.embarcadero.com/products/delphi",
-    "category": "Software",
+    "category": "Mobile",
     "sector": "",
     "country": "",
     "description": "RAD tool for native applications",
@@ -4871,7 +4871,7 @@
   {
     "name": "Unreal Engine",
     "url": "https://www.unrealengine.com/",
-    "category": "Software",
+    "category": "Tool",
     "sector": "AR/VR & Metaverse",
     "country": "Worldwide",
     "description": "High-fidelity real-time 3D creation platform used for games, simulations and immersive experiences.",
@@ -5285,7 +5285,7 @@
   {
     "name": "Datadog",
     "url": "https://www.datadoghq.com/",
-    "category": "Startup",
+    "category": "Monitoring",
     "sector": "Monitoring",
     "country": "United States",
     "description": "Cloud monitoring and observability platform for infrastructure and applications.",
@@ -5393,7 +5393,7 @@
   {
     "name": "Notion",
     "url": "https://www.notion.so/",
-    "category": "Startup",
+    "category": "Low-Code",
     "sector": "Productivity",
     "country": "USA",
     "description": "All-in-one workspace",
@@ -5582,7 +5582,7 @@
   {
     "name": "Ansible",
     "url": "https://www.ansible.com/",
-    "category": "Technology",
+    "category": "DevOps",
     "sector": "DevOps & Infrastructure",
     "country": "Worldwide",
     "description": "Agentless automation tool for configuration management, application deployment and orchestration.",
@@ -5609,7 +5609,7 @@
   {
     "name": "Chainlink",
     "url": "https://chain.link/",
-    "category": "Technology",
+    "category": "Blockchain",
     "sector": "Blockchain & Web3",
     "country": "Worldwide",
     "description": "Decentralized oracle network that connects smart contracts with real-world data and external APIs.",
@@ -5636,7 +5636,7 @@
   {
     "name": "Docker",
     "url": "https://www.docker.com/",
-    "category": "Technology",
+    "category": "Container",
     "sector": "DevOps & Infrastructure",
     "country": "Worldwide",
     "description": "Platform for developing, shipping, and running containerized applications.",
@@ -5645,7 +5645,7 @@
   {
     "name": "Ethereum",
     "url": "https://ethereum.org/",
-    "category": "Technology",
+    "category": "Blockchain",
     "sector": "Blockchain & Web3",
     "country": "Worldwide",
     "description": "Decentralized platform for smart contracts and decentralized applications (dApps).",
@@ -5654,7 +5654,7 @@
   {
     "name": "Flutter",
     "url": "https://flutter.dev/",
-    "category": "Technology",
+    "category": "Mobile",
     "sector": "Web & Mobile",
     "country": "Worldwide",
     "description": "UI toolkit for building natively compiled applications for mobile, web and desktop from a single codebase.",
@@ -5672,7 +5672,7 @@
   {
     "name": "IPFS",
     "url": "https://ipfs.io/",
-    "category": "Technology",
+    "category": "Blockchain",
     "sector": "Blockchain & Web3",
     "country": "Worldwide",
     "description": "InterPlanetary File System — a peer-to-peer protocol for storing and sharing hypermedia in a distributed file system.",
@@ -5699,7 +5699,7 @@
   {
     "name": "OpenSSL",
     "url": "https://www.openssl.org/",
-    "category": "Technology",
+    "category": "Security",
     "sector": "Cybersecurity",
     "country": "Worldwide",
     "description": "Toolkit implementing the Secure Sockets Layer (SSL) and Transport Layer Security (TLS) protocols.",
@@ -5717,7 +5717,7 @@
   {
     "name": "OSQuery",
     "url": "https://osquery.io/",
-    "category": "Technology",
+    "category": "Monitoring",
     "sector": "Cybersecurity",
     "country": "Worldwide",
     "description": "SQL-powered operating system instrumentation, monitoring and analytics tool.",
@@ -5726,7 +5726,7 @@
   {
     "name": "Prometheus",
     "url": "https://prometheus.io/",
-    "category": "Technology",
+    "category": "Monitoring",
     "sector": "DevOps & Infrastructure",
     "country": "Worldwide",
     "description": "Open-source systems monitoring and alerting toolkit.",
@@ -5744,7 +5744,7 @@
   {
     "name": "React Native",
     "url": "https://reactnative.dev/",
-    "category": "Technology",
+    "category": "Mobile",
     "sector": "Web & Mobile",
     "country": "Worldwide",
     "description": "Framework for building native mobile apps using React.",
@@ -5780,7 +5780,7 @@
   {
     "name": "Snort",
     "url": "https://www.snort.org/",
-    "category": "Technology",
+    "category": "Security",
     "sector": "Cybersecurity",
     "country": "Worldwide",
     "description": "Open-source network intrusion detection and prevention system (IDS/IPS).",
@@ -5816,1243 +5816,10 @@
   {
     "name": "Wireshark",
     "url": "https://www.wireshark.org/",
-    "category": "Technology",
+    "category": "Security",
     "sector": "Cybersecurity",
     "country": "Worldwide",
     "description": "Network protocol analyzer used for troubleshooting, analysis and education.",
-    "popular": false
-  },
-  {
-    "name": "\"2. Pré-requis et recommandations\"",
-    "url": "https://docs-en.ametys.org/en/ametys-v4/installation-and-operation-manual/pre-requis-et-recommandations.html",
-    "category": "Tool",
-    "sector": "",
-    "country": "",
-    "description": "Low-level systems programming language",
-    "popular": false
-  },
-  {
-    "name": "\"2.0:admin:install - Dotclear Documentation\"",
-    "url": "https://dotclear.org/documentation/2.0/admin/install#prerequisites",
-    "category": "Tool",
-    "sector": "",
-    "country": "",
-    "description": "Low-level systems programming language",
-    "popular": false
-  },
-  {
-    "name": "\"3D-Calc\"",
-    "url": "https://www.med-calc.com/legacysoftware/3dcalc",
-    "category": "Tool",
-    "sector": "",
-    "country": "",
-    "description": "Low-level systems programming language",
-    "popular": false
-  },
-  {
-    "name": "\"482387 – Add arm and aarch64 source only fragments\"",
-    "url": "https://bugs.eclipse.org/bugs/show_bug.cgi?id=482387",
-    "category": "Tool",
-    "sector": "",
-    "country": "",
-    "description": "Low-level systems programming language",
-    "popular": false
-  },
-  {
-    "name": "\"Account for Your Time\"",
-    "url": "http://www.project.net/project-time-tracking",
-    "category": "Tool",
-    "sector": "",
-    "country": "",
-    "description": "Low-level systems programming language",
-    "popular": false
-  },
-  {
-    "name": "\"Alfresco Docs - Configure databases\"",
-    "url": "https://docs.alfresco.com/content-services/7.0/config/databases/",
-    "category": "Tool",
-    "sector": "",
-    "country": "",
-    "description": "Low-level systems programming language",
-    "popular": false
-  },
-  {
-    "name": "\"Analytics & Dashboards - Real Estate & Workplace Solutions\"",
-    "url": "http://realestate.trimble.com/en-am/product/module/analytics-dashboards",
-    "category": "Tool",
-    "sector": "",
-    "country": "",
-    "description": "Low-level systems programming language",
-    "popular": false
-  },
-  {
-    "name": "\"Apps/Gedit - GNOME Wiki!\"",
-    "url": "http://projects.gnome.org/gedit/",
-    "category": "Tool",
-    "sector": "",
-    "country": "",
-    "description": "Systems programming language",
-    "popular": false
-  },
-  {
-    "name": "\"Apps:mousepad:start [Xfce Docs]\"",
-    "url": "https://docs.xfce.org/apps/mousepad/start",
-    "category": "Tool",
-    "sector": "",
-    "country": "",
-    "description": "Low-level systems programming language",
-    "popular": false
-  },
-  {
-    "name": "\"Basecamp 2 Help\"",
-    "url": "https://basecamp.com/help/faq#tech-requirements",
-    "category": "Tool",
-    "sector": "",
-    "country": "",
-    "description": "Low-level systems programming language",
-    "popular": false
-  },
-  {
-    "name": "\"Bloomreach Experience Manager 14 System Requirements - Bloomreach Experience Manager - The Fast and Flexible Headless CMS\"",
-    "url": "https://documentation.bloomreach.com/14/library/about/system-requirements.html",
-    "category": "Tool",
-    "sector": "",
-    "country": "",
-    "description": "Low-level systems programming language",
-    "popular": false
-  },
-  {
-    "name": "\"BSD License » SilverStripe\"",
-    "url": "https://www.silverstripe.org/software/bsd-license/",
-    "category": "Tool",
-    "sector": "",
-    "country": "",
-    "description": "Low-level systems programming language",
-    "popular": false
-  },
-  {
-    "name": "\"Collaborative online office solutions\"",
-    "url": "https://www.admin-magazine.com/Articles/Collaborative-online-office-solutions",
-    "category": "Tool",
-    "sector": "",
-    "country": "",
-    "description": "Low-level systems programming language",
-    "popular": false
-  },
-  {
-    "name": "\"Composr Tutorial: Basic Installation\"",
-    "url": "https://compo.sr/docs/tut-install.htm",
-    "category": "Tool",
-    "sector": "",
-    "country": "",
-    "description": "Low-level systems programming language",
-    "popular": false
-  },
-  {
-    "name": "\"Configuration - Adapt your publication to suit your needs\"",
-    "url": "https://ghost.org/docs/config/",
-    "category": "Tool",
-    "sector": "",
-    "country": "",
-    "description": "Low-level systems programming language",
-    "popular": false
-  },
-  {
-    "name": "\"ContentBox Modular CMS\"",
-    "url": "https://www.ortussolutions.com/products/contentbox",
-    "category": "Tool",
-    "sector": "",
-    "country": "",
-    "description": "Low-level systems programming language",
-    "popular": false
-  },
-  {
-    "name": "\"Database configuration | Strapi 5 Documentation\"",
-    "url": "https://docs.strapi.io/cms/configurations/database",
-    "category": "Tool",
-    "sector": "",
-    "country": "",
-    "description": "Low-level systems programming language",
-    "popular": false
-  },
-  {
-    "name": "\"Database Configuration\"",
-    "url": "https://doc.nuxeo.com/nxdoc/database-configuration/",
-    "category": "Tool",
-    "sector": "",
-    "country": "",
-    "description": "Low-level systems programming language",
-    "popular": false
-  },
-  {
-    "name": "\"Database Support Strategy (Community.SupportStrategy.DatabaseSupportStrategy) - XWiki\"",
-    "url": "https://dev.xwiki.org/xwiki/bin/view/Community/SupportStrategy/DatabaseSupportStrategy",
-    "category": "Tool",
-    "sector": "",
-    "country": "",
-    "description": "Low-level systems programming language",
-    "popular": false
-  },
-  {
-    "name": "\"Database\"",
-    "url": "https://docs.openkm.com/kcenter/view/okm-6.3-com/database.html",
-    "category": "Tool",
-    "sector": "",
-    "country": "",
-    "description": "Systems programming language",
-    "popular": false
-  },
-  {
-    "name": "\"Database: Getting Started - Laravel - The PHP Framework For Web Artisans\"",
-    "url": "https://laravel.com/docs/8.x/database",
-    "category": "Tool",
-    "sector": "",
-    "country": "",
-    "description": "Server-side scripting for web development",
-    "popular": false
-  },
-  {
-    "name": "\"Databases - Django documentation - Django\"",
-    "url": "https://docs.djangoproject.com/en/4.0/ref/databases/",
-    "category": "Tool",
-    "sector": "",
-    "country": "",
-    "description": "Low-level systems programming language",
-    "popular": false
-  },
-  {
-    "name": "\"Debugging · Juno Documentation\"",
-    "url": "http://docs.junolab.org/latest/man/debugging/#Debugging",
-    "category": "Tool",
-    "sector": "",
-    "country": "",
-    "description": "Low-level systems programming language",
-    "popular": false
-  },
-  {
-    "name": "\"DNN Platform Requirements -- DNN Docs\"",
-    "url": "https://docs.dnncommunity.org/content/getting-started/setup/requirements/index.html",
-    "category": "Tool",
-    "sector": "",
-    "country": "",
-    "description": "Low-level systems programming language",
-    "popular": false
-  },
-  {
-    "name": "\"Download TWiki\"",
-    "url": "https://twiki.org/cgi-bin/view/Codev/DownloadTWiki",
-    "category": "Tool",
-    "sector": "",
-    "country": "",
-    "description": "Systems programming language",
-    "popular": false
-  },
-  {
-    "name": "\"Download TYPO3\"",
-    "url": "https://get.typo3.org/",
-    "category": "Tool",
-    "sector": "",
-    "country": "",
-    "description": "Systems programming language",
-    "popular": false
-  },
-  {
-    "name": "\"Download Visual Studio Code - Mac, Linux, Windows\"",
-    "url": "https://code.visualstudio.com/Download",
-    "category": "Tool",
-    "sector": "",
-    "country": "",
-    "description": "Low-level systems programming language",
-    "popular": false
-  },
-  {
-    "name": "\"Download :: Concrete CMS - Org\"",
-    "url": "https://www.concretecms.org/download",
-    "category": "Tool",
-    "sector": "",
-    "country": "",
-    "description": "Low-level systems programming language",
-    "popular": false
-  },
-  {
-    "name": "\"Easy Projects Rating\"",
-    "url": "https://archive.today/20130205222605/http://product-management-software.venturebeat.com/l/11/EasyProjects-net",
-    "category": "Tool",
-    "sector": "",
-    "country": "",
-    "description": "Low-level systems programming language",
-    "popular": false
-  },
-  {
-    "name": "\"Eclipse CDT webpage\"",
-    "url": "http://www.eclipse.org/cdt/",
-    "category": "Tool",
-    "sector": "",
-    "country": "",
-    "description": "Low-level systems programming language",
-    "popular": false
-  },
-  {
-    "name": "\"Eclipse LinuxTools integration of OProfile\"",
-    "url": "http://wiki.eclipse.org/Linux_Tools_Project/OProfile/User_Guide",
-    "category": "Tool",
-    "sector": "",
-    "country": "",
-    "description": "Low-level systems programming language",
-    "popular": false
-  },
-  {
-    "name": "\"Edit Python code - Visual Studio (Windows)\"",
-    "url": "https://docs.microsoft.com/en-us/visualstudio/python/editing-python-code-in-visual-studio",
-    "category": "Tool",
-    "sector": "",
-    "country": "",
-    "description": "High-level, general-purpose programming language",
-    "popular": false
-  },
-  {
-    "name": "\"Embarcadero Delphi Product Page\"",
-    "url": "https://www.embarcadero.com/products/Delphi",
-    "category": "Tool",
-    "sector": "",
-    "country": "",
-    "description": "Low-level systems programming language",
-    "popular": false
-  },
-  {
-    "name": "\"eric news 2010\"",
-    "url": "http://eric-ide.python-projects.org/eric-news-2010.html",
-    "category": "Tool",
-    "sector": "",
-    "country": "",
-    "description": "Low-level systems programming language",
-    "popular": false
-  },
-  {
-    "name": "\"eric news 2014\"",
-    "url": "http://eric-ide.python-projects.org/eric-news-2014.html",
-    "category": "Tool",
-    "sector": "",
-    "country": "",
-    "description": "Low-level systems programming language",
-    "popular": false
-  },
-  {
-    "name": "\"Exchange project data\"",
-    "url": "https://www.conceptdraw.com/solution-park/collaboration-project-exchange",
-    "category": "Tool",
-    "sector": "",
-    "country": "",
-    "description": "Low-level systems programming language",
-    "popular": false
-  },
-  {
-    "name": "\"Expense Tracking Software\"",
-    "url": "https://www.projectmanager.com/training/how-to-track-project-expenses",
-    "category": "Tool",
-    "sector": "",
-    "country": "",
-    "description": "Low-level systems programming language",
-    "popular": false
-  },
-  {
-    "name": "\"Features – Rider\"",
-    "url": "https://www.jetbrains.com/rider/features/",
-    "category": "Tool",
-    "sector": "",
-    "country": "",
-    "description": "Statistical computing and graphics language",
-    "popular": false
-  },
-  {
-    "name": "\"Forest: Structural Code Editing with Multiple Cursors\"",
-    "url": "https://doi.org/10.1145/3563835.3567663",
-    "category": "Tool",
-    "sector": "",
-    "country": "",
-    "description": "Low-level systems programming language",
-    "popular": false
-  },
-  {
-    "name": "\"Geeklog Documentation - Installation Instructions\"",
-    "url": "https://www.geeklog.net/docs/english/install.html#installation_requirements",
-    "category": "Tool",
-    "sector": "",
-    "country": "",
-    "description": "Low-level systems programming language",
-    "popular": false
-  },
-  {
-    "name": "\"Geeklog v2.2.2\"",
-    "url": "https://www.geeklog.net/article.php/geeklog-v2-2-2",
-    "category": "Tool",
-    "sector": "",
-    "country": "",
-    "description": "Simple, fast compiled language",
-    "popular": false
-  },
-  {
-    "name": "\"Getting Started - AlchemyCMS Guides\"",
-    "url": "https://guides.alchemy-cms.com/getting_started.html#prerequisites",
-    "category": "Tool",
-    "sector": "",
-    "country": "",
-    "description": "Low-level systems programming language",
-    "popular": false
-  },
-  {
-    "name": "\"Guide for New Developers - Fedora Repository - LYRASIS Wiki\"",
-    "url": "https://wiki.lyrasis.org/display/FF/Guide+for+New+Developers#GuideforNewDevelopers-RunningintegrationtestsagainstdifferentDBs",
-    "category": "Tool",
-    "sector": "",
-    "country": "",
-    "description": "Statistical computing and graphics language",
-    "popular": false
-  },
-  {
-    "name": "\"Home > Downloads > CMSimple\"",
-    "url": "https://www.cmsimple.org/?Downloads___ChangeLog",
-    "category": "Tool",
-    "sector": "",
-    "country": "",
-    "description": "Low-level systems programming language",
-    "popular": false
-  },
-  {
-    "name": "\"Hosting Requirements - mojoPortal\"",
-    "url": "https://www.mojoportal.com/hosting-requirements",
-    "category": "Tool",
-    "sector": "",
-    "country": "",
-    "description": "Statistical computing and graphics language",
-    "popular": false
-  },
-  {
-    "name": "\"How to Create a Multi-Project Schedule\"",
-    "url": "https://www.conceptdraw.com/helpdesk/how-to-create-multi-project-schedule-win",
-    "category": "Tool",
-    "sector": "",
-    "country": "",
-    "description": "Low-level systems programming language",
-    "popular": false
-  },
-  {
-    "name": "\"How to install ProcessWire CMS\"",
-    "url": "https://processwire.com/docs/start/install/new/#requirements",
-    "category": "Tool",
-    "sector": "",
-    "country": "",
-    "description": "Low-level systems programming language",
-    "popular": false
-  },
-  {
-    "name": "\"How to Shift Dates in project\"",
-    "url": "https://www.conceptdraw.com/helpdesk/how-to-easy-shift-dates-in-project",
-    "category": "Tool",
-    "sector": "",
-    "country": "",
-    "description": "Low-level systems programming language",
-    "popular": false
-  },
-  {
-    "name": "\"Installation\"",
-    "url": "http://docs.microweber.com/guides/installation.md",
-    "category": "Tool",
-    "sector": "",
-    "country": "",
-    "description": "Prototype-based language",
-    "popular": false
-  },
-  {
-    "name": "\"Installing DSpace - DSpace 7.x Documentation - LYRASIS Wiki\"",
-    "url": "https://wiki.lyrasis.org/display/DSDOC7x/Installing+DSpace#InstallingDSpace-BackendRequirements",
-    "category": "Tool",
-    "sector": "",
-    "country": "",
-    "description": "Low-level systems programming language",
-    "popular": false
-  },
-  {
-    "name": "\"Installing Textpattern\"",
-    "url": "https://docs.textpattern.com/setup/installing-the-software",
-    "category": "Tool",
-    "sector": "",
-    "country": "",
-    "description": "Statistical computing and graphics language",
-    "popular": false
-  },
-  {
-    "name": "\"Java Headless CMS Built on Java Technology\"",
-    "url": "https://dotcms.com/product/technology/",
-    "category": "Tool",
-    "sector": "",
-    "country": "",
-    "description": "Object-oriented language for enterprise apps",
-    "popular": false
-  },
-  {
-    "name": "\"Juno\"",
-    "url": "https://github.com/JunoLab",
-    "category": "Tool",
-    "sector": "",
-    "country": "",
-    "description": "Array programming language",
-    "popular": false
-  },
-  {
-    "name": "\"Leafpad\"",
-    "url": "http://lxde.org/lxde",
-    "category": "Tool",
-    "sector": "",
-    "country": "",
-    "description": "Systems programming language",
-    "popular": false
-  },
-  {
-    "name": "\"LTS 2023.19 / LTS 2023-HF19\"",
-    "url": "https://doc.nuxeo.com/nxdoc/nuxeo-server-release-notes-2023-19/",
-    "category": "Tool",
-    "sector": "",
-    "country": "",
-    "description": "",
-    "popular": false
-  },
-  {
-    "name": "\"Mac Basics: TextEdit\"",
-    "url": "http://support.apple.com/kb/ht2523",
-    "category": "Tool",
-    "sector": "",
-    "country": "",
-    "description": "Low-level systems programming language",
-    "popular": false
-  },
-  {
-    "name": "\"Magento 2.4 system requirements - Magento 2 Developer Documentation\"",
-    "url": "https://devdocs.magento.com/guides/v2.4/install-gde/system-requirements.html",
-    "category": "Tool",
-    "sector": "",
-    "country": "",
-    "description": "Low-level systems programming language",
-    "popular": false
-  },
-  {
-    "name": "\"Magnolia CMS Documentation\"",
-    "url": "https://docs.magnolia-cms.com/product-docs/administration/certified-stack/",
-    "category": "Tool",
-    "sector": "",
-    "country": "",
-    "description": "Low-level systems programming language",
-    "popular": false
-  },
-  {
-    "name": "\"Mantis Bug Tracker\"",
-    "url": "https://www.mantisbt.org/",
-    "category": "Tool",
-    "sector": "",
-    "country": "",
-    "description": "Low-level systems programming language",
-    "popular": false
-  },
-  {
-    "name": "\"Manual:Installation requirements\"",
-    "url": "https://www.mediawiki.org/wiki/Manual:Installation_requirements#Database_server",
-    "category": "Tool",
-    "sector": "",
-    "country": "",
-    "description": "Statistical computing and graphics language",
-    "popular": false
-  },
-  {
-    "name": "\"mojoPortal 2.9\"",
-    "url": "https://www.mojoportal.com/blog",
-    "category": "Tool",
-    "sector": "",
-    "country": "",
-    "description": "Statistical computing and graphics language",
-    "popular": false
-  },
-  {
-    "name": "\"MovableType.org – Documentation: System Requirements\"",
-    "url": "https://movabletype.org/documentation/system-requirements.html#database-requirements",
-    "category": "Tool",
-    "sector": "",
-    "country": "",
-    "description": "Low-level systems programming language",
-    "popular": false
-  },
-  {
-    "name": "\"Nucleus CMS: Pure Publishing\"",
-    "url": "http://nucleuscms.org/index.php?itemid=3060",
-    "category": "Tool",
-    "sector": "",
-    "country": "",
-    "description": "Low-level systems programming language",
-    "popular": false
-  },
-  {
-    "name": "\"omeka/omeka-s\"",
-    "url": "https://github.com/omeka/omeka-s",
-    "category": "Tool",
-    "sector": "",
-    "country": "",
-    "description": "Capability-based language",
-    "popular": false
-  },
-  {
-    "name": "\"OpenKM cloud document management\"",
-    "url": "https://www.openkm.com/en/cloud-document-management-system.html",
-    "category": "Tool",
-    "sector": "",
-    "country": "",
-    "description": "Low-level systems programming language",
-    "popular": false
-  },
-  {
-    "name": "\"OpenKM cloud enterprise edition\"",
-    "url": "https://docs.openkm.com/kcenter/view/okm-6.4/",
-    "category": "Tool",
-    "sector": "",
-    "country": "",
-    "description": "Low-level systems programming language",
-    "popular": false
-  },
-  {
-    "name": "\"OpenKM community edition versions\"",
-    "url": "https://docs.openkm.com/kcenter/view/okm-6.3-com/changelog.html",
-    "category": "Tool",
-    "sector": "",
-    "country": "",
-    "description": "Low-level systems programming language",
-    "popular": false
-  },
-  {
-    "name": "\"OpenProject Reporting Plugin\"",
-    "url": "https://github.com/finnlabs/openproject-reporting",
-    "category": "Tool",
-    "sector": "",
-    "country": "",
-    "description": "Low-level systems programming language",
-    "popular": false
-  },
-  {
-    "name": "\"OpenWGA 7.10 - OpenWGA Concepts and Features - Platforms\"",
-    "url": "https://doc.openwga.com/doc-wga710/html/default/ff808081376f81540137742e89d114a1.int.html",
-    "category": "Tool",
-    "sector": "",
-    "country": "",
-    "description": "Low-level systems programming language",
-    "popular": false
-  },
-  {
-    "name": "\"Pelles C Download\"",
-    "url": "http://www.smorgasbordet.com/pellesc/download.htm",
-    "category": "Tool",
-    "sector": "",
-    "country": "",
-    "description": "Low-level systems programming language",
-    "popular": false
-  },
-  {
-    "name": "\"Performance – Wagtail Documentation 6.3.1 documentation\"",
-    "url": "https://docs.wagtail.org/en/stable/advanced_topics/performance.html#database",
-    "category": "Tool",
-    "sector": "",
-    "country": "",
-    "description": "Low-level systems programming language",
-    "popular": false
-  },
-  {
-    "name": "\"Perl - IntelliJ IDEs Plugin | Marketplace\"",
-    "url": "https://plugins.jetbrains.com/plugin/7796-perl",
-    "category": "Tool",
-    "sector": "",
-    "country": "",
-    "description": "High-level text processing language",
-    "popular": false
-  },
-  {
-    "name": "\"Peygir Project and Team Management System\"",
-    "url": "https://peygir.com/",
-    "category": "Tool",
-    "sector": "",
-    "country": "",
-    "description": "Low-level systems programming language",
-    "popular": false
-  },
-  {
-    "name": "\"phirecms/phirecms: Phire CMS\"",
-    "url": "https://github.com/phirecms/phirecms",
-    "category": "Tool",
-    "sector": "",
-    "country": "",
-    "description": "Low-level systems programming language",
-    "popular": false
-  },
-  {
-    "name": "\"Phprojekt - Project management software\"",
-    "url": "https://www.123-reg.co.uk/web-hosting/free-123-apps/phprojekt.shtml",
-    "category": "Tool",
-    "sector": "",
-    "country": "",
-    "description": "Low-level systems programming language",
-    "popular": false
-  },
-  {
-    "name": "\"PhpWiki\"",
-    "url": "https://sourceforge.net/projects/phpwiki/",
-    "category": "Tool",
-    "sector": "",
-    "country": "",
-    "description": "Server-side scripting for web development",
-    "popular": false
-  },
-  {
-    "name": "\"Planio — Simple Web-Based Project Management\"",
-    "url": "https://plan.io/pricing/",
-    "category": "Tool",
-    "sector": "",
-    "country": "",
-    "description": "Low-level systems programming language",
-    "popular": false
-  },
-  {
-    "name": "\"PmWiki - Cookbook / SQLite PageStore class\"",
-    "url": "http://www.pmwiki.org/wiki/Cookbook/SQLite",
-    "category": "Tool",
-    "sector": "",
-    "country": "",
-    "description": "Low-level systems programming language",
-    "popular": false
-  },
-  {
-    "name": "\"PmWiki - PmWiki / FlatFileAdvantages\"",
-    "url": "http://www.pmwiki.org/wiki/PmWiki/FlatFileAdvantages",
-    "category": "Tool",
-    "sector": "",
-    "country": "",
-    "description": "Systems programming language",
-    "popular": false
-  },
-  {
-    "name": "\"Practical cost management with Twproject\"",
-    "url": "https://archive.today/20130604085514/http://blog.twproject.com/2013/06/03/practical-project-cost-management-with-teamwork/",
-    "category": "Tool",
-    "sector": "",
-    "country": "",
-    "description": "Low-level systems programming language",
-    "popular": false
-  },
-  {
-    "name": "\"Prepare the Database (optional)\"",
-    "url": "https://docs.logicaldoc.com/en/installation/install-on-windows/prepare-the-database-windows",
-    "category": "Tool",
-    "sector": "",
-    "country": "",
-    "description": "Statistical computing and graphics language",
-    "popular": false
-  },
-  {
-    "name": "\"Prerequisite Software\"",
-    "url": "https://openacs.org/doc/individual-programs",
-    "category": "Tool",
-    "sector": "",
-    "country": "",
-    "description": "Statistical computing and graphics language",
-    "popular": false
-  },
-  {
-    "name": "\"Prerequisites and system requirements\"",
-    "url": "https://academy.jahia.com/documentation/system-administrator/jahia/8/installing-and-configuring-jahia/installing-configuring-and-troubleshooting-jahia/prerequisites-and-system-requirements",
-    "category": "Tool",
-    "sector": "",
-    "country": "",
-    "description": "Statistical computing and graphics language",
-    "popular": false
-  },
-  {
-    "name": "\"Products\"",
-    "url": "http://www.projectlibre.org/products#block-projectlibre-enterprise",
-    "category": "Tool",
-    "sector": "",
-    "country": "",
-    "description": "Low-level systems programming language",
-    "popular": false
-  },
-  {
-    "name": "\"Project Budget\"",
-    "url": "http://www.projectlibre.org/comment/1808#comment-1808",
-    "category": "Tool",
-    "sector": "",
-    "country": "",
-    "description": "Low-level systems programming language",
-    "popular": false
-  },
-  {
-    "name": "\"Project Management FAQ's\"",
-    "url": "https://www.projectmanager.com/support/faq",
-    "category": "Tool",
-    "sector": "",
-    "country": "",
-    "description": "Low-level systems programming language",
-    "popular": false
-  },
-  {
-    "name": "\"Project Management Software Features\"",
-    "url": "https://www.projectmanager.com/software",
-    "category": "Tool",
-    "sector": "",
-    "country": "",
-    "description": "Low-level systems programming language",
-    "popular": false
-  },
-  {
-    "name": "\"Project Management Tools | Features : Zoho Projects\"",
-    "url": "https://www.zoho.com/projects/features.html",
-    "category": "Tool",
-    "sector": "",
-    "country": "",
-    "description": "Low-level systems programming language",
-    "popular": false
-  },
-  {
-    "name": "\"ProjectLibre:open source replacement of MS Project\"",
-    "url": "http://www.projectsatwork.com/content/tools/275877.cfm",
-    "category": "Tool",
-    "sector": "",
-    "country": "",
-    "description": "Low-level systems programming language",
-    "popular": false
-  },
-  {
-    "name": "\"PureBasic 6.10 LTS\"",
-    "url": "https://www.purebasic.com/news.php",
-    "category": "Tool",
-    "sector": "",
-    "country": "",
-    "description": "Cross-platform BASIC",
-    "popular": false
-  },
-  {
-    "name": "\"Required configuration\"",
-    "url": "https://www.spip.net/en_article6659.html",
-    "category": "Tool",
-    "sector": "",
-    "country": "",
-    "description": "Low-level systems programming language",
-    "popular": false
-  },
-  {
-    "name": "\"Required software - EPrints Documentation\"",
-    "url": "http://wiki.eprints.org/w/Required_software",
-    "category": "Tool",
-    "sector": "",
-    "country": "",
-    "description": "Low-level systems programming language",
-    "popular": false
-  },
-  {
-    "name": "\"Requirements (Ibexa Documentation)\"",
-    "url": "https://doc.ibexa.co/en/latest/getting_started/requirements/",
-    "category": "Tool",
-    "sector": "",
-    "country": "",
-    "description": "Low-level systems programming language",
-    "popular": false
-  },
-  {
-    "name": "\"Requirements - XOOPS Install and Upgrade Guide\"",
-    "url": "https://xoops.gitbook.io/xoops-install-upgrade/installation/requirements",
-    "category": "Tool",
-    "sector": "",
-    "country": "",
-    "description": "Statistical computing and graphics language",
-    "popular": false
-  },
-  {
-    "name": "\"Requirements for Running Exponent CMS\"",
-    "url": "http://docs.exponentcms.org/docs/2.5.1/requirements-running-exponent-cms",
-    "category": "Tool",
-    "sector": "",
-    "country": "",
-    "description": "Low-level systems programming language",
-    "popular": false
-  },
-  {
-    "name": "\"Requirements\"",
-    "url": "https://dotcms.com/docs/latest/requirements",
-    "category": "Tool",
-    "sector": "",
-    "country": "",
-    "description": "Statistical computing and graphics language",
-    "popular": false
-  },
-  {
-    "name": "\"Requirements, Getting Started - Our Umbraco\"",
-    "url": "https://our.umbraco.com/documentation/Getting-Started/Setup/Requirements/",
-    "category": "Tool",
-    "sector": "",
-    "country": "",
-    "description": "Low-level systems programming language",
-    "popular": false
-  },
-  {
-    "name": "\"RubyMine 2018.3.5 is Available!\"",
-    "url": "https://blog.jetbrains.com/ruby/2019/02/rubymine-2018-3-5-is-available/",
-    "category": "Tool",
-    "sector": "",
-    "country": "",
-    "description": "Dynamic, object-oriented scripting language",
-    "popular": false
-  },
-  {
-    "name": "\"s9y/Serendipity\"",
-    "url": "https://github.com/s9y/Serendipity",
-    "category": "Tool",
-    "sector": "",
-    "country": "",
-    "description": "Statistical computing and graphics language",
-    "popular": false
-  },
-  {
-    "name": "\"Scheme In A Grid\"",
-    "url": "http://siag.nu/siag/",
-    "category": "Tool",
-    "sector": "",
-    "country": "",
-    "description": "Minimalist Lisp dialect",
-    "popular": false
-  },
-  {
-    "name": "\"Sciforma 5.0: Project Management Software and Project Portfolio Management Software-Sciforma-Netherlands\"",
-    "url": "http://www.sciforma.com/#",
-    "category": "Tool",
-    "sector": "",
-    "country": "",
-    "description": "Low-level systems programming language",
-    "popular": false
-  },
-  {
-    "name": "\"Scoro API\"",
-    "url": "https://api.scoro.ee/api/",
-    "category": "Tool",
-    "sector": "",
-    "country": "",
-    "description": "Low-level systems programming language",
-    "popular": false
-  },
-  {
-    "name": "\"se7enxweb/ezpublish\"",
-    "url": "https://github.com/se7enxweb/ezpublish",
-    "category": "Tool",
-    "sector": "",
-    "country": "",
-    "description": "Capability-based language",
-    "popular": false
-  },
-  {
-    "name": "\"Server Requirements - The Jamroom Network\"",
-    "url": "https://www.jamroom.net/the-jamroom-network/documentation/getting-started/774/server-requirements",
-    "category": "Tool",
-    "sector": "",
-    "country": "",
-    "description": "Statistical computing and graphics language",
-    "popular": false
-  },
-  {
-    "name": "\"Server Requirements\"",
-    "url": "https://docs.shopware.com/en/migration-en/SystemRequirements",
-    "category": "Tool",
-    "sector": "",
-    "country": "",
-    "description": "Statistical computing and graphics language",
-    "popular": false
-  },
-  {
-    "name": "\"Shopware Community Edition\"",
-    "url": "https://www.shopware.com/en/community/community-edition/",
-    "category": "Tool",
-    "sector": "",
-    "country": "",
-    "description": "Low-level systems programming language",
-    "popular": false
-  },
-  {
-    "name": "\"So Long Textwrangler, Hello BBEdit\"",
-    "url": "https://www.macprices.net/2017/03/06/so-long-textwrangler-hello-bbedit-the-book-mystique-extra",
-    "category": "Tool",
-    "sector": "",
-    "country": "",
-    "description": "Statistical computing and graphics language",
-    "popular": false
-  },
-  {
-    "name": "\"Softaculous\"",
-    "url": "https://www.softaculous.com/apps/cms/Jamroom",
-    "category": "Tool",
-    "sector": "",
-    "country": "",
-    "description": "Low-level systems programming language",
-    "popular": false
-  },
-  {
-    "name": "\"Stable Download\"",
-    "url": "https://www.silverstripe.org/download",
-    "category": "Tool",
-    "sector": "",
-    "country": "",
-    "description": "Systems programming language",
-    "popular": false
-  },
-  {
-    "name": "\"Sunsetting Atom\"",
-    "url": "https://github.blog/news-insights/product-news/sunsetting-atom/",
-    "category": "Tool",
-    "sector": "",
-    "country": "",
-    "description": "Capability-based language",
-    "popular": false
-  },
-  {
-    "name": "\"System 2.0 (4.1/5.5) 800K Disk Contents (9/93)\"",
-    "url": "http://support.apple.com/kb/TA30234",
-    "category": "Tool",
-    "sector": "",
-    "country": "",
-    "description": "Low-level systems programming language",
-    "popular": false
-  },
-  {
-    "name": "\"System Requirements - Known Documentation\"",
-    "url": "http://docs.withknown.com/en/latest/install/requirements/",
-    "category": "Tool",
-    "sector": "",
-    "country": "",
-    "description": "Low-level systems programming language",
-    "popular": false
-  },
-  {
-    "name": "\"System Requirements - OpenCart Documentation\"",
-    "url": "https://docs.opencart.com/en-gb/requirements/",
-    "category": "Tool",
-    "sector": "",
-    "country": "",
-    "description": "Low-level systems programming language",
-    "popular": false
-  },
-  {
-    "name": "\"System Requirements - Pimcore\"",
-    "url": "https://pimcore.com/docs/pimcore/current/Development_Documentation/Installation_and_Upgrade/System_Requirements.html",
-    "category": "Tool",
-    "sector": "",
-    "country": "",
-    "description": "Low-level systems programming language",
-    "popular": false
-  },
-  {
-    "name": "\"System requirements for PrestaShop 8\"",
-    "url": "https://devdocs.prestashop-project.org/8/basics/installation/system-requirements/",
-    "category": "Tool",
-    "sector": "",
-    "country": "",
-    "description": "Statistical computing and graphics language",
-    "popular": false
-  },
-  {
-    "name": "\"System requirements\"",
-    "url": "http://b2evolution.net/man/system-requirements",
-    "category": "Tool",
-    "sector": "",
-    "country": "",
-    "description": "Statistical computing and graphics language",
-    "popular": false
-  },
-  {
-    "name": "\"Take control over your blog!\"",
-    "url": "https://dotclear.org/",
-    "category": "Tool",
-    "sector": "",
-    "country": "",
-    "description": "Low-level systems programming language",
-    "popular": false
-  },
-  {
-    "name": "\"Technical Requirements - Joomla! Programmers Documentation\"",
-    "url": "https://manual.joomla.org/docs/next/get-started/technical-requirements",
-    "category": "Tool",
-    "sector": "",
-    "country": "",
-    "description": "Low-level systems programming language",
-    "popular": false
-  },
-  {
-    "name": "\"Technology & system requirements\"",
-    "url": "https://docs.nopcommerce.com/en/installation-and-upgrading/technology-and-system-requirements.html",
-    "category": "Tool",
-    "sector": "",
-    "country": "",
-    "description": "Low-level systems programming language",
-    "popular": false
-  },
-  {
-    "name": "\"Terms and Conditions\"",
-    "url": "https://www.spip.net/en_article129.html",
-    "category": "Tool",
-    "sector": "",
-    "country": "",
-    "description": "Low-level systems programming language",
-    "popular": false
-  },
-  {
-    "name": "\"Tested software versions\"",
-    "url": "https://documentation.opencms.org/opencms-documentation/server-installation/tested-software-versions/index.html",
-    "category": "Tool",
-    "sector": "",
-    "country": "",
-    "description": "Statistical computing and graphics language",
-    "popular": false
-  },
-  {
-    "name": "\"Textadept\"",
-    "url": "https://orbitalquark.github.io/textadept",
-    "category": "Tool",
-    "sector": "",
-    "country": "",
-    "description": "Systems programming language",
-    "popular": false
-  },
-  {
-    "name": "\"TextWrangler\"",
-    "url": "http://www.barebones.com/products/textwrangler",
-    "category": "Tool",
-    "sector": "",
-    "country": "",
-    "description": "Statistical computing and graphics language",
-    "popular": false
-  },
-  {
-    "name": "\"The 7 Most Popular Online Project Management Tools\"",
-    "url": "https://www.dynamicwp.net/articles-and-tutorials/popular-online-project-management-tools/",
-    "category": "Tool",
-    "sector": "",
-    "country": "",
-    "description": "Low-level systems programming language",
-    "popular": false
-  },
-  {
-    "name": "\"The Juno.jl Front-End · Juno Documentation\"",
-    "url": "http://docs.junolab.org/latest/man/juno_frontend/#Profiler",
-    "category": "Tool",
-    "sector": "",
-    "country": "",
-    "description": "Low-level systems programming language",
-    "popular": false
-  },
-  {
-    "name": "\"The MoinMoin Wiki Engine\"",
-    "url": "https://moinmo.in",
-    "category": "Tool",
-    "sector": "",
-    "country": "",
-    "description": "Capability-based language",
-    "popular": false
-  },
-  {
-    "name": "\"Track Project Plan vs. the Actuals\"",
-    "url": "https://www.conceptdraw.com/helpdesk/how-to-track-project-plan",
-    "category": "Tool",
-    "sector": "",
-    "country": "",
-    "description": "Low-level systems programming language",
-    "popular": false
-  },
-  {
-    "name": "\"Télécharger Ametys Portail\"",
-    "url": "https://www.ametys.org/community/fr/telecharger/ametys-portail/ametys-4.html",
-    "category": "Tool",
-    "sector": "",
-    "country": "",
-    "description": "Low-level systems programming language",
-    "popular": false
-  },
-  {
-    "name": "\"Use F# on Windows\"",
-    "url": "https://fsharp.org/use/windows/",
-    "category": "Tool",
-    "sector": "",
-    "country": "",
-    "description": "Functional-first language on .NET",
-    "popular": false
-  },
-  {
-    "name": "\"Using Docker - Orchard Core Documentation\"",
-    "url": "https://docs.orchardcore.net/en/latest/docs/topics/docker/#docker-compose",
-    "category": "Tool",
-    "sector": "",
-    "country": "",
-    "description": "Low-level systems programming language",
-    "popular": true
-  },
-  {
-    "name": "\"Version 25.03\"",
-    "url": "https://www.codeblocks.org/changelogs/25.03/",
-    "category": "Tool",
-    "sector": "",
-    "country": "",
-    "description": "Statistical computing and graphics language",
-    "popular": false
-  },
-  {
-    "name": "\"vi\"",
-    "url": "https://ex-vi.sourceforge.net/",
-    "category": "Tool",
-    "sector": "",
-    "country": "",
-    "description": "Event-driven language by Microsoft",
-    "popular": false
-  },
-  {
-    "name": "\"WebStorm 2019.1: smart intentions for JavaScript, improvements in Angular support, updated CSS and HTML docs, and new debug console\"",
-    "url": "https://blog.jetbrains.com/webstorm/2019/03/webstorm-2019-1/",
-    "category": "Tool",
-    "sector": "",
-    "country": "",
-    "description": "Dynamic language for web development",
-    "popular": false
-  },
-  {
-    "name": "\"Welcome\"",
-    "url": "https://web2project.net/",
-    "category": "Tool",
-    "sector": "",
-    "country": "",
-    "description": "Low-level systems programming language",
-    "popular": false
-  },
-  {
-    "name": "\"Working with project cost\"",
-    "url": "https://www.conceptdraw.com/How-To-Guide/video-working-with-costs",
-    "category": "Tool",
-    "sector": "",
-    "country": "",
-    "description": "Low-level systems programming language",
-    "popular": false
-  },
-  {
-    "name": "\"Xamarin now free in Visual Studio\"",
-    "url": "https://arstechnica.com/information-technology/2016/03/xamarin-now-free-in-visual-studio/",
-    "category": "Tool",
-    "sector": "",
-    "country": "",
-    "description": "Statistical computing and graphics language",
-    "popular": false
-  },
-  {
-    "name": "\"À propos de nous - nopCommerce\"",
-    "url": "https://www.nopcommerce.com/fr/about-us",
-    "category": "Tool",
-    "sector": "",
-    "country": "",
-    "description": "Low-level systems programming language",
     "popular": false
   },
   {
@@ -7062,15 +5829,6 @@
     "sector": "",
     "country": "",
     "description": "Capability-based language",
-    "popular": false
-  },
-  {
-    "name": "10.1145/3563835.3567663",
-    "url": "https://doi.org/10.1145%2F3563835.3567663",
-    "category": "Tool",
-    "sector": "",
-    "country": "",
-    "description": "",
     "popular": false
   },
   {
@@ -7157,7 +5915,7 @@
   {
     "name": "Adobe Experience Manager",
     "url": "https://www.adobe.com/experience-cloud.html",
-    "category": "Tool",
+    "category": "CMS",
     "sector": "",
     "country": "",
     "description": "Low-level systems programming language",
@@ -7211,7 +5969,7 @@
   {
     "name": "Airtable",
     "url": "https://airtable.com/",
-    "category": "Tool",
+    "category": "Low-Code",
     "sector": "SaaS",
     "country": "United States",
     "description": "Spreadsheet-database hybrid for building collaborative apps and workflows.",
@@ -7319,7 +6077,7 @@
   {
     "name": "Android Studio",
     "url": "https://developer.android.com/studio",
-    "category": "Tool",
+    "category": "IDE/Editor",
     "sector": "",
     "country": "",
     "description": "Statistical computing and graphics language",
@@ -7571,7 +6329,7 @@
   {
     "name": "Atom",
     "url": "https://atom.io",
-    "category": "Tool",
+    "category": "IDE/Editor",
     "sector": "",
     "country": "",
     "description": "",
@@ -7823,7 +6581,7 @@
   {
     "name": "Brackets",
     "url": "http://brackets.io/",
-    "category": "Tool",
+    "category": "IDE/Editor",
     "sector": "",
     "country": "",
     "description": "Low-level systems programming language",
@@ -8237,7 +6995,7 @@
   {
     "name": "Coda",
     "url": "https://coda.io/",
-    "category": "Tool",
+    "category": "Low-Code",
     "sector": "",
     "country": "",
     "description": "Low-level systems programming language",
@@ -8264,15 +7022,6 @@
   {
     "name": "Code refactoring",
     "url": "http://c2.com/cgi/wiki?WhatIsRefactoring",
-    "category": "Tool",
-    "sector": "",
-    "country": "",
-    "description": "Low-level systems programming language",
-    "popular": false
-  },
-  {
-    "name": "Code::Blocks",
-    "url": "https://www.codeblocks.org/",
     "category": "Tool",
     "sector": "",
     "country": "",
@@ -8435,7 +7184,7 @@
   {
     "name": "Contentful",
     "url": "http://contentful.com",
-    "category": "Tool",
+    "category": "CMS",
     "sector": "",
     "country": "",
     "description": "Low-level systems programming language",
@@ -8543,7 +7292,7 @@
   {
     "name": "de",
     "url": "https://strapi.io/",
-    "category": "Tool",
+    "category": "Mobile",
     "sector": "",
     "country": "",
     "description": "RAD tool for native applications",
@@ -8795,7 +7544,7 @@
   {
     "name": "Drupal",
     "url": "https://www.drupal.org/",
-    "category": "Tool",
+    "category": "CMS",
     "sector": "",
     "country": "",
     "description": "Statistical computing and graphics language",
@@ -8867,7 +7616,7 @@
   {
     "name": "Eclipse",
     "url": "https://eclipseide.org",
-    "category": "Tool",
+    "category": "IDE/Editor",
     "sector": "",
     "country": "",
     "description": "Low-level systems programming language",
@@ -9470,7 +8219,7 @@
   {
     "name": "Ghost",
     "url": "https://ghost.org",
-    "category": "Tool",
+    "category": "CMS",
     "sector": "",
     "country": "",
     "description": "",
@@ -9510,15 +8259,6 @@
     "sector": "DevTools",
     "country": "USA",
     "description": "Code hosting and collaboration",
-    "popular": true
-  },
-  {
-    "name": "GitHub - apache/sling-org-apache-sling-app-cms: Apache Sling: CMS Reference App",
-    "url": "https://github.com/apache/sling-org-apache-sling-app-cms",
-    "category": "Tool",
-    "sector": "",
-    "country": "",
-    "description": "Low-level systems programming language",
     "popular": true
   },
   {
@@ -9740,7 +8480,7 @@
   {
     "name": "Grafana",
     "url": "https://grafana.com/",
-    "category": "Tool",
+    "category": "Monitoring",
     "sector": "Monitoring",
     "country": "Worldwide",
     "description": "Observability and metrics dashboard",
@@ -9812,7 +8552,7 @@
   {
     "name": "H2",
     "url": "https://h2database.com",
-    "category": "Tool",
+    "category": "Database",
     "sector": "",
     "country": "",
     "description": "",
@@ -9902,7 +8642,7 @@
   {
     "name": "HSQL",
     "url": "https://hsqldb.org/",
-    "category": "Tool",
+    "category": "Database",
     "sector": "",
     "country": "",
     "description": "Standard language for relational databases",
@@ -10118,7 +8858,7 @@
   {
     "name": "IntelliJ IDEA",
     "url": "https://www.jetbrains.com/idea/",
-    "category": "Tool",
+    "category": "IDE/Editor",
     "sector": "",
     "country": "",
     "description": "Systems programming language",
@@ -10253,7 +8993,7 @@
   {
     "name": "Jenkins",
     "url": "https://www.jenkins.io/",
-    "category": "Tool",
+    "category": "DevOps",
     "sector": "CI/CD",
     "country": "Worldwide",
     "description": "Automation server",
@@ -10352,7 +9092,7 @@
   {
     "name": "Kate",
     "url": "https://kate-editor.org/",
-    "category": "Tool",
+    "category": "IDE/Editor",
     "sector": "",
     "country": "",
     "description": "Capability-based language",
@@ -10388,7 +9128,7 @@
   {
     "name": "Kibana",
     "url": "https://www.elastic.co/kibana",
-    "category": "Tool",
+    "category": "Monitoring",
     "sector": "Monitoring",
     "country": "Worldwide",
     "description": "Visualization for Elasticsearch",
@@ -10478,7 +9218,7 @@
   {
     "name": "Kubernetes",
     "url": "https://kubernetes.io/",
-    "category": "Tool",
+    "category": "Container",
     "sector": "DevOps",
     "country": "Worldwide",
     "description": "Container orchestration",
@@ -10748,7 +9488,7 @@
   {
     "name": "Magento",
     "url": "https://magento-opensource.com/",
-    "category": "Tool",
+    "category": "CMS",
     "sector": "",
     "country": "",
     "description": "Capability-based language",
@@ -10766,7 +9506,7 @@
   {
     "name": "MariaDB",
     "url": "https://mariadb.com/",
-    "category": "Tool",
+    "category": "Database",
     "sector": "",
     "country": "",
     "description": "Statistical computing and graphics language",
@@ -11108,7 +9848,7 @@
   {
     "name": "MongoDB",
     "url": "http://mongodb.com",
-    "category": "Tool",
+    "category": "Database",
     "sector": "",
     "country": "",
     "description": "Fast, statically typed language by Google",
@@ -11216,7 +9956,7 @@
   {
     "name": "MySQL",
     "url": "https://www.mysql.com/",
-    "category": "Tool",
+    "category": "Database",
     "sector": "",
     "country": "",
     "description": "Standard language for relational databases",
@@ -11414,7 +10154,7 @@
   {
     "name": "Notepad++",
     "url": "https://apps.microsoft.com/detail/9msmlrh6lzf3",
-    "category": "Tool",
+    "category": "IDE/Editor",
     "sector": "",
     "country": "",
     "description": "Systems programming language",
@@ -11747,7 +10487,7 @@
   {
     "name": "Oracle",
     "url": "https://www.oracle.com/database/",
-    "category": "Tool",
+    "category": "Database",
     "sector": "",
     "country": "",
     "description": "Low-level systems programming language",
@@ -12161,7 +10901,7 @@
   {
     "name": "PostgreSQL",
     "url": "https://www.postgresql.org",
-    "category": "Tool",
+    "category": "Database",
     "sector": "",
     "country": "",
     "description": "Statistical computing and graphics language",
@@ -12170,7 +10910,7 @@
   {
     "name": "Postman",
     "url": "https://www.postman.com/",
-    "category": "Tool",
+    "category": "Testing",
     "sector": "Developer Tools",
     "country": "Worldwide",
     "description": "API development environment",
@@ -12377,7 +11117,7 @@
   {
     "name": "PureBasic",
     "url": "http://www.purebasic.com",
-    "category": "Tool",
+    "category": "Mobile",
     "sector": "",
     "country": "",
     "description": "Cross-platform BASIC",
@@ -12386,7 +11126,7 @@
   {
     "name": "PyCharm",
     "url": "https://www.jetbrains.com/pycharm/",
-    "category": "Tool",
+    "category": "IDE/Editor",
     "sector": "",
     "country": "",
     "description": "Low-level systems programming language",
@@ -13133,7 +11873,7 @@
   {
     "name": "SQL CE",
     "url": "https://learn.microsoft.com/en-us/archive/blogs/sqlservercompact/",
-    "category": "Tool",
+    "category": "Database",
     "sector": "",
     "country": "",
     "description": "Standard language for relational databases",
@@ -13142,7 +11882,7 @@
   {
     "name": "SQL Server",
     "url": "https://www.microsoft.com/sql-server",
-    "category": "Tool",
+    "category": "Database",
     "sector": "",
     "country": "",
     "description": "Standard language for relational databases",
@@ -13151,7 +11891,7 @@
   {
     "name": "SQLite",
     "url": "https://sqlite.org",
-    "category": "Tool",
+    "category": "Database",
     "sector": "",
     "country": "",
     "description": "Standard language for relational databases",
@@ -13160,7 +11900,7 @@
   {
     "name": "Squarespace",
     "url": "https://www.squarespace.com/",
-    "category": "Tool",
+    "category": "CMS",
     "sector": "",
     "country": "",
     "description": "Low-level systems programming language",
@@ -13214,7 +11954,7 @@
   {
     "name": "Sublime Text",
     "url": "https://www.sublimetext.com/",
-    "category": "Tool",
+    "category": "IDE/Editor",
     "sector": "",
     "country": "",
     "description": "Capability-based language",
@@ -13358,7 +12098,7 @@
   {
     "name": "Terraform",
     "url": "https://www.terraform.io/",
-    "category": "Tool",
+    "category": "DevOps",
     "sector": "DevOps",
     "country": "Worldwide",
     "description": "Infrastructure as code",
@@ -13385,7 +12125,7 @@
   {
     "name": "TextMate",
     "url": "https://macromates.com/",
-    "category": "Tool",
+    "category": "IDE/Editor",
     "sector": "",
     "country": "",
     "description": "Capability-based language",
@@ -13682,7 +12422,7 @@
   {
     "name": "Umbraco",
     "url": "https://umbraco.com/",
-    "category": "Tool",
+    "category": "CMS",
     "sector": "",
     "country": "",
     "description": "Low-level systems programming language",
@@ -13844,7 +12584,7 @@
   {
     "name": "Visual Studio Code",
     "url": "https://code.visualstudio.com/",
-    "category": "Tool",
+    "category": "IDE/Editor",
     "sector": "Developer Tools",
     "country": "Microsoft",
     "description": "Popular source-code editor",
@@ -13979,7 +12719,7 @@
   {
     "name": "Webflow",
     "url": "https://webflow.com",
-    "category": "Tool",
+    "category": "CMS",
     "sector": "",
     "country": "",
     "description": "Capability-based language",
@@ -14166,15 +12906,6 @@
     "popular": false
   },
   {
-    "name": "www.xemacs.org/Documentation/index.%20html",
-    "url": "http://www.xemacs.org/Documentation/index.%20html",
-    "category": "Tool",
-    "sector": "",
-    "country": "",
-    "description": "Low-level systems programming language",
-    "popular": false
-  },
-  {
     "name": "wxWidget",
     "url": "https://wxwidgets.org",
     "category": "Tool",
@@ -14195,7 +12926,7 @@
   {
     "name": "Xamarin",
     "url": "http://xamarin.com",
-    "category": "Tool",
+    "category": "Mobile",
     "sector": "",
     "country": "",
     "description": "Statistical computing and graphics language",
@@ -14285,7 +13016,7 @@
   {
     "name": "Zed",
     "url": "https://zed.dev/",
-    "category": "Tool",
+    "category": "IDE/Editor",
     "sector": "",
     "country": "",
     "description": "Systems programming language",
@@ -14394,5 +13125,400 @@
     "category": "Programming Language",
     "popular": true,
     "year": 1993
+  },
+  {
+    "name": "Redis",
+    "description": "In-memory data structure store used as database, cache, and message broker",
+    "url": "https://redis.io/",
+    "category": "Database",
+    "popular": true
+  },
+  {
+    "name": "Elasticsearch",
+    "description": "Distributed search and analytics engine",
+    "url": "https://www.elastic.co/elasticsearch/",
+    "category": "Database",
+    "popular": true
+  },
+  {
+    "name": "Neo4j",
+    "description": "Graph database platform for connected data",
+    "url": "https://neo4j.com/",
+    "category": "Database"
+  },
+  {
+    "name": "Cassandra",
+    "description": "Distributed NoSQL database for handling large amounts of data",
+    "url": "https://cassandra.apache.org/",
+    "category": "Database"
+  },
+  {
+    "name": "ClickHouse",
+    "description": "Fast open-source column-oriented database for analytics",
+    "url": "https://clickhouse.com/",
+    "category": "Database"
+  },
+  {
+    "name": "CockroachDB",
+    "description": "Distributed SQL database designed for cloud-native applications",
+    "url": "https://www.cockroachlabs.com/",
+    "category": "Database"
+  },
+  {
+    "name": "GitHub Actions",
+    "description": "CI/CD platform integrated with GitHub repositories",
+    "url": "https://github.com/features/actions",
+    "category": "DevOps",
+    "popular": true
+  },
+  {
+    "name": "GitLab CI",
+    "description": "Continuous integration and delivery built into GitLab",
+    "url": "https://docs.gitlab.com/ee/ci/",
+    "category": "DevOps",
+    "popular": true
+  },
+  {
+    "name": "CircleCI",
+    "description": "Cloud-based continuous integration and delivery platform",
+    "url": "https://circleci.com/",
+    "category": "DevOps"
+  },
+  {
+    "name": "ArgoCD",
+    "description": "Declarative GitOps continuous delivery tool for Kubernetes",
+    "url": "https://argoproj.github.io/cd/",
+    "category": "DevOps"
+  },
+  {
+    "name": "Pulumi",
+    "description": "Infrastructure as code using familiar programming languages",
+    "url": "https://www.pulumi.com/",
+    "category": "DevOps"
+  },
+  {
+    "name": "Helm",
+    "description": "Package manager for Kubernetes applications",
+    "url": "https://helm.sh/",
+    "category": "Container"
+  },
+  {
+    "name": "Podman",
+    "description": "Daemonless container engine for developing and running OCI containers",
+    "url": "https://podman.io/",
+    "category": "Container"
+  },
+  {
+    "name": "Istio",
+    "description": "Service mesh for connecting, securing, and observing microservices",
+    "url": "https://istio.io/",
+    "category": "Container"
+  },
+  {
+    "name": "K3s",
+    "description": "Lightweight Kubernetes distribution for edge and IoT",
+    "url": "https://k3s.io/",
+    "category": "Container"
+  },
+  {
+    "name": "Neovim",
+    "description": "Hyperextensible Vim-based text editor",
+    "url": "https://neovim.io/",
+    "category": "IDE/Editor",
+    "popular": true
+  },
+  {
+    "name": "Cursor",
+    "description": "AI-first code editor built for pair programming with AI",
+    "url": "https://cursor.sh/",
+    "category": "IDE/Editor"
+  },
+  {
+    "name": "Jest",
+    "description": "Delightful JavaScript testing framework",
+    "url": "https://jestjs.io/",
+    "category": "Testing",
+    "popular": true
+  },
+  {
+    "name": "Cypress",
+    "description": "JavaScript end-to-end testing framework",
+    "url": "https://www.cypress.io/",
+    "category": "Testing",
+    "popular": true
+  },
+  {
+    "name": "Playwright",
+    "description": "End-to-end testing framework for modern web apps",
+    "url": "https://playwright.dev/",
+    "category": "Testing",
+    "popular": true
+  },
+  {
+    "name": "Selenium",
+    "description": "Browser automation framework for web testing",
+    "url": "https://www.selenium.dev/",
+    "category": "Testing",
+    "popular": true
+  },
+  {
+    "name": "PyTest",
+    "description": "Simple and powerful testing framework for Python",
+    "url": "https://pytest.org/",
+    "category": "Testing",
+    "popular": true
+  },
+  {
+    "name": "Vitest",
+    "description": "Blazing fast unit test framework for Vite projects",
+    "url": "https://vitest.dev/",
+    "category": "Testing"
+  },
+  {
+    "name": "JUnit",
+    "description": "Unit testing framework for Java",
+    "url": "https://junit.org/",
+    "category": "Testing"
+  },
+  {
+    "name": "k6",
+    "description": "Modern load testing tool for developers",
+    "url": "https://k6.io/",
+    "category": "Testing"
+  },
+  {
+    "name": "OWASP ZAP",
+    "description": "Open-source web application security scanner",
+    "url": "https://www.zaproxy.org/",
+    "category": "Security",
+    "popular": true
+  },
+  {
+    "name": "Burp Suite",
+    "description": "Web vulnerability scanner and security testing platform",
+    "url": "https://portswigger.net/burp",
+    "category": "Security",
+    "popular": true
+  },
+  {
+    "name": "Snyk",
+    "description": "Developer security platform for finding and fixing vulnerabilities",
+    "url": "https://snyk.io/",
+    "category": "Security",
+    "popular": true
+  },
+  {
+    "name": "HashiCorp Vault",
+    "description": "Secrets management and data protection platform",
+    "url": "https://www.vaultproject.io/",
+    "category": "Security",
+    "popular": true
+  },
+  {
+    "name": "Trivy",
+    "description": "Comprehensive security scanner for containers and infrastructure",
+    "url": "https://trivy.dev/",
+    "category": "Security"
+  },
+  {
+    "name": "SonarQube",
+    "description": "Continuous code quality and security inspection",
+    "url": "https://www.sonarqube.org/",
+    "category": "Security"
+  },
+  {
+    "name": "Keycloak",
+    "description": "Open-source identity and access management solution",
+    "url": "https://www.keycloak.org/",
+    "category": "Security"
+  },
+  {
+    "name": "Nmap",
+    "description": "Network discovery and security auditing tool",
+    "url": "https://nmap.org/",
+    "category": "Security"
+  },
+  {
+    "name": "Sentry",
+    "description": "Application monitoring and error tracking platform",
+    "url": "https://sentry.io/",
+    "category": "Monitoring",
+    "popular": true
+  },
+  {
+    "name": "New Relic",
+    "description": "Full-stack observability platform",
+    "url": "https://newrelic.com/",
+    "category": "Monitoring"
+  },
+  {
+    "name": "OpenTelemetry",
+    "description": "Observability framework for cloud-native software",
+    "url": "https://opentelemetry.io/",
+    "category": "Monitoring"
+  },
+  {
+    "name": "Jaeger",
+    "description": "Distributed tracing platform",
+    "url": "https://www.jaegertracing.io/",
+    "category": "Monitoring"
+  },
+  {
+    "name": "Elastic Stack",
+    "description": "Search, observability, and security platform (ELK)",
+    "url": "https://www.elastic.co/elastic-stack",
+    "category": "Monitoring"
+  },
+  {
+    "name": "Swagger",
+    "description": "API documentation and design tools",
+    "url": "https://swagger.io/",
+    "category": "API",
+    "popular": true
+  },
+  {
+    "name": "GraphQL",
+    "description": "Query language and runtime for APIs",
+    "url": "https://graphql.org/",
+    "category": "API",
+    "popular": true
+  },
+  {
+    "name": "Kong",
+    "description": "Cloud-native API gateway and service mesh",
+    "url": "https://konghq.com/",
+    "category": "API"
+  },
+  {
+    "name": "Apollo GraphQL",
+    "description": "GraphQL implementation with client and server libraries",
+    "url": "https://www.apollographql.com/",
+    "category": "API"
+  },
+  {
+    "name": "Hasura",
+    "description": "Instant GraphQL APIs on your data",
+    "url": "https://hasura.io/",
+    "category": "API"
+  },
+  {
+    "name": "tRPC",
+    "description": "End-to-end typesafe APIs for TypeScript",
+    "url": "https://trpc.io/",
+    "category": "API"
+  },
+  {
+    "name": "Hardhat",
+    "description": "Ethereum development environment for professionals",
+    "url": "https://hardhat.org/",
+    "category": "Blockchain",
+    "popular": true
+  },
+  {
+    "name": "Foundry",
+    "description": "Blazing fast Ethereum development toolkit",
+    "url": "https://getfoundry.sh/",
+    "category": "Blockchain"
+  },
+  {
+    "name": "OpenZeppelin",
+    "description": "Security products for building blockchain applications",
+    "url": "https://www.openzeppelin.com/",
+    "category": "Blockchain"
+  },
+  {
+    "name": "Ethers.js",
+    "description": "Complete Ethereum library for JavaScript",
+    "url": "https://ethers.org/",
+    "category": "Blockchain"
+  },
+  {
+    "name": "Solana",
+    "description": "High-performance blockchain for decentralized applications",
+    "url": "https://solana.com/",
+    "category": "Blockchain"
+  },
+  {
+    "name": "Expo",
+    "description": "Platform for building React Native apps",
+    "url": "https://expo.dev/",
+    "category": "Mobile",
+    "popular": true
+  },
+  {
+    "name": "Ionic",
+    "description": "Cross-platform mobile app development framework",
+    "url": "https://ionicframework.com/",
+    "category": "Mobile"
+  },
+  {
+    "name": "Capacitor",
+    "description": "Cross-platform native runtime for web apps",
+    "url": "https://capacitorjs.com/",
+    "category": "Mobile"
+  },
+  {
+    "name": "Tauri",
+    "description": "Framework for building desktop apps with web technologies",
+    "url": "https://tauri.app/",
+    "category": "Mobile"
+  },
+  {
+    "name": "WordPress",
+    "description": "Popular open-source content management system",
+    "url": "https://wordpress.org/",
+    "category": "CMS",
+    "popular": true
+  },
+  {
+    "name": "Strapi",
+    "description": "Open-source headless CMS built with Node.js",
+    "url": "https://strapi.io/",
+    "category": "CMS",
+    "popular": true
+  },
+  {
+    "name": "Sanity",
+    "description": "Composable content cloud platform",
+    "url": "https://www.sanity.io/",
+    "category": "CMS"
+  },
+  {
+    "name": "Payload",
+    "description": "Headless CMS and application framework",
+    "url": "https://payloadcms.com/",
+    "category": "CMS"
+  },
+  {
+    "name": "Retool",
+    "description": "Build internal tools remarkably fast",
+    "url": "https://retool.com/",
+    "category": "Low-Code",
+    "popular": true
+  },
+  {
+    "name": "n8n",
+    "description": "Workflow automation tool with fair-code license",
+    "url": "https://n8n.io/",
+    "category": "Low-Code",
+    "popular": true
+  },
+  {
+    "name": "Appsmith",
+    "description": "Open-source framework for building internal apps",
+    "url": "https://www.appsmith.com/",
+    "category": "Low-Code"
+  },
+  {
+    "name": "Zapier",
+    "description": "Automation platform connecting apps and services",
+    "url": "https://zapier.com/",
+    "category": "Low-Code"
+  },
+  {
+    "name": "Budibase",
+    "description": "Open-source low-code platform",
+    "url": "https://budibase.com/",
+    "category": "Low-Code"
   }
 ]

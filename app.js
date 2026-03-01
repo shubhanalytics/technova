@@ -7,6 +7,29 @@
 const DATA_URL = 'data.json';
 const ALPHABET = 'ABCDEFGHIJKLMNOPQRSTUVWXYZ#'.split('');
 
+// Preferred category order (unspecified categories go at end alphabetically)
+const CATEGORY_ORDER = [
+  'Programming Language',
+  'Framework',
+  'Database',
+  'API',
+  'DevOps',
+  'Container',
+  'Testing',
+  'IDE/Editor',
+  'Security',
+  'Monitoring',
+  'AI/ML',
+  'Cloud',
+  'Mobile',
+  'Blockchain',
+  'CMS',
+  'Low-Code',
+  'Tool',
+  'Technology',
+  'Startup'
+];
+
 // State
 let items = [];
 let filteredItems = [];
@@ -74,7 +97,18 @@ async function init() {
 // Build Category Tabs
 // ============================================
 function buildTabs() {
-  const categories = [...new Set(items.map(i => i.category).filter(Boolean))].sort();
+  const allCategories = [...new Set(items.map(i => i.category).filter(Boolean))];
+  
+  // Sort categories by preferred order
+  const categories = allCategories.sort((a, b) => {
+    const indexA = CATEGORY_ORDER.indexOf(a);
+    const indexB = CATEGORY_ORDER.indexOf(b);
+    if (indexA === -1 && indexB === -1) return a.localeCompare(b);
+    if (indexA === -1) return 1;
+    if (indexB === -1) return -1;
+    return indexA - indexB;
+  });
+  
   const counts = {};
   items.forEach(item => {
     const cat = item.category || 'Uncategorized';
