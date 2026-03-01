@@ -2,7 +2,6 @@
 (function () {
   const form = document.getElementById('contribForm');
   const result = document.getElementById('result');
-  const clearBtn = document.getElementById('clearBtn');
 
   function showMessage(msg, ok = true) {
     result.textContent = msg;
@@ -18,14 +17,6 @@
     }
   }
 
-  function validateTwitter(url) {
-    if (!url) return true;
-    try {
-      const u = new URL(url);
-      return /twitter.com$/i.test(u.hostname) || /t.co$/i.test(u.hostname);
-    } catch (e) { return false; }
-  }
-
   form.addEventListener('submit', async (e) => {
     e.preventDefault();
     result.textContent = '';
@@ -34,18 +25,17 @@
       siteName: form.siteName.value.trim(),
       siteUrl: form.siteUrl.value.trim(),
       category: form.category.value.trim(),
-      subcategory: form.subcategory.value.trim(),
+      description: form.description.value.trim(),
       owner: form.owner.value.trim(),
       email: form.email.value.trim(),
-      twitter: form.twitter.value.trim(),
       notes: form.notes.value.trim(),
       submittedAt: new Date().toISOString()
     };
 
     if (!data.siteName) { showMessage('Please provide a site name.', false); return; }
     if (!data.siteUrl || !validateUrl(data.siteUrl)) { showMessage('Please enter a valid site URL (https://...).', false); return; }
+    if (!data.category) { showMessage('Please select a category.', false); return; }
     if (data.email && !/^[^\s@]+@[^\s@]+\.[^\s@]+$/.test(data.email)) { showMessage('Please enter a valid email address.', false); return; }
-    if (!validateTwitter(data.twitter)) { showMessage('Twitter URL appears invalid.', false); return; }
 
     // Optional reachability check — attempt a HEAD fetch, but ignore CORS failures.
     try {
@@ -79,10 +69,9 @@
           formData.set('siteName', data.siteName);
           formData.set('siteUrl', data.siteUrl);
           formData.set('category', data.category);
-          formData.set('subcategory', data.subcategory);
+          formData.set('description', data.description);
           formData.set('owner', data.owner);
           formData.set('email', data.email);
-          formData.set('twitter', data.twitter);
           formData.set('notes', data.notes);
 
           const resp = await fetch(action, { method: 'POST', body: formData, headers: { 'Accept': 'application/json' } });
@@ -103,6 +92,4 @@
       showMessage('Failed to save locally. Check browser storage settings.', false);
     }
   });
-
-  clearBtn.addEventListener('click', () => form.reset());
 })();

@@ -70,18 +70,66 @@
         <label for="siteUrl">Site URL <span style="color: var(--primary);">*</span></label>
         <input type="url" id="siteUrl" name="siteUrl" required placeholder="https://example.com">
         
-        <label for="category">Category</label>
-        <select id="category" name="category">
+        <label for="category">Category <span style="color: var(--primary);">*</span></label>
+        <select id="category" name="category" required>
           <option value="">Select a category</option>
-          <option value="Tool">Tool</option>
-          <option value="Programming Language">Programming Language</option>
-          <option value="Software">Software</option>
-          <option value="Framework">Framework</option>
-          <option value="AI/ML">AI/ML</option>
-          <option value="Startup">Startup</option>
-          <option value="Cloud">Cloud</option>
-          <option value="Data">Data</option>
-          <option value="Technology">Technology</option>
+          <optgroup label="Languages & Frameworks">
+            <option value="Programming Language">Programming Language</option>
+            <option value="Framework">Framework</option>
+            <option value="Library">Library</option>
+          </optgroup>
+          <optgroup label="Data & Storage">
+            <option value="Database">Database</option>
+            <option value="ORM">ORM</option>
+            <option value="Storage">Storage</option>
+            <option value="Search">Search</option>
+          </optgroup>
+          <optgroup label="Backend & Infrastructure">
+            <option value="API">API</option>
+            <option value="Authentication">Authentication</option>
+            <option value="Hosting">Hosting</option>
+            <option value="Serverless">Serverless</option>
+            <option value="CDN">CDN</option>
+            <option value="Cloud">Cloud</option>
+            <option value="Container">Container</option>
+            <option value="Message Queue">Message Queue</option>
+          </optgroup>
+          <optgroup label="Developer Tools">
+            <option value="DevOps">DevOps</option>
+            <option value="Build Tool">Build Tool</option>
+            <option value="Package Manager">Package Manager</option>
+            <option value="Version Control">Version Control</option>
+            <option value="Testing">Testing</option>
+            <option value="IDE/Editor">IDE/Editor</option>
+            <option value="Runtime">Runtime</option>
+            <option value="Tool">Tool</option>
+          </optgroup>
+          <optgroup label="Security & Monitoring">
+            <option value="Security">Security</option>
+            <option value="Monitoring">Monitoring</option>
+            <option value="Analytics">Analytics</option>
+            <option value="Feature Flags">Feature Flags</option>
+          </optgroup>
+          <optgroup label="Business & Services">
+            <option value="Email">Email</option>
+            <option value="Payment">Payment</option>
+          </optgroup>
+          <optgroup label="AI & Emerging Tech">
+            <option value="AI/ML">AI/ML</option>
+            <option value="Blockchain">Blockchain</option>
+            <option value="Mobile">Mobile</option>
+          </optgroup>
+          <optgroup label="Design & Collaboration">
+            <option value="Design">Design</option>
+            <option value="Documentation">Documentation</option>
+            <option value="Collaboration">Collaboration</option>
+            <option value="CMS">CMS</option>
+            <option value="Low-Code">Low-Code</option>
+          </optgroup>
+          <optgroup label="Other">
+            <option value="Technology">Technology</option>
+            <option value="Startup">Startup</option>
+          </optgroup>
         </select>
         
         <label for="description">Description</label>
