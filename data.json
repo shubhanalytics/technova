@@ -18086,5 +18086,165 @@
     "description": "Non-interactive network downloader",
     "url": "https://www.gnu.org/software/wget/",
     "category": "CLI"
+  },
+  {
+    "name": "FastAPI",
+    "description": "Modern, fast Python web framework for building APIs with automatic OpenAPI docs",
+    "url": "https://fastapi.tiangolo.com/",
+    "category": "Backend",
+    "popular": true
+  },
+  {
+    "name": "Express.js",
+    "description": "Fast, unopinionated, minimalist web framework for Node.js",
+    "url": "https://expressjs.com/",
+    "category": "Backend",
+    "popular": true
+  },
+  {
+    "name": "NestJS",
+    "description": "Progressive Node.js framework for building efficient server-side applications",
+    "url": "https://nestjs.com/",
+    "category": "Backend",
+    "popular": true
+  },
+  {
+    "name": "Koa",
+    "description": "Expressive middleware framework for Node.js by the Express team",
+    "url": "https://koajs.com/",
+    "category": "Backend"
+  },
+  {
+    "name": "Hapi",
+    "description": "Rich framework for building applications and services in Node.js",
+    "url": "https://hapi.dev/",
+    "category": "Backend"
+  },
+  {
+    "name": "Restify",
+    "description": "Node.js framework optimized for building RESTful web services",
+    "url": "http://restify.com/",
+    "category": "Backend"
+  },
+  {
+    "name": "Sanic",
+    "description": "Async Python web server and framework for fast HTTP responses",
+    "url": "https://sanic.dev/",
+    "category": "Backend"
+  },
+  {
+    "name": "Starlette",
+    "description": "Lightweight ASGI framework for building async Python web services",
+    "url": "https://www.starlette.io/",
+    "category": "Backend"
+  },
+  {
+    "name": "Tornado",
+    "description": "Python web framework and asynchronous networking library",
+    "url": "https://www.tornadoweb.org/",
+    "category": "Backend"
+  },
+  {
+    "name": "Bottle",
+    "description": "Fast, simple, lightweight WSGI micro web-framework for Python",
+    "url": "https://bottlepy.org/",
+    "category": "Backend"
+  },
+  {
+    "name": "Falcon",
+    "description": "Minimalist Python ASGI/WSGI framework for building REST APIs",
+    "url": "https://falcon.readthedocs.io/",
+    "category": "Backend"
+  },
+  {
+    "name": "Litestar",
+    "description": "Production-ready, light, flexible Python API framework",
+    "url": "https://litestar.dev/",
+    "category": "Backend"
+  },
+  {
+    "name": "Mongoose",
+    "description": "Elegant MongoDB object modeling for Node.js",
+    "url": "https://mongoosejs.com/",
+    "category": "Database",
+    "popular": true
+  },
+  {
+    "name": "Pony ORM",
+    "description": "Python ORM with beautiful query syntax using generators",
+    "url": "https://ponyorm.org/",
+    "category": "Database"
+  },
+  {
+    "name": "lxml",
+    "description": "Fast XML and HTML processing library for Python",
+    "url": "https://lxml.de/",
+    "category": "Data Science"
+  },
+  {
+    "name": "Parsel",
+    "description": "Library to extract data from HTML and XML using XPath and CSS selectors",
+    "url": "https://parsel.readthedocs.io/",
+    "category": "Data Science"
+  },
+  {
+    "name": "Playwright Python",
+    "description": "Python version of Playwright for browser automation",
+    "url": "https://playwright.dev/python/",
+    "category": "Testing"
+  },
+  {
+    "name": "Splash",
+    "description": "Lightweight JavaScript rendering service for web scraping",
+    "url": "https://splash.readthedocs.io/",
+    "category": "Data Science"
+  },
+  {
+    "name": "Crawlee",
+    "description": "Web scraping and browser automation library for Node.js",
+    "url": "https://crawlee.dev/",
+    "category": "Data Science"
+  },
+  {
+    "name": "Fetch API",
+    "description": "Modern JavaScript interface for making HTTP requests in browsers",
+    "url": "https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API",
+    "category": "API"
+  },
+  {
+    "name": "Got",
+    "description": "Human-friendly HTTP request library for Node.js",
+    "url": "https://github.com/sindresorhus/got",
+    "category": "API"
+  },
+  {
+    "name": "Ky",
+    "description": "Tiny elegant HTTP client based on Fetch API",
+    "url": "https://github.com/sindresorhus/ky",
+    "category": "API"
+  },
+  {
+    "name": "SuperAgent",
+    "description": "Small progressive client-side HTTP request library",
+    "url": "https://ladjs.github.io/superagent/",
+    "category": "API"
+  },
+  {
+    "name": "Node-Fetch",
+    "description": "Light-weight Fetch API implementation for Node.js",
+    "url": "https://github.com/node-fetch/node-fetch",
+    "category": "API"
+  },
+  {
+    "name": "Undici",
+    "description": "HTTP/1.1 client for Node.js with high performance",
+    "url": "https://undici.nodejs.org/",
+    "category": "API"
+  },
+  {
+    "name": "Ajv",
+    "description": "Fast JSON schema validator for JavaScript",
+    "url": "https://ajv.js.org/",
+    "category": "API"
   }
 ]
