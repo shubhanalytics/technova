@@ -14853,5 +14853,2317 @@
     "url": "https://github.com/websockets/ws",
     "category": "Library",
     "verified": true
+  },
+  {
+    "name": "Vite",
+    "description": "Next generation frontend build tool",
+    "url": "https://vitejs.dev/",
+    "category": "Build Tool",
+    "popular": true,
+    "verified": true
+  },
+  {
+    "name": "Webpack",
+    "description": "Static module bundler for JavaScript applications",
+    "url": "https://webpack.js.org/",
+    "category": "Build Tool",
+    "popular": true,
+    "verified": true
+  },
+  {
+    "name": "esbuild",
+    "description": "Extremely fast JavaScript bundler and minifier",
+    "url": "https://esbuild.github.io/",
+    "category": "Build Tool",
+    "popular": true,
+    "verified": true
+  },
+  {
+    "name": "Turbopack",
+    "description": "Rust-based successor to Webpack by Vercel",
+    "url": "https://turbo.build/pack",
+    "category": "Build Tool",
+    "popular": true,
+    "verified": true
+  },
+  {
+    "name": "Rollup",
+    "description": "Module bundler for JavaScript libraries",
+    "url": "https://rollupjs.org/",
+    "category": "Build Tool",
+    "popular": true,
+    "verified": true
+  },
+  {
+    "name": "SWC",
+    "description": "Super-fast TypeScript/JavaScript compiler written in Rust",
+    "url": "https://swc.rs/",
+    "category": "Build Tool",
+    "popular": true,
+    "verified": true
+  },
+  {
+    "name": "Babel",
+    "description": "JavaScript compiler for using next-gen JS today",
+    "url": "https://babeljs.io/",
+    "category": "Build Tool",
+    "popular": true,
+    "verified": true
+  },
+  {
+    "name": "Parcel",
+    "description": "Zero configuration web application bundler",
+    "url": "https://parceljs.org/",
+    "category": "Build Tool",
+    "verified": true
+  },
+  {
+    "name": "Gulp",
+    "description": "Streaming build system and task runner",
+    "url": "https://gulpjs.com/",
+    "category": "Build Tool",
+    "verified": true
+  },
+  {
+    "name": "Grunt",
+    "description": "JavaScript task runner",
+    "url": "https://gruntjs.com/",
+    "category": "Build Tool",
+    "verified": true
+  },
+  {
+    "name": "Turborepo",
+    "description": "High-performance build system for monorepos",
+    "url": "https://turbo.build/repo",
+    "category": "Build Tool",
+    "popular": true,
+    "verified": true
+  },
+  {
+    "name": "Nx",
+    "description": "Smart monorepo build system",
+    "url": "https://nx.dev/",
+    "category": "Build Tool",
+    "popular": true,
+    "verified": true
+  },
+  {
+    "name": "Lerna",
+    "description": "Tool for managing JavaScript monorepos",
+    "url": "https://lerna.js.org/",
+    "category": "Build Tool",
+    "verified": true
+  },
+  {
+    "name": "Rome",
+    "description": "Unified toolchain for JavaScript and TypeScript",
+    "url": "https://rome.tools/",
+    "category": "Build Tool",
+    "verified": true
+  },
+  {
+    "name": "Biome",
+    "description": "Fast formatter and linter for web projects",
+    "url": "https://biomejs.dev/",
+    "category": "Build Tool",
+    "verified": true
+  },
+  {
+    "name": "PostCSS",
+    "description": "Tool for transforming CSS with JavaScript",
+    "url": "https://postcss.org/",
+    "category": "Build Tool",
+    "verified": true
+  },
+  {
+    "name": "Sass",
+    "description": "CSS extension language with variables and nesting",
+    "url": "https://sass-lang.com/",
+    "category": "Build Tool",
+    "popular": true,
+    "verified": true
+  },
+  {
+    "name": "Less",
+    "description": "Backwards-compatible language extension for CSS",
+    "url": "https://lesscss.org/",
+    "category": "Build Tool",
+    "verified": true
+  },
+  {
+    "name": "Make",
+    "description": "Build automation tool using Makefiles",
+    "url": "https://www.gnu.org/software/make/",
+    "category": "Build Tool",
+    "verified": true
+  },
+  {
+    "name": "CMake",
+    "description": "Cross-platform build system generator",
+    "url": "https://cmake.org/",
+    "category": "Build Tool",
+    "verified": true
+  },
+  {
+    "name": "Bazel",
+    "description": "Fast, scalable build tool by Google",
+    "url": "https://bazel.build/",
+    "category": "Build Tool",
+    "verified": true
+  },
+  {
+    "name": "Buck",
+    "description": "Fast build system by Meta",
+    "url": "https://buck.build/",
+    "category": "Build Tool",
+    "verified": true
+  },
+  {
+    "name": "Yarn",
+    "description": "Fast, reliable dependency management",
+    "url": "https://yarnpkg.com/",
+    "category": "Package Manager",
+    "popular": true,
+    "verified": true
+  },
+  {
+    "name": "pnpm",
+    "description": "Fast, disk space efficient package manager",
+    "url": "https://pnpm.io/",
+    "category": "Package Manager",
+    "popular": true,
+    "verified": true
+  },
+  {
+    "name": "Bun",
+    "description": "All-in-one JavaScript runtime and package manager",
+    "url": "https://bun.sh/",
+    "category": "Package Manager",
+    "popular": true,
+    "verified": true
+  },
+  {
+    "name": "pip",
+    "description": "Package installer for Python",
+    "url": "https://pip.pypa.io/",
+    "category": "Package Manager",
+    "popular": true,
+    "verified": true
+  },
+  {
+    "name": "Poetry",
+    "description": "Python dependency management and packaging",
+    "url": "https://python-poetry.org/",
+    "category": "Package Manager",
+    "popular": true,
+    "verified": true
+  },
+  {
+    "name": "uv",
+    "description": "Extremely fast Python package installer by Astral",
+    "url": "https://github.com/astral-sh/uv",
+    "category": "Package Manager",
+    "popular": true,
+    "verified": true
+  },
+  {
+    "name": "Conda",
+    "description": "Package and environment management for any language",
+    "url": "https://docs.conda.io/",
+    "category": "Package Manager",
+    "popular": true,
+    "verified": true
+  },
+  {
+    "name": "Pipenv",
+    "description": "Python packaging tool with Pipfile",
+    "url": "https://pipenv.pypa.io/",
+    "category": "Package Manager",
+    "verified": true
+  },
+  {
+    "name": "Cargo",
+    "description": "Rust package manager and build system",
+    "url": "https://doc.rust-lang.org/cargo/",
+    "category": "Package Manager",
+    "popular": true,
+    "verified": true
+  },
+  {
+    "name": "Maven",
+    "description": "Build automation and dependency management for Java",
+    "url": "https://maven.apache.org/",
+    "category": "Package Manager",
+    "popular": true,
+    "verified": true
+  },
+  {
+    "name": "Gradle",
+    "description": "Build automation tool for multi-language projects",
+    "url": "https://gradle.org/",
+    "category": "Package Manager",
+    "popular": true,
+    "verified": true
+  },
+  {
+    "name": "NuGet",
+    "description": "Package manager for .NET",
+    "url": "https://www.nuget.org/",
+    "category": "Package Manager",
+    "popular": true,
+    "verified": true
+  },
+  {
+    "name": "Composer",
+    "description": "Dependency manager for PHP",
+    "url": "https://getcomposer.org/",
+    "category": "Package Manager",
+    "popular": true,
+    "verified": true
+  },
+  {
+    "name": "RubyGems",
+    "description": "Package manager for Ruby",
+    "url": "https://rubygems.org/",
+    "category": "Package Manager",
+    "verified": true
+  },
+  {
+    "name": "Bundler",
+    "description": "Dependency manager for Ruby projects",
+    "url": "https://bundler.io/",
+    "category": "Package Manager",
+    "verified": true
+  },
+  {
+    "name": "Go Modules",
+    "description": "Dependency management for Go",
+    "url": "https://go.dev/ref/mod",
+    "category": "Package Manager",
+    "verified": true
+  },
+  {
+    "name": "Homebrew",
+    "description": "Package manager for macOS and Linux",
+    "url": "https://brew.sh/",
+    "category": "Package Manager",
+    "popular": true,
+    "verified": true
+  },
+  {
+    "name": "Chocolatey",
+    "description": "Package manager for Windows",
+    "url": "https://chocolatey.org/",
+    "category": "Package Manager",
+    "verified": true
+  },
+  {
+    "name": "Scoop",
+    "description": "Command-line installer for Windows",
+    "url": "https://scoop.sh/",
+    "category": "Package Manager",
+    "verified": true
+  },
+  {
+    "name": "CocoaPods",
+    "description": "Dependency manager for Swift and Objective-C",
+    "url": "https://cocoapods.org/",
+    "category": "Package Manager",
+    "verified": true
+  },
+  {
+    "name": "Swift Package Manager",
+    "description": "Dependency manager for Swift projects",
+    "url": "https://swift.org/package-manager/",
+    "category": "Package Manager",
+    "verified": true
+  },
+  {
+    "name": "Hex",
+    "description": "Package manager for Erlang ecosystem",
+    "url": "https://hex.pm/",
+    "category": "Package Manager",
+    "verified": true
+  },
+  {
+    "name": "Pub",
+    "description": "Package manager for Dart and Flutter",
+    "url": "https://pub.dev/",
+    "category": "Package Manager",
+    "verified": true
+  },
+  {
+    "name": "GitLab",
+    "description": "DevOps platform with Git repository management",
+    "url": "https://gitlab.com/",
+    "category": "Version Control",
+    "popular": true,
+    "verified": true
+  },
+  {
+    "name": "Bitbucket",
+    "description": "Git code management by Atlassian",
+    "url": "https://bitbucket.org/",
+    "category": "Version Control",
+    "popular": true,
+    "verified": true
+  },
+  {
+    "name": "Azure DevOps",
+    "description": "Development collaboration tools by Microsoft",
+    "url": "https://azure.microsoft.com/en-us/products/devops/",
+    "category": "Version Control",
+    "verified": true
+  },
+  {
+    "name": "Gitea",
+    "description": "Self-hosted Git service",
+    "url": "https://gitea.io/",
+    "category": "Version Control",
+    "verified": true
+  },
+  {
+    "name": "Forgejo",
+    "description": "Community-driven self-hosted Git forge",
+    "url": "https://forgejo.org/",
+    "category": "Version Control",
+    "verified": true
+  },
+  {
+    "name": "SourceHut",
+    "description": "Minimalist software development platform",
+    "url": "https://sourcehut.org/",
+    "category": "Version Control",
+    "verified": true
+  },
+  {
+    "name": "SVN",
+    "description": "Centralized version control system",
+    "url": "https://subversion.apache.org/",
+    "category": "Version Control",
+    "verified": true
+  },
+  {
+    "name": "GitKraken",
+    "description": "Visual Git client",
+    "url": "https://www.gitkraken.com/",
+    "category": "Version Control",
+    "verified": true
+  },
+  {
+    "name": "SourceTree",
+    "description": "Free Git client by Atlassian",
+    "url": "https://www.sourcetreeapp.com/",
+    "category": "Version Control",
+    "verified": true
+  },
+  {
+    "name": "GitHub Desktop",
+    "description": "Official GitHub desktop client",
+    "url": "https://desktop.github.com/",
+    "category": "Version Control",
+    "verified": true
+  },
+  {
+    "name": "Conventional Commits",
+    "description": "Specification for commit messages",
+    "url": "https://www.conventionalcommits.org/",
+    "category": "Version Control",
+    "verified": true
+  },
+  {
+    "name": "git-crypt",
+    "description": "Transparent file encryption in Git",
+    "url": "https://github.com/AGWA/git-crypt",
+    "category": "Version Control",
+    "verified": true
+  },
+  {
+    "name": "git-lfs",
+    "description": "Git extension for large file storage",
+    "url": "https://git-lfs.com/",
+    "category": "Version Control",
+    "verified": true
+  },
+  {
+    "name": "Apache Kafka",
+    "description": "Distributed event streaming platform",
+    "url": "https://kafka.apache.org/",
+    "category": "Message Queue",
+    "popular": true,
+    "verified": true
+  },
+  {
+    "name": "RabbitMQ",
+    "description": "Open-source message broker",
+    "url": "https://www.rabbitmq.com/",
+    "category": "Message Queue",
+    "popular": true,
+    "verified": true
+  },
+  {
+    "name": "Amazon SQS",
+    "description": "Fully managed message queuing service",
+    "url": "https://aws.amazon.com/sqs/",
+    "category": "Message Queue",
+    "popular": true,
+    "verified": true
+  },
+  {
+    "name": "Amazon SNS",
+    "description": "Fully managed pub/sub messaging service",
+    "url": "https://aws.amazon.com/sns/",
+    "category": "Message Queue",
+    "verified": true
+  },
+  {
+    "name": "NATS",
+    "description": "High-performance messaging system",
+    "url": "https://nats.io/",
+    "category": "Message Queue",
+    "popular": true,
+    "verified": true
+  },
+  {
+    "name": "Redis Pub/Sub",
+    "description": "Messaging paradigm in Redis",
+    "url": "https://redis.io/docs/manual/pubsub/",
+    "category": "Message Queue",
+    "verified": true
+  },
+  {
+    "name": "Apache Pulsar",
+    "description": "Distributed pub-sub messaging platform",
+    "url": "https://pulsar.apache.org/",
+    "category": "Message Queue",
+    "verified": true
+  },
+  {
+    "name": "ZeroMQ",
+    "description": "High-performance asynchronous messaging library",
+    "url": "https://zeromq.org/",
+    "category": "Message Queue",
+    "verified": true
+  },
+  {
+    "name": "Bull",
+    "description": "Redis-based queue for Node.js",
+    "url": "https://github.com/OptimalBits/bull",
+    "category": "Message Queue",
+    "verified": true
+  },
+  {
+    "name": "BullMQ",
+    "description": "Message queue based on Redis for Node.js",
+    "url": "https://bullmq.io/",
+    "category": "Message Queue",
+    "popular": true,
+    "verified": true
+  },
+  {
+    "name": "Azure Service Bus",
+    "description": "Enterprise message broker by Microsoft",
+    "url": "https://azure.microsoft.com/en-us/products/service-bus/",
+    "category": "Message Queue",
+    "verified": true
+  },
+  {
+    "name": "Google Cloud Pub/Sub",
+    "description": "Messaging and ingestion for streaming data",
+    "url": "https://cloud.google.com/pubsub",
+    "category": "Message Queue",
+    "verified": true
+  },
+  {
+    "name": "ActiveMQ",
+    "description": "Open-source message broker",
+    "url": "https://activemq.apache.org/",
+    "category": "Message Queue",
+    "verified": true
+  },
+  {
+    "name": "Redpanda",
+    "description": "Kafka-compatible streaming data platform",
+    "url": "https://redpanda.com/",
+    "category": "Message Queue",
+    "verified": true
+  },
+  {
+    "name": "Inngest",
+    "description": "Durable workflow engine for background jobs",
+    "url": "https://www.inngest.com/",
+    "category": "Message Queue",
+    "verified": true
+  },
+  {
+    "name": "Trigger.dev",
+    "description": "Background jobs with no infrastructure",
+    "url": "https://trigger.dev/",
+    "category": "Message Queue",
+    "verified": true
+  },
+  {
+    "name": "Upstash Kafka",
+    "description": "Serverless Kafka",
+    "url": "https://upstash.com/kafka",
+    "category": "Message Queue",
+    "verified": true
+  },
+  {
+    "name": "Upstash QStash",
+    "description": "Serverless message queue",
+    "url": "https://upstash.com/qstash",
+    "category": "Message Queue",
+    "verified": true
+  },
+  {
+    "name": "Algolia",
+    "description": "Hosted search API for websites and apps",
+    "url": "https://www.algolia.com/",
+    "category": "Search",
+    "popular": true,
+    "verified": true
+  },
+  {
+    "name": "Meilisearch",
+    "description": "Lightning fast, open-source search engine",
+    "url": "https://www.meilisearch.com/",
+    "category": "Search",
+    "popular": true,
+    "verified": true
+  },
+  {
+    "name": "Typesense",
+    "description": "Fast, typo-tolerant search engine",
+    "url": "https://typesense.org/",
+    "category": "Search",
+    "popular": true,
+    "verified": true
+  },
+  {
+    "name": "OpenSearch",
+    "description": "Open-source search and analytics suite",
+    "url": "https://opensearch.org/",
+    "category": "Search",
+    "verified": true
+  },
+  {
+    "name": "Solr",
+    "description": "Open-source enterprise search platform",
+    "url": "https://solr.apache.org/",
+    "category": "Search",
+    "verified": true
+  },
+  {
+    "name": "Zinc",
+    "description": "Lightweight Elasticsearch alternative",
+    "url": "https://zincsearch.com/",
+    "category": "Search",
+    "verified": true
+  },
+  {
+    "name": "Orama",
+    "description": "In-memory full-text search engine",
+    "url": "https://oramasearch.com/",
+    "category": "Search",
+    "verified": true
+  },
+  {
+    "name": "Fuse.js",
+    "description": "Lightweight fuzzy-search JavaScript library",
+    "url": "https://fusejs.io/",
+    "category": "Search",
+    "verified": true
+  },
+  {
+    "name": "Lunr.js",
+    "description": "Full-text search library for the browser",
+    "url": "https://lunrjs.com/",
+    "category": "Search",
+    "verified": true
+  },
+  {
+    "name": "FlexSearch",
+    "description": "Fastest full-text search library",
+    "url": "https://github.com/nextapps-de/flexsearch",
+    "category": "Search",
+    "verified": true
+  },
+  {
+    "name": "DocSearch",
+    "description": "Search for documentation sites by Algolia",
+    "url": "https://docsearch.algolia.com/",
+    "category": "Search",
+    "verified": true
+  },
+  {
+    "name": "Pagefind",
+    "description": "Static search library for static sites",
+    "url": "https://pagefind.app/",
+    "category": "Search",
+    "verified": true
+  },
+  {
+    "name": "Prisma",
+    "description": "Next-generation Node.js and TypeScript ORM",
+    "url": "https://www.prisma.io/",
+    "category": "ORM",
+    "popular": true,
+    "verified": true
+  },
+  {
+    "name": "Drizzle ORM",
+    "description": "TypeScript ORM with SQL-like syntax",
+    "url": "https://orm.drizzle.team/",
+    "category": "ORM",
+    "popular": true,
+    "verified": true
+  },
+  {
+    "name": "TypeORM",
+    "description": "ORM for TypeScript and JavaScript",
+    "url": "https://typeorm.io/",
+    "category": "ORM",
+    "popular": true,
+    "verified": true
+  },
+  {
+    "name": "Sequelize",
+    "description": "Promise-based Node.js ORM",
+    "url": "https://sequelize.org/",
+    "category": "ORM",
+    "popular": true,
+    "verified": true
+  },
+  {
+    "name": "Knex.js",
+    "description": "SQL query builder for JavaScript",
+    "url": "https://knexjs.org/",
+    "category": "ORM",
+    "verified": true
+  },
+  {
+    "name": "Kysely",
+    "description": "Type-safe TypeScript SQL query builder",
+    "url": "https://kysely.dev/",
+    "category": "ORM",
+    "popular": true,
+    "verified": true
+  },
+  {
+    "name": "MikroORM",
+    "description": "TypeScript ORM for Node.js based on Data Mapper",
+    "url": "https://mikro-orm.io/",
+    "category": "ORM",
+    "verified": true
+  },
+  {
+    "name": "Objection.js",
+    "description": "SQL-friendly ORM for Node.js",
+    "url": "https://vincit.github.io/objection.js/",
+    "category": "ORM",
+    "verified": true
+  },
+  {
+    "name": "Django ORM",
+    "description": "Built-in ORM for Django framework",
+    "url": "https://docs.djangoproject.com/en/stable/topics/db/",
+    "category": "ORM",
+    "popular": true,
+    "verified": true
+  },
+  {
+    "name": "Peewee",
+    "description": "Simple and small Python ORM",
+    "url": "http://docs.peewee-orm.com/",
+    "category": "ORM",
+    "verified": true
+  },
+  {
+    "name": "Tortoise ORM",
+    "description": "Async ORM for Python",
+    "url": "https://tortoise.github.io/",
+    "category": "ORM",
+    "verified": true
+  },
+  {
+    "name": "SQLModel",
+    "description": "SQL databases in Python with Pydantic",
+    "url": "https://sqlmodel.tiangolo.com/",
+    "category": "ORM",
+    "popular": true,
+    "verified": true
+  },
+  {
+    "name": "ActiveRecord",
+    "description": "ORM pattern in Ruby on Rails",
+    "url": "https://guides.rubyonrails.org/active_record_basics.html",
+    "category": "ORM",
+    "verified": true
+  },
+  {
+    "name": "Hibernate",
+    "description": "ORM framework for Java",
+    "url": "https://hibernate.org/",
+    "category": "ORM",
+    "popular": true,
+    "verified": true
+  },
+  {
+    "name": "Entity Framework",
+    "description": "ORM for .NET applications",
+    "url": "https://docs.microsoft.com/en-us/ef/",
+    "category": "ORM",
+    "popular": true,
+    "verified": true
+  },
+  {
+    "name": "Dapper",
+    "description": "Simple object mapper for .NET",
+    "url": "https://github.com/DapperLib/Dapper",
+    "category": "ORM",
+    "verified": true
+  },
+  {
+    "name": "GORM",
+    "description": "ORM library for Go",
+    "url": "https://gorm.io/",
+    "category": "ORM",
+    "popular": true,
+    "verified": true
+  },
+  {
+    "name": "Ent",
+    "description": "Entity framework for Go",
+    "url": "https://entgo.io/",
+    "category": "ORM",
+    "verified": true
+  },
+  {
+    "name": "Diesel",
+    "description": "Safe Rust ORM",
+    "url": "https://diesel.rs/",
+    "category": "ORM",
+    "verified": true
+  },
+  {
+    "name": "SeaORM",
+    "description": "Async ORM for Rust",
+    "url": "https://www.sea-ql.org/SeaORM/",
+    "category": "ORM",
+    "verified": true
+  },
+  {
+    "name": "Amazon S3",
+    "description": "Scalable object storage by AWS",
+    "url": "https://aws.amazon.com/s3/",
+    "category": "Storage",
+    "popular": true,
+    "verified": true
+  },
+  {
+    "name": "Cloudflare R2",
+    "description": "Object storage with zero egress fees",
+    "url": "https://www.cloudflare.com/products/r2/",
+    "category": "Storage",
+    "popular": true,
+    "verified": true
+  },
+  {
+    "name": "Google Cloud Storage",
+    "description": "Object storage by Google",
+    "url": "https://cloud.google.com/storage",
+    "category": "Storage",
+    "verified": true
+  },
+  {
+    "name": "Azure Blob Storage",
+    "description": "Object storage by Microsoft",
+    "url": "https://azure.microsoft.com/en-us/products/storage/blobs/",
+    "category": "Storage",
+    "verified": true
+  },
+  {
+    "name": "MinIO",
+    "description": "High-performance, S3 compatible object storage",
+    "url": "https://min.io/",
+    "category": "Storage",
+    "popular": true,
+    "verified": true
+  },
+  {
+    "name": "Cloudinary",
+    "description": "Media management and optimization platform",
+    "url": "https://cloudinary.com/",
+    "category": "Storage",
+    "popular": true,
+    "verified": true
+  },
+  {
+    "name": "Uploadthing",
+    "description": "File uploads for full-stack TypeScript apps",
+    "url": "https://uploadthing.com/",
+    "category": "Storage",
+    "popular": true,
+    "verified": true
+  },
+  {
+    "name": "Bunny.net Storage",
+    "description": "Global edge storage platform",
+    "url": "https://bunny.net/storage/",
+    "category": "Storage",
+    "verified": true
+  },
+  {
+    "name": "Backblaze B2",
+    "description": "Affordable cloud object storage",
+    "url": "https://www.backblaze.com/b2/",
+    "category": "Storage",
+    "verified": true
+  },
+  {
+    "name": "Wasabi",
+    "description": "Hot cloud storage at cold prices",
+    "url": "https://wasabi.com/",
+    "category": "Storage",
+    "verified": true
+  },
+  {
+    "name": "DigitalOcean Spaces",
+    "description": "Simple object storage with CDN",
+    "url": "https://www.digitalocean.com/products/spaces",
+    "category": "Storage",
+    "verified": true
+  },
+  {
+    "name": "Supabase Storage",
+    "description": "S3-compatible storage by Supabase",
+    "url": "https://supabase.com/storage",
+    "category": "Storage",
+    "verified": true
+  },
+  {
+    "name": "Uppy",
+    "description": "Modular JavaScript file uploader",
+    "url": "https://uppy.io/",
+    "category": "Storage",
+    "verified": true
+  },
+  {
+    "name": "Filepond",
+    "description": "Flexible file upload library",
+    "url": "https://pqina.nl/filepond/",
+    "category": "Storage",
+    "verified": true
+  },
+  {
+    "name": "Dropzone.js",
+    "description": "Drag and drop file uploads",
+    "url": "https://www.dropzone.dev/",
+    "category": "Storage",
+    "verified": true
+  },
+  {
+    "name": "react-dropzone",
+    "description": "Simple React hook for file uploads",
+    "url": "https://react-dropzone.js.org/",
+    "category": "Storage",
+    "verified": true
+  },
+  {
+    "name": "tus",
+    "description": "Resumable file upload protocol",
+    "url": "https://tus.io/",
+    "category": "Storage",
+    "verified": true
+  },
+  {
+    "name": "imgix",
+    "description": "Real-time image processing and CDN",
+    "url": "https://imgix.com/",
+    "category": "Storage",
+    "verified": true
+  },
+  {
+    "name": "ImageKit",
+    "description": "Real-time image optimization and transformation",
+    "url": "https://imagekit.io/",
+    "category": "Storage",
+    "verified": true
+  },
+  {
+    "name": "SendGrid",
+    "description": "Cloud-based email delivery platform",
+    "url": "https://sendgrid.com/",
+    "category": "Email",
+    "popular": true,
+    "verified": true
+  },
+  {
+    "name": "Resend",
+    "description": "Email API for developers",
+    "url": "https://resend.com/",
+    "category": "Email",
+    "popular": true,
+    "verified": true
+  },
+  {
+    "name": "Postmark",
+    "description": "Transactional email service",
+    "url": "https://postmarkapp.com/",
+    "category": "Email",
+    "popular": true,
+    "verified": true
+  },
+  {
+    "name": "Mailgun",
+    "description": "Email API for sending and receiving",
+    "url": "https://www.mailgun.com/",
+    "category": "Email",
+    "popular": true,
+    "verified": true
+  },
+  {
+    "name": "Amazon SES",
+    "description": "Cloud email service by AWS",
+    "url": "https://aws.amazon.com/ses/",
+    "category": "Email",
+    "popular": true,
+    "verified": true
+  },
+  {
+    "name": "Mailchimp Transactional",
+    "description": "Transactional email by Mailchimp",
+    "url": "https://mailchimp.com/developer/transactional/",
+    "category": "Email",
+    "verified": true
+  },
+  {
+    "name": "SparkPost",
+    "description": "Email delivery service",
+    "url": "https://www.sparkpost.com/",
+    "category": "Email",
+    "verified": true
+  },
+  {
+    "name": "Nodemailer",
+    "description": "Email sending module for Node.js",
+    "url": "https://nodemailer.com/",
+    "category": "Email",
+    "popular": true,
+    "verified": true
+  },
+  {
+    "name": "React Email",
+    "description": "Build emails using React components",
+    "url": "https://react.email/",
+    "category": "Email",
+    "popular": true,
+    "verified": true
+  },
+  {
+    "name": "MJML",
+    "description": "Markup language for responsive emails",
+    "url": "https://mjml.io/",
+    "category": "Email",
+    "verified": true
+  },
+  {
+    "name": "Mailtrap",
+    "description": "Email testing and debugging platform",
+    "url": "https://mailtrap.io/",
+    "category": "Email",
+    "verified": true
+  },
+  {
+    "name": "Loops",
+    "description": "Email platform for SaaS companies",
+    "url": "https://loops.so/",
+    "category": "Email",
+    "verified": true
+  },
+  {
+    "name": "Plunk",
+    "description": "Open-source email platform",
+    "url": "https://www.useplunk.com/",
+    "category": "Email",
+    "verified": true
+  },
+  {
+    "name": "Buttondown",
+    "description": "Newsletter platform for developers",
+    "url": "https://buttondown.email/",
+    "category": "Email",
+    "verified": true
+  },
+  {
+    "name": "ConvertKit",
+    "description": "Email marketing for creators",
+    "url": "https://convertkit.com/",
+    "category": "Email",
+    "verified": true
+  },
+  {
+    "name": "PostHog",
+    "description": "Open-source product analytics platform",
+    "url": "https://posthog.com/",
+    "category": "Analytics",
+    "popular": true,
+    "verified": true
+  },
+  {
+    "name": "Mixpanel",
+    "description": "Product analytics for mobile and web",
+    "url": "https://mixpanel.com/",
+    "category": "Analytics",
+    "popular": true,
+    "verified": true
+  },
+  {
+    "name": "Amplitude",
+    "description": "Product intelligence platform",
+    "url": "https://amplitude.com/",
+    "category": "Analytics",
+    "popular": true,
+    "verified": true
+  },
+  {
+    "name": "Plausible",
+    "description": "Privacy-friendly web analytics",
+    "url": "https://plausible.io/",
+    "category": "Analytics",
+    "popular": true,
+    "verified": true
+  },
+  {
+    "name": "Fathom",
+    "description": "Simple, privacy-focused analytics",
+    "url": "https://usefathom.com/",
+    "category": "Analytics",
+    "verified": true
+  },
+  {
+    "name": "Umami",
+    "description": "Open-source, privacy-focused web analytics",
+    "url": "https://umami.is/",
+    "category": "Analytics",
+    "popular": true,
+    "verified": true
+  },
+  {
+    "name": "Google Analytics",
+    "description": "Web analytics service by Google",
+    "url": "https://analytics.google.com/",
+    "category": "Analytics",
+    "popular": true,
+    "verified": true
+  },
+  {
+    "name": "Segment",
+    "description": "Customer data platform",
+    "url": "https://segment.com/",
+    "category": "Analytics",
+    "popular": true,
+    "verified": true
+  },
+  {
+    "name": "Heap",
+    "description": "Digital insights platform",
+    "url": "https://heap.io/",
+    "category": "Analytics",
+    "verified": true
+  },
+  {
+    "name": "Hotjar",
+    "description": "Behavior analytics and feedback platform",
+    "url": "https://www.hotjar.com/",
+    "category": "Analytics",
+    "popular": true,
+    "verified": true
+  },
+  {
+    "name": "FullStory",
+    "description": "Digital experience analytics",
+    "url": "https://www.fullstory.com/",
+    "category": "Analytics",
+    "verified": true
+  },
+  {
+    "name": "LogRocket",
+    "description": "Session replay and product analytics",
+    "url": "https://logrocket.com/",
+    "category": "Analytics",
+    "verified": true
+  },
+  {
+    "name": "Matomo",
+    "description": "Open-source web analytics platform",
+    "url": "https://matomo.org/",
+    "category": "Analytics",
+    "verified": true
+  },
+  {
+    "name": "Pirsch",
+    "description": "Privacy-friendly web analytics",
+    "url": "https://pirsch.io/",
+    "category": "Analytics",
+    "verified": true
+  },
+  {
+    "name": "Simple Analytics",
+    "description": "Privacy-first analytics",
+    "url": "https://simpleanalytics.com/",
+    "category": "Analytics",
+    "verified": true
+  },
+  {
+    "name": "Splitbee",
+    "description": "Analytics and A/B testing",
+    "url": "https://splitbee.io/",
+    "category": "Analytics",
+    "verified": true
+  },
+  {
+    "name": "June",
+    "description": "Product analytics for B2B SaaS",
+    "url": "https://www.june.so/",
+    "category": "Analytics",
+    "verified": true
+  },
+  {
+    "name": "Cloudflare",
+    "description": "Global CDN and security platform",
+    "url": "https://www.cloudflare.com/",
+    "category": "CDN",
+    "popular": true,
+    "verified": true
+  },
+  {
+    "name": "Fastly",
+    "description": "Edge cloud platform and CDN",
+    "url": "https://www.fastly.com/",
+    "category": "CDN",
+    "popular": true,
+    "verified": true
+  },
+  {
+    "name": "Amazon CloudFront",
+    "description": "Content delivery network by AWS",
+    "url": "https://aws.amazon.com/cloudfront/",
+    "category": "CDN",
+    "popular": true,
+    "verified": true
+  },
+  {
+    "name": "Akamai",
+    "description": "Global content delivery network",
+    "url": "https://www.akamai.com/",
+    "category": "CDN",
+    "verified": true
+  },
+  {
+    "name": "Bunny.net",
+    "description": "Fast and affordable CDN",
+    "url": "https://bunny.net/",
+    "category": "CDN",
+    "popular": true,
+    "verified": true
+  },
+  {
+    "name": "KeyCDN",
+    "description": "High-performance content delivery network",
+    "url": "https://www.keycdn.com/",
+    "category": "CDN",
+    "verified": true
+  },
+  {
+    "name": "StackPath",
+    "description": "Edge services and CDN",
+    "url": "https://www.stackpath.com/",
+    "category": "CDN",
+    "verified": true
+  },
+  {
+    "name": "Azure CDN",
+    "description": "Content delivery network by Microsoft",
+    "url": "https://azure.microsoft.com/en-us/products/cdn/",
+    "category": "CDN",
+    "verified": true
+  },
+  {
+    "name": "Google Cloud CDN",
+    "description": "Content delivery network by Google",
+    "url": "https://cloud.google.com/cdn",
+    "category": "CDN",
+    "verified": true
+  },
+  {
+    "name": "jsDelivr",
+    "description": "Free CDN for open-source projects",
+    "url": "https://www.jsdelivr.com/",
+    "category": "CDN",
+    "verified": true
+  },
+  {
+    "name": "unpkg",
+    "description": "Fast global CDN for npm packages",
+    "url": "https://unpkg.com/",
+    "category": "CDN",
+    "verified": true
+  },
+  {
+    "name": "cdnjs",
+    "description": "Free CDN for JavaScript libraries",
+    "url": "https://cdnjs.com/",
+    "category": "CDN",
+    "verified": true
+  },
+  {
+    "name": "esm.sh",
+    "description": "CDN for ES modules",
+    "url": "https://esm.sh/",
+    "category": "CDN",
+    "verified": true
+  },
+  {
+    "name": "PayPal",
+    "description": "Online payment system",
+    "url": "https://www.paypal.com/",
+    "category": "Payment",
+    "popular": true,
+    "verified": true
+  },
+  {
+    "name": "LemonSqueezy",
+    "description": "Merchant of record for digital products",
+    "url": "https://www.lemonsqueezy.com/",
+    "category": "Payment",
+    "popular": true,
+    "verified": true
+  },
+  {
+    "name": "Paddle",
+    "description": "Payment infrastructure for SaaS",
+    "url": "https://www.paddle.com/",
+    "category": "Payment",
+    "popular": true,
+    "verified": true
+  },
+  {
+    "name": "Gumroad",
+    "description": "E-commerce platform for creators",
+    "url": "https://gumroad.com/",
+    "category": "Payment",
+    "verified": true
+  },
+  {
+    "name": "Square",
+    "description": "Financial services and payment platform",
+    "url": "https://squareup.com/",
+    "category": "Payment",
+    "popular": true,
+    "verified": true
+  },
+  {
+    "name": "Braintree",
+    "description": "Payment platform by PayPal",
+    "url": "https://www.braintreepayments.com/",
+    "category": "Payment",
+    "verified": true
+  },
+  {
+    "name": "Adyen",
+    "description": "Global payment platform",
+    "url": "https://www.adyen.com/",
+    "category": "Payment",
+    "verified": true
+  },
+  {
+    "name": "Chargebee",
+    "description": "Subscription billing and revenue management",
+    "url": "https://www.chargebee.com/",
+    "category": "Payment",
+    "verified": true
+  },
+  {
+    "name": "Recurly",
+    "description": "Subscription management platform",
+    "url": "https://recurly.com/",
+    "category": "Payment",
+    "verified": true
+  },
+  {
+    "name": "Wise",
+    "description": "International money transfers",
+    "url": "https://wise.com/",
+    "category": "Payment",
+    "verified": true
+  },
+  {
+    "name": "Ko-fi",
+    "description": "Support platform for creators",
+    "url": "https://ko-fi.com/",
+    "category": "Payment",
+    "verified": true
+  },
+  {
+    "name": "Buy Me a Coffee",
+    "description": "Support platform for creators",
+    "url": "https://www.buymeacoffee.com/",
+    "category": "Payment",
+    "verified": true
+  },
+  {
+    "name": "Polar",
+    "description": "Funding platform for open-source",
+    "url": "https://polar.sh/",
+    "category": "Payment",
+    "verified": true
+  },
+  {
+    "name": "Open Collective",
+    "description": "Financial platform for communities",
+    "url": "https://opencollective.com/",
+    "category": "Payment",
+    "verified": true
+  },
+  {
+    "name": "AWS Lambda",
+    "description": "Serverless compute service by Amazon",
+    "url": "https://aws.amazon.com/lambda/",
+    "category": "Serverless",
+    "popular": true,
+    "verified": true
+  },
+  {
+    "name": "Cloudflare Workers",
+    "description": "Serverless execution at the edge",
+    "url": "https://workers.cloudflare.com/",
+    "category": "Serverless",
+    "popular": true,
+    "verified": true
+  },
+  {
+    "name": "Vercel Functions",
+    "description": "Serverless functions on Vercel",
+    "url": "https://vercel.com/docs/functions",
+    "category": "Serverless",
+    "popular": true,
+    "verified": true
+  },
+  {
+    "name": "Netlify Functions",
+    "description": "Serverless functions on Netlify",
+    "url": "https://www.netlify.com/products/functions/",
+    "category": "Serverless",
+    "verified": true
+  },
+  {
+    "name": "Google Cloud Functions",
+    "description": "Event-driven serverless compute",
+    "url": "https://cloud.google.com/functions",
+    "category": "Serverless",
+    "verified": true
+  },
+  {
+    "name": "Azure Functions",
+    "description": "Serverless compute by Microsoft",
+    "url": "https://azure.microsoft.com/en-us/products/functions/",
+    "category": "Serverless",
+    "verified": true
+  },
+  {
+    "name": "Supabase Edge Functions",
+    "description": "Serverless functions by Supabase",
+    "url": "https://supabase.com/edge-functions",
+    "category": "Serverless",
+    "verified": true
+  },
+  {
+    "name": "Fastly Compute",
+    "description": "Serverless compute at the edge",
+    "url": "https://www.fastly.com/products/edge-compute",
+    "category": "Serverless",
+    "verified": true
+  },
+  {
+    "name": "AWS Fargate",
+    "description": "Serverless containers on AWS",
+    "url": "https://aws.amazon.com/fargate/",
+    "category": "Serverless",
+    "verified": true
+  },
+  {
+    "name": "Google Cloud Run",
+    "description": "Serverless containers by Google",
+    "url": "https://cloud.google.com/run",
+    "category": "Serverless",
+    "popular": true,
+    "verified": true
+  },
+  {
+    "name": "Azure Container Apps",
+    "description": "Serverless containers by Microsoft",
+    "url": "https://azure.microsoft.com/en-us/products/container-apps/",
+    "category": "Serverless",
+    "verified": true
+  },
+  {
+    "name": "Serverless Framework",
+    "description": "Framework for building serverless apps",
+    "url": "https://www.serverless.com/",
+    "category": "Serverless",
+    "verified": true
+  },
+  {
+    "name": "SST",
+    "description": "Build full-stack apps on AWS",
+    "url": "https://sst.dev/",
+    "category": "Serverless",
+    "popular": true,
+    "verified": true
+  },
+  {
+    "name": "Architect",
+    "description": "Build serverless apps on AWS",
+    "url": "https://arc.codes/",
+    "category": "Serverless",
+    "verified": true
+  },
+  {
+    "name": "Modal",
+    "description": "Serverless cloud for AI/ML workloads",
+    "url": "https://modal.com/",
+    "category": "Serverless",
+    "verified": true
+  },
+  {
+    "name": "Beam",
+    "description": "Serverless GPU cloud",
+    "url": "https://beam.cloud/",
+    "category": "Serverless",
+    "verified": true
+  },
+  {
+    "name": "Deno",
+    "description": "Secure runtime for JavaScript and TypeScript",
+    "url": "https://deno.com/",
+    "category": "Runtime",
+    "popular": true,
+    "verified": true
+  },
+  {
+    "name": "JVM",
+    "description": "Java Virtual Machine",
+    "url": "https://www.java.com/",
+    "category": "Runtime",
+    "popular": true,
+    "verified": true
+  },
+  {
+    "name": ".NET Runtime",
+    "description": "Runtime for .NET applications",
+    "url": "https://dotnet.microsoft.com/",
+    "category": "Runtime",
+    "popular": true,
+    "verified": true
+  },
+  {
+    "name": "Python Runtime",
+    "description": "CPython interpreter",
+    "url": "https://www.python.org/",
+    "category": "Runtime",
+    "popular": true,
+    "verified": true
+  },
+  {
+    "name": "GraalVM",
+    "description": "High-performance polyglot VM",
+    "url": "https://www.graalvm.org/",
+    "category": "Runtime",
+    "verified": true
+  },
+  {
+    "name": "WASM Runtime",
+    "description": "WebAssembly runtime environments",
+    "url": "https://webassembly.org/",
+    "category": "Runtime",
+    "verified": true
+  },
+  {
+    "name": "Wasmtime",
+    "description": "Fast and secure WebAssembly runtime",
+    "url": "https://wasmtime.dev/",
+    "category": "Runtime",
+    "verified": true
+  },
+  {
+    "name": "WasmEdge",
+    "description": "Lightweight WebAssembly runtime",
+    "url": "https://wasmedge.org/",
+    "category": "Runtime",
+    "verified": true
+  },
+  {
+    "name": "Spin",
+    "description": "Framework for WebAssembly microservices",
+    "url": "https://www.fermyon.com/spin",
+    "category": "Runtime",
+    "verified": true
+  },
+  {
+    "name": "Framer",
+    "description": "Website builder with design tools",
+    "url": "https://www.framer.com/",
+    "category": "Design",
+    "popular": true,
+    "verified": true
+  },
+  {
+    "name": "Sketch",
+    "description": "Digital design toolkit for macOS",
+    "url": "https://www.sketch.com/",
+    "category": "Design",
+    "popular": true,
+    "verified": true
+  },
+  {
+    "name": "Adobe XD",
+    "description": "UI/UX design and prototyping tool",
+    "url": "https://www.adobe.com/products/xd.html",
+    "category": "Design",
+    "verified": true
+  },
+  {
+    "name": "Penpot",
+    "description": "Open-source design and prototyping platform",
+    "url": "https://penpot.app/",
+    "category": "Design",
+    "verified": true
+  },
+  {
+    "name": "Zeplin",
+    "description": "Design handoff and collaboration",
+    "url": "https://zeplin.io/",
+    "category": "Design",
+    "verified": true
+  },
+  {
+    "name": "InVision",
+    "description": "Digital product design platform",
+    "url": "https://www.invisionapp.com/",
+    "category": "Design",
+    "verified": true
+  },
+  {
+    "name": "Storybook",
+    "description": "UI component workshop",
+    "url": "https://storybook.js.org/",
+    "category": "Design",
+    "popular": true,
+    "verified": true
+  },
+  {
+    "name": "Chromatic",
+    "description": "Visual testing for Storybook",
+    "url": "https://www.chromatic.com/",
+    "category": "Design",
+    "verified": true
+  },
+  {
+    "name": "Excalidraw",
+    "description": "Virtual whiteboard for sketching",
+    "url": "https://excalidraw.com/",
+    "category": "Design",
+    "popular": true,
+    "verified": true
+  },
+  {
+    "name": "tldraw",
+    "description": "Collaborative digital whiteboard",
+    "url": "https://www.tldraw.com/",
+    "category": "Design",
+    "verified": true
+  },
+  {
+    "name": "Whimsical",
+    "description": "Visual collaboration workspace",
+    "url": "https://whimsical.com/",
+    "category": "Design",
+    "verified": true
+  },
+  {
+    "name": "Lucidchart",
+    "description": "Diagramming and visual collaboration",
+    "url": "https://www.lucidchart.com/",
+    "category": "Design",
+    "verified": true
+  },
+  {
+    "name": "Draw.io",
+    "description": "Free online diagram software",
+    "url": "https://www.drawio.com/",
+    "category": "Design",
+    "verified": true
+  },
+  {
+    "name": "Eraser",
+    "description": "Whiteboard for engineering teams",
+    "url": "https://www.eraser.io/",
+    "category": "Design",
+    "verified": true
+  },
+  {
+    "name": "Spline",
+    "description": "3D design tool for the web",
+    "url": "https://spline.design/",
+    "category": "Design",
+    "verified": true
+  },
+  {
+    "name": "Rive",
+    "description": "Create interactive animations",
+    "url": "https://rive.app/",
+    "category": "Design",
+    "verified": true
+  },
+  {
+    "name": "Linear",
+    "description": "Issue tracking for high-performance teams",
+    "url": "https://linear.app/",
+    "category": "Collaboration",
+    "popular": true,
+    "verified": true
+  },
+  {
+    "name": "Slack",
+    "description": "Business communication platform",
+    "url": "https://slack.com/",
+    "category": "Collaboration",
+    "popular": true,
+    "verified": true
+  },
+  {
+    "name": "Discord",
+    "description": "Voice, video, and text communication",
+    "url": "https://discord.com/",
+    "category": "Collaboration",
+    "popular": true,
+    "verified": true
+  },
+  {
+    "name": "ClickUp",
+    "description": "All-in-one productivity platform",
+    "url": "https://clickup.com/",
+    "category": "Collaboration",
+    "verified": true
+  },
+  {
+    "name": "Height",
+    "description": "Autonomous project management tool",
+    "url": "https://height.app/",
+    "category": "Collaboration",
+    "verified": true
+  },
+  {
+    "name": "Plane",
+    "description": "Open-source project management",
+    "url": "https://plane.so/",
+    "category": "Collaboration",
+    "verified": true
+  },
+  {
+    "name": "Loom",
+    "description": "Async video messaging for teams",
+    "url": "https://www.loom.com/",
+    "category": "Collaboration",
+    "verified": true
+  },
+  {
+    "name": "Zoom",
+    "description": "Video communications platform",
+    "url": "https://zoom.us/",
+    "category": "Collaboration",
+    "popular": true,
+    "verified": true
+  },
+  {
+    "name": "Microsoft Teams",
+    "description": "Business communication platform",
+    "url": "https://www.microsoft.com/en-us/microsoft-teams/",
+    "category": "Collaboration",
+    "popular": true,
+    "verified": true
+  },
+  {
+    "name": "Gather",
+    "description": "Virtual office for remote teams",
+    "url": "https://www.gather.town/",
+    "category": "Collaboration",
+    "verified": true
+  },
+  {
+    "name": "Tuple",
+    "description": "Remote pair programming app",
+    "url": "https://tuple.app/",
+    "category": "Collaboration",
+    "verified": true
+  },
+  {
+    "name": "Pop",
+    "description": "Screen sharing for developers",
+    "url": "https://pop.com/",
+    "category": "Collaboration",
+    "verified": true
+  },
+  {
+    "name": "Obsidian",
+    "description": "Private knowledge base with Markdown",
+    "url": "https://obsidian.md/",
+    "category": "Collaboration",
+    "popular": true,
+    "verified": true
+  },
+  {
+    "name": "Cron",
+    "description": "Calendar for professionals",
+    "url": "https://cron.com/",
+    "category": "Collaboration",
+    "verified": true
+  },
+  {
+    "name": "Cal.com",
+    "description": "Open-source scheduling infrastructure",
+    "url": "https://cal.com/",
+    "category": "Collaboration",
+    "verified": true
+  },
+  {
+    "name": "Calendly",
+    "description": "Scheduling automation platform",
+    "url": "https://calendly.com/",
+    "category": "Collaboration",
+    "verified": true
+  },
+  {
+    "name": "Docusaurus",
+    "description": "Build optimized documentation websites",
+    "url": "https://docusaurus.io/",
+    "category": "Documentation",
+    "popular": true,
+    "verified": true
+  },
+  {
+    "name": "Mintlify",
+    "description": "Beautiful documentation for developers",
+    "url": "https://mintlify.com/",
+    "category": "Documentation",
+    "popular": true,
+    "verified": true
+  },
+  {
+    "name": "GitBook",
+    "description": "Documentation platform for teams",
+    "url": "https://www.gitbook.com/",
+    "category": "Documentation",
+    "popular": true,
+    "verified": true
+  },
+  {
+    "name": "ReadMe",
+    "description": "API documentation platform",
+    "url": "https://readme.com/",
+    "category": "Documentation",
+    "verified": true
+  },
+  {
+    "name": "VitePress",
+    "description": "Vite-powered static site generator",
+    "url": "https://vitepress.dev/",
+    "category": "Documentation",
+    "popular": true,
+    "verified": true
+  },
+  {
+    "name": "Nextra",
+    "description": "Next.js-based documentation theme",
+    "url": "https://nextra.site/",
+    "category": "Documentation",
+    "verified": true
+  },
+  {
+    "name": "Starlight",
+    "description": "Documentation template for Astro",
+    "url": "https://starlight.astro.build/",
+    "category": "Documentation",
+    "verified": true
+  },
+  {
+    "name": "MkDocs",
+    "description": "Project documentation with Markdown",
+    "url": "https://www.mkdocs.org/",
+    "category": "Documentation",
+    "verified": true
+  },
+  {
+    "name": "Material for MkDocs",
+    "description": "Material Design theme for MkDocs",
+    "url": "https://squidfunk.github.io/mkdocs-material/",
+    "category": "Documentation",
+    "popular": true,
+    "verified": true
+  },
+  {
+    "name": "Sphinx",
+    "description": "Documentation generator for Python",
+    "url": "https://www.sphinx-doc.org/",
+    "category": "Documentation",
+    "verified": true
+  },
+  {
+    "name": "Read the Docs",
+    "description": "Documentation hosting platform",
+    "url": "https://readthedocs.org/",
+    "category": "Documentation",
+    "verified": true
+  },
+  {
+    "name": "Swagger UI",
+    "description": "API documentation from OpenAPI specs",
+    "url": "https://swagger.io/tools/swagger-ui/",
+    "category": "Documentation",
+    "verified": true
+  },
+  {
+    "name": "Redoc",
+    "description": "OpenAPI/Swagger documentation generator",
+    "url": "https://redocly.com/redoc/",
+    "category": "Documentation",
+    "verified": true
+  },
+  {
+    "name": "Stoplight",
+    "description": "API design and documentation platform",
+    "url": "https://stoplight.io/",
+    "category": "Documentation",
+    "verified": true
+  },
+  {
+    "name": "Archbee",
+    "description": "Documentation platform for teams",
+    "url": "https://www.archbee.com/",
+    "category": "Documentation",
+    "verified": true
+  },
+  {
+    "name": "Confluence",
+    "description": "Team workspace by Atlassian",
+    "url": "https://www.atlassian.com/software/confluence",
+    "category": "Documentation",
+    "verified": true
+  },
+  {
+    "name": "Outline",
+    "description": "Open-source team knowledge base",
+    "url": "https://www.getoutline.com/",
+    "category": "Documentation",
+    "verified": true
+  },
+  {
+    "name": "Slite",
+    "description": "Knowledge base for teams",
+    "url": "https://slite.com/",
+    "category": "Documentation",
+    "verified": true
+  },
+  {
+    "name": "LaunchDarkly",
+    "description": "Feature management platform",
+    "url": "https://launchdarkly.com/",
+    "category": "Feature Flags",
+    "popular": true,
+    "verified": true
+  },
+  {
+    "name": "Flagsmith",
+    "description": "Open-source feature flag management",
+    "url": "https://www.flagsmith.com/",
+    "category": "Feature Flags",
+    "popular": true,
+    "verified": true
+  },
+  {
+    "name": "PostHog Feature Flags",
+    "description": "Feature flags with PostHog",
+    "url": "https://posthog.com/feature-flags",
+    "category": "Feature Flags",
+    "verified": true
+  },
+  {
+    "name": "Split",
+    "description": "Feature delivery platform",
+    "url": "https://www.split.io/",
+    "category": "Feature Flags",
+    "verified": true
+  },
+  {
+    "name": "ConfigCat",
+    "description": "Feature flag service",
+    "url": "https://configcat.com/",
+    "category": "Feature Flags",
+    "verified": true
+  },
+  {
+    "name": "Unleash",
+    "description": "Open-source feature flag management",
+    "url": "https://www.getunleash.io/",
+    "category": "Feature Flags",
+    "verified": true
+  },
+  {
+    "name": "GrowthBook",
+    "description": "Open-source feature flags and A/B testing",
+    "url": "https://www.growthbook.io/",
+    "category": "Feature Flags",
+    "popular": true,
+    "verified": true
+  },
+  {
+    "name": "Statsig",
+    "description": "Feature flags and experimentation",
+    "url": "https://statsig.com/",
+    "category": "Feature Flags",
+    "verified": true
+  },
+  {
+    "name": "Eppo",
+    "description": "Experimentation and feature flagging",
+    "url": "https://www.geteppo.com/",
+    "category": "Feature Flags",
+    "verified": true
+  },
+  {
+    "name": "DevCycle",
+    "description": "Feature flag management platform",
+    "url": "https://devcycle.com/",
+    "category": "Feature Flags",
+    "verified": true
+  },
+  {
+    "name": "Flipt",
+    "description": "Open-source feature flag solution",
+    "url": "https://www.flipt.io/",
+    "category": "Feature Flags",
+    "verified": true
+  },
+  {
+    "name": "Optimizely",
+    "description": "Digital experience platform",
+    "url": "https://www.optimizely.com/",
+    "category": "Feature Flags",
+    "verified": true
+  },
+  {
+    "name": "VWO",
+    "description": "A/B testing and experimentation",
+    "url": "https://vwo.com/",
+    "category": "Feature Flags",
+    "verified": true
+  },
+  {
+    "name": "OpenAI API",
+    "description": "API for GPT models and AI services",
+    "url": "https://platform.openai.com/",
+    "category": "AI/ML",
+    "popular": true,
+    "verified": true
+  },
+  {
+    "name": "Anthropic Claude",
+    "description": "AI assistant API by Anthropic",
+    "url": "https://www.anthropic.com/",
+    "category": "AI/ML",
+    "popular": true,
+    "verified": true
+  },
+  {
+    "name": "Google Gemini",
+    "description": "Multimodal AI model by Google",
+    "url": "https://deepmind.google/technologies/gemini/",
+    "category": "AI/ML",
+    "popular": true,
+    "verified": true
+  },
+  {
+    "name": "LangChain",
+    "description": "Framework for LLM applications",
+    "url": "https://www.langchain.com/",
+    "category": "AI/ML",
+    "popular": true,
+    "verified": true
+  },
+  {
+    "name": "LlamaIndex",
+    "description": "Data framework for LLM applications",
+    "url": "https://www.llamaindex.ai/",
+    "category": "AI/ML",
+    "popular": true,
+    "verified": true
+  },
+  {
+    "name": "Ollama",
+    "description": "Run LLMs locally",
+    "url": "https://ollama.ai/",
+    "category": "AI/ML",
+    "popular": true,
+    "verified": true
+  },
+  {
+    "name": "LM Studio",
+    "description": "Desktop app for local LLMs",
+    "url": "https://lmstudio.ai/",
+    "category": "AI/ML",
+    "verified": true
+  },
+  {
+    "name": "Replicate",
+    "description": "Run ML models in the cloud",
+    "url": "https://replicate.com/",
+    "category": "AI/ML",
+    "popular": true,
+    "verified": true
+  },
+  {
+    "name": "Together AI",
+    "description": "Fast inference for open-source models",
+    "url": "https://www.together.ai/",
+    "category": "AI/ML",
+    "verified": true
+  },
+  {
+    "name": "Groq",
+    "description": "Fast AI inference",
+    "url": "https://groq.com/",
+    "category": "AI/ML",
+    "popular": true,
+    "verified": true
+  },
+  {
+    "name": "Fireworks AI",
+    "description": "Fast generative AI platform",
+    "url": "https://fireworks.ai/",
+    "category": "AI/ML",
+    "verified": true
+  },
+  {
+    "name": "Anyscale",
+    "description": "Platform for scaling AI applications",
+    "url": "https://www.anyscale.com/",
+    "category": "AI/ML",
+    "verified": true
+  },
+  {
+    "name": "Keras",
+    "description": "Deep learning API for Python",
+    "url": "https://keras.io/",
+    "category": "AI/ML",
+    "popular": true,
+    "verified": true
+  },
+  {
+    "name": "JAX",
+    "description": "High-performance numerical computing",
+    "url": "https://jax.readthedocs.io/",
+    "category": "AI/ML",
+    "verified": true
+  },
+  {
+    "name": "Weights & Biases",
+    "description": "ML experiment tracking",
+    "url": "https://wandb.ai/",
+    "category": "AI/ML",
+    "popular": true,
+    "verified": true
+  },
+  {
+    "name": "Comet ML",
+    "description": "ML experiment management",
+    "url": "https://www.comet.com/",
+    "category": "AI/ML",
+    "verified": true
+  },
+  {
+    "name": "DVC",
+    "description": "Data version control for ML",
+    "url": "https://dvc.org/",
+    "category": "AI/ML",
+    "verified": true
+  },
+  {
+    "name": "Label Studio",
+    "description": "Data labeling platform",
+    "url": "https://labelstud.io/",
+    "category": "AI/ML",
+    "verified": true
+  },
+  {
+    "name": "Roboflow",
+    "description": "Computer vision developer tools",
+    "url": "https://roboflow.com/",
+    "category": "AI/ML",
+    "verified": true
+  },
+  {
+    "name": "Vercel AI SDK",
+    "description": "Build AI-powered apps with React",
+    "url": "https://sdk.vercel.ai/",
+    "category": "AI/ML",
+    "popular": true,
+    "verified": true
+  },
+  {
+    "name": "OpenRouter",
+    "description": "Unified API for LLMs",
+    "url": "https://openrouter.ai/",
+    "category": "AI/ML",
+    "verified": true
+  },
+  {
+    "name": "Midjourney",
+    "description": "AI image generation",
+    "url": "https://www.midjourney.com/",
+    "category": "AI/ML",
+    "popular": true,
+    "verified": true
+  },
+  {
+    "name": "DALL-E",
+    "description": "AI image generation by OpenAI",
+    "url": "https://openai.com/dall-e-3",
+    "category": "AI/ML",
+    "popular": true,
+    "verified": true
+  },
+  {
+    "name": "ElevenLabs",
+    "description": "AI voice generation",
+    "url": "https://elevenlabs.io/",
+    "category": "AI/ML",
+    "verified": true
+  },
+  {
+    "name": "Whisper",
+    "description": "Speech recognition model by OpenAI",
+    "url": "https://openai.com/research/whisper",
+    "category": "AI/ML",
+    "verified": true
+  },
+  {
+    "name": "AssemblyAI",
+    "description": "Speech-to-text API",
+    "url": "https://www.assemblyai.com/",
+    "category": "AI/ML",
+    "verified": true
+  },
+  {
+    "name": "Deepgram",
+    "description": "Speech recognition platform",
+    "url": "https://deepgram.com/",
+    "category": "AI/ML",
+    "verified": true
+  },
+  {
+    "name": "Pinecone",
+    "description": "Vector database for AI",
+    "url": "https://www.pinecone.io/",
+    "category": "AI/ML",
+    "popular": true,
+    "verified": true
+  },
+  {
+    "name": "Weaviate",
+    "description": "Open-source vector database",
+    "url": "https://weaviate.io/",
+    "category": "AI/ML",
+    "popular": true,
+    "verified": true
+  },
+  {
+    "name": "Qdrant",
+    "description": "Vector similarity search engine",
+    "url": "https://qdrant.tech/",
+    "category": "AI/ML",
+    "verified": true
+  },
+  {
+    "name": "Milvus",
+    "description": "Open-source vector database",
+    "url": "https://milvus.io/",
+    "category": "AI/ML",
+    "verified": true
+  },
+  {
+    "name": "Chroma",
+    "description": "Open-source embedding database",
+    "url": "https://www.trychroma.com/",
+    "category": "AI/ML",
+    "popular": true,
+    "verified": true
+  },
+  {
+    "name": "pgvector",
+    "description": "Vector extension for PostgreSQL",
+    "url": "https://github.com/pgvector/pgvector",
+    "category": "AI/ML",
+    "verified": true
+  },
+  {
+    "name": "Haystack",
+    "description": "LLM framework for building AI apps",
+    "url": "https://haystack.deepset.ai/",
+    "category": "AI/ML",
+    "verified": true
+  },
+  {
+    "name": "Semantic Kernel",
+    "description": "AI orchestration SDK by Microsoft",
+    "url": "https://learn.microsoft.com/en-us/semantic-kernel/",
+    "category": "AI/ML",
+    "verified": true
+  },
+  {
+    "name": "AutoGPT",
+    "description": "Autonomous AI agent",
+    "url": "https://autogpt.net/",
+    "category": "AI/ML",
+    "verified": true
+  },
+  {
+    "name": "CrewAI",
+    "description": "Framework for orchestrating AI agents",
+    "url": "https://www.crewai.com/",
+    "category": "AI/ML",
+    "verified": true
+  },
+  {
+    "name": "Langfuse",
+    "description": "LLM observability platform",
+    "url": "https://langfuse.com/",
+    "category": "AI/ML",
+    "verified": true
+  },
+  {
+    "name": "PromptLayer",
+    "description": "Prompt engineering platform",
+    "url": "https://promptlayer.com/",
+    "category": "AI/ML",
+    "verified": true
+  },
+  {
+    "name": "Helicone",
+    "description": "LLM observability and monitoring",
+    "url": "https://www.helicone.ai/",
+    "category": "AI/ML",
+    "verified": true
   }
 ]
