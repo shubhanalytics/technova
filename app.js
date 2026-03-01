@@ -440,18 +440,81 @@ function createCard(item, isPopular = false) {
   // External link icon
   const linkIcon = isValidUrl ? `<span class="link-icon" aria-hidden="true">↗</span>` : '';
   
-  card.innerHTML = `
-    <h3>
-      ${statusDot}
-      <a href="${safeUrl}" target="_blank" rel="noopener noreferrer" class="item-link">
-        ${safeName}
-        ${linkIcon}
-      </a>
-    </h3>
-    ${safeDesc ? `<p class="description">${safeDesc}</p>` : ''}
-  `;
+  if (isActive) {
+    card.innerHTML = `
+      <h3>
+        ${statusDot}
+        <a href="${safeUrl}" target="_blank" rel="noopener noreferrer" class="item-link">
+          ${safeName}
+          ${linkIcon}
+        </a>
+      </h3>
+      ${safeDesc ? `<p class="description">${safeDesc}</p>` : ''}
+    `;
+  } else {
+    // Inactive item - show message on click
+    card.innerHTML = `
+      <h3>
+        ${statusDot}
+        <span class="item-link inactive-link" tabindex="0" role="button" aria-label="${safeName} - Discontinued project">
+          ${safeName}
+        </span>
+      </h3>
+      ${safeDesc ? `<p class="description">${safeDesc}</p>` : ''}
+      <p class="inactive-notice">This project has been discontinued or is no longer maintained.</p>
+    `;
+    
+    // Add click handler for inactive items
+    const inactiveLink = card.querySelector('.inactive-link');
+    inactiveLink.addEventListener('click', () => {
+      showToast(`${displayName} is no longer active. This project has been discontinued, acquired, or is no longer maintained.`);
+    });
+    inactiveLink.addEventListener('keydown', (e) => {
+      if (e.key === 'Enter' || e.key === ' ') {
+        e.preventDefault();
+        showToast(`${displayName} is no longer active. This project has been discontinued, acquired, or is no longer maintained.`);
+      }
+    });
+  }
   
   return card;
+}
+
+// ============================================
+// Toast Notification
+// ============================================
+function showToast(message) {
+  // Remove existing toast if any
+  const existing = document.querySelector('.toast');
+  if (existing) existing.remove();
+  
+  const toast = document.createElement('div');
+  toast.className = 'toast';
+  toast.setAttribute('role', 'alert');
+  toast.innerHTML = `
+    <span class="toast-icon">⚠️</span>
+    <span class="toast-message">${escapeHtml(message)}</span>
+    <button class="toast-close" aria-label="Close">&times;</button>
+  `;
+  
+  document.body.appendChild(toast);
+  
+  // Trigger animation
+  requestAnimationFrame(() => toast.classList.add('show'));
+  
+  // Close button
+  toast.querySelector('.toast-close').addEventListener('click', () => {
+    toast.classList.remove('show');
+    setTimeout(() => toast.remove(), 300);
+  });
+  
+  // Auto dismiss after 5 seconds
+  setTimeout(() => {
+    if (toast.parentNode) {
+      toast.classList.remove('show');
+      setTimeout(() => toast.remove(), 300);
+    }
+  }, 5000);
 }
 
 // ============================================
