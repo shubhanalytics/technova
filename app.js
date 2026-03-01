@@ -11,8 +11,11 @@ const ALPHABET = 'ABCDEFGHIJKLMNOPQRSTUVWXYZ#'.split('');
 const CATEGORY_ORDER = [
   'Programming Language',
   'Framework',
+  'Library',
   'Database',
   'API',
+  'Authentication',
+  'Hosting',
   'DevOps',
   'Container',
   'Testing',
