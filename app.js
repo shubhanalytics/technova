@@ -374,10 +374,16 @@ function createCard(item, isPopular = false) {
     ? `<span class="status-dot active" title="Active - Link verified"></span>`
     : `<span class="status-dot inactive" title="Inactive - Historical/Legacy project"></span>`;
   
+  // External link icon
+  const linkIcon = isValidUrl ? `<span class="link-icon" aria-hidden="true">↗</span>` : '';
+  
   card.innerHTML = `
     <h3>
       ${statusDot}
-      <a href="${safeUrl}" target="_blank" rel="noopener noreferrer">${safeName}</a>
+      <a href="${safeUrl}" target="_blank" rel="noopener noreferrer" class="item-link">
+        ${safeName}
+        ${linkIcon}
+      </a>
     </h3>
     ${safeDesc ? `<p class="description">${safeDesc}</p>` : ''}
   `;
