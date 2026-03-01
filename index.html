@@ -16,6 +16,9 @@
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Poppins:wght@600;700&display=swap" rel="stylesheet">
   
+  <!-- Favicon -->
+  <link rel="icon" type="image/svg+xml" href="favicon.svg">
+  
   <!-- Styles -->
   <link rel="stylesheet" href="styles.css">
 </head>
@@ -29,17 +32,32 @@
       <div class="brand-row">
         <!-- Logo -->
         <div class="logo-wrap" aria-hidden="true">
-          <svg class="logo-svg" width="40" height="40" viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Technova logo">
+          <svg class="logo-svg" width="44" height="44" viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Technova logo">
             <defs>
               <linearGradient id="logo-gradient" x1="0" x2="1" y1="0" y2="1">
-                <stop offset="0%" stop-color="#8B5CF6"/>
+                <stop offset="0%" stop-color="#A78BFA"/>
+                <stop offset="50%" stop-color="#8B5CF6"/>
                 <stop offset="100%" stop-color="#06B6D4"/>
               </linearGradient>
+              <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+                <feGaussianBlur stdDeviation="2" result="blur"/>
+                <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+              </filter>
             </defs>
-            <circle cx="24" cy="24" r="10" fill="url(#logo-gradient)" opacity="0.95"/>
-            <g class="orbit" stroke="rgba(255,255,255,0.2)" stroke-width="1.2" fill="none">
-              <ellipse cx="24" cy="24" rx="16" ry="7" transform="rotate(-25 24 24)"/>
+            <!-- Starburst rays -->
+            <g stroke="url(#logo-gradient)" stroke-width="1.5" opacity="0.5" stroke-linecap="round">
+              <line x1="24" y1="6" x2="24" y2="12"/>
+              <line x1="24" y1="36" x2="24" y2="42"/>
+              <line x1="6" y1="24" x2="12" y2="24"/>
+              <line x1="36" y1="24" x2="42" y2="24"/>
             </g>
+            <!-- Orbit ring -->
+            <g class="orbit" stroke="rgba(167,139,250,0.3)" stroke-width="1" fill="none">
+              <ellipse cx="24" cy="24" rx="16" ry="6" transform="rotate(-20 24 24)"/>
+            </g>
+            <!-- Core nova -->
+            <circle cx="24" cy="24" r="8" fill="url(#logo-gradient)" filter="url(#glow)"/>
+            <circle cx="24" cy="24" r="4" fill="#fff" opacity="0.9"/>
           </svg>
         </div>
         
