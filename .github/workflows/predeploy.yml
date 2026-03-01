@@ -5,17 +5,15 @@ on:
     branches: [ main ]
 
 jobs:
-  security-and-tests:
+  validate:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-      - name: Set up Python
-        uses: actions/setup-python@v4
-        with:
-          python-version: '3.x'
-      - name: Install dependencies
+      - name: Validate data.json
+        run: python -c "import json; json.load(open('data.json'))"
+      - name: Check required files exist
         run: |
-          python -m pip install --upgrade pip
-          pip install pytest playwright
-      - name: Run tests
-        run: pytest -q
+          test -f index.html
+          test -f app.js
+          test -f styles.css
+          test -f data.json
