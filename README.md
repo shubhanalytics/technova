@@ -1,29 +1,90 @@
-# technova — simple static directory
+# Technova — Discover tech at a glance
 
-Live demo: https://shubhanalytics.github.io/technova/
+[![Live Demo](https://img.shields.io/badge/demo-live-brightgreen)](https://shubhanalytics.github.io/technova/)
+[![Resources](https://img.shields.io/badge/resources-2%2C200%2B-blue)]()
+[![Categories](https://img.shields.io/badge/categories-50-purple)]()
 
-This is a minimal static site for the "technova" directory: a searchable, sortable list of programming languages, tools, frameworks, and startups.
+A lightweight, privacy-focused directory for discovering technology tools, frameworks, programming languages, and developer resources.
 
-Quick start
+**Live demo:** https://shubhanalytics.github.io/technova/
 
-1. Open `index.html` in your browser. (Modern browsers disallow `fetch` from `file://` in some setups.)
-2. Or run a simple local server from the project folder:
+## Features
 
+- **2,200+ Resources** across 50 categories
+- **Fast Search** — instant filtering as you type
+- **Privacy-First** — no tracking, no cookies, no analytics
+- **Accessible** — keyboard navigation, screen reader support
+- **Mobile-Friendly** — responsive design for all devices
+- **Open Source** — community-maintained, MIT license
+
+## Categories
+
+| Development | Data & AI | Infrastructure | Business |
+|-------------|-----------|----------------|----------|
+| Programming Languages | AI/ML | Cloud | Business Tools |
+| Libraries | Data Science | Hosting | Payment |
+| Frontend | Data Engineering | Container | Email |
+| Backend | Database | DevOps | Collaboration |
+| Testing | Analytics | Security | Design |
+
+## Quick Start
+
+1. Clone the repository:
+```bash
+git clone https://github.com/shubhanalytics/technova.git
+cd technova
+```
+
+2. Start a local server:
 ```bash
 # Python 3
 python -m http.server 8000
 
-# then open http://localhost:8000
+# Then open http://localhost:8000
 ```
 
-Files
+## Project Structure
 
-- `index.html` — main UI
-- `styles.css` — styles
-- `app.js` — logic (loads `data.json`)
-- `data.json` — sample data (edit to add entries)
+```
+technova/
+├── index.html          # Main application
+├── about.html          # About page
+├── community.html      # Community page
+├── contribute.html     # Contribution form
+├── styles.css          # Stylesheet
+├── app.js              # Application logic
+├── data.json           # Resource database
+└── scripts/            # Utility scripts
+```
 
-Next steps (optional):
+## Contributing
 
-- Add a small admin UI to add items (if you want persistence, add a backend and DB).
-- Add categories/sectors/states as you expand the dataset.
+We welcome contributions! To add a new resource:
+
+1. Visit the [Contribute page](https://shubhanalytics.github.io/technova/contribute.html)
+2. Fill out the form with the tool details
+3. Submit for review
+
+Or create a pull request with changes to `data.json`.
+
+## Tech Stack
+
+- **Frontend:** Vanilla JavaScript, CSS3, HTML5
+- **Fonts:** Inter, Poppins (Google Fonts)
+- **Hosting:** GitHub Pages
+- **No dependencies** — pure static site
+
+## Security
+
+- Content Security Policy (CSP) headers
+- URL sanitization for all external links
+- XSS protection via HTML escaping
+- No external tracking scripts
+
+## License
+
+MIT License - see [LICENSE](LICENSE) for details.
+
+---
+
+Built with ❤️ by the community
