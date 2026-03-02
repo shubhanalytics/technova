@@ -1199,6 +1199,29 @@ body.community-closed #importData {
     min-height: 44px;
   }
   
+  /* Disable hover states on touch - prevents "stuck" hover */
+  .tab:hover:not(:disabled) {
+    color: var(--text-secondary);
+    background: transparent;
+    border-color: var(--border-default);
+  }
+  
+  /* Active state provides immediate tap feedback */
+  .tab:active:not(:disabled) {
+    color: var(--text-primary);
+    background: var(--bg-elevated);
+    transform: scale(0.96);
+  }
+  
+  /* Keep active tab styling on hover/active */
+  .tab.active:hover,
+  .tab.active:active {
+    color: #fff;
+    background: linear-gradient(135deg, var(--primary) 0%, var(--secondary) 100%);
+    border-color: transparent;
+    transform: none;
+  }
+  
   .card {
     cursor: default;
   }
