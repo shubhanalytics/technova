@@ -13826,6 +13826,27 @@
     "status": "active"
   },
   {
+    "name": "Automation Anywhere",
+    "description": "Enterprise RPA platform for intelligent automation",
+    "url": "https://www.automationanywhere.com/",
+    "category": "Low-Code",
+    "status": "active"
+  },
+  {
+    "name": "Blue Prism",
+    "description": "Intelligent automation and RPA platform",
+    "url": "https://www.blueprism.com/",
+    "category": "Low-Code",
+    "status": "active"
+  },
+  {
+    "name": "Make (Integromat)",
+    "description": "Visual automation platform for workflows",
+    "url": "https://www.make.com/",
+    "category": "Low-Code",
+    "status": "active"
+  },
+  {
     "name": "Budibase",
     "description": "Open-source low-code platform",
     "url": "https://budibase.com/",
