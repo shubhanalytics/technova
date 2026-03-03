@@ -7441,33 +7441,33 @@
   },
   {
     "name": "Domain name",
-    "url": "https://www.microsoft.com/en-us/research/publication/domain-bias-in-web-search/",
-    "category": "Hosting",
-    "sector": "",
-    "country": "",
-    "description": "[Needs review] Systems programming language",
-    "popular": false,
-    "status": "active"
+      "url": "",
+      "category": "Domain Registrars & Internet Infrastructure",
+      "sector": "",
+      "country": "",
+      "description": "Human-readable Internet address (e.g., example.com).",
+      "popular": false,
+      "status": "active"
   },
   {
     "name": "Domain Technologie Control",
-    "url": "http://www.gplhost.com/software-dtc.html",
-    "category": "Hosting",
-    "sector": "",
-    "country": "",
-    "description": "[Inactive/historical project] [Needs review] Low-level systems programming language",
-    "popular": false,
-    "status": "inactive"
+      "url": "http://www.gplhost.com/software-dtc.html",
+      "category": "Hosting / Deployment Tools & Models",
+      "sector": "",
+      "country": "",
+      "description": "Open-source hosting control panel.",
+      "popular": false,
+      "status": "active"
   },
   {
     "name": "Domainz",
-    "url": "http://www.internetnz.net.nz",
-    "category": "Hosting",
-    "sector": "",
-    "country": "",
-    "description": "[Needs review] Systems programming language",
-    "popular": false,
-    "status": "active"
+      "url": "https://www.internetnz.nz/",
+      "category": "Domain Registrars & Internet Infrastructure",
+      "sector": "",
+      "country": "",
+      "description": "Former New Zealand domain registrar and registry operator.",
+      "popular": false,
+      "status": "discontinued"
   },
   {
     "name": "Dotclear",
@@ -7491,13 +7491,13 @@
   },
   {
     "name": "dotProject",
-    "url": "https://dotproject.net/",
-    "category": "Collaboration",
-    "sector": "",
-    "country": "",
-    "description": "[Needs review] Low-level systems programming language",
-    "popular": false,
-    "status": "active"
+      "url": "https://www.dotproject.net/",
+      "category": "Project Management & Collaboration Software",
+      "sector": "",
+      "country": "",
+      "description": "Open-source web-based project management software.",
+      "popular": false,
+      "status": "active"
   },
   {
     "name": "DR DOS 3.31",
@@ -7511,13 +7511,13 @@
   },
   {
     "name": "DragonFly BSD",
-    "url": "https://www.dragonflybsd.org",
-    "category": "Documentation",
-    "sector": "",
-    "country": "",
-    "description": "[Needs review] Fast, statically typed language by Google",
-    "popular": false,
-    "status": "active"
+      "url": "https://dragonflybsd.org/",
+      "category": "Operating Systems",
+      "sector": "",
+      "country": "",
+      "description": "Free and open-source Unix-like operating system (forked from FreeBSD).",
+      "popular": false,
+      "status": "active"
   },
   {
     "name": "DreamHost",
@@ -7581,13 +7581,13 @@
   },
   {
     "name": "Easy projects",
-    "url": "http://www.easyprojects.net",
-    "category": "Collaboration",
-    "sector": "",
-    "country": "",
-    "description": "[Needs review] Low-level systems programming language",
-    "popular": false,
-    "status": "active"
+      "url": "https://www.easyproject.com/",
+      "category": "Project Management & Collaboration Software",
+      "sector": "",
+      "country": "",
+      "description": "Commercial web-based project management software.",
+      "popular": false,
+      "status": "active"
   },
   {
     "name": "Easy Redmine",
@@ -7601,13 +7601,13 @@
   },
   {
     "name": "EasyOffice",
-    "url": "http://desktoppub.about.com/cs/software/gr/easyofficefree.htm",
-    "category": "Collaboration",
-    "sector": "",
-    "country": "",
-    "description": "[Discontinued collaboration tool] [Needs review] Low-level systems programming language",
-    "popular": false,
-    "status": "inactive"
+      "url": "",
+      "category": "Office Productivity Software",
+      "sector": "",
+      "country": "",
+      "description": "Historical office productivity suite.",
+      "popular": false,
+      "status": "discontinued"
   },
   {
     "name": "ECCE",
@@ -7731,13 +7731,13 @@
   },
   {
     "name": "EiffelStudio",
-    "url": "http://www.eiffel.com/eiffelstudio",
-    "category": "IDE/Editor",
-    "sector": "",
-    "country": "",
-    "description": "[Needs review] Systems programming language",
-    "popular": false,
-    "status": "active"
+      "url": "https://www.eiffel.org/eiffelstudio",
+      "category": "Development Tools / IDEs",
+      "sector": "",
+      "country": "",
+      "description": "IDE for the Eiffel programming language.",
+      "popular": false,
+      "status": "active"
   },
   {
     "name": "Elvis",
@@ -7751,23 +7751,23 @@
   },
   {
     "name": "Embarcadero Technologies",
-    "url": "https://www.embarcadero.com/",
-    "category": "Monitoring",
-    "sector": "",
-    "country": "",
-    "description": "[Needs review] Low-level systems programming language",
-    "popular": false,
-    "status": "active"
+      "url": "https://www.embarcadero.com/",
+      "category": "Software Companies",
+      "sector": "",
+      "country": "",
+      "description": "Developer tools company (Delphi, C++Builder).",
+      "popular": false,
+      "status": "active"
   },
   {
     "name": "Endeavour Software Project Management",
-    "url": "https://endeavour-mgmt.sourceforge.net/",
-    "category": "Collaboration",
-    "sector": "",
-    "country": "",
-    "description": "[Discontinued collaboration tool] [Needs review] Low-level systems programming language",
-    "popular": false,
-    "status": "inactive"
+      "url": "",
+      "category": "Project Management & Collaboration Software",
+      "sector": "",
+      "country": "",
+      "description": "Historical project management tool.",
+      "popular": false,
+      "status": "discontinued"
   },
   {
     "name": "Enom",
@@ -7811,13 +7811,13 @@
   },
   {
     "name": "Optimizely (Episerver)",
-    "url": "https://www.optimizely.com/",
-    "category": "CMS",
-    "sector": "",
-    "country": "",
-    "description": "[Needs review] Low-level systems programming language",
-    "popular": false,
-    "status": "active"
+      "url": "https://www.optimizely.com/",
+      "category": "Software Companies",
+      "sector": "",
+      "country": "",
+      "description": "Digital experience and CMS platform provider.",
+      "popular": false,
+      "status": "active"
   },
   {
     "name": "EPL",
@@ -7931,13 +7931,13 @@
   },
   {
     "name": "Exponent CMS",
-    "url": "http://www.exponentcms.org",
-    "category": "CMS",
-    "sector": "",
-    "country": "",
-    "description": "[Needs review] Low-level systems programming language",
-    "popular": false,
-    "status": "active"
+      "url": "https://www.exponentcms.org/",
+      "category": "Content Management Systems (CMS)",
+      "sector": "",
+      "country": "",
+      "description": "Open-source CMS built with PHP.",
+      "popular": false,
+      "status": "active"
   },
   {
     "name": "FastCGI",
@@ -8011,13 +8011,13 @@
   },
   {
     "name": "Firebase Studio",
-    "url": "https://studio.firebase.google.com",
-    "category": "IDE/Editor",
-    "sector": "",
-    "country": "",
-    "description": "[Needs review] Statistical computing and graphics language",
-    "popular": false,
-    "status": "active"
+      "url": "https://firebase.google.com/",
+      "category": "Development Tools / IDEs",
+      "sector": "",
+      "country": "",
+      "description": "Web-based development environment integrated with Firebase services.",
+      "popular": false,
+      "status": "active"
   },
   {
     "name": "flame graph",
@@ -8211,13 +8211,13 @@
   },
   {
     "name": "Geeklog",
-    "url": "https://github.com/Geeklog-Core/geeklog",
-    "category": "Monitoring",
-    "sector": "",
-    "country": "",
-    "description": "[Needs review] Capability-based language",
-    "popular": false,
-    "status": "active"
+      "url": "https://www.geeklog.net/",
+      "category": "Content Management Systems (CMS)",
+      "sector": "",
+      "country": "",
+      "description": "Open-source CMS and blogging platform in PHP.",
+      "popular": false,
+      "status": "active"
   },
   {
     "name": "generic JVM",
@@ -8231,13 +8231,13 @@
   },
   {
     "name": "Genius Project",
-    "url": "https://cerri.com/project",
-    "category": "Collaboration",
-    "sector": "",
-    "country": "",
-    "description": "[Needs review] Low-level systems programming language",
-    "popular": false,
-    "status": "active"
+      "url": "https://www.geniusproject.com/",
+      "category": "Project Management & Collaboration Software",
+      "sector": "",
+      "country": "",
+      "description": "Commercial project portfolio management software.",
+      "popular": false,
+      "status": "active"
   },
   {
     "name": "GeoGebra",
@@ -8251,13 +8251,13 @@
   },
   {
     "name": "GetSimple CMS",
-    "url": "https://getsimple-ce.ovh/",
-    "category": "CMS",
-    "sector": "",
-    "country": "",
-    "description": "[Needs review] Low-level systems programming language",
-    "popular": false,
-    "status": "active"
+      "url": "https://get-simple.info/",
+      "category": "Content Management Systems (CMS)",
+      "sector": "",
+      "country": "",
+      "description": "Lightweight flat-file CMS.",
+      "popular": false,
+      "status": "active"
   },
   {
     "name": "Ghost",
@@ -8471,13 +8471,13 @@
   },
   {
     "name": "Google Domains",
-    "url": "https://domains.google/",
-    "category": "Hosting",
-    "sector": "",
-    "country": "",
-    "description": "[Needs review] Fast, statically typed language by Google",
-    "popular": false,
-    "status": "active"
+      "url": "https://domains.google/",
+      "category": "Domain Registrars & Internet Infrastructure",
+      "sector": "",
+      "country": "",
+      "description": "Google’s domain registration service (transitioned to Squarespace).",
+      "popular": false,
+      "status": "discontinued"
   },
   {
     "name": "Google Inc.",
@@ -8551,13 +8551,13 @@
   },
   {
     "name": "Group-Office",
-    "url": "https://www.group-office.com",
-    "category": "Collaboration",
-    "sector": "",
-    "country": "",
-    "description": "[Needs review] Low-level systems programming language",
-    "popular": false,
-    "status": "active"
+      "url": "https://www.group-office.com/",
+      "category": "Project Management & Collaboration Software",
+      "sector": "",
+      "country": "",
+      "description": "Groupware, CRM, and collaboration platform.",
+      "popular": false,
+      "status": "active"
   },
   {
     "name": "GTK#",
