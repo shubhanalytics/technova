@@ -2,6 +2,7 @@
 (function () {
   const form = document.getElementById('contribForm');
   const result = document.getElementById('result');
+  if (!form || !result) return;
 
   function showMessage(msg, ok = true) {
     result.textContent = msg;
@@ -16,6 +17,43 @@
       return false;
     }
   }
+
+  async function populateCategories() {
+    const categorySelect = form.category;
+    if (!categorySelect) return;
+
+    try {
+      const response = await fetch('data.json', { cache: 'no-store' });
+      if (!response.ok) return;
+
+      const data = await response.json();
+      if (!Array.isArray(data)) return;
+
+      const categories = [...new Set(
+        data.map(item => (item.category || '').trim()).filter(Boolean)
+      )].sort((a, b) => a.localeCompare(b));
+
+      if (!categories.length) return;
+
+      categorySelect.innerHTML = '';
+
+      const placeholder = document.createElement('option');
+      placeholder.value = '';
+      placeholder.textContent = 'Select a category';
+      categorySelect.appendChild(placeholder);
+
+      categories.forEach(category => {
+        const option = document.createElement('option');
+        option.value = category;
+        option.textContent = category;
+        categorySelect.appendChild(option);
+      });
+    } catch (err) {
+      console.warn('Failed to populate category list from data.json', err);
+    }
+  }
+
+  populateCategories();
 
   form.addEventListener('submit', async (e) => {
     e.preventDefault();

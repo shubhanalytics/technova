@@ -5,7 +5,7 @@
 
 // Constants
 const DATA_URL = 'data.json';
-const ALPHABET = 'ABCDEFGHIJKLMNOPQRSTUVWXYZ'.split('');
+const ALPHABET = [...'ABCDEFGHIJKLMNOPQRSTUVWXYZ', '#'];
 
 // Category Descriptions
 const CATEGORY_DESCRIPTIONS = {
@@ -98,6 +98,11 @@ function escapeHtml(text) {
   const div = document.createElement('div');
   div.textContent = text;
   return div.innerHTML;
+}
+
+function isInactiveStatus(status) {
+  const normalized = String(status || '').toLowerCase();
+  return normalized === 'inactive' || normalized === 'discontinued';
 }
 
 // ============================================
@@ -249,8 +254,11 @@ function updateItemCount() {
 // Update Status Legend Counts
 // ============================================
 function updateStatusLegend() {
-  const activeItems = filteredItems.filter(item => item.status !== 'inactive').length;
-  const inactiveItems = filteredItems.filter(item => item.status === 'inactive').length;
+  const activeItems = filteredItems.filter(item => {
+    const hasValidUrl = sanitizeUrl(item.url) !== '#';
+    return !isInactiveStatus(item.status) && hasValidUrl;
+  }).length;
+  const inactiveItems = filteredItems.length - activeItems;
   
   if (elements.activeCount) {
     elements.activeCount.textContent = activeItems;
@@ -317,7 +325,7 @@ function jumpToLetter(letter) {
   const cards = elements.list.querySelectorAll('.card');
   
   for (const card of cards) {
-    const name = card.querySelector('h3 a')?.textContent || '';
+    const name = card.querySelector('.item-link')?.textContent || '';
     const firstChar = name.trim()[0]?.toUpperCase() || '';
     
     let matches = false;
@@ -453,10 +461,10 @@ function createCard(item, isPopular = false) {
   const isValidUrl = safeUrl !== '#';
   
   // Status indicator (blinking dot)
-  const isActive = item.status !== 'inactive';
+  const isActive = !isInactiveStatus(item.status) && isValidUrl;
   const statusDot = isActive
     ? `<span class="status-dot active" title="Active - Link verified"></span>`
-    : `<span class="status-dot inactive" title="Inactive - Historical/Legacy project"></span>`;
+    : `<span class="status-dot inactive" title="Inactive or unavailable"></span>`;
   
   // External link icon
   const linkIcon = isValidUrl ? `<span class="link-icon" aria-hidden="true">↗</span>` : '';
@@ -473,6 +481,10 @@ function createCard(item, isPopular = false) {
       ${safeDesc ? `<p class="description">${safeDesc}</p>` : ''}
     `;
   } else {
+    const inactiveNotice = isValidUrl
+      ? 'This project has been discontinued or is no longer maintained.'
+      : 'This listing is currently unavailable because no valid URL is provided.';
+
     // Inactive item - show message on click
     card.innerHTML = `
       <h3>
@@ -482,18 +494,24 @@ function createCard(item, isPopular = false) {
         </span>
       </h3>
       ${safeDesc ? `<p class="description">${safeDesc}</p>` : ''}
-      <p class="inactive-notice">This project has been discontinued or is no longer maintained.</p>
+      <p class="inactive-notice">${inactiveNotice}</p>
     `;
     
     // Add click handler for inactive items
     const inactiveLink = card.querySelector('.inactive-link');
     inactiveLink.addEventListener('click', () => {
-      showToast(`${displayName} is no longer active. This project has been discontinued, acquired, or is no longer maintained.`);
+      const detail = isValidUrl
+        ? 'This project has been discontinued, acquired, or is no longer maintained.'
+        : 'This listing is currently unavailable because no valid URL is provided.';
+      showToast(`${displayName} is unavailable. ${detail}`);
     });
     inactiveLink.addEventListener('keydown', (e) => {
       if (e.key === 'Enter' || e.key === ' ') {
         e.preventDefault();
-        showToast(`${displayName} is no longer active. This project has been discontinued, acquired, or is no longer maintained.`);
+        const detail = isValidUrl
+          ? 'This project has been discontinued, acquired, or is no longer maintained.'
+          : 'This listing is currently unavailable because no valid URL is provided.';
+        showToast(`${displayName} is unavailable. ${detail}`);
       }
     });
   }
